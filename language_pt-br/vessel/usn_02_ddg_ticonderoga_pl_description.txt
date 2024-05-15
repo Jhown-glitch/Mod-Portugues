@@ -1,0 +1,9 @@
+﻿[Unit Reference]
+ShipClass=Ticonderoga
+Description=Ticonderoga-class of guided-missile cruisers (2002)
+Aircraft=2 SH-60F Seahawk
+History=Originally, the U.S. Navy had intended to replace its fleet of Ticonderoga-class guided-missile cruisers with cruisers produced as part of the CG(X) missile cruiser program; however, severe budget cuts from the 21st century surface combatant program coupled with the increasing cost of the Zumwalt-class guided missile destroyer program resulted in the CG(X) program being canceled. The Ticonderoga-class cruisers were instead to be replaced by Flight III Arleigh Burke-class guided-missile destroyers.
+
+[Player Ship Instances]
+PlayerClassNames=«Bunker Hill»,«Mobile Bay»,«Antietam»,«Leyte Gulf»,«San Jacinto»,«Lake Champlain»,«Philippine Sea»,«Princeton»,«Normandy»,«Monterey»,«Chancellorsville»,«Cowpens»,«Gettysburg»,«Chosin»,«Hué City»,«Shiloh»,«Anzio»,«Vicksburg»,«Lake Erie»,«Cape St. George»,«Vella Gulf»,«Port Royal»
+PlayerClassHullNumbers=CG-52,CG-53,CG-54,CG-55,CG-56,CG-57,CG-58,CG-59,CG-60,CG-61,CG-62,CG-63,CG-64,CG-65,CG-66,CG-67,CG-68,CG-69,CG-70,CG-71,CG-72,CG-73

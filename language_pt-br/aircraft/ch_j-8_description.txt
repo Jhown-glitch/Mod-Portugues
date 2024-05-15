@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=Shenyang J-8
+AircraftDescriptiveName=The Shenyang J-8 (Chinese: 歼-8; NATO reporting name: Finback)
+History=The Shenyang J-8 (Chinese: 歼-8; NATO reporting name: Finback) is an interceptor aircraft developed by the 601 Institute (Shenyang) in the People's Republic of China (PRC). It was conceived in the early 1960s as a low-risk program based on enlarging the Mikoyan-Gurevich MiG-21F, a version of which the PRC was producing as the Chengdu J-7. The original J-8 experienced protracted development due to disruption from the Cultural Revolution; the prototypes first flew in 1969 but the design was not finalized until 1979 with the aircraft entering service in 1980.

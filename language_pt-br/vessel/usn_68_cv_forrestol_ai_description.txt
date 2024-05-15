@@ -1,0 +1,6 @@
+[Unit Reference]
+ShipClass=Forrestol (Early)
+ShipClassShort=Forrestol
+Description=Forrestal-class aircraft carrier (1968)
+Aircraft=up to 90
+History=The Forrestal-class aircraft carriers were four aircraft carriers designed and built for the United States Navy in the 1950s. It was the first class of supercarriers, combining high tonnage, deck-edge elevators and an angled deck.

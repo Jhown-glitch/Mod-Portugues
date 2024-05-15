@@ -1,0 +1,5 @@
+﻿[Unit Reference]
+ShipClass=Slava (Early)
+Designation=CG
+Description=Slava class Guided Missile Cruiser
+History=The Slava class, Soviet designation Project 1164 Atlant (Russian: Атлант), is a class of guided-missile cruisers designed and constructed in the Soviet Union for the Soviet Navy, and currently operated by the Russian Navy. The design started in the late 1960s, based around use of the P-500 Bazalt missile. The cruiser was intended as a less expensive conventionally powered alternative to the nuclear-powered Kirov-class battlecruisers.

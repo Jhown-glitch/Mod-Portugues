@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-15 Starfish NW
+WeaponDescriptiveName=SS-N-15 Starfish (RPK-2 "Vjuga") ASW Missile
+WeaponDescription=(NATO reporting name: SS-N-15 Starfish) Submarine-launched stand-off ASW missile. Analogous to the SUBROC missile previously used by the US Navy, it is designed to be fired from a 533 mm torpedo tube.

@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Foxtrot (Late)
+Designation=SS
+Description=Foxtrot Class SS (1984)
+
+History=Some 58 of these boats were built from 1957 to 1971. In the early 60's these boats represented the last of the old inexpensive conventional submarines designed to prowl the North Atlantic for NATO convoys but in the 1980's they are mostly used as special operations boats for Spetsnaz operations. Though bordering on outdated, they are quiet boats and can still be a threat to non-vigilant NATO submarine captains.
+
+[Player Ship Instances]
+PlayerClassNames=,,,,,"Челябинский комсомолец",,,,,,,,,,,"Брянский комсомолец",,"Ярославский комсомолец",,,,"Ульяновский комсомолец"
+PlayerClassHullNumbers=Б-94,Б-95,Б-133,Б-139,Б-57,Б-4,Б-153,Б-164,Б-2,Б-55,Б-98,Б-101,Б-6,Б-107,Б-112,Б-25,Б-21,Б-9,Б-26,Б-28,Б-34,Б-397,Б-400

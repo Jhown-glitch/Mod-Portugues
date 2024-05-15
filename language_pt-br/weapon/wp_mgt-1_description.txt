@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MGT-1
+WeaponDescriptiveName=MGT-1 Torpedo
+WeaponDescription=Special: 400mm Anti-ship only.\nThe MGT-1 is an anti-ship torpedo specifically designed for the self-defense from ASW assets. It can lock only on surface targets and useless against submerged submarines. 

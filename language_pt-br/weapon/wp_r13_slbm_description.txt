@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SLBM Sark
+WeaponDescriptiveName=SLBM SS-N-4 Sark
+WeaponDescription=Development of the R-13 was authorised by the Soviet Supreme Council on 25 July 1955 for use on the Project 629 and Project 658 submarines. The design work was started by OKB-1 under Sergei Korolev before being transferred to CB Miasskoe engineering / Makeyev Rocket Design Bureau (chief designer - Viktor Makeyev). Final technical specifications was approved by 11 January 1956. Serial production was undertaken at Zlatoust Machine-Building Plant in 1959. The R-13 was a single-stage liquid-fuel rocket and entered service in 1961. This missile was somewhat similar in design to the R-11FM missile, which caused some confusion in Western intelligence services during the Cold War. The missiles were phased out from 1965 to 1975.

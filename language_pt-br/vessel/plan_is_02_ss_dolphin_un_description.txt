@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Dolphin
+Description=Dolphin 1 SS (1990)
+
+History=The Dolphin class is a series of German diesel-electric submarines, which is also known as the Type 800. These submarine are a modification of the Type 212 submarines and were designed specifically for Israel. The Dolphins have three decks: the bottom is used for batteries and the central for control. Dolphin boats have a lock compartment combat swimmers. The submarines are equipped with on-board computers and a centralized warning and control system. The commissioning of these Dolphin class submarines significantly increased the strategic potential of the Israeli state and significantly expands the operational capabilities of the Israeli Navy. The existence of these modern subs, along with the submarine's ability to carry nuclear armed cruise missiles, allows the Israeli navy considerable supremacy over the naval forces of the Islamic states of the Near and Middle East.
+
+[Player Ship Instances]
+PlayerClassNames=Dolphin,Leviathan,Tekumah
+PlayerClassHullNumbers=1,2,3

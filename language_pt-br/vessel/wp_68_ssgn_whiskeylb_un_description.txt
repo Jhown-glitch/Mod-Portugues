@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Whiskey lb
+Designation=SSG
+Description=Whiskey Long Bin Class SSG
+
+History=Between 1960 and 1963, six Project 613 boats received an expanded hull that could contain four P-5 missiles. These upgraded submarines were called Whiskey Long Bin in the West and project 665 in the Soviet Union. The P-5 missiles could only be launched from the surface, which significantly limited the combat capabilities of the boat.
+
+[Player Ship Instances]
+PlayerClassNames=,,,,
+PlayerClassHullNumbers=С-61,С-64,С-142,С-152,С-155

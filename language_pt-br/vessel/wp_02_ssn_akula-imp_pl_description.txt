@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Akula Imp.
+Designation=SSN
+Description=Akula Improved Class SSN
+
+History=The Akula class boats recieved multiple refits. Numerous Akula I boats are being modernized to the Improved Akula class. 
+
+[Player Ship Instances]
+PlayerClassNames="Волк","Леопард","Тигр"
+PlayerClassHullNumbers=К-461,К-328,К-154

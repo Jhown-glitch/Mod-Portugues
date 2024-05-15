@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SLBM Stingray
+WeaponDescriptiveName=SLBM SS-N-18 Mod 1 Stingray
+WeaponDescription=The R-29R missile is the first sea-based Soviet ballistic missile carrying 3 to 7 multiple independently targetable reentry vehicles (MIRVs), with a range of 6,500 to 8000 km, depending on the number of reentry vehicles. It is carried on the 667BDR Delta III ballistic missile submarine, which is equipped with the D-9R launch system and 16 R-29R missiles. The Delta III is the first submarine that can fire any number of missiles in a single salvo.

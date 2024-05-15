@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-12 mod.2 SANDBOX
+WeaponDescriptiveName=The SS-N-12 mod.2 SANDBOX (P-1000 Vulcan) missile
+WeaponDescription=The SS-N-12 mod.2 SANDBOX (P-1000 Vulcan) is a improved version of the P-500. The missile weight was increased by 1–2 tons. The missile has a turbojet engine and a starting powder accelerator. High-altitude flight regimes are presumably the same as that of the P-500. The missiles were intended to be used in salvos – a submarine could launch eight in rapid succession, maintaining control of each through a separate datalink. In flight the group could co-ordinate their actions.

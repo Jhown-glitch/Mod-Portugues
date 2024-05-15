@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=Yu-4
+WeaponDescriptiveName=Yu-4 Torpedo
+WeaponDescription=The Yu-4 is an  active/passive acoustic-homing, submarine-launched,it is a Chinese copy of the SAET-50. Numerous upgrades over the years have increased the performance of the Yu-4 torpedo beyond that of the SEAT-50.

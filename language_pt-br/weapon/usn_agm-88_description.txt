@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=AGM-88 HARM
+WeaponDescriptiveName=AGM-88 HARM
+WeaponDescription=The AGM-88 HARM (High-speed Anti-Radiation Missile) is a tactical, air-to-surface anti-radiation missile designed to home in on electronic transmissions coming from surface-to-air radar systems. It was originally developed by Texas Instruments as a replacement for the AGM-45 Shrike and AGM-78 Standard ARM system. Production was later taken over by Raytheon Corporation when it purchased the defense production business of Texas Instruments.

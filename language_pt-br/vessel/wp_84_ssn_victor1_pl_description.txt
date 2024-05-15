@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Victor I
+Designation=SSN
+Description=Victor I-class SSN (1984)
+
+History=This class of sixteen boats was completed in 1968 through 1975. They are not as quiet or as capable as contemporary US boats, but they were a major improvement on the earlier November class boats. They are designed for high speed with little effort at silencing, but are fitted with electric creep motors for silent drive.
+
+[Player Ship Instances]
+PlayerClassNames=,,, "50 let SSSR",,,,,,,,,
+PlayerClassHullNumbers=K-147,K-53,K-306,K-323,K-370,K-438,K-367,K-314,K-398,K-454,К-462,К-469,К-481

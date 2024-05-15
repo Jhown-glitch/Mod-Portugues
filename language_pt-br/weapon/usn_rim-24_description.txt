@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Tartar SAM
+WeaponDescriptiveName=RIM-24 Tartar SAM
+WeaponDescription=The General Dynamics RIM-24 Tartar was a medium-range naval surface-to-air missile (SAM), and was among the earliest surface-to-air missiles to equip United States Navy ships. The Tartar was the third of the so-called "3 T's", the three primary SAMs the Navy fielded in the 1960s and 1970s, the others being the RIM-2 Terrier and RIM-8 Talos.

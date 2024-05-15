@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MOSS
+WeaponDescriptiveName=Mark 70 (MOSS) Ship
+WeaponDescription=The MK70 is a passive decoy that attempts to simulate the sound of a ship to lure enemy passive sonar. It is launched on a straight track and remains at the launch depth.

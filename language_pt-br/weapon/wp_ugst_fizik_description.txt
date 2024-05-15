@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UGST Fizik WH
+WeaponDescriptiveName=UGST Fizik Torpedo
+WeaponDescription=Special: Optional wake-homing\nThis is a version of the UGST torpedo with modular capabilities, including different warhead. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes. Optional wake-homing activates when torpedo launched in "SHALLOW" mode and works in conjunction with common guidance system.

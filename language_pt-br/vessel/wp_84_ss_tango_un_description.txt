@@ -1,0 +1,9 @@
+﻿[Unit Reference]
+ShipClass=Tango
+Designation=SS
+Description=Tango Class SS
+
+History=These are large diesel-electric attack submarines designed for both long-range operations and defending the Arctic SSBN bastions. They are comparable to the Victor II-class nuclear attack submarines in terms of sensors and weapons, but are significantly quieter when running on batteries. This makes them suitable for Spetsnaz operations in addition to operating against NATO shipping.
+[Player Ship Instances]
+PlayerClassNames=,,"Магнитогорский комсомолец",,,,,,"Комсомолец Казахстана",,,,"Новосибирский Комсомолец",,"Комсомолец Чувашии",,,"Горьковский комсомолец"
+PlayerClassHullNumbers=Б-443,Б-474,Б-437,Б-498,Б-515,Б-519,Б-290,Б-303,Б-146,Б-546,Б-30,Б-215,Б-396,Б-307,Б-319,Б-225,Б-312,Б-380

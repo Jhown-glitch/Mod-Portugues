@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SET-72
+WeaponDescriptiveName=SET-72 Torpedo
+WeaponDescription=Universal active/passive and wake homing torpedo.

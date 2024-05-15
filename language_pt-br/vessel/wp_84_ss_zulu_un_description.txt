@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Zulu (Late)
+Designation=SS
+Description=Zulu Class SS (1984)
+
+History=The Soviet Navy's Project 611 were one of the first Soviet post-war attack submarines, a contemporary of the Whiskey-class submarines and shared a similar sonar arrangement. They were roughly as capable as the American GUPPY fleet-boat conversions. Like most conventional submarines designed 1946-1960, their design was influenced by the German Type XXI U-boat of the World War II era.
+
+[Player Ship Instances]
+PlayerClassNames=,,,,,,,,,,,,,,,,,,,,,,,,,
+PlayerClassHullNumbers=Б-61,Б-62,Б-63,Б-64,Б-65,Б-66,Б-67,Б-68,Б-69,Б-70,Б-71,Б-72,Б-73,Б-74,Б-75,Б-76,Б-77,Б-78,Б-79,Б-80,Б-81,Б-82,Б-88,Б-89,Б-90,Б-91

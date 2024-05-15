@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=F-21
+WeaponDescriptiveName=F-21 Heavy Torpedo
+WeaponDescription=The F21 is a wire-guided torpedo replacing the previous torpedo model F-17 Mod2 by end of 2019. France (Rubis,Suffren SSN and Le Triomphant SSBN) and also Brasil (Scorpène SSK) are its primary users.

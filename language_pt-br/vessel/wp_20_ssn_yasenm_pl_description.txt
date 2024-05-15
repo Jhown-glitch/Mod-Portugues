@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Yasen-M
+Designation=SSGN
+Description=Yasen-M Class SSGN
+History=The Yasen-M class submarines are the newest Russian nuclear-powered multi-purpose attack submarines. Based on earlier Sierra-class and Akula-class submarines, these boats feature state-of-the-art equipment, improved quieting, enormous torpedo arsenals and heavy cruise missile payloads. These submarines are the pride of Russian Navy, and must be considered an extremely dangerous threat. The Yasen-M is an even newer version of this class.
+[Player Ship Instances]
+
+PlayerClassNames="Казань"
+
+PlayerClassHullNumbers=К-561

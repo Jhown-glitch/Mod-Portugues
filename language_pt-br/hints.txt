@@ -1,0 +1,29 @@
+Approaching from behind a target will make them less likely to detect you due to sonar baffles.
+Cavitation depends on depth. The deeper you are the faster you can go without cavitation.
+In the campaign map you can move at low speed by right clicking and high speed by left clicking. At slower speeds enemy vessels are less likely to detect you upon entering battle.
+Shooting wire-guided torpedoes such that they approach a target from a different direction than a straight shot, called dog-legging, will likely result in inaccurate counter-launches.
+Many missiles have minimum firing distances. Be sure to plan missile attacks so that this isn't a problem. You can find these minimum distances in the Unit Reference.
+Attacking from under a thermal layer can significantly increase your chances of remaining undetected for longer. This, in turn, can increase your chances of a successful attack.
+Some submarines have a MANPADS to allow them to shoot down enemy aircraft. If using a submarine with a MANPADS, surface and raise the RADAR mast before firing. While the RADAR mast is not necessary, but will help you aim.
+Many ship-mounted SAM systems can also target other ships. This can be a long-range option for engaging enemy ships in lieu of guns.
+Some ships, like the Ticonderoga, have the AEGIS combat system. These vessels will be significantly more capable in anti-missile defense.
+Many newer vessels have towed arrays. Deploying these, by default with backspace, will significantly increase sensor detection range. It will also cover your baffles.
+While American passive sonar is almost universally superior to its contemporary Soviet system, Soviet active systems are generally more powerful as compared to American systems.
+Older vessels do not have towed arrays to cover their baffles. This is especially helpful in 1968, where attacking from the baffles can avoid a long and drawn out knife fight.
+The Mark 37 torpedo is very slow. When attacking an enemy SSN, it is wise to sneak behind the target and fire from the baffles.
+The Tigerfish Mod 1 (Mark 24) is a slow weapon with a menial 35 knot top speed and a sensor which lacks search capabilitiy. The Mark VIII may be more effective against large surface targets.
+Even older Soviet vessels have anechoic coating. When attacking any vessel with anechoic coating, using active sonar on your torpedo will drastically reduce detection range.
+Any surface vessel with sonar will detect torpedoes long before they're able to hit. If using a straight-running torpedo, it is recommended to close in quite a bit before firing.
+Enemy vessels will conduct torpedo turns regardless of whether or not you have been detected. Remember this when planning attacks with both acoustic and non-acoustic torpedoes.
+Wave noise on the surface significantly decreases torpedo acquisition range. This requires you be very accurate when shooting at surface targets.
+The SS-N-14A Silex (URK-5 "Rastrub-B") is a universal ASW and anti-ship missile found on many Soviet surface ships. When firing, make sure you are in the correct targeting mode.
+Some Soviet anti-ship missiles, such as the SS-N-3A Shaddock (P-6 "Progress"), can only be launched from the surface. These weapons leave you an easy target until you can dive.
+Torpedo tubes will only jam if you are travelling faster than 20 knots. So, you do not have to completely slow down to avoid jamming when firing off a mobile decoy.
+The Russian voice files were almost entirely recorded by a single person.
+Remember that decibels are a logarithmic scale. 10 decibels more means twice as loud. This makes a huge difference in the detection of enemy vessels.
+When approaching a target on the campaign map, the only factor that actually matters is your speed when you contact the enemy. The game does not care what direction you come from.
+Remember that, especially in the older SSKs fielded by the Soviet Union, escorts are not your targets. If presented with limited ammo and an escort, save the shot for your actual target if you can. Additionally, sinking escorts will not award prestige.
+When using helicopters, remember that it takes time to retrieve the aircraft to reload. Use ship-launched ASW weapons if present to save on this lenghty process, but remember that those can be limited, too.
+Remember that your aircraft can and will be shot down by enemy ships and, if surfaced to use MANPADS, submarines, too. Treat them with care as you can only get replacement aircraft in port.
+The Oliver Hazard Perry (FFG-7, or "Fig-7")-class guided missile frigates are common escorts to find in NATO battlegroups and convoys. They may not have the best sonar, but their helos can be scary in and of themselves.
+Notching, or travelling perpendicular to a weapon's path, is the most effective way to avoid non-wire-guided torpedoes.

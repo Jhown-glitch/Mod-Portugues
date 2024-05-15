@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Oberon (Early)
+Description=Oberon Class SS (1968)
+
+History=The Royal Australian Navy operated 6 Oberon class ships. These differ from the British variation in that they were upgraded by the Royal Australian Navy in the late 70s. 
+
+[Player Ship Instances]
+PlayerClassNames=HMAS "Oxley", HMAS "Otway", HMAS "Ovens", HMAS "Onslow", HMAS "Otama", HMAS "Orion"
+PlayerClassHullNumbers=S57, S59, S70, S60, S62, S61

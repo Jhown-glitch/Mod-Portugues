@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SLBM K-15
+WeaponDescriptiveName=SLBM K-15 Sagarika
+WeaponDescription=The K-15 Sagarika is a two-stage solid-fuel SLBM capable of delivering a nuclear warhead. It was developed by the Indian military to deploy aboard the Arihant class SSBNs.

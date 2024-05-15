@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Charlie II
+Designation=SSGN
+Description=Charlie II Class SSGN
+
+History=The Charlie II's differ from the Charlie 1 primarily in adopting the SS-N-9 Siren missile in place of the short-legged SS-N-7 Starbright, which necessitated lengthening the sub. They are also fitted with a somewhat quieter tandem propeller and have the ability to fire SS-N-15 stand-off missiles from their torpedo tubes, making them more formidable opponents.
+
+[Player Ship Instances]
+PlayerClassNames="Беркут",,,,,
+PlayerClassHullNumbers=К-452,К-458,К-476,К-503,К-508,К-209

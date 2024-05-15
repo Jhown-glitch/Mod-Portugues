@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Suffren
+Description=Suffren Class SSN (2020 Era)
+
+History=The Suffren class is the latest nuclear attack submarine of the French Navy.The first unit has been admitted to active service in October 2020,just after sucessfully firing a new cruise missile "MdCN" ,this class will comprises a total of six vessels,replacing the old Rubis class dating from 1980 era.Its lenght is 99 meters,way longer and bigger compare to the 69 meters from its predecessor class, but its still remain the smallest nuclear submarine in the world.Its also the first nuclear submarine in the world to be equipped with X-Rudders.
+
+[Player Ship Instances]
+PlayerClassNames=Suffen
+PlayerClassHullNumbers=Q284

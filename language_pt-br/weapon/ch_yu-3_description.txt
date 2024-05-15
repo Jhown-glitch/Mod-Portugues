@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=Yu-3
+WeaponDescriptiveName=Yu-3 Torpedo
+WeaponDescription=The Yu-3 is an active/passive acoustic-homing, submarine-launched, anti-submarine warfare (ASW) torpedo designed by Xi’an Precision Machinery Institute (705 Institute, a subordinate of China Shipbuilding Industry Corporation). Initially developed for China's nuclear submarine programme, it is China’s first indigenous anti-submarine torpedo and entered service with the PLA navy in the mid-1980s.

@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Juliett
+Designation=SSG
+Description=Juliett Class SSG
+
+History=These boats, built during the 1960's, are first-generation Soviet cruise missile boats, designed as cheaper diesel-electric equivalents of the Echo-class SSGN's. They also have to stay on the surface in order to target, launch and guide their SS-N-3 missiles, during which they are extremely vulnerable to NATO ASW.
+
+[Player Ship Instances]
+PlayerClassNames=,,,,,,,,,
+PlayerClassHullNumbers=К-156,К-85,К-24,К-68,К-77,К-58,К-81,К-78,К-203,К-304

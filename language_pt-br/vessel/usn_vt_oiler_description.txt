@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=Fleet Oiler
+Description=US Fleet Oiler 
+History=US Fleet oiler.

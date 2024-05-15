@@ -1,0 +1,9 @@
+﻿[Unit Reference]
+ShipClass=Hotel-II (Late)
+Designation=SSBN
+Description=Hotel-II Class SSBN (1984)
+History=Project 658M, Hotel II, was an upgrade over the Hotel-I and had the new R-21 ballistic missile. The diameter of the missile shafts was also reduced. Modernization of project 658 occured during 1964-1970. All of the Hotel-I boats, except for K-145, were brought up to parity with the Hotel-IIs.  All Hotel-IIs served until the end of 1990.
+
+[Player Ship Instances]
+PlayerClassNames=,,,"Украинский комсомолец",,
+PlayerClassHullNumbers=К-33,К-55,К-40,К-149,К-178,К-19

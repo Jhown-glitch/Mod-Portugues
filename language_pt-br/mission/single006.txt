@@ -1,0 +1,6 @@
+Image=campaign/images/Loadscreens/131114-lodka-voennyj_korabl-krejser-razrushitel-linkor-2048x1152.jpg
+MissionLocation=Pacific Ocean
+Briefing=Nearby NATO Carrier battle group
+Briefing=
+Briefing=<b>Main objective:</b>
+Briefing=- Destroy the aircraft carrier

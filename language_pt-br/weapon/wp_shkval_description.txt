@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=VA-111 Shkval NW
+WeaponDescriptiveName=VA-111 «Shkval» Torpedo with Nuclear Warhead
+WeaponDescription=Special: Nuclear Warhead, unguided.\nThe VA-111 Shkval supercavitating torpedo originally developed by the Soviet Union. A solid-fuel rocket accelerates it to cavitation speed, with a combined-cycle gas turbine in the nose creating the required gas bubble. Once accelerated, speed is maintained by an underwater ramjet fueled by hydroreactive metals using seawater as both reactant and the source of oxidizer; the torpedo travels at around 200 kn (370 km/h; 230 mph).

@@ -1,0 +1,9 @@
+﻿[Unit Reference]
+ShipClass=Luhu
+Description=Luhu-class Guided Missile Destroyer
+Aircraft=2 Helix
+History=The Type 052 Luhu class is one of the first modern multi-role guided missile destroyers built by China. There are currently two units in active service with the People's Liberation Army Navy Surface Force.
+
+[Player Ship Instances]
+PlayerClassNames=Harbin,Qingdao
+PlayerClassHullNumbers=112,113

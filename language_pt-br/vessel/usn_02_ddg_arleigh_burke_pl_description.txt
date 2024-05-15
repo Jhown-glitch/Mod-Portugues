@@ -1,0 +1,9 @@
+﻿[Unit Reference]
+ShipClass=Arleigh Burke IIA
+Description=Arleigh Burke IIA class destroyers (2002)
+Aircraft=2 SH-60F Seahawk
+History=The "Flight IIA Arleigh Burke" ships have several new features, beginning with USS Oscar Austin (DDG-79). Among the changes is the addition of two hangars for antisubmarine warfare (ASW) helicopters, and a new, longer 5-inch/62-caliber (127 mm) Mark 45 Mod 4 naval gun (installed onto USS Winston S. Churchill (DDG-81) and later ships). Later Flight IIA ships starting with USS Mustin (DDG-89) have a modified funnel design that buries the funnels within the superstructure as a signature-reduction measure. TACTAS towed array sonar was omitted from Flight IIA ships and they also lack Harpoon missile launchers.
+
+[Player Ship Instances]
+PlayerClassNames=«Oscar Austin»,«Roosevelt»
+PlayerClassHullNumbers=DDG-79,DDG-80

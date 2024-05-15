@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Blowpipe MANPADS
+WeaponDescriptiveName=Blowpipe MANPADS
+WeaponDescription=The Shorts Blowpipe is a man-portable (MANPADS) surface-to-air missile that was in use with the British Army and Royal Marines from 1975. It also saw service in other military forces around the world. Most examples were retired by the mid-1990s. It is unique among MANPADS in that it is manually guided to its target with a small joystick, sending guidance corrections to the missile over a radio control link. Blowpipe underwent a protracted and controversial development between the program's initial conception in 1966 and 1975 when it finally entered service. It had its first use during active combat in 1982's Falkland Islands War when it was used by both sides of the conflict. Its demonstrated performance was poor, with only two confirmed kills.

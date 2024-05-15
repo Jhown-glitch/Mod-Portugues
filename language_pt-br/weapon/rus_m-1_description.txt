@@ -1,0 +1,6 @@
+[Weapon Reference]
+WeaponName=Goa SAM
+WeaponDescriptiveName=SA-N-1 Goa SAM
+WeaponDescription=The SA-N-1 (Russian M-1 Volna system) is a shipboard surface-to-air missile (SAM) system first deployed in the early 1960s. The missile is the naval variant of the land-based SA-3 Goa (see separate record for more information). It has limited surface-to-surface capability and its performance has been less than satisfactory. The system uses a ZIF-101 or ZIF-102 fully automated cross-level stabilized twin-launcher. The -101 version is drum-fed, while the -102 employs a conveyor belt...
+
+ 

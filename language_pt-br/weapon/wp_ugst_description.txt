@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UGST WH
+WeaponDescriptiveName=UGST Torpedo
+WeaponDescription=Special: Optional wake-homing\nThe UGST is a dual purpose homing torpedo fielded by the Russian Navy. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes. Optional wake-homing activates when torpedo launched in "SHALLOW" mode and works in conjunction with common guidance system.

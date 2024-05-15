@@ -1,0 +1,8 @@
+[Unit Reference]
+ShipClass=205
+Description=Type 205 SS
+History=The Type 205 was a class of German diesel-electric submarines. The Type 205 is a direct evolution of the Type 201 class with lengthened hull, new machinery and sensors. The biggest difference though is that ST-52 steel is used for the pressure hull since the Type 201's non-magnetic steel proved to be problematic. Type 206, the follow-on class, finally succeeded with non-magnetic steel hulls.
+                                              
+[Player Ship Instances]
+PlayerClassHullNumbers=S180,S181,S183,S184,S185,S186,S187,S188,S189,S190,S191
+PlayerClassNames=U-1,U-2,U-3,U-4,U-5,U-6,U-7,U-8,U-9,U-10,U-11,U-12

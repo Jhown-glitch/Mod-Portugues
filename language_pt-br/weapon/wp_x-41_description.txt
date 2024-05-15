@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-22 Sunburn
+WeaponDescriptiveName=SS-N-22 Sunburn (X-41) Missile
+WeaponDescription=The X-41 - this is air-to-surface version of P-270 "Moskit" (NATO reporting name: SS-N-22 Sunburn), a Soviet supersonic ramjet powered anti-ship cruise missile.

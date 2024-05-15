@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=Military Transport
+Description=US Military Transport
+History=US Military transport.

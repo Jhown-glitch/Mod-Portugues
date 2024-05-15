@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SS-N-30 Sizzler
+WeaponDescriptiveName=SS-N-30 Sizzler (3M-14 "Kalibr") Missile
+WeaponDescription=The SS-N-30 Sizzler is a Russian land-attack missile.

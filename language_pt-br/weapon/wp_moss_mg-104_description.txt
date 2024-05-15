@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MG-104 Brosok
+WeaponDescriptiveName=MG-104 Brosok Decoy
+WeaponDescription=The MG-104 is an upgraded version of the MG-74 with wire guidance.

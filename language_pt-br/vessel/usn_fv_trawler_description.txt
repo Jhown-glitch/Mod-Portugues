@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=US Trawler
+Description=US Trawler
+History=Typical medium fishing trawler. This can often be found near the coast, but sometimes they go quite far into the open ocean. Characteristic features indicate that this ship is American.

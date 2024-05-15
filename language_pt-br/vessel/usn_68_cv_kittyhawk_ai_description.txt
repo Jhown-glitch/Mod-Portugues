@@ -1,0 +1,6 @@
+[Unit Reference]
+ShipClass=Kitty Hawk (Early)
+ShipClassShort=Kitty Hawk
+Description=Kitty Hawk-class supercarrier (1968)
+Aircraft=up to 90
+History=The Kitty Hawk-class supercarriers of the United States Navy were an incremental improvement on the Forrestal-class vessels. The biggest differences from the Forrestals are greater length, and a different placement of elevators; two are forward of the island, one is aft of the island and another on the portside stern. The movement of the No. 4 elevator from the forward to the after end of the angle made it useful for aircraft movement, since the forward-end elevator in the Forrestals was sited in both the landing path and in the launch path of the waist catapults.

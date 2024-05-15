@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Han Imp.
+Description=Han Improved-class Nuclear Attack Submarine
+History=Han class received several upgrades throught their active service to improve their performance, anechoic coating was added in order to reduce their noises  , new sonar Type H/SQ2-262B replacing the original Type 603 sonar. 5 units are still active in 2020, first of the class hull 401 became a museum after being decommissioned in 2000.
+
+
+[Player Ship Instances]
+PlayerClassNames=Long March III,Long March IV,Long March V
+PlayerClassHullNumbers=403,404,405

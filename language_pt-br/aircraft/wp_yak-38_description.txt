@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=Forger-A
+AircraftDescriptiveName=The Yakovlev Yak-38 (NATO reporting name: "Forger-A")
+History=The Yakovlev Yak-38 (Russian: Яковлев Як-38; NATO reporting name: "Forger") was the Soviet Naval Aviation's only operational VTOL strike fighter aircraft in addition to being its first operational carrier-based fixed-wing aircraft. It was developed specifically for, and served almost exclusively on, the Kiev-class aircraft carriers (heavy aviation cruiser in Russian classification).

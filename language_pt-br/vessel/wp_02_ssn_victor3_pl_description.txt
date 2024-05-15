@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Victor III
+Designation=SSN
+Description=Victor III-class Nuclear Attack Submarine
+
+History=These boats represent the ultimate evolution of the Victor-class submarine. They were the first boats to be given a towed array, and they were the first to be built with improved quieting features such as raft-mounted machinery. Originally designed with an offset tandem propeller, they have since been upgraded with reduced-cavitation propellers. The entire group are also fitted with fire control for the SS-N-16 standoff ASW missile.
+
+[Player Ship Instances]
+PlayerClassNames=,"Volgograd",,"Perm","Petrozavodsk","Obninsk","Daniil Moskovskiy","Tambov"
+PlayerClassHullNumbers=B-254,B-502,B-244,B-292,B-388,B-138,B-414,K-448

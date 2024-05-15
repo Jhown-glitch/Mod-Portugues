@@ -1,0 +1,5 @@
+[Unit Reference]
+ShipClass=F. Sherman (Barry)
+Description=Forrest Sherman Class Anti-Submarine Ship (1968)
+
+History=The 18 Forrest Sherman-class destroyers comprised the first post-war class of US destroyers. Commissioned beginning in 1955, these ships served until the late 1980s. Their weaponry underwent considerable modification during their years of service. Four were converted to guided missile destroyers. This class also served as the basis for the Charles F. Adams-class guided missile destroyers. Eight of the class were modernized to improve their ASW capabilities under SCB 251: Barry, Davis, Jonas Ingram, Manley, Du Pont, Blandy, Hull, and Morton; these ships became known as the Barry sub-class. These ships were fitted with an eight cell ASROC launcher in place of the No. 2 5-inch (127 mm) gun, and with a variable-depth sonar system. Six other ship modernizations were cancelled due to Vietnam War budget constraints.

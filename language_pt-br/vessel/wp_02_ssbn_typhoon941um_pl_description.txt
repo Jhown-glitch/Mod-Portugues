@@ -1,0 +1,11 @@
+[Unit Reference]
+ShipClass=Typhoon
+Designation=SSBN
+Description=Typhoon Class SSBN
+
+History=Dmitry Donskoy is the last remaining Typhoon class submarine in service. It is the fastest of all the ships in the series; it's two knots faster than the previous speed record for its class. The Donsky's weapons, sonar, quiteing, and even SLBMs are all modernized; it is also the largest of the Typhoons. This is due to the fact that the RSM56 (SS-N-32 Bulava) SLBMs which it has been outfitted to test are larger than the SS-N-20 Sturgeons of the other boats of Project 941.
+
+[Player Ship Instances]
+
+PlayerClassNames="Дмитрий Донской"
+PlayerClassHullNumbers=TK-208

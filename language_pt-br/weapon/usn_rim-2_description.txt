@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Terrier SAM
+WeaponDescriptiveName=RIM-2F Terrier SAM
+WeaponDescription=The Convair RIM-2F Terrier was a two-stage medium-range naval surface-to-air missile (SAM), and was among the earliest surface-to-air missiles to equip United States Navy ships. It underwent significant upgrades while in service, starting with a beam-riding system with 10-nautical-mile (19 km) range at a speed of Mach 1.8, and ending as a semi-active radar homing system with a range of 40 nmi (74 km) at speeds as high as Mach 3

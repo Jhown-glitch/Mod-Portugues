@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=WIP
+Description=Epicmod-class WIP
+History=This is a WIP ship for EpicMod

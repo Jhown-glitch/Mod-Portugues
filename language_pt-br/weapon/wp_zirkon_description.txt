@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SS-N-33 Zircon
+WeaponDescriptiveName=SS-N-33 Zircon (3M22 "Tsirkon") Missile
+WeaponDescription= The SS-N-33 Zircon (Russian: Циркон) is a scramjet powered maneuvering hypersonic cruise missile produced by Russia for the Russian Navy which has launch platforms on frigates and submarines.

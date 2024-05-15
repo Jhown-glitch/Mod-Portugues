@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=MK23
+WeaponDescriptiveName=Mark 23 Torpedo
+WeaponDescription=The Mark 23 was a wire-guided version of the Mark 20, and thus suffered the same software problems.

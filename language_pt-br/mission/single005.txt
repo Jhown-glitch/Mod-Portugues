@@ -1,0 +1,6 @@
+Image=campaign/images/Loadscreens/29-7542845-img-20190529-104001.jpg
+MissionLocation=Pacific Ocean
+Briefing=Nearby Russian Carrier Strike Force
+Briefing=
+Briefing=<b>Main objective:</b>
+Briefing=- Nearby Russian Carrier Strike Force

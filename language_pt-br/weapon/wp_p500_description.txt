@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-12 Sandbox
+WeaponDescriptiveName=The SS-N-12 Sandbox (P-500 Bazalt) missile
+WeaponDescription=The SS-N-12 Sandbox (P-500 Bazalt) is a turbojet-powered, submarine-launched cruise missile used by the Russian navy. The missiles were intended to be used in salvos – a submarine could launch eight in rapid succession, maintaining control of each through a separate datalink. In flight the group could co-ordinate their actions.

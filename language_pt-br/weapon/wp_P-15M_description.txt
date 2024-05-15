@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SS-N-2 Styx
+WeaponDescriptiveName=SS-N-2 Styx (P-15 "Termit") Missile
+WeaponDescription=The P-15 Termit (Russian: П-15 "Термит"; English: termite) is an anti-ship missile developed by the Soviet Union's Raduga design bureau in the 1950s. Its GRAU designation was 4K40, its NATO reporting name was Styx or SS-N-2. China acquired the design in 1958 and created at least four versions: the CSS-N-1 Scrubbrush and CSS-N-2 versions were developed for ship-launched operation, while the CSS-C-2 Silkworm and CSS-C-3 Seersucker were used for coastal defence. Other names for this basic type of missile include: HY-1, SY-1, and FL-1 Flying Dragon (Chinese designations typically differ for export and domestic use, even for otherwise identical equipment) . North Korean local produced KN-1 or KN-01, derived from both Silkworm variants and Russian & USSR P-15, Rubezh, P-20 P-22 .

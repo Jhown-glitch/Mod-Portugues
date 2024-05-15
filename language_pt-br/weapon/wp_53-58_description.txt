@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=53-58 NW
+WeaponDescriptiveName=T-5/53-58 Torpedo with Nuclear Warhead
+WeaponDescription=Special: Nuclear Warhead, unguided.\nIn 1958, the T-5 became fully operational as the Type 53-58 torpedo. The weapon, which could be deployed on most Soviet submarines, had an interchangeable warhead for either nuclear or high explosive. This permitted quick tactical decisions on deployment. The T-5, like the US Mark 45 torpedo, was not designed to make direct hits but to maximize a blast kill zone in the water. The detonation would create shock waves powerful enough to crack the hull of a submerged submarine. The T-5 was not optimized for deep diving and had limited guidance capability.

@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=November (Late)
+Designation=SSN
+Description=November Class SSN (1984)
+
+History=Designed in the 1950's, poorly armed, loud and with inferior sonar systems, these were the Soviet Union's first nuclear submarines. Over the years they have received little in the way of upgrades, rendering them second-rate opponents at best.
+
+[Player Ship Instances]
+PlayerClassNames=,,,,,,,,,Ростовский Комсомолец,
+PlayerClassHullNumbers=К-5,К-14,К-52,К-21,К-11,К-133,К-181,К-115,К-159,К-42,К-50

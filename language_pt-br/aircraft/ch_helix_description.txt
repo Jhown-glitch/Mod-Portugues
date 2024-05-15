@@ -1,0 +1,4 @@
+[Referência da Unidade]
+AircraftName=Ka-28 Helix 
+AircraftDescriptiveName=Helicóptero Anti-submarino Kamov Ka-28 Helix
+History=O Ka-28 é a versão de exportação do design subsequente do Ka-27 ao Ka-25 Hormone e, comparado ao seu antecessor, é mais rápido, carrega uma carga útil mais pesada em um alcance maior e possui sensores melhores para inicializar. Estes helicópteros devem ser considerados uma grande ameaça onde quer que sejam encontrados.

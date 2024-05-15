@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SS-N-26 Strobile
+WeaponDescriptiveName=SS-N-26 Strobile (P-800 "Oniks") Missile
+WeaponDescription=The SS-N-26 Strobile is a universal anti-ship/land attack missile used by submarines in the Russian navy. The range of the land attack mode is significantly greater than the anti-shipping version.

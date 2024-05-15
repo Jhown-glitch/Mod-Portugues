@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=Cargo Mod.
+Description=US Modified Cargo
+History=Dry cargo ships with cargo capacity is 3,950 tons.

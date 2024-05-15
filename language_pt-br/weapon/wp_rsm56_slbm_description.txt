@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SLBM Bulava
+WeaponDescriptiveName=SLBM SS-N-32
+WeaponDescription=The RSM-56 Bulava is a Submarine Launched Ballistic Missile SLBM developed for the Russian Navy and deployed in 2013 on the new Borei class of ballistic missile nuclear submarines. It is intended as the future cornerstone of Russia's nuclear triad, and is the most expensive weapons project in the country.\nIn-game range, 275000 yards

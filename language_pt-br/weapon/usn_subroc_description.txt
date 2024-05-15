@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=UUM-44A NW
+WeaponDescriptiveName=UUM-44A SUBROC ASW rocket
+WeaponDescription=The UUM-44A SUBROC (SUBmarine ROCket) was a type of submarine-launched rocket deployed by the United States Navy as an anti-submarine weapon. It carried a 5 kiloton thermonuclear warhead configured as a nuclear depth bomb. SUBROC was never used in combat, and all 285 W55 warheads were decommissioned in 1990 following the end of the Cold War. Because the nuclear warhead was an integral part of the weapon, SUBROC could not be exported to other navies, and there is no evidence that any were supplied to other NATO allies under the well-established arrangements for supplying other dual-key nuclear weapons. In 1980 a planned successor, the UUM-125 Sea Lance, was authorized. In 1982 the contract was awarded to Boeing. The system and its W89 warhead were cancelled in 1990 at the end of the Cold War.

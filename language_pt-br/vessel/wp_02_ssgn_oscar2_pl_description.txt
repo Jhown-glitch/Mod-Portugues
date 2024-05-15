@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Oscar II
+Designation=SSGN
+Description=Oscar II Class SSGN
+
+History=The Oscar is the sub-surface counterpart to the massive Kirov Class rocket cruisers. At 16,500 tons, this class is larger than any other submarines except the giant Ohio and Typhoon classes. This large size was made necessary by the need to accommodate the same battery of 24 SS-N-19 Shipwreck missiles found on the Kirov. Despite the huge size of these boats, they can move at 30 knots and feature weapons, sensors and silencing on par with those of the Victor III's, making them formidable opponents for any NATO submarine.
+
+[Player Ship Instances]
+PlayerClassNames="Воронеж","Смоленск","Вилючинск","Омск","Томск","Иркутск","Челябинск","Орёл"
+PlayerClassHullNumbers=К-119,К-410,К-456,К-186,К-150,К-132,К-442,К-266

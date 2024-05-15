@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Akula II
+Designation=SSN
+Description=Akula II Class SSN
+
+History=The Akula II is a significant improvement over the original Akula, featuring even more advanced quieting technology, an anechoic coating, a deeper operational depth, and 6 external torpedo tubes in addition to the standard 8. The Akula II is the first class produced by Russia that is quieter than the Los Angeles class subs of the United States.
+
+[Player Ship Instances]
+PlayerClassNames="Вепрь"
+PlayerClassHullNumbers=К-157

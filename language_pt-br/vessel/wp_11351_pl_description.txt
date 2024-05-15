@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Krivak II
+Designation=DDG
+Description=Krivak II-class
+Aircraft=Ka-27 or Ka-29 Heli (x1)
+History=The Project 11351 "Nerei" SSP was created to cover the near sea zone or provide anti-submarine defense of the SSG, and is used by the USSR border troops.
+
+[Player Ship Instances]
+PlayerClassNames=«Dzerzhinskiy»
+PlayerClassHullNumbers=164

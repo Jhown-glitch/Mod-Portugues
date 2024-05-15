@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Oscar I
+Designation=SSGN
+Description=Oscar I Class SSGN (Player)
+
+History=Granite is an underwater analogue of the Kirov class CGN. This class, at 16,500 tons, is larger than any other submarine except for the Ohio and Typhoon class boomers. The large size was inevitable due to the need to place a battery of 24 P-700 Granite (SS-N-19) cruise missiles, which were also the armament of the Kirov. Despite the enormous size of these boats, they can move at a speed of 30 knots and are equipped with modern weapons and sensors. They are also rather quiet.
+
+[Player Ship Instances]
+PlayerClassNames=,
+PlayerClassHullNumbers=K-525,K-206

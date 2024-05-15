@@ -1,0 +1,8 @@
+﻿[Unit Reference]
+ShipClass=Long Beach
+Description=Long Beach-class guided missile cruiser (1984)
+
+History=USS Long Beach (CLGN-160/CGN-160/CGN-9) was a nuclear-powered guided missile cruiser in the United States Navy and the world's first nuclear-powered surface combatant. She was the third Navy ship named after the city of Long Beach, California. She was the sole member of the Long Beach-class, and the last cruiser built for the United States Navy to a cruiser design; all subsequent cruiser classes were built on scaled-up destroyer hulls (and originally classified as destroyer leaders) or, in the case of the Albany-class, converted from already existing cruisers. Long Beach was laid down 2 December 1957, launched 14 July 1959 and commissioned 9 September 1961 under the command of then-Captain Eugene Parks Wilkinson, who previously served as the first commanding officer of the world's first nuclear-powered vessel, the submarine USS Nautilus (SSN-571). She deployed to Vietnam during the Vietnam War and served numerous times in the Western Pacific, Indian Ocean and Persian Gulf. By the 1990s, nuclear power was deemed too expensive to use on surface ships smaller than an aircraft carrier in view of defense budget cutbacks after the end of the Cold War. Long Beach was decommissioned on 1 May 1995 instead of receiving her third nuclear refueling and proposed upgrade. After removal of the nuclear fuel, superstructure, and sections of the bow and stern, the hull segment containing the reactor and machinery spaces was moored at Puget Sound Naval Shipyard and sold for scrapping.
+
+PlayerClassNames=«Long Beach»
+PlayerClassHullNumbers=CGN-9

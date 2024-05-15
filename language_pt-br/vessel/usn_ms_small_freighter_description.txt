@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=Small Freighter
+Description=US Small Military Freighter
+History=Small cargo ship used by NATO countries to transport military goods.

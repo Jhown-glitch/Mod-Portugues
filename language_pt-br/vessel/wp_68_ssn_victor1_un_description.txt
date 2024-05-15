@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Victor I
+Designation=SSN
+Description=Victor I Class SSN
+
+History=The Victor I class entered service in 1967. The Victors featured a teardrop shape, which allowed them to travel at high speed. These vessels were primarily designed to protect Soviet surface fleets and to attack American ballistic missile submarines.
+
+[Player Ship Instances]
+PlayerClassNames=,
+PlayerClassHullNumbers=K-38,K-69

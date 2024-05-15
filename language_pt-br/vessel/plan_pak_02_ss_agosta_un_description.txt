@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Agosta-90B
+Description=Agosta-90B Class SSK
+
+History=The Agosta class is a series of French diesel-electric submarines built in the 1970s. Submarines of type I of the S-70 project were built in Cherbourg starting in 1972. The design took input from the USS Albacore, resulting in a slimmer boat than previous projects'. Four boats wwere built for the French Navy. In 1977-1978, two boats were built for South Africa, however, they were not delivered due to an arms embargo on South Africa. Instead, the subs were sold to Pakistan. In 1981-1984, four ships were built for the Spanish Navy, and in 1998-2005 three more were built for the Pakistani Navy according to an improved spec.
+
+[Player Ship Instances]
+PlayerClassNames=PNS/M Khalid,PNS/M Saad,PNS/M Hamza
+PlayerClassHullNumbers=S137,S138,S139

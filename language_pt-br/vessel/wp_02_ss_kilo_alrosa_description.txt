@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Kilo II
+Designation=SS
+Description=Kilo II Class SS
+
+History=The Kilo II, known as the Alrosa, was serial number B-871. It was named as such on January 5, 2001. It is equipped with pump-jet propulsion, and was laid down on 17 May 1988. On December 1, 1990 it became part of the Black Sea Fleet.
+
+[Player Ship Instances]
+PlayerClassNames="Аlrosa"
+PlayerClassHullNumbers=Б-871

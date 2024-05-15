@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Kuznetsov
+Designation=HACC
+Description=Admiral Kuznetsov-Class heavy aircraft-carrying cruiser
+Aircraft=12 Flanker-D, 18 Helix
+History=(Russian: Адмира́л фло́та Сове́тского Сою́за Кузнецо́в "Admiral of the Fleet of the Soviet Union Kuznetsov", originally the name of the fifth Kirov-class battlecruiser) is an aircraft carrier (heavy aircraft cruiser in Russian classification) serving as the flagship of the Russian Navy. She was built by the Black Sea Shipyard, the sole manufacturer of Soviet aircraft carriers, in Nikolayev within the Ukrainian Soviet Socialist Republic (SSR) and launched in 1985, becoming fully operational in the Russian Navy in 1995. The initial name of the ship was Riga; it was launched as Leonid Brezhnev, embarked on sea trials as Tbilisi, and finally named Admiral Flota Sovetskogo Soyuza Kuznetsov after Admiral of the fleet of the Soviet Union Nikolay Gerasimovich Kuznetsov. She was originally commissioned in the Soviet Navy, and was intended to be the lead ship of the two-ship Admiral Kuznetsov class. However, her sister ship Varyag was still incomplete when the Soviet Union disbanded in 1991. The second hull was eventually sold by Ukraine to China, completed in Dalian and commissioned as Liaoning.
+[Player Ship Instances]
+PlayerClassNames=«Admiral Kuznetsov»
+PlayerClassHullNumbers=063

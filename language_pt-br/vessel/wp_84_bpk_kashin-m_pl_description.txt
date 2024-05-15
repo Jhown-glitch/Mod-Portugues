@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Kashin-M
+Designation=DDG
+Description=Kashin-M Class Large Anti-Submarine Ship (1984)
+
+History=At its introduction in 1962, the Kashin was the world's first warship class powered entirely by gas turbine drive. The ship has the classic double-ended armament layout typical of Soviet ships of the period, with the anti-submarine armament comprising guided torpedoes and anti-submarine rockets. Advanced for their time, by the 1980's these now obsolescent ships make 'low' ships in a naval group using a 'high-low' mix.
+
+[Player Ship Instances]
+PlayerClassNames=«Огневой»
+PlayerClassHullNumbers=724

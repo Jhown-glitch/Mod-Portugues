@@ -1,0 +1,26 @@
+[Depth Charges, Mortars and Shells]
+wp_rbu12000_mortar=RBU 12000
+wp_rbu6000_mortar=RBU 6000
+wp_rbu2500_mortar=RBU 2500
+wp_depth_bomb=Depth Bomb 25kg
+wp_depth_bomb_50=Depth Bomb PLAB-50
+wp_depth_bomb_120=Depth Bomb PLAB-120
+wp_depth_bomb_250=Depth Bomb PLAB-250
+wp_depth_bomb_500=Depth Bomb KAB-500
+wp_depth_bomb_rds9=RDS-9 - nuclear warhead for 53-58
+wp_depth_bomb_81ra=Nuclear warhead for SS-N-15 STARFISH
+wp_depth_bomb_82r=Nuclear warhead for SUW-N-1 FRAS-1
+wp_depth_bomb_m5=Nuclear warhead for VA-111 Shkval
+wp_depth_bomb_88r=Nuclear warhead for SS-N-16 STALLION
+wp_depth_bomb_ybzo=Nuclear warhead for 65-73
+wp_nuke_warhead_350=Nuclear warhead 350kt
+wp_nuke_warhead_500=Nuclear warhead 500kt
+usn_mk-54_depth_bomb=Mk 54 - Light Aerial Dropped Depth Bomb
+usn_w34_depth_bomb=W34 - nuclear warhead for MK-45
+usn_w55_depth_bomb=W55 - nuclear warhead for UUM-44 SUBROC
+wp_6x3_b-38_shell=6x3 B-38 152mm Guns
+wp_ak-130_shell=AK-130 130mm Guns
+wp_ak-100_shell=AK-100 100mm Guns
+wp_b-34_shell=B-34 100mm Guns
+wp_ak-726_shell=AK-726 76.2mm Guns
+wp_ak-725_shell=AK-725 57mm Guns

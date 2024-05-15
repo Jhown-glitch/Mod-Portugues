@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Oscar-II Imp. 
+Designation=SSGN
+Description=Oscar-II Improved Class SSGN
+
+History=When the P700 (Granit) missiles were decommissioned in 2018, it was decided to modernize the Oscar class submarines for new missiles.
+
+[Player Ship Instances]
+PlayerClassNames="Белгород"
+PlayerClassHullNumbers=К-329

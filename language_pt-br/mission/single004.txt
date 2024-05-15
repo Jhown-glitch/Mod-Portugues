@@ -1,0 +1,6 @@
+Image=campaign/images/Belknap+Knox.png
+MissionLocation=West of Gibraltar.
+Briefing=After several uneventful days, sonar reports a lone contact.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink the enemy vessels.

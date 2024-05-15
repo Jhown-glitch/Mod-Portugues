@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Kashtan SAM
+WeaponDescriptiveName=CADS-N-1 «Kashtan» («Kortik») SAM
+WeaponDescription=The Kortik close-in weapon system (CIWS) is a modern naval air defence gun-missile system deployed by the Russian Navy. Its export version is known as Kashtan, with the NATO designation CADS-N-1 Kashtan. The Kortik is found on the Russian aircraft carrier Admiral Kuznetsov, Kirov-class battlecruiser, Neustrashimy-class frigate; and the People's Liberation Army Navy Sovremenny-class destroyers, and other modern designs. Typically deployed as a combined gun and missile system, it provides defence against anti-ship missiles, anti-radar missiles and guided bombs. The system can also be employed against fixed- or rotary-wing aircraft or even surface vessels such as fast attack boats or targets on shore.

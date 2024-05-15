@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SS-N-27B Sizzler Supersonic Warhead
+WeaponDescriptiveName=SS-N-27B Sizzler (3M-54) Missile Supersonic Warhead
+WeaponDescription=The SS-N-27B Sizzler is an anti-ship missile fired by submarines, most often from Kilo class SSs. Supersonic Warhead

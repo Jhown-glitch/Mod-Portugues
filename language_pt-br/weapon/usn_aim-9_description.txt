@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=AIM-9M AMM
+WeaponDescriptiveName=AIM-9M Sidewinder AMM
+WeaponDescription=The AIM-9 Sidewinder (where "AIM" stands for "Air Intercept Missile") is a short-range air-to-air missile which entered service with the United States Navy in 1956, and subsequently was adopted by the US Air Force in 1964. Since then, the Sidewinder has proved to be an enduring international success, and its latest variants remain standard equipment in most Western-aligned air forces. The AIM-9M is an improved AIM-9L having better background rejection and infrared countermeasures discrimination, and a low-smoke motor to reduce the visual signature of the weapon. Deployed in large numbers during the first Gulf war, the AIM-9M was responsible for all 10 Sidewinder kills recorded during that conflict.

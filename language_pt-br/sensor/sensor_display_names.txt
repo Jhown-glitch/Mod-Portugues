@@ -1,0 +1,223 @@
+[SONAR]
+//Content:
+
+
+//I. sonars
+// 1. USSR
+// 1a) Active and Passive
+// 1b) Towed
+// 2. USA
+// 2a) Active and Passive
+// 2b) Towed
+// 3. Other nations
+// 3a) England
+// 3b) Germany
+// 3c) India
+// 3d) Italy
+// 3e) Canada
+// 3f) China
+// 3g) France
+// 3h) Sweden
+//II. Radars
+// 1. USSR
+// 2. USA
+// 3. Other nations
+
+// Sonars
+nav_sonar=Nav. sonar=Navigational sonar used on ships not equipped with sonar systems.
+Thomson_Sintra_TSM_2272=TSM 2272=active/passive sonar (on hull) used in Walrus class submarines.
+Type_2026_towed_array=Type 2026=Towed array type 2026.
+ae_tas3=AE TAS3=ATLAS ELEKTRONIK TAS-3 low-frequency Towed array.
+aus_tss=TS Scylla=Thomson Sintra Scylla GAS (with bow and stern antennas).
+aus_tst=Short-TAS=Thales Short-TAS Towed array.
+chn_hsjg_206a=H/SJG-206A=low frequency Towed array.
+chn_hsq2_262a=H/SQ2-262A=Towed array H/SQ2-262A.
+chn_hsq2_262b=H/SQ2-262B=Active attack search sonar - Soviet sonar upgrade.
+chn_hsqc_207=H/SQC-207=Upgraded version of H/SQ2-262B sonar installed on Shang Class submarines.
+chn_hsqc_207_late=H/SQC-207 Imp=sonar for the first Chinese nuclear submarine, they say it is better than AN/BQQ-5(USA).
+chn_type_603=TYPE-603=Sonar equipped on Han class vessels, soon replaced by H/SQ2-262B.
+csu_3-41=CSU 3-41=The CSU 3-41 is an active sonar system developed by West Germany in the early 70s, after the creation of the CSU 81-1, the CSU 3-41 began to be exported to other NATO countries.
+csu_3-4=CSU 3/4=Atlas Elektronik CSU 3/4 is a German-made active-passive GAS complex that tracks up to 8 pulses for which the bearing, frequency, signal level and pulse duration are determined. To determine the target speed, the results of analyzing echo signals from goals.
+csu_81-1=CSU 81-1=CSU 81-1 integrated sonar from Atlas Elektronik.
+csu_90-2=CSU 90-2=CSU 90-2 is an integrated sonar sensor suite from Atlas Elektronik. This includes a passive cylindrical bow array, an intercept array and two passive flank arrays.
+de_stn_dbqs40=DBQS-40=The ATLAS STN DBQS-40 is the fully integrated SAC available on modern submarines, can automatically classify up to 10 targets.
+dm_an407=AN-407=Active sonar from the early 70's. Installed on post-war boats made in Germany.
+dm_m1h=SRS-M1H=Passive sonar station from the late 60s.
+fr_dmux20=DMUX 20=Sonar used by Rubis SSN-with AN/BQQ-5 performance.
+fr_dmux21=DMUX 21=Sonar used by Redoutable SSBN-with AN/BQQ-5 performance.
+fr_dsuv62c=DSUV 62C=The ETBF DSUV 62C Towed array, comparable to American TB-16.
+ind_ushus=USHUS=The USHUS sonar developed by the Defense Research and Development Organization of the Indian Government for use on the Indian Navy's Sindhughosh and Arihant class vessels.
+it_atlas_isus_90_20=Isus 90-20=STAR ATLAS Elektronik SONAR Isus 90-20, GAK with active high frequency sonar.
+it_jp_64=JP-64=active medium frequency sonar, has average performance.
+it_velox=Velox=Medium Frequency Passive Search Sonar, average performance.
+jmsdf_an_sqs_36=AN/SQS-36=The AN/SQS-36 Yushio class active sonar is manufactured in Japan under license from the US, comparable to the AN/BQQ-5 active sonar.
+jmsdf_zqq_4=ZQQ-4=The ZQQ-4 passive sonar Oyashio Class submarine, corresponds to passive AN/BQQ-5.
+jmsdf_zqq_6=ZQQ-6=The ZQQ-6 Oyashio Class Submarine Sonar
+jmsdf_zqr_1a=ZQR-1A=Towed array with good low and mid frequency sensitivity, comparable to American BQR-25.
+jmsdf_zqr_2=ZQR-2=Towed array has good sensitivity to low and medium frequencies, comparable to American TB-23.
+knm_tsm_2633=TSM 2633=Thomson-CSF Sintra / Simrad TSM 2633 is an active/passive sonar mounted on Oslo-class frigates. Joint French-Norwegian development.
+knm_ss_105=Simrad SS 105=active/passive sonar by the Norwegian company Simrad used on Nordkapp-class patrol ships
+plan_eh_5=EH-5=Keel-mounted high-frequency sonar 50hg, which is equipped on Jianghu-class frigates.
+plan_ess_1=ESS-1=medium-frequency sonar with a variable depth antenna (APG), is a French development in 1978 designed to detect, classify and track targets, issue warnings of a torpedo threat. The range is up to 25 km.
+plan_sjd_3=SJD-3=This is a Chinese high frequency hull-mounted scanning sonar based on an improved Stag Hoof design that equips several frigates.
+plan_sjd_5=SJD-5=Chinese High Frequency Scanning Sonar, equipping several frigates.
+plan_sjd_7=SJD-7=active/passive midrange The SJD is a Chinese copy of SQS-56(USA) and installed on later frigates and destroyers.
+plan_sjd_8=SJD-8/9=mid-frequency sonar produced in France - "DUBV-23" (Chinese version "SJD-8/9"). Operating mode - active-passive, antenna installed in a bulbous radome. Range up to 20 km. The echo signals reflected from the target are processed using a special processor and displayed on the main and remote indicators of the all-round view.
+plan_sqc_1=SQC-1=Chinese version of the French low frequency digital sonar, similar in performance to the BQQ-5, installed on the Han and Xia class submarines.
+uk_type170=Type 170=Type 170 British Naval Active Sonar.
+uk_type174=Type 174=Type 174 British Naval Sonar Station.
+uk_type184=Type 184=British shipborne sonar system from the 70s. It was installed on Type 21 Amazon frigates and Type 82 Bristol destroyers.
+uk_187=Type 187=Type 187 active-passive sonar.
+uk_2001=Type 2001=Type 2001 integrated active-passive search and attack sonar.
+uk_2007=Type 2007=Thales Underwater Systems Type 2007 digital sonar with onboard antennas.
+uk_type2016=Type 2016=A British active and passive set that was mounted on the Type 42 Destroyer.
+uk_2020=Type 2020=active-passive search and attack sonar.
+uk_2026=Type 2026=UK Type 2026 Towed array.
+uk_2040=Type 2040=Type 2040 Thompson Sintra ARGONAUTE hull mounted sonar.
+uk_2046=Type 2046=Sonar 2046 Towed array -Upholder(Type 2400) or Victoria class submarines.
+uk_2051=Type 2051=A British active and passive set that was mounted on the modernized Oberon-class submarines.
+uk_2054=Type 2054=Thales Underwater Systems Type 2054 is a multifunctional system designed for Vanguard-class SSBNs. GAS with an active target localization path, information from antennas is analyzed by three digital processors.
+uk_2065=Type 2065=Type 2065 Towed array.
+uk_2074=Type 2074=Marconi/Plessey Type 2074 integrated active-passive search and attack sonar.
+uk_2076=Type 2076=Sonar 2076 with two onboard antennas, six passive ranging antennas, type 2079 bow antenna, mine detection sonar, new fiber optic data transmission system for the weapon system (Tactical Weapon System) and hydroacoustic countermeasure system (SAWS).
+usn_an_aqs-13=AN/AQS-13=Dive sonar used by SH-3D helicopters.
+usn_an_aqs-13f=AN/AQS-13F=Dive sonar used by SH-60 helicopters.
+usn_an_bqg-4=AN/BQG-4=The AN/BQG-4 is a passive sonar system developed by the US for export to other NATO submarines. These include upgraded Australian Oberon Class boats.
+usn_an_bqq_10=AN/BQQ-10=HAS ​​integrated into ASBU BSY-2. The structure includes: HAS with a large spherical modular antenna; low-frequency bow conformal antenna; active hemispherical antenna located under the main spherical antenna; high-frequency active HAS MIDAS for swimming under ice, mine detection and detection of underwater obstacles with an antenna in the OVU; BQG-5 with a wide-aperture antenna for long-range detection and rapid localization of targets; Towed array with a long thin towed antenna-TV-29; Signals from all antennas are processed by a common processor, forming a picture of the tactical situation on a single scale time in ASBU AN/BSY-2.
+usn_an_bqq_2=AN/BQQ-2=First spherical integrated sonar installed on Sturgeon and Permit class submarines.
+usn_an_bqq_5=AN/BQQ-5=SAS NPS with digital signal processing: active and passive detection of submarines; detection of active GAS signals; target classification, target designation, parameter check; prediction and fault detection. The basis of the complex is a spherical antenna bqs-13.
+usn_an_bqq_6=AN/BQQ-6=BQQ-6 is an improved version of BQQ-5. It entered service in 1981 when the first "Ohio" class SSBN entered service. It has a longer range than the BQQ-5 to help the SSBN evade detection.
+usn_an_bqr_21=AN/BQR-21=An updated version of the BQR-2 with digital data processing.
+usn_an_bqr_2=AN/BQR-2=The medium frequency sonar found on most American submarines, this system is outdated and nearly blind against all but the oldest Soviet submarines.
+usn_an_bqg_4=AN/BQG-4=This sonar set formed the main hardware component of the PUFFS (Passive Underwater Fire Control Feasibility System) passive-ranging system. While the system was  failure due to technical limitations, the system was still more sensitive than the BQR-2, if more prone to flow noise due to its positioning outside of the hull in three shark-fin shaped pods.
+usn_an_bqs_4=AN/BQS-4=Active sonar from the 50's. Unlike the BQR-2, it is still strong enough to detect silent enemies.
+usn_an_sqr-18=AN/SQR-18=The AN/SQR-18 series began with the Sqr-18 Interim Escort Towed-Array Surveillance System (IETASS), which was designed to be a simpler version of the AN/SQR-14/15 long range towed sonar for frigates and minesweepers. During testing, the towed SQR-18 created excessive noise, which contributed to its unreliability in the first convergence zone. Installed on Belknap (CG 26) - class cruisers, Spruance (DD 963) - class destroyers, Oliver Hazard Perry (FFG 7) - and Knox (FF 1052)-class frigates. Also installed in Japanese destroyers and Indonesian Ahmed Yani-class frigates.
+usn_an_sqr-19=AN/SQR-19=The AN/SQR-19 tactical Towed array (TACTAS) provides very long range passive detection of enemy submarines, a long cable full of microphones that is towed about a mile behind the ship.
+usn_an_sqs-23=AN/SQS-23=The AN/SQS-23 is a long-range, azimuth-scanning search and attack sonar.
+usn_an_sqs-26=AN/SQS-26=AN/SQS-26 is a bow, low frequency, active/passive sonar designed by the Naval Underwater Sound Laboratory and built by General Electric and EDO Corporation. At one point it was installed on 87 US Navy warships from the 60s to the 90s and may still be used on ships transferred to other navies.
+usn_an_sqs-53=AN/SQS-53=The Sonar Set The AN/SQS-53C is a computer-controlled surface sonar that has both active and passive operational capabilities that provide accurate information for monitoring and targeting anti-submarine weapons. The AN/SQS-53C is designed to perform direct search, detection, localization, and tracking of ASW paths.
+usn_an_sqs-56=AN/SQS-56=The AN/SQS-56 is a state-of-the-art HAC that features a digital insert, system control by a built-in mini computer, and an advanced display system. The computer-controlled functions provide a system that is extremely flexible and easy to operate. The computer is also used to provide automated detection and localization with a built-in learning function. Active/passive sonar, pelletized beam, digital sonar providing panoramic echo oscillating and panoramic (DIMAS) passive surveillance. A single operator can search, track, classify and assign multiple targets from the active system while maintaining anti-torpedo surveillance on the passive display.
+usn_bqr_25=BQR-25=The BQR-25 passive Towed array is most effective at lower speeds.
+usn_ssq38=AN/SSQ-38=USN passive sonobuoy LOFAR AN/SSQ-38 - In service during the 60s.
+usn_ssq47=AN/SSQ-47=USN active sonobuoy CASS AN/SSQ-47 - In service since late 60s.
+usn_ssq53a=AN/SSQ-53A=USN passive sonobuoy DIFAR AN/SSQ-53A - In service since the late 60s.
+usn_ssq53b=AN/SSQ-53B=USN passive sonobuoy DIFAR AN/SSQ-53B - In service since the mid 80s.
+usn_ssq62=AN/SSQ-62=USN active sonobuoy DICASS AN/SSQ-62 - In service since late 70s.
+usn_tb_16=TB-16=The TB-16 Towable Antenna - Significantly increases the range of passive sonar.
+usn_tb_23=TB-23=The TB-23 tow antenna is an upgrade of the TV-16.
+usn_tb_29=TB-29=The TB-29 tow antenna is an upgrade of the TB-23.
+wp_bm_1=BM-1=RGB-1 'Snipe Egg 1' unmanaged passive sonobuoy.
+wp_bm_2=BM-2=RGB-2 'Snipe Egg 2' controllable passive sonobuoy.
+wp_bm_3=BM-3=RGB-3 'Snipe Egg 3' active/passive sonobuoy.
+wp_buck_toe=Buck Toe=GS-572 "Pegas-2M" (Buck Toe) Definitely outdated by 1980s standards, this high-frequency "searchlight" active sonar is slightly better than WWII-era active sonars .
+wp_bull_horn=Bull Horn="Platinum" MGK-335 (Bull Horn) In service since 1975. Active/passive sonar for surface ships of medium and large displacement. In this second-generation complex, several antennas of various placements were used, including a towed array. The main antenna of the station was minted in the keel fairing (bulb) of the ship.
+wp_bull_horn_towed=Bull Horn="Platinum" MGK-335 (Bull Horn) In service since 1975. Active/passive sonar for surface ships of medium and large displacement. In this second-generation complex, several antennas of various placements were used, including a towed array. The main antenna of the station was minted in the keel fairing (bulb) of the ship.
+wp_bull_nose=Bull Nose=mid-frequency passive-active SAC of the late 60s/Despite the inability to detect American submarines at medium ranges, this design was clearly regarded as a success by the Soviets, who equipped it on almost every major class of anti-submarine ships in the 70s -s years.
+wp_elk_tail=Elk Tail=an early generation VGS-2 Oka submersible sonar used by the Ka-25Bsh ASW helicopter in the 60s.
+wp_foal_stork_tail=Foal Stork Tail=a later generation VGS-2 Oka-2 Stork Tail submersible sonar used by the Ka-25Bsh ASW helicopter in the 80s.
+wp_foal_tail=Foal Tail=OGAS MG-329 Sheksna (Foal Tail) This high-frequency variable depth sonar (VDS) is a shipborne version of the Kamov Ka-25 (Hormone) mounted on Kamov anti-submarine helicopters. Usually installed on small patrol ships. The ability to search between layers makes it a dangerous system in shallow water.
+wp_horse_jaw=Horse Jaw=GAS MG-342 "Orion" (Horse Jaw) Modification of the MG-355 "Polynom" (Horse Tail), installed on TARK "Kirov" (Kirov) and BOD type "Udaloy" (project 1155) (Udaloy), which gives these ships a high chance of detecting even slow-moving American submarines.
+wp_horse_tail=Horse Tail=GAS MG-355 "Polynom" (Horse Tail) Larger and more capable than the MG-325 "Vega" (Mare Tail), the Horse Tail is a towed low frequency variable depth sonar (VDS) mounted on TARK "Kirov" (Kirov) and BOD type "Udaloy" (project 1155) (Udaloy), gives these vessels the ability to search under the layers at considerable distances.
+wp_lamb_tail=Lamb Tail=Advanced Ros-V VGS-3 sonar used by the Ka-27PL-(ASW) helicopter.
+wp_mare_tail=Mare Tail=GAS MG-325 "Vega" (Mare Tail) This Large Variable Depth Sonar (VDS) was first seen on the Moskva GCR, and later on the Kyiv TAKR, BDK type "Nikolaev" (project 1134-B) (Kara) and SC type "Vigilant" (project 1135) (Krivak I). It allows these ships to scan the thermal layer using "boost-and-drift" tactics.
+wp_moose_jaw=Moose Jaw=GAS MG-342 "Orion" (Moose Jaw) This very large low-frequency sonar was first seen on the Moskva GKR (Moskva), and later on the Kyiv TAKR (Kiev)
+wp_rgb_56=RGB-56=First generation SONOBUOY RGB-Nivea' Crow Egg ' (45kg, 2m) introduced in 1956.8 in container.
+wp_rgb_64=RGB-64=second generation RGB-NM Cinar 'Rook Egg' (13.5kg, 1m) (detection range of 1 to 5 km) introduced 1964. 18 per container.
+wp_rgb_73=RGB-73=The third generation RGB-NM-1 Zeton (detection range from 3 to 8 km) was introduced in 1973.18 in a container.
+wp_stork_tail=Stork Tail=a later generation VGS-2 Oka-2 Stork Tail submersible sonar used by the Ka-25Bsh ASW helicopter in the 80s.
+wp_wolf_paw=Wolf Paw=An old medium frequency sonar that equipped many surface ships before the introduction of the Bull Nose.
+wp_zvezdam2=Zvezda M2=The Zvezdam sonar is considered the equivalent of the US AH/SQS-53 in terms of overall performance.
+wp_zvezdam2t=Zvezda M2T=Sonar Zvezda is regarded as equivalent to the US AH/SQS-53 in terms of overall performance.
+rus_lira=Lyra=GAK "LIRA"
+rus_lira_towed=Lira=Towed Complex "LIRA"
+rus_mars-16kp=Mars-16KP=Passive underwater situation detection hydrophone "MARS-16KP"
+rus_mars-24kig=Mars-24KIG="MARS-24KIG" Passive underwater noise detection hydrophone
+rus_mg10-kola=Trout Cheek=Passive hydrophone Trout Cheek [MG-10 "KOLA"]
+rus_mg-10m-kola-m=Trout Cheek=Passive hydrophone Trout Cheek [MG-10M "KOLA-M"]
+rus_mg200-arktika-m=Pike Jaw=Pike Jaw [MG-200 "Arktika-M"] This high-frequency sonar was developed in the late 1950s and was used on the Project 641 (Foxtrot) SSN and the Project 627(A) "Kit" (November) nuclear submarine , usually in combination with the MG-15 Sviyaga communications sonar (Trout Cheek). Therefore, it can be assumed that Pike Jaw was also created on the basis of German developments of the war years.
+rus_mg200m-arktika-2m=Pike Jaw=Pike Jaw [MG-200M "Arktika-2M"] This high-frequency sonar was developed in the late 1950s and was used on the Project 641 (Foxtrot) SSN and the Project 627(A) "Kit" (November) nuclear submarine , usually in combination with the MG-15 Sviyaga communications sonar (Trout Cheek). Therefore, it can be assumed that Pike Jaw was also created on the basis of German developments of the war years.
+rus-mgk100=Shark Fin=Shark Fin [MGK-100 "Kerch"] Soviet sonar system for submarines, put into service in 1967. It was originally created for Project 670 nuclear missile submarines that had anti-ship missiles with an underwater launch to ensure their self-detection of targets. The hydroacoustic complex can operate in the modes of direction finding and sonar.
+rus-mgk300=Shark Teeth=Shark Teeth [MGK-300 "Rubin"] This cylindrical low-frequency TGK was installed on the Victor, Juliet, Tango and Charlie class submarines. It is comparable in performance to the American BQQ-2 and has twice the detection area compared to the earlier MG-15 Sviyaga (Trout Cheek) sonar array.
+rus_mgk-400=Shark Teeth=Shark Teeth [MGK-400 Rubikon] Soviet hydroacoustic station put into service in 1976. It was intended for installation on new diesel submarines and modernization of nuclear submarines with older sonar systems.
+rus-mgk400m=Shark Teeth=Shark Teeth [MGK-400M "RUBIKON-M"] - detection of submarines, NK, torpedoes by their noise emission. Detection range: submarines up to 16 km, NK up to 100 km, mines up to 1.8 km. targets-12, auto-classification of targets according to passive modes. Passage of narrows and detection of the coastal edge is provided.
+rus-mgk400m_towed=Shark Teeth=Shark Teeth [MGK-400M "RUBICON-M"] Towed array
+rus-mgk500=Shark Gill=Shark Gill [MGK-500 "Skat-KS"]
+rus_mgk-500_towed=Shark Tail=Shark Tail [MGK-500 "Skat-KS"] Towed array
+rus_mgk501=Shark Gill=Shark Gill [MGK-501 "Skat-2M"]
+rus-mgk540=Shark Gill=Shark Gill [MGK-540 "SKAT-3"]
+rus-mgk540m=Shark Gill=Shark Gill [MGK-540M "SKAT-3M"]
+rus_mgk-600=Amfora=Amfora [MGK-600 "IRTYSH-AMPHORA"]
+rus_mgk-600_towed=Amfora=Towed array of Complex Amfora [MGK-600 "IRTYSH-AMPHORA"]
+rus_mgk600b=Amfora B=Amfora B [MGK-600B "Irtysh-Amphora-B"] ("Irtysh-Amphora-Borey")
+rus_mgk600b_towed=Amfora B=Towed array of Complex Amfora B [MGK-600B "Irtysh-Amphora-B"] ("Irtysh-Amphora-Borey")
+rus_mgk-1000=Squid Arm=Squid Arm [MGK-1000 "OKEAN"]
+rus_pelamida=Shark Tail=Towed array Shark Tail [MGK-541 "Pelamida"] the first Soviet hydroacoustic station with an extended towed antenna.
+rus_pelamida-m=Shark Tail=Improved Towed array Shark Tail ["PELAMIDA-M"]
+rus_skat-bdrm=Skat-BDRM=SKA "SKAT-BDRM" Installed on project 667BDRM
+rus_tamir-5ls=Perch Gill=Perch Gill [Tamir-5LS] Modernization of the hydroacoustic station "Tamir-5L" put into service in 1947. It differed only in an increase in the maximum speed of the submarine, at which the station could operate, up to 15 knots. It was created specifically to equip submarines of post-war projects.
+rus_tamir-11m=Stag Ear=Stag Ear [Tamir-11M] A new hydroacoustic station exported to Poland in 1975. The station can generate data for torpedo firing. Supplied together with Polish Project 613 submarines.
+
+// ==================== II. Радары =======================================
+[RADAR]
+nav_radar=Navigation RADAR=Generic navigation RADAR used by civillian ships to avoid collisions and by military transports to stay in formation.
+
+// 1. USSR
+wp_snoop_tray1=Snoop Tray 1=Snoop Tray 1 [RLK-101 Albatross] Mast-mounted radars for finding surface targets, risk of detection by ESM-equipped enemies.
+wp_don_kay=Don Kay=Don Kay [Volga] surface radar used by ships to detect other ships and navigational hazards. While not optimized for this, these kits are capable of detecting a raised periscope.
+wp_angara_a=Head Net A=Head Net A [MR-300 Angara] Soviet ship-based three-coordinate radar station of the late 60s. It was intended to display the air and surface situation and made it possible to detect air and surface targets, determine their range, azimuth and elevation and transmit this data to the fire control system. It had two radar channels and worked in circular, sector and target tracking modes. The station could determine the deviations of the fall of artillery shells and rockets from bursts.
+wp_fregat=Top Steer=Top Steer [Fregat] Family of Soviet and Russian three-coordinate ship-based radars with a lightweight unstabilized antenna post and an electronic beam stabilization system. The first radars of this family came into operation in the second half of the 70s.
+wp_mr-800=Top Pair=Top Pair [MR-800 Flag] Soviet long-range radar surveillance complex designed to detect air and surface targets. The complex consists of two radar stations, the antennas of which are located in the antenna post with the back sides to each other.
+wp_korshun=Wet Eye=Wet Eye [Korshun] Airborne Pulse Doppler Radar optimized for ASW,Tu-142M(Mod 2).
+wp_korshun_k=Wet Eye=Wet Eye [Korshun-K] Airborne Pulse Doppler radar optimized for ASW. Integrated ASW for Tu-142M (Mod 3).
+wp_mushroom=Mushroom=Mushroom [RPB-2 Initsiativa] Helicopter equipment designed to detect periscopes and masts on the surface of the sea.
+wp_octopus=Splash Drop=Splash Drop [Octopus] helicopter search system for Ka-27PL ASW.
+wp_snoop_head=Snoop Head=Snoop Head [Bukhta] Mast-mounted radars for finding surface targets, risk of detection by ESM-equipped enemies.
+wp_snoop_pair=Snoop Pair=Snoop Pair [MRKP-58 Radian/MRKP-59] Mast-mounted radars for finding surface targets, risk of detection by ESM-equipped enemies.
+wp_snoop_plate=Snoop Plate=Snoop Plate [Flag] Mounted on the mast, surface search radar allows the submarine to locate otherwise undetected surface contacts. However, there is a risk of detection by an enemy equipped with ESM.
+wp_snoop_slab=Snoop Slab=Snoop Slab [Burya] Mast-mounted surface search radar allows the submarine to locate otherwise undetected surface contacts. However, there is a risk of detection by an enemy equipped with ESM.
+wp_snoop_tray=Snoop Tray 2=Snoop Tray 2 [MRK-50 Kaskad] Mast-mounted radars for finding surface targets, risk of detection by ESM-equipped enemies.
+wp_spin_through=Spin Through=Spin Trough [Pechora] A typical surface search radar is used by ships to detect other ships and navigational threats. Although it is not intended for this, under certain conditions the radar is able to detect a periscope raised above the water.
+wp_strut_pair=Strut Pair 2=Strut Pair 2 [MR-320 Topaz] Air/surface search radar.
+rus_r-43=R-43=R-43 surface search radar allows the submarine to locate otherwise undetected surface contacts. However, there is a risk of detection by an enemy equipped with ESM.
+rus_r-43m=R-43М-955А=R-43М-955А surface search radar allows the submarine to locate otherwise undetected surface contacts. However, there is a risk of detection by an enemy equipped with ESM.
+
+// 2. USA
+usn_an_sps-10=AN/SPS-10=For decades, the AN/SPS-10 has been the standard search radar in the US Navy. Although considered a long-range navigational radar, it typically detects targets at much greater distances.
+usn_an_sps-49=AN/SPS-49=The AN/SPS-49 long range radar built by Raytheon. Primary air search radar for numerous ships in the US Navy and in Spain, Poland, Taiwan on Oliver Hazard Perry-class frigates, Halifax-class frigates, New Zealand - Anzac-class frigates, Australia Adelaide-class frigates and Anzac-class frigates. It previously served in a secondary role aboard Aegis cruisers with the AN/SPY-1, but the systems are currently being removed during routine upgrades without replacement.
+usn_an_sps-55=AN/SPS-55=The AN/SPS-55 is a solid state search and navigation radar. It was developed by Cardion Electronics for the US Navy for a class of ships known as patrol frigates, but has also been installed on numerous Cruisers, Destroyers and Minesweepers. This is an I band radar and its antenna consists of two waveguide slotted blocks mounted back to back.
+usn_aps-115=APS-115=AN/APS-115 is a development of AN/APS-80A, and it is the first attempt of digitization by providing digital input into the digital combat system installed on the P-3. Other improvement over the original AN/APS-80 included the integration of two separate AN/APS-80A radar into a single unit via a single planar position indicator (PPI) display. The most important improvement is that AN/APS-115 is an automatic version of earlier AN/APS-80/80A, but some users felt that in the hands of an experienced operator, the manual analog AN/APS-80/80A has a better chance to detect small targets such as submarine periscope in sea clutter. AN/APS-115 utilizes cavity magnetron.
+usn_aps-124=APS-124=Knowledge gained in the development of AN/APS-115/116 is used in the development of X-band AN/APS-124, the first model in the radar family developed for ASW helicopters. Due to the adoption of the traveling wave tube (TWT), the peak power is significantly increased to 350 kW. Due to the size and weight constraint, the parabolic antenna of radars for fixed aircraft is replaced by a 72-inch x 12 inch slotted planar array antenna for AN/APS-124, and scan rate is 6 or 12 rpm, with 120 rpm for weather. The array of AN/APS-124 produces a 1.2 x 20 degrees beam, and the typical range against a 1 square meter target is 16 nm in comparison to 20 nm of AN/APS-115/116. AN/APS-124 is installed on Sikorsky SH-60 Seahawk.
+usn_bps_12=BPS-12=Mast-mounted radars for finding surface targets, risk of being detected by ESM-equipped enemies.
+usn_bps_14_15=BPS-14/15=Mast-mounted radars for finding surface targets, risk of detection by ESM-equipped enemies.
+usn_bps_15=BPS-15=Mast-mounted radars for finding surface targets, risk of being detected by ESM-equipped enemies.
+usn_bps_15A=BPS-15A=Mast-mounted surface search radars, risk of detection by ESM-equipped enemies.
+usn_spy_1a=AN/SPY-1A=The AN/SPY-1A is a multi-function, phased array, 3D air search radar that provides search, detection, tracking, and discrimination data of air and surface targets. It is the main fire control radar for the Aegis Combat System, which equiped on early Aegis ships
+usn_spy_1d=AN/SPY-1D=The AN/SPY-1D was first installed on USS Arleigh Burke in 1991, with all antenna in a single deckhouse. It is a variant of the -1B to fit the Arleigh Burke class using the UYK-43 computer, with the main antenna also used as missile uplinks, thus eliminate the need of separate missile uplink in earlier models, and the UYA-4 display in earlier models is replaced by UYQ-21 display.
+
+// 3. Other nations
+//England
+uk_t1002=Type 1002=Type 1002 surface search and navigation radar.
+uk_t1006=Type 1006=The Kelvin Hughes Type 1006 maritime surface and navigational warning radar in service with the U.K. Royal Navy and a number of other world fleets.
+uk_t1007=Type 1007=The Kelvin Hughes Type 1007 high resolution naval radars - warning and navigational radars in service with the U.K. Royal Navy and a number of other world fleets. Radars are available in I-band and F-band.
+uk_type992=Type 992Q=British medium range general purpose radar from the 50s.
+uk_aws9=AWS-9=AWS-9 - Export version of the British Type 996 radar.
+uk_seaspray=Sea Spray=Helicopter-mounted Air-to-Surface Vessel radar in the anti-submarine and anti missile boat roles for the Lynx helicopter.
+uk_asv_21=ASV Mk 21=The EMI developed ASV Mark 21 entered operational use in the Shackleton Mk 2 and 3 beginning in 1959. ASV21 could detect a submarine schnorkel at 15 nautical miles (28 km) in very favourable conditions but at much shorter range in the sea states normally experienced in the North Atlantic.
+
+// 3b) Germany
+dm_calypso=THD 1030=A surface target detection radar THD 1030 Calypso II from the early 60s.
+
+//Italy
+it_rm_20=RM-20=Mast-mounted surface search radars, risk of being detected by ESM-equipped enemies.
+it_sma_bps_704=MM/BPS 704=Mastborne radar SMA MM/BPS 704 for surface search, risk of detection by ESM equipped enemies.
+//China
+chn_hsqzd=H/SQZ-D=Mast-mounted radars for finding surface targets, risk of detection by ESM-equipped enemies.
+plan_aps_504=Litton APSO-504(V3)=Airborne pulse doppler panoramic surface search ASW-integrated radar for the Y-8X maritime patrol aircraft.
+//Netherlands
+zw07=ZW 07=Mast-mounted radar for finding surface targets, risk of being detected by ESM-equipped enemies.
+//France
+drua33=DRUA 33=Mast-mounted radar for finding surface targets, risk of being detected by ESM-equipped enemies.
+//Sweden
+ts_nav=Terma Scanter=Mast-mounted radar to search for surface targets, risk of being detected by ESM-equipped enemies.
+//Japan
+jmsdf_zps_6=JPC ZPS-6=Mast-mounted surface search radars, risk of detection by ESM-equipped enemies.

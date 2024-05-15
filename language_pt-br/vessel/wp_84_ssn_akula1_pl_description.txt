@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Akula I
+Designation=SSN
+Description=Akula I Class SSN
+
+History=The Akula is the next generation of Russian attack submarines. Featuring an advanced sonar suite, 8 torpedo tubes with wire guidance capability, and new quieting technology, the Akula is the first class produced by Russia that constitutes a serious threat to the West.
+[Player Ship Instances]
+PlayerClassNames="Аkula"
+PlayerClassHullNumbers=K-284

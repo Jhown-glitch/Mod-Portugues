@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Kilo Imp.
+Designation=SS
+Description=Kilo Improved SS
+History=This is the latest and most advanced diesel-electric submarine built by the Soviets. The version Kilo 636MV contains a GE2-01 radar and an improved MGK 400E sonar. In this version, the submarine is also able to operate in more weather conditions than the original Kilo-class submarines.
+
+[Player Ship Instances]
+PlayerClassNames="Новороссийск","Ростов-на-Дону","Старый Оскол","Краснодар","Великий Новгород","Колпино","Петропавловск-Камчатский","Волхов","Магадан"
+PlayerClassHullNumbers=Б-261, Б-237, Б-262, Б-265, Б-268, Б-271,Б-274,Б-603,Б-602

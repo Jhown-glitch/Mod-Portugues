@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UUM-125B
+WeaponDescriptiveName=UUM-125B Sea Lance
+WeaponDescription=A conventionally armed variant of the UUM-125A Nuclear Tipped ASW Standoff Weapon. A contract for the full-scale development of the Sea Lance was awarded in 1986. In 1988, it was decided to proceed again with the surface-launched RUM-125 version. The nuclear warhead was canceled in favor of a purely conventional missile. In 1990, the entire program was canceled as a result of the collapse of the Soviet Union. Today the U.S. Navy attack submarines do not have any long-range supersonic stand-off anti-submarine weapon, while U.S. Navy surface warships do have the new, vertical-launch version of the ASROC.

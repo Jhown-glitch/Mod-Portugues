@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=Kidd
+Description=Kidd-class Guided Missile Destroyer (1984)
+History=The Kidd-class destroyers were a series of four guided missile destroyers (DDGs) based on the Spruance class. In contrast to their predecessor's focus on anti-submarine warfare, the Kidds were designed as more advanced multipurpose ships with the addition of considerably enhanced anti-aircraft capabilities.[1] Originally ordered for the former Imperial Iranian Navy, the contracts were canceled when the 1979 Iranian Revolution began, and the ships were completed for the United States Navy.

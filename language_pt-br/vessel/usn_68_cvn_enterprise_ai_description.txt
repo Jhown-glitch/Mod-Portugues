@@ -1,0 +1,7 @@
+[Unit Reference]
+ShipClass=Enterprise (Early)
+ShipClassShort=Enterprise
+Description=CVN Enterprise (1968)
+
+Aircraft=up to 90
+History=USS Enterprise (CVN-65) is an United States Navy aircraft carrier. She was the first nuclear-powered aircraft carrier and the eighth United States naval vessel to bear the name. Like her predecessor of World War II fame, she is nicknamed "Big E".

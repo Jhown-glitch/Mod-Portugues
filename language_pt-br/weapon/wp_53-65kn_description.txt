@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=53-65K NW
+WeaponDescriptiveName=53-65K Torpedo with Nuclear Warhead
+WeaponDescription=Special: Nuclear Warhead, unguided.\nAnti-ship torpedo. The 53-65K is the upgraded version of the 53-65 torpedo. It has an extended range due to new propulsion system. Nuclear warhead 20kt.

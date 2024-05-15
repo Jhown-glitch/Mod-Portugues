@@ -1,0 +1,5 @@
+﻿[Unit Reference]
+ShipClass=Ropucha II
+Designation=LST
+Description=Ropucha II Class landing ship
+History=The Project 775M large landing ships (NATO - Ropucha II) were built in Poland for the Soviet Navy. These ships are designed to land an amphibious force on an unequipped coast, as well as transfer troops and cargo. They are capable of transporting various types of armored vehicles, including tanks. The ships of this project are the basis of the Russian landing fleet, and have two twin 57-mm AK-726 AUs with remote guidance.

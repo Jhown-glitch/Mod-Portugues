@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Golf (Late)
+Designation=SSB
+Description=Golf Class SSB (1984)
+
+History=This class of 24 boats is a derivative of the Foxtrot design fitted with an enlarged sail to house three SS-N-4 Sark nuclear missiles. These missiles are short-ranged, forcing these boats to patrol relatively close to the US mainland.
+
+[Player Ship Instances]
+PlayerClassNames=,,,,,,,,,,,,,,,,,,,,,,
+PlayerClassHullNumbers=К-96,К-72,К-79,К-83,К-102,К-107,К-88,К-61,К-113,К-118,К-36,К-91,К-93,К-110,К-153,К-142,К-126,К-129,К-136,К-139,К-75,К-99,К-163

@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SUW-N-1 NW
+WeaponDescriptiveName=SUW-N-1 FRAS-1 (RPK-1 Vikhr) ASW missile
+WeaponDescription=The RPK-1 Vikhr NATO reporting name SUW-N-1 (Russian: РПК-1 «Вихрь» - meaning Whirlwind) was a Soviet nuclear anti submarine missile system. FRAS-1 was the NATO code for the missile round itself. The development of the missile was ordered in 1960 in order to combat the new American nuclear submarines. The requirement was for an all weather weapon capable of reaching out to 20 km at speed. The first test was in 1964 and the system was installed on the Moskva class helicopter cruisers in 1967. The system was also installed on the Kiev class aircraft carriers.

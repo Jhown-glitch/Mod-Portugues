@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Sierra
+Designation=SSN
+Description=Sierra Class SSN
+
+History=This is the latest and most advanced Soviet attack submarine. They are faster and deeper diving than US submarines, and feature the same sensors and weapons as the Victor IIIs in a much quieter hull, benefiting from purchased and stolen western technology.
+
+[Player Ship Instances]
+PlayerClassNames="Карп","Кострома"
+PlayerClassHullNumbers=K-239,K-276

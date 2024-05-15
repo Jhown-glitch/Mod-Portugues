@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Virginia
+Description=Virginia class cruisers (1984)
+History=The Virginia-class nuclear guided-missile cruisers, also known as the CGN-38 class, were a series of four double-ended (with missile armament carried both fore and aft) nuclear-powered guided-missile cruisers commissioned in the late 1970s to 1980,[1] which served in the United States Navy until the mid-to-late 1990s. They were the final class of nuclear-powered cruisers completed and the last ships ordered as Destroyer Leaders under the pre-1975 classification system.

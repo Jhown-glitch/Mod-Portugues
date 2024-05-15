@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=Leahy
+Description=Leahy-class Guided Missile Cruiser (1984)
+History=Leahy-class cruisers were a class of guided missile cruisers built for the United States Navy. They were originally designated as Destroyer Leaders (DLG), but in the 1975 cruiser realignment they were reclassified as guided missile cruisers (CG). They were a new "double-ender" class fitted with Terrier (later Standard ER) missile launchers fore and aft, and the first and only frigate class designed without a main gun battery for shore bombardment or ship-vs.-ship engagements—the gun armament was reduced in order to carry a larger missile load. One of the principal missions of these ships, like their predecessors the Farragut class, was to form part of the anti-air and antisubmarine screen for carrier task forces, while also controlling aircraft from the carrier by providing vectors to assigned targets.

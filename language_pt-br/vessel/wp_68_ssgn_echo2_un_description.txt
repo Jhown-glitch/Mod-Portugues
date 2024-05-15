@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Echo II
+Designation=SSGN
+Description=Echo II Class SSGN
+
+History=The Echo II is a modification of the original Echo-class which carried the nuclear land-attack version of the SS-N-3 Shaddock cruise missile. The modifications include adding a pair of launchers aft of the sail, and enlarging the sail to accommodate the Front Door missile guidance radar in a swivelling mount, as was done on the Juliet. They are fitted with the same unreliable propulsion plant as the Novembers, but the large cutouts for the missile exhausts make them even noisier. The need to stay surfaced in order to fire further limits their usefulness.
+
+[Player Ship Instances]
+PlayerClassNames=,,,,,,"Красногвардеец",,,,,,,
+PlayerClassHullNumbers=К-166,К-170,К-172,К-47,К-28,К-74,К-22,К-35,К-90,К-116,К-128,К-131,К-135,К-125

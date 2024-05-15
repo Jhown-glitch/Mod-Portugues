@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Whiskey
+Designation=SS
+Description=Whiskey Class SS
+
+History=The Whiskey was initially designed during the war as a follow-on to the S Class, but after the war was redesigned to incorporate captured German technology. The German influence can be clearly seen in the sonar installation, with its prominent chin array. The class was modernized during the 1950's until the definitive Whiskey V that dispensed with deck guns in favour of a streamlined sail. These boats are exceedingly slow and noisy, but with over 200 built, this is the most numerous class of submarine in the world.
+
+[Player Ship Instances]
+PlayerClassNames=,,,,,,,,Ульяновский Комсомолец,,,,,,,,
+PlayerClassHullNumbers=С-187,С-188,С-189,С-190,С-191,С-80,С-355,С-356,С-357,С-358,С-359,С-360,С-361,С-362,С-363,С-364,С-365

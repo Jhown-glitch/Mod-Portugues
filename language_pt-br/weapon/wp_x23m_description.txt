@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=AS-7 Kerry ASM
+WeaponDescriptiveName=AS-7 Kerry (Kh-23 Grom) ASM
+WeaponDescription=The Zvezda Kh-66 and Kh-23 Grom (Russian: Х-23 Гром 'Thunder'; NATO:AS-7 'Kerry') are a family of early Soviet tactical air-to-surface missiles with a range of 10 km. They were intended for use against small ground or naval targets. The Kh-66 was effectively a heavy-warhead, beam-riding version of the K-8 (AA-3 'Anab') air-to-air missile rushed into service in Vietnam in 1968. The Kh-23 was an improved Kh-66 with command-guidance, similar to the AGM-12 Bullpup.

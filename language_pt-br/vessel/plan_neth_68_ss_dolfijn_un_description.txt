@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Dolfijn
+Description=Dolfijn Class SS (1968)
+
+History=The Dolfijn class was a series of Dutch diesel-electric submarines, and were the first submarines built in the Netherlands after the end of World War II. The class could be distinguished by an unusual design with three cylindrical pressure hulls. There were two series of this class: the first was two boats built during 1954-1961, and the second in 1962-1966, when two more were built. The two series had a number of differences, including a towed array on the newer boats. The Towed Array would be retrofitted to the two boats of the original series, too. Dolfijn-class submarines remained in service until the early 1990s, when they were replaced by more modern Walrus-class boats and scrapped, with the exception of the Tonein, which was converted into a ship Museum in 1994.
+
+[Player Ship Instances]
+PlayerClassNames=Dolfijn,Zeehond,Potvis,Tonijn
+PlayerClassHullNumbers=S808, S809, S804, S805

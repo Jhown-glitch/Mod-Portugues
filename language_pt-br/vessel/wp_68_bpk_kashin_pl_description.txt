@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Kashin
+Designation=DDG
+Description=Kashin
+
+History=At its introduction in 1962, the Kashin was the world's first warship class powered entirely by gas turbine drive. The ship has the classic double-ended armament layout typical of Soviet ships of the period, with the anti-submarine armament comprising guided torpedoes and anti-submarine rockets. Advanced for their time, by the 1980's these now obsolescent ships make 'low' ships in a naval group using a 'high-low' mix.
+
+[Player Ship Instances]
+PlayerClassNames=«Комсомолец Украины»,«Сообразительный»,«Проворный»,«Огневой»,«Образцовый»,«Одарённый»,«Отважный»,«Славный»,«Стройный»,«Стерегущий»,«Красный Кавказ»,«Решительный»,«Смышлёный»,«Строгий»
+PlayerClassHullNumbers=1701,1702,1703,1704,1705,1706,1707,1708,1709,1710,1711,1712,1713,1714

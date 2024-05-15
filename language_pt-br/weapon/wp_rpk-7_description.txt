@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-16 Stallion
+WeaponDescriptiveName=SS-N-16 Stallion (RPK-7 "Veter" 86R) ASW Missile
+WeaponDescription=RPK-7 Veter (Russian: РПК-7 Ветер, "wind") is a 650 mm version, deployed operationally since 1984. The Veter's increased range of approximately 100 kilometers was an impressive boost over its predecessor the SS-N-15 Starfish, which could only reach half the distance. The 655 mm version carried the 86R torpedo or 88R nuclear depth charge.

@@ -1,0 +1,5 @@
+﻿[Unit Reference]
+ShipClass=Sovremenny
+Description=Sovremenny-class Guided Missile Destroyer
+Aircraft=1 Ka-28 Helix ASW helicopter
+History=The Sovremenny Class destroyer has a maximum displacement of 8,480t and is similar in size to the USA Navy’s Aegis-equipped missile cruisers. It is armed with an anti-submarine helicopter, 48 air defence missiles, eight anti-ship missiles, torpedoes, mines, long-range guns and a comprehensive electronic warfare system. The first-of-class Sovremenny was commissioned in 1985. A total of 18 have been built for the Russian Navy. Five remain in service. All ships were built at the Northern Yard, Severnaya Verf, in Saint Petersburg. The Chinese People’s Liberation Army Navy (PLAN) has two modified Sovremenny destroyers, delivered in December 1999 and November 2000. In 2002, PLAN ordered two more. The first of these was launched in April 2004 and delivered in December 2005. The second vessel was launched in July 2004 and delivered in September 2006.

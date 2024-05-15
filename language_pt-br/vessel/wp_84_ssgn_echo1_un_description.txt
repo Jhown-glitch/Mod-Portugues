@@ -1,0 +1,10 @@
+﻿[Unit Reference]
+ShipClass=Echo I (Late)
+Designation=SSGN
+Description=Echo I Class SSGN (1984)
+
+History=As the Soviet SSBN force built up, the need for these boats diminished so they were converted to the Project 659T SSNs. The conversion involved the removal of the cruise missiles, the plating over and the streamlining of the hull to reduce underwater noise of the launchers and the modification of the sonar systems to the standard of the November-class SSNs.
+
+[Player Ship Instances]
+PlayerClassNames=,,,,
+PlayerClassHullNumbers=К-45,К-59,К-66,К-122,К-151

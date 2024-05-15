@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=AT Paket-E
+WeaponDescriptiveName=Anti-Torpedo "Paket-E"
+WeaponDescription="Paket-E/NK" is a newly introduced torpedo system in the Russian Navy. According to its manufacturer, JSC "Tactical Missiles Corporation", it is a dual mode acoustic torpedo intended to destroy both submarines and torpedoes in the near field of the ship. The small-size torpedo is used against submarines, whereas the anti-torpedo against attacking torpedoes. Russian state news agency TASS announced on 13 May 2019 that the "Paket-E/NK"  had completed its cycle of trials. Almost all surface combatants of the Russian Navy (Voyenno-Morskoy Flot, VMF) will be fitted with the "Paket-E/NK" anti-submarine warfare (ASW) system.

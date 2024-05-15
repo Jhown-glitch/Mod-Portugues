@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=AIM-54B AAM
+WeaponDescriptiveName=AIM-54B Phoenix AAM
+WeaponDescription=The AIM-54 Phoenix is an American radar-guided, long-range air-to-air missile (AAM), carried in clusters of up to six missiles on the Grumman F-14 Tomcat, its only operational launch platform. The Phoenix was the United States' only long-range air-to-air missile. The combination of Phoenix missile and the Tomcat's AN/AWG-9 guidance radar meant that it was the first aerial weapons system that could simultaneously engage multiple targets. Due to its active radar tracking, the brevity code "Fox Three" was used when firing the AIM-54.

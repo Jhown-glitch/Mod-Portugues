@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=AA-10 Alamo AAM
+WeaponDescriptiveName=AA-10 Alamo ("Vympel" R-27) AAM
+WeaponDescription=The Vympel R-27 (NATO reporting name AA-10 Alamo) is a family of air-to-air missile developed by the Soviet Union. It remains in service with the Russian Air Force, air forces of the Commonwealth of Independent States and air forces of many other countries as standard medium range air-to-air missile even though they have the more advanced R-77.

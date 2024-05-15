@@ -1,0 +1,9 @@
+﻿[Unit Reference]
+ShipClass=Kilo
+Designation=SS
+Description=Kilo Class SS
+
+History=This is the latest and most advanced diesel-electric submarine built by the Soviets. Compared to earlier designs, the Kilo has adopted the Albacore-hull form, which makes it much faster underwater. It is also much quieter, and carries weapons and sensors on par with the third-generation nuclear attack submarines like the Victor III.
+[Player Ship Instances]
+PlayerClassNames="Новосибирск",,"Чита","Выборг",,
+PlayerClassHullNumbers=Б-401,Б-248,Б-260,Б-227,Б-229,Б-404

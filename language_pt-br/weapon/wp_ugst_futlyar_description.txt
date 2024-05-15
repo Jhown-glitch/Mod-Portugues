@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UGST Futlyar WH
+WeaponDescriptiveName=UGST Futlyar Torpedo
+WeaponDescription=Special: Optional wake-homing\nThe Futlyar is an upgrade over the modular Fizik, which now features a speed of over 50 knots. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes. Optional wake-homing activates when torpedo launched in "SHALLOW" mode and works in conjunction with common guidance system.

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Stinger MANPADS
+WeaponDescriptiveName=Stinger MANPADS
+WeaponDescription=The FIM-92 Stinger is a man-portable air-defense system (MANPADS) that operates as an infrared homing surface-to-air missile (SAM). Developed in the United States, it entered service in 1981 and is used by the militaries of the United States and 29 other countries. It is principally manufactured by Raytheon Missile Systems and is produced under license by EADS in Germany and by ROKETSAN in Turkey, with 70,000 missiles produced.

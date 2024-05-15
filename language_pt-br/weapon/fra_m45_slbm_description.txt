@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SLBM M45
+WeaponDescriptiveName=SLBM M45
+WeaponDescription=The M45 SLBM is a French Navy submarine-launched ballistic missile (In French terminology, the MSBS - Mer-Sol-Ballistique-Stratégique (Sea-ground-Strategic ballistic missile)) Forty-eight M45 are in commission in the Force océanique stratégique, the submarine nuclear deterrent component of the French Navy. The missiles, derived from the M4, were produced by Aérospatiale (now EADS SPACE Transportation). Initially, an ICBM land-based version was considered, but these plans were discarded in 1996 to favour an all-naval deployment.

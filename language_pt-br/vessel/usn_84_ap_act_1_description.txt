@@ -1,0 +1,5 @@
+[Unit Reference]
+ShipClass=Military Container Ship
+ShipClassShort=Сontainer
+Description=Large Military Container Ship
+History=These are first-generation container ships, with cargo capacity of about 1900 TEU. With the start of the war many of them was aquired by US navy.
