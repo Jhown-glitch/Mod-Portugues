@@ -1,0 +1,11 @@
+[English]
+ShortName = _en
+LongName = English
+
+[Russian]
+ShortName = _ru
+LongName = Русский
+
+[Português]
+ShortName = _pt-br
+LongName = Português Brasileiro
