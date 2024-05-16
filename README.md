@@ -21,7 +21,7 @@ Jhown ainda não sabe como fazer isso, se você souber, por favor ajude.
 
 ## Instalação Epic Mod
 
-A instalção do mod é simples, será necessário baixar apenas um arquivo compactado e copiar uma pasta e um arquivo txt.
+A instalção do mod é simples, será necessário baixar apenas um arquivo compactado e copiar algumas pastas e um arquivo txt.
 
 **Se ainda não tiver instalado o jogo e o mod, [baixe-os](#mod-portugues) e instale ambos.
 
@@ -30,18 +30,21 @@ Após instalar o jogo e seguir as intruções de instalação do 'Epic Mod'. Voc
 1 - Baixe o arquivo [Source code](https://github.com/Jhown-glitch/Mod-Portugues/releases/latest).
 
 ## Em caso de erro, tente novamente a partir daqui
-2 - Extraia a pasta [language_pt-br](contribution/translation%20for%20epic%20mod/Português-pt-br/language_pt-br/) e o arquivo [language_def.txt](contribution/translation%20for%20epic%20mod/language_def.txt).
+2 - Extraia a pasta [do seu idioma](contribution/translation%20for%20epic%20mod/) essa pasta contém outra pasta chamada **ColdWaters_Data** com tudo que é necessário para implementar a tradução ao jogo; **copie** essa pasta.
 
 3 - Clique com o botão direito no ícone do jogo na sua area de trabalho, em seguida clique em 'Abrir local do arquivo'.
 
-4 - O local aberto deve ser a pasta 'Cold Waters', abra a pasta 'ColdWaters_Data' e em seguida abra a pasta 'StreamingAssets' e procure pela pasta 'epicmod'.
+4 - O local aberto deve ser a pasta 'Cold Waters', **cole** a pasta copiada neste local (se necessário, clique para substituir todos os arquivos no local).
 
-5 - Copie os arquivos extraídos no passo 2 para a pasta epicmod que deve estar no seguinte caminho: ...\Cold Waters\ColdWaters_Data\StreamingAssets\epicmod.
+5 - Abra o seguinte caminho ...\Cold Waters\ColdWaters_Data\StreamingAssets\epicmod. Dentro de  **epic mod** deve ter uma pasta chamada **language_pt-br** (ou o nome do seu idioma esccolhido).
 
-6 - Após todo esse processo, abra o menu de configurações dentro do jogo; na seleção de idioma deve aparecer uma terceira linha com o nome 'Português Brasileiro'. Caso não apareça, releia este documento e faça novamente os passos a partir do [passo 2](#em-caso-de-erro-tente-novamente-a-partir-daqui).
+6 - Após todo esse processo, abra o menu de configurações dentro do jogo; na seleção de idioma deve aparecer uma terceira linha com o nome 'Português Brasileiro' (ou outro idioma escolhido). Caso não apareça, releia este documento e faça novamente os passos a partir do [passo 2](#em-caso-de-erro-tente-novamente-a-partir-daqui).
 
 Se ainda assim o jogo não estiver em português algum erro desconhecido ocorreu e até o momento eu (Jhown) não sei o que fazer.
+
 ## Nota
+
+Você deve copiar a pasta pai **ColdWaters_Data** pois ela possui a tradução de outras partes do jogo/epic mod, fazendo isso o processo é facilitado sendo necessário copiar apenas um ítem.
 
 Ambos os mods precisam estar nas versões mais recente, não deixe de ler a descrição da release para saber qual é a compatibilidade das versões.
 
