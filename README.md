@@ -3,10 +3,10 @@
 
 ## Seções
 
-[Aviso](#aviso)\n
-[Instalação no jogo](#instalação-no-jogo-padrão)\n
-[Instalção no Epic Mod](#instalação-epic-mod)\n
-[Nota](#nota)\n
+[Aviso](#aviso)
+[Instalação no jogo](#instalação-no-jogo-padrão)
+[Instalção no Epic Mod](#instalação-epic-mod)
+[Nota](#nota)
 [Agradecimentos](#agradecimentos)
 
 ## Aviso
