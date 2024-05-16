@@ -1,4 +1,4 @@
 [Unit Reference]
-AircraftName=Harbin Z-9
+AircraftName=Harbin Z-9 (nome da OTAN: Hatun)
 AircraftDescriptiveName=Harbin Z-9
-History=The Harbin Z-9 is a Chinese variant of the French Eurocopter AS365 Dauphin, manufactured under license. It serves many roles in the PLA, but this version is specialized for ASW duty, with search radar, modern dipping sonar and lightweight torpedoes. It however does not carry sonobuys, which limits its tactical mobility.
+History=O Harbin Z-9 é uma variante chinesa do francês Eurocopter AS365 Dauphin, fabricado sob licença. Ele desempenha muitas funções no PLA, mas esta versão é especializada para tarefas ASW, com radar de busca, sonar de imersão moderno e torpedos leves. No entanto, não transporta sonobóias, o que limita a sua mobilidade tática.
