@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/us (9).jpg,campaign/images/us/us (10).jpg,campaign/images/us/us (11).jpg,campaign/images/us/us (15).jpg
+Photo=campaign/images/us/news/usn (9).jpg
+Music=audio/music/draw.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>WAR OVER</b>
+Sentence1=The general ceasefire - announced only days ago - thankfully seems to have been upheld along all fronts. An anonymous Department of Defence spokesman has suggested that if peace talks are successful, many troops could be on their way home in a matter of weeks.
+Sentence2=Due to the economic and military strain of recent events, analysts remain concerned that a Cold War climate could emerge in East Asia and persist for decades to come. Worse yet, the recent clash will no doubt justify future expansion of military expenditure by both sides.

@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/XV1NRaJMsXk.jpg
+Photo=campaign/images/awards/rf8on.png
+Music=audio/music/newmenu.ogg
+Header=ПРЕЗИДИУМ СОВЕТА ФЕДЕРАЦИИ <n>МОСКВА
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n><b>DECREE of the PRESIDIUM OF THE FEDERATION COUNCIL</b><n><n>Dated <DATE>
+Sentence1=<size=14>The commander <PLAYERVESSELDESIGNATION> <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <PLAYERNAME> <n><POSTHUMOUSLY> is awarded </size><n><n><b><size=18></size><n><n><size=22>"ORDER OF NAKHIMOV"</size></b>
+Sentence2=<n>The commander of <PLAYERVESSELHULL> is awarded for bravery, dedication and courage shown during the performance of a combat mission <DATE>. His determination and selfless dedication in the face of a deadly threat are worthy of imitation.

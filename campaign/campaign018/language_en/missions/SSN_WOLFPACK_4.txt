@@ -1,0 +1,19 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+THE ENEMY SUBMARINES EQUPPED WITH WINGED ROCKETS have entered the waters of the FAR EAST OF RUSSIA, TO THREAT OUR SUPPLY CONVOY ROUTE. YOU SHOULD SINK THEM BEFORE THEY CAN IMPACT ON OUR VITAL MARINE TRANSPORTATION LINES.
+
+2.	(S) THE MAIN TASK:
+FIND AND SINK THE ENEMY SUBMARINES EQUIPPED WITH WINGED ROCKETS
+
+3.	(S) ADDITIONAL TASK:
+NONE
+
+4.	(S) AVOID DETECTION BY ENEMY PATROL FORCES
+5.	(S) FREE WEAPON SELECTION
+6.	(S) RADIO SILENCE - KEEP RADIO SILENCE MODE UNLESS OTHERWISE DIRECTED
+[MISSION WIN]
+Great work in sinking these submarines, Commander! Your contribution to the war will make the transit of our convoys much safer - and thus support our troops on land - that's what the Navy is for! Carry on commander!
+[MISSION FAIL]
+Commander, your inability to solve the enemy underwater threat with determination will make life in the Pacific much more difficult for our colleagues. Not to mention a much more dangerous life for merchants.
+[MISSION MISSED]
+We are disappointed to hear that the mission cannot be carried out. Remember that time works for the enemy, not for us.

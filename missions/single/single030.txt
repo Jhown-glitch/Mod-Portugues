@@ -1,0 +1,52 @@
+UseTerrain=TRUE
+MapCoordinates=1996,1697
+MapNavigationData=campaign/images/maps/south_china_sea_merchants_us
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry.png
+WorldObjectsData=campaign/maps/south_china_sea_world_objects1
+VesselsAndTraffic=campaign/maps/south_china_sea_traffic_68_nato
+
+//Environment
+Date=19 Jun 1968
+Hemisphere=North
+Time=1100
+UsePresetEnvironment=FALSE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai,wp_vt_kazbek|wp_vtr_andizhan_mod,wp_68_rkr_kresta1_ai|wp_68_kr_sverdlov_ai|wp_68_pkr_moskva_ai,wp_68_ssn_november_un|wp_68_ssn_victor1_un|wp_68_ss_foxtrot_un|wp_68_ss_romeo_un|wp_68_ss_whiskey_un
+FormationCruiseSpeed=8
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=70,-200
+PlayerHeading=290
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//Port Front
+EnemyWaypoints=-383,-160|-60,10
+//East N/S
+EnemyWaypoints=360,10|350,-320
+//West N/S
+EnemyWaypoints=-360,-250|-160,-520
+//Outer Patrol
+EnemyWaypoints=-450,-600|80,-530|280,-50
+
+//Enemy Aircraft
+NumberOfHelicopters=3
+HelicopterType=wp_hormone_68
+NumberOfAircraft=1
+AircraftType=wp_be-12_mail
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=250,-70,150
+AircraftSearchArea=-195,-440,200
+PlayerVessels=usn_68_ssn_nautilus_un,usn_68_ssn_permit_un,usn_68_ssn_skipjack_un,usn_68_ssn_sturgeon_un,usn_68_ssbn_ethan_allen_un,usn_68_ssbn_washington_un,usn_68_ss_barbel_un,usn_68_ss_guppy_un,usn_68_ss_guppy_3,usn_68_ss_tang_un,plan_uk_68_ssn_dreadnought_un,plan_uk_68_ssn_valliant_un,plan_uk_68_ssbn_resolution_un,plan_aus_68_ss_oberon_un,plan_neth_68_ss_dolfijn_un,plan_uk_68_ss_oberon_un

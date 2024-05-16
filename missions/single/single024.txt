@@ -1,0 +1,36 @@
+//Red Shadow (USA)
+
+UseTerrain=TRUE
+MapCoordinates=1557,1015
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_nato
+
+//Environment
+Date=03 JUL 1987
+Hemisphere=North
+UsePresetEnvironment=TRUE
+Weather=Rain
+SeaState=ModerateBreeze
+DuctStrength=Strong
+LayerStrength=Strong
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+EnemyShipClasses=wp_84_ssn_alfa_pl,wp_68_ssn_november_un,wp_84_ssn_victor2_pl,wp_68_ssn_november_un,wp_68_ss_foxtrot_un,wp_84_ss_kilo_un,wp_84_ss_tango_un,wp_84_ssn_victor3_pl
+FormationCruiseSpeed=10
+
+PlayerPosition=0,0
+PlayerHeading=90
+PlayerDepthInFeet=300
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_tu-142_bear
+
+PlayerVessels=usn_84_ssn_los_angeles_pl,usn_84_ssn_narwhal_pl,usn_84_ssn_permit_pl,usn_84_ssn_skipjack_un,usn_84_ssn_sturgeon_pl,usn_68_ssbn_ethan_allen_un,usn_68_ssbn_washington_un,usn_84_ssbn_ohio_un,usn_84_ss_barbel_un,plan_uk_84_ssn_churchill_un,plan_uk_84_ssn_swiftsure_un,plan_uk_84_ssn_trafalgar_un,plan_fr_84_ssn_rubis_un,plan_uk_68_ssbn_resolution_un,plan_uk_84_ssbn_resolution_un,plan_fr_84_ssbn_redoubtable_un,plan_aus_68_ss_oberon_un,plan_neth_68_ss_dolfijn_un,plan_uk_68_ss_oberon_un,plan_ger_84_ss_209_un,plan_knm_84_ss_kobben,plan_it_84_ss_toti_un,plan_jp_84_ss_yushio_un,usn_84_ffg_perry_pl,usn_84_ff_knox_pl,usn_84_cg_belknap_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl,usn_84_cgn_longbeach_pl

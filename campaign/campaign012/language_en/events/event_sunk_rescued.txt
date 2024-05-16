@@ -1,0 +1,15 @@
+NextAction=ASSIGN_NEW
+Image=campaign/images/ussr/84/ships/ussr84sh (5).jpg,campaign/images/ussr/84/ships/ussr84sh (7).jpg,campaign/images/ussr/84/ships/ussr84sh (18).jpg,campaign/images/ussr/84/ships/ussr84sh (20).jpg,campaign/images/ussr/84/ships/ussr84sh (28).jpg,campaign/images/ussr/84/ships/ussr84sh (45).jpg,campaign/images/ussr/84/ships/ussr84sh (60).jpg
+Photo=campaign/images/ussr/84/ships/news/ussr84shn (3).jpg,campaign/images/ussr/84/ships/news/ussr84shn (10).jpg,campaign/images/ussr/84/ships/news/ussr84shn (15).jpg,campaign/images/ussr/84/ships/news/ussr84shn (16).jpg,campaign/images/ussr/84/ships/news/ussr84shn (39).jpg,campaign/images/ussr/84/ships/news/ussr84shn (41).jpg
+Music=audio/music/newmenu.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>USSR ACKNOWLEDGE THE LOSS OF <PLAYERVESSELNAVY> <PLAYERVESSELDESIGNATION></b>|SOVIETCREW RESCUED!
+Color=57,61,73,255
+Sentence1=A representative of the USSR Navy confirmed that <PLAYERVESSELHULL> was lost during a combat mission, but crew losses were minimal due to a successful rescue operation.
+Color=218,218,208,255
+Sentence2=Despite the losses, the Soviet Union does not intend to reduce the scale of its operations in the Norwegian Sea and the North Atlantic. According to unconfirmed information, the crew of the lost submarine has already been assigned to a new boat and will soon put to sea again.
+

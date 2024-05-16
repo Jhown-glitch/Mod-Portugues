@@ -1,0 +1,14 @@
+NextAction=event_early_end_2
+Image=campaign/images/us/84/ships/us84s (4).jpg,campaign/images/us/84/ships/us84s (16).jpg,campaign/images/us/84/ships/us84s (47).jpg,campaign/images/us/84/ships/bb/us84sbb (3).jpg,campaign/images/us/84/ships/bb/us84sbb (6).jpg,campaign/images/us/84/ships/bb/us84sbb (17).jpg,campaign/images/us/84/ships/cv/us84scv (4).jpg
+Photo=campaign/images/ussr/84/ships/news/destroyed/ussr84shnd (1).jpg,campaign/images/ussr/84/ships/news/destroyed/ussr84shnd (2).jpg,campaign/images/convoy/news/convoyn (1).jpg,campaign/images/convoy/news/convoyn (2).jpg,campaign/images/convoy/news/convoyn (3).jpg,campaign/images/convoy/news/convoyn (4).jpg
+Music=audio/music/lost11.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>CRITICAL LOSS</b>
+Sentence1=The <FRIENDLY_NAVY>s have suffered heavy casualties in recent encounters with the <ENEMY_NAVY_SUFFIX> and seem to be forced to cease active operations and focus solely on defending their bases.
+
+Sentence2=Meanwhile, <FRIENDLY_NAVY_SINGULAR> failures at sea are already having an impact on the course of the war on land. Several strike groups and <ENEMY_NAVY_SINGULAR> aircraft carriers provide active support to the defending forces, which were able not only to breathe more freely, but also to launch a counteroffensive in several sectors of the front.

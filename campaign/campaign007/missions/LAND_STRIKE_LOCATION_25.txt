@@ -1,0 +1,23 @@
+UseTerrain=TRUE
+MapCoordinates=3411,882
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,0-1,1-1,0-1,1-1,0-1,1-1,0-1,1-1,0-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_mpk_grisha3_ai|wp_84_em_sovremenny_ai,wp_84_pkr_moskva_ai|wp_84_skr_krivak1_ai|wp_84_bpk_udaloy_ai|wp_84_bpk_kresta2_ai|wp_84_bpk_kara_ai|wp_02_bpk_udaloy2_ai,wp_pb_don|wp_pb_ugra,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_84_ssn_sierra_pl|wp_84_ss_tango_un|wp_84_ss_kilo_un|wp_02_ss_kilo_alrosa|wp_02_ssn_victor3_pl|wp_02_ssn_sierra2_pl|wp_02_ssn_akula-imp_pl|wp_02_ssn_akula2_pl,wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan,wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin
+
+FormationCruiseSpeed=10
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_haze
+NumberOfAircraft=1
+AircraftType=wp_il-38_may
+
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=156,574,200

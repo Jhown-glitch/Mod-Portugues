@@ -1,0 +1,23 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+  IT HAS BEEN DETECTED THAT SOME SUPPLY SHIPS ARE LOADING TORPEDES AND OTHER CARGOES IN THE PORT OF <color=Cyan><STARTLOCATION></color>. 
+ANALYSIT INDICATED THAT THIS CONVOY WILL GO TO THE AREA <color=Orange><ENDLOCATION></color>. 
+YOU ARE ORDERED TO SEARCH AND DESTORY THIS CONVOY. YOU MAY ALSO ENCOUNTER THE ENEMY'S ESCORT SUBMARINES.
+
+2.	(S) THE MAIN TASK:
+SEARCH AND SINK ENEMY TANKERS AND OTHER SUPPLY SHIPS
+
+3.	(S) ADDITIONAL TASK:
+SEARCH AND SINK ANY NEARBY HOSTILE SUBMARINE IF POSSIBLE.
+
+4.	(S) AVOID DETECTION BY ENEMY PATROL WARSHIPS
+5.	(S) FREE WEAPON SELECTION
+6.	(S) RADIO SILENCE - KEEP RADIO SILENCE MODE UNLESS OTHERWISE DIRECTED
+[MISSION WIN]
+Excellent efforts in undermining the enemy’s ability to replenish their submarines at sea. Carry on the good work.
+
+[MISSION FAIL]
+It is discouraging to hear from you that you missed the opportunity to prevent the enemy from replenishing.
+
+[MISSION MISSED]
+A message was received that support vessels have left the area. This opportunity has been missed..

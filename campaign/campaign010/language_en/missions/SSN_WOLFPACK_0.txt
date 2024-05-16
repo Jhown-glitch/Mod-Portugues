@@ -1,0 +1,19 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+According to satellite intelligence, a pack of enemy submarines with cruise missiles on board is preparing to leave their bases in the very near future <color=Cyan><STARTLOCATION></color>. 
+According to the intelligence report, they can head for the <color=Orange><ENDLOCATION></color> area, where they will wreak havoc.
+
+2.	(S) THE MAIN TASK:
+Search and destroy enemy submarines.
+3.	(S) ADDITIONAL TASK:
+Absent.  
+
+4.	(S) Avoid detection by enemy patrol forces.
+5.	(S) You are free to choose your weapons.
+6.	(S) Keep silent mode.
+[MISSION WIN]
+Great job! You were able to ensure the safe movement of our ships in the area.
+[MISSION FAIL]
+We are disappointed to hear that you missed the opportunity to eliminate this threat. The consequences can be unpredictable.
+[MISSION MISSED]
+We are extremely concerned about your report. You missed the opportunity to eliminate this threat. The consequences can have a very negative impact on the situation in the area.

@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/xred2.jpg
+Photo=campaign/images/awards/plan_meritorous_service_medal_1st_class.png
+Music=audio/music/TheEastIsRed.ogg
+Header=ПРЕЗИДИУМ ВЕРХОВНОГО СОВЕТА КНР<n>ПЕКИН
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n><b>УКАЗОМ ПРЕЗИДИУМА ВЕРХОВНОГО СОВЕТА КНР</b> <n><n>от <DATE>
+Sentence1=<size=14>Командир <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><POSTHUMOUSLY> награждается </size><n><n><b><size=18>медалью</size><n><n><size=22>"ЗА ВЫДАЮЩИЕСЯ ЗАСЛУГИ<n> I СТЕПЕНИ"</size></b>
+Sentence2=<n><n><n><n>Командуя <PLAYERVESSELDESIGNATION> <PLAYERVESSELHULL> он храбро вступил в бой с превосходящими силами противника, но благодаря своей высокой выучке и тактическому мастерству сумел одержать победу, внеся заметный вклад в дело борьбы против врагов Отечества.

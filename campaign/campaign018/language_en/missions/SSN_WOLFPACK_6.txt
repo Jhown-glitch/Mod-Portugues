@@ -1,0 +1,19 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+Activities in NATO Ports indicates a group of Enemy Submarines is coming soon. Within 2-4 days, they will leave the NAVY BASE NEAR  <color=Cyan><STARTLOCATION></color>, enter into a QUIET OCEAN and take an unknown position, where they will begin to intercept our convoys of supply ships. You have to find and eliminate this group of submarines.
+
+2.	(S) THE MAIN TASK:
+Search and destroy submarines with cruise missiles.
+
+3.	(S) ADDITIONAL TASK:
+Absent.
+
+4.	(S) Avoid detection by enemy intelligence.
+5.	(S) You are free to choose weapons.
+6.	(S) Keep silent mode.
+[MISSION WIN]
+Great job! Serving with you is an honor for us.
+[MISSION FAIL]
+We are disappointed with your failure in this mission. Other active fleet units will attempt to correct your oversight. And you will have an unpleasant conversation with the division commander.  
+[MISSION MISSED]
+Further searches of the enemy are considered inappropriate. Wait for New Orders.

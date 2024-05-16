@@ -1,0 +1,14 @@
+NextAction=event_campaign_critical_fail_2
+Image=campaign/images/us/68/subs/ssbn/us68sussbn (1).jpg,campaign/images/us/68/subs/ssbn/us68sussbn (2).jpg,campaign/images/us/68/subs/ssbn/us68sussbn (3).jpg,campaign/images/us/68/subs/ssbn/us68sussbn (4).jpg,campaign/images/us/68/subs/ssbn/us68sussbn (5).jpg,campaign/images/us/68/subs/ssbn/us68sussbn (6).jpg,campaign/images/us/68/subs/ssbn/us68sussbn (7).jpg,campaign/images/us/68/subs/ssbn/us68sussbn (8).jpg,campaign/images/us/68/subs/ssbn/us68sussbn (9).jpg
+Photo=campaign/images/us/68/subs/ssbn/news/us68sussbnn (1).jpg,campaign/images/us/68/subs/ssbn/news/us68sussbnn (2).jpg,campaign/images/us/68/subs/ssbn/news/us68sussbnn (3).jpg,campaign/images/us/68/subs/ssbn/news/us68sussbnn (4).jpg,campaign/images/us/68/subs/ssbn/news/us68sussbnn (5).jpg,campaign/images/us/68/subs/ssbn/news/us68sussbnn (6).jpg,campaign/images/us/68/subs/ssbn/news/us68sussbnn (7).jpg,campaign/images/us/68/subs/ssbn/news/us68sussbnn (8).jpg,campaign/images/us/68/subs/ssbn/news/us68sussbnn (9).jpg,campaign/images/us/68/subs/ssbn/news/us68sussbnn (10).jpg,campaign/images/us/68/subs/ssbn/news/us68sussbnn (11).jpg
+Music=audio/music/lost8.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>КОНЕЦ БЛИЗКО</b>
+Sentence1=Попытка <ENEMY_SINGULAR> на недавних переговорах о перемирии использовать в качестве рычага давления на позицию <FRIENDLY_SINGULAR> подводные лодки с ядерными баллистическими ракетами, развёрнутые в Атлантике, привела лишь к немедленному срыву переговоров. Напряженность продолжает расти и кризис выходит из-под контроля, многие эксперты считают применение стратегического ядерного оружия неизбежным.
+
+Sentence2=После трех тактических ядерных ударов по Центральной и Восточной Европе стало пугающе ясно, что нынешний конфликт не будет урегулирован дипломатическими средствами. Несмотря на гражданские беспорядки, вспыхнувшие во многих крупных городах по всему миру, большинство людей стремится быть рядом с близкими, ожидая когда та или другая сторона выпустит весь свой ядерный арсенал.

@@ -1,0 +1,13 @@
+NextAction=MAP
+Image=campaign/images/us/spec/ussp (4).jpg,campaign/images/us/spec/ussp (5).jpg,campaign/images/us/spec/ussp (6).jpg,campaign/images/us/spec/ussp (7).jpg,campaign/images/ussr/84/land/ussr84l (4).jpg,campaign/images/photos/photo2/1 (4).jpeg
+Photo=campaign/images/photos/explosions 1,campaign/images/photos/explosions 2,campaign/images/photos/explosions 3,campaign/images/photos/fire 1,campaign/images/photos/smoke 1,campaign/images/photos/photo2/1 (26).jpg
+Music=audio/music/win.ogg,audio/music/win2.ogg,audio/music/win3.ogg,audio/music/win4.ogg,audio/music/win6.ogg,audio/music/win7.ogg,audio/music/win8.ogg,audio/music/win9.ogg,audio/music/win10.ogg,audio/music/win11.ogg,audio/music/win12.ogg,audio/music/win13.ogg,audio/music/win14.ogg
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ДЕРЗКИЙ РЕЙД</b>|<b>ДРГ ЗА РАБОТОЙ</b>|<b>В ТЫЛУ ВРАГА</b>
+Color=57,61,73,255
+Sentence1=<ENDLOCATION> под атакой! Поступает информация о взрывах на складах, ночных атаках и засад на высокопоставленных лиц. В СМИ уже назвали это действиями диверсантов <FRIENDLY_SINGULAR>. Генштаб пока не дал прямого ответа на вопрос о что эти атаки совершены <FRIENDLY_SUFFIX>, однако в связи с тем что авиабаза <ENEMY_SINGULAR> находящаяся в регионе оказалась полностью парализованной, это весьма вероятно.
+Color=218,218,208,255
+Sentence2=В ответ на вопросы прессы, представитель Генштаба заявил: «Что касается утверждений об участии спецназа <FRIENDLY_SINGULAR> в недавних событиях, скажу лишь одно — трудно искать чёрную кошку в тёмной комнате, особенно если её там нет».

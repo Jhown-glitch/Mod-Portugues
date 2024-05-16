@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/ussr/ussr (2).jpg,campaign/images/ussr/ussr (8).jpg
+Photo=campaign/images/ussr/news/ussrn (1).jpg,campaign/images/ussr/news/ussrn (2).jpg,campaign/images/ussr/news/ussrn (3).jpg,campaign/images/ussr/news/ussrn (6).jpg,campaign/images/ussr/news/ussrn (7).jpg
+Music=audio/music/ussr.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ПОБЕДА СОВЕТСКОГО СОЮЗА!</b>
+Sentence1=Призрак ядерного Армагеддона наконец-таки растаял, когда враждующие блоки сели за стол переговров. Советский Союз имеет очень сильные позиции и многие аналитики пророчат расширение державы вплоть до Атлантического океана.
+Sentence2=Тем временем в Москве готовятся к параду в честь победы, а мирные жители просто радуются окончанию войны и ждут возвращения с фронта своих родных и близких с верой в светлое будущее...

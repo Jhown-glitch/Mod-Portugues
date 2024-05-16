@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/1968/D8UUl95UYAAoGj1.jpg,campaign/images/1968/11-6564577-in-situ-13-perspective-cam-1.jpg
+Photo=campaign/images/1968/fig1-1-1.jpg,campaign/images/1968/1381361340_1.jpg
+Music=audio/music/Cold Waters Main Menu
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>INTELLIGENCE RECEIVED INFORMATION ABOUT PROJECT Jennifer (Azorian)</b>
+Color=57,61,73,255
+Sentence1=Soviet secrets at the bottom of the Pacific Ocean became a bone of contention between the two Super Powers. In the square from the intelligence report, the arriving naval groups found US ships and NATO submarines. All the nearest groups got involved in the suddenly begun battle, which entailed heavy losses on both sides. War has been declared!
+Color=218,218,208,255
+Sentence2=In the United States and in the USSR, the armed forces were fully mobilized, and convoys of people, materials and weapons have already begun to pull up to the front lines formed as a result of large-scale hostilities on land. The world has plunged into the Third World War!

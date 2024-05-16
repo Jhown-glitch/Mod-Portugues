@@ -1,0 +1,59 @@
+//Convoy Strike (NATO)
+
+UseTerrain=TRUE
+MapCoordinates=1985,1578
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_02_nato
+
+//Environment
+Date=14 Jan 2000
+Hemisphere=North
+Time=1100
+UsePresetEnvironment=TRUE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=10-10,3-3,0-2
+CombatBehaviour=DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=TRUE,FALSE,FALSE
+EnemyShipClasses=wp_bdk_alligator|wp_pb_don|wp_pb_ugra|wp_ms_leninskiy_komsomol|wp_ms_poltava|wp_ms_kommunist|wp_vt_boris_chilikin|wp_vt_dubna|wp_vt_kazbek|wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan|wp_fv_trawler,wp_84_bpk_udaloy_ai|wp_84_bpk_kara_ai|wp_84_bpk_kresta2_ai|wp_84_em_sovremenny_ai|wp_84_skr_krivak1_ai|wp_84_rkr_kirov_ai|wp_84_takr_kiev_ai|wp_02_bpk_udaloy2_ai,wp_84_ssn_alfa_pl|wp_84_ssn_alfa2_pl|wp_84_ssn_mike_pl|wp_84_ssn_sierra_pl|wp_02_ssn_sierra2_pl|wp_02_ssn_victor3_pl|wp_84_ssn_akula1_pl|wp_02_ssn_akula-imp_pl|wp_02_ssn_akula2_pl|wp_84_ss_kilo_un|wp_84_ss_tango_un
+FormationCruiseSpeed=15
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=FALSE
+PlayerPosition=30,400
+PlayerHeading=112
+
+//Group1 Waypoints.
+EnemyWaypoints=-8,-64|92,-12
+EnemyWaypoints=-3,-69|92,-12
+EnemyWaypoints=2,-74|92,-12
+EnemyWaypoints=7,-79|92,-12
+EnemyWaypoints=12,-84|92,-12
+EnemyWaypoints=17,-89|92,-12
+EnemyWaypoints=22,-94|92,-12
+EnemyWaypoints=27,-99|92,-12
+EnemyWaypoints=32,-104|92,-12
+EnemyWaypoints=37,-109|92,-12
+
+//Group2 Waypoints.
+EnemyWaypoints=-8,-54|92,-1
+EnemyWaypoints=-3,-59|92,-1
+EnemyWaypoints=2,-64|92,-1
+
+//Group3 Waypoints.
+EnemyWaypoints=-8,-64|92,-12
+EnemyWaypoints=-3,-69|92,-12
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=wp_haze
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+PlayerVessels=usn_68_ss_barbel_un,usn_84_ss_barbel_un,usn_68_ss_guppy_un,usn_68_ss_guppy_3,usn_68_ss_tang_un,usn_68_ssn_nautilus_un,usn_68_ssn_sturgeon_un,usn_68_ssn_permit_un,usn_68_ssn_skipjack_un,usn_84_ssn_skipjack_un,usn_84_ssn_narwhal_pl,usn_84_ssn_permit_pl,usn_84_ssn_sturgeon_pl,usn_84_ssn_los_angeles_pl,usn_02_ssn_los_angeles2_pl,usn_02_ssn_los_angeles3_pl,usn_02_ssn_seawolf_pl,usn_04_ssn_virginia_pl,usn_05_ssgn_ohio_vls_pl,usn_68_ssbn_washington_un,usn_68_ssbn_ethan_allen_un,usn_84_ssbn_ohio_un,plan_uk_68_ssn_dreadnought_un,plan_uk_68_ssn_valliant_un,plan_uk_84_ssn_trafalgar_un,plan_uk_84_ssn_swiftsure_un,plan_uk_84_ssn_churchill_un,plan_uk_02_ssn_trafalgar_un,plan_uk_02_ssn_swiftsure_un,plan_uk_05_ssn_212a_un,plan_uk_10_ssn_astute_un,plan_uk_68_ssbn_resolution_un,plan_uk_02_ssbn_vanguard_un,plan_fr_84_ssn_rubis_un,plan_fr_20_ssn_suffren_un,plan_fr_84_ssbn_redoubtable_un,plan_jp_84_ss_yushio_un,plan_jp_02_ss_oyashio_un,plan_it_02_ss_sauro4_un,plan_it_84_ss_toti_un,plan_uk_68_ss_oberon_un,plan_uk_02_ss_upholder_un,plan_neth_68_ss_dolfijn_un,plan_neth_02_ss_walrus_un,plan_ger_84_ss_209_un,plan_knm_84_ss_kobben,plan_is_02_ss_dolphin_un,plan_aus_68_ss_oberon_un,plan_aus_02_ss_collins_un,plan_swe_02_ss_gotland_un,plan_pak_02_ss_agosta_un,usn_84_ffg_perry_pl,usn_84_ff_knox_pl,usn_84_cg_belknap_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl,usn_02_ddg_ticonderoga_pl,usn_02_ddg_arleigh_burke1_pl,usn_02_ddg_arleigh_burke_pl,usn_84_cgn_longbeach_pl,usn_84_bb_iowa_pl

@@ -1,0 +1,14 @@
+NextAction=event_campaign_critical_fail_2
+Image=campaign/images/china/2000/subs/chs (1).jpg,campaign/images/china/2000/subs/chs (3).jpg,campaign/images/china/2000/subs/chs (9).jpg
+Photo=campaign/images/china/2000/subs/news/chsn (3).jpg,campaign/images/china/2000/subs/news/chsn (12).jpg,campaign/images/china/2000/subs/news/chsn (14).jpg,campaign/images/china/2000/subs/news/chsn (16).jpg,campaign/images/china/2000/subs/news/chsn (17).jpg,campaign/images/china/2000/subs/news/chsn (18).jpg
+Music=audio/music/lost8.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>END NEAR</b>
+Sentence1=An attempt by <ENEMY_SINGULAR> in recent truce negotiations to use nuclear ballistic missile submarines deployed in the Pacific Ocean as leverage against the position of <FRIENDLY_SINGULAR> only led to an immediate breakdown in negotiations. As tensions continue to rise and the crisis spirals out of control, many experts believe the use of nuclear weapons is inevitable.
+
+Sentence2=After two tactical nuclear strikes on islands in the Pacific, it has become frighteningly clear that the current conflict will not be resolved through diplomatic means. Despite the civil unrest that has broken out in many major cities, most people long to be close to loved ones, waiting for one side or the other to release their entire nuclear arsenal.

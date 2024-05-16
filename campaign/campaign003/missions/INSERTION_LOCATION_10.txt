@@ -1,0 +1,58 @@
+UseTerrain=TRUE
+MapCoordinates=2988,1138
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_skr_riga_ai|wp_84_mpk_grisha3_ai|wp_84_em_sovremenny_ai|wp_68_bpk_kanin_ai|wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai,wp_84_pkr_moskva_ai|wp_84_skr_krivak1_ai|wp_84_bpk_udaloy_ai|wp_84_bpk_kresta2_ai|wp_84_bpk_kara_ai|wp_68_rkr_kresta1_ai,wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_84_skr_riga_ai|wp_84_mpk_grisha3_ai|wp_84_em_sovremenny_ai|wp_68_bpk_kanin_ai|wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=150,150
+PlayerHeading=200
+
+//AI Nav Waypoints
+
+//ASW Frigate 1
+EnemyWaypoints=430,30|130,-30
+
+//ASW Frigate 2
+EnemyWaypoints=-380,350|-160,100
+
+//AAW Escort 1
+EnemyWaypoints=92,244|-65,244|-65,169|92,169
+
+//AAW Escort 2
+EnemyWaypoints=474,215|257,215|257,307|474,307
+
+//Traffic
+EnemyWaypoints=-141,58|-293,58|-293,163|-141,163
+
+//Lurking Submarine
+EnemyWaypoints=403,-64|165,35|-25,226|-128,425
+
+//Merchant
+EnemyWaypoints=700,10|-480,610
+
+MissionPosition=14,-279
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=0
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-190,220,300
+
+ProximityMineLocations=286,-103|199,-102|144,-168|90,-233
+//number across,number deep,length,depth
+ProximityMineField=30,3,100,10|30,3,100,10|30,3,100,10|30,3,100,10
+ProximityMineFieldAngles=25,-25,-75,-25
+ProximityMineScatter=0.3,0.3,0.3,0.3

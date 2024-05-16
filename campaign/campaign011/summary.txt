@@ -1,0 +1,46 @@
+Image=campaign/images/photos/ussr/podlodka.jpg
+
+PlayerVessels=wp_84_ss_whiskey_un,wp_84_ss_zulu_un,wp_84_ss_romeo_un,wp_84_ss_foxtrot_un,wp_84_ssg_juliet_un,wp_84_ssb_golf_un,wp_84_ss_kilo_un,wp_84_ss_tango_un,wp_84_ssn_november_un,wp_84_ssgn_echo1_un,wp_84_ssgn_echo2_un,wp_84_ssgn_charlie1_un,wp_84_ssn_victor1_pl,wp_84_ssn_victor2_pl,wp_84_ssn_alfa_pl,wp_84_ssn_alfa2_pl,wp_84_ssn_victor3_pl,wp_84_ssgn_charlie2_pl,wp_84_ssn_mike_pl,wp_84_ssgn_papa_pl,wp_84_ssn_sierra_pl,wp_84_ssn_akula1_pl,wp_84_ssgn_oscar1_pl,wp_84_ssbn_hotel2_un,wp_84_ssbn_yankee_un,wp_84_ssbn_delta3_un,wp_84_ssbn_typhoon_pl,wp_68_mpk_poti_pl,wp_84_mpk_grisha3_pl,wp_68_skr_riga_pl,wp_68_em_kotlin_pl,wp_68_bpk_kashin_pl,wp_84_bpk_kashin-m_pl,wp_84_bpk_kashin-imp_pl,wp_84_skr_krivak1_pl,wp_11351_pl,wp_84_bpk_kresta2_pl,wp_84_bpk_kara_pl,wp_84_bpk_udaloy_pl,wp_84_em_sovremenny_pl,wp_84_PKR_Moskva_pl,wp_68_kr_sverdlov_pl,wp_84_rkr_atlant_pl,wp_84_rkr_kirov_pl,wp_84_TAvRKR_Kiev_pl
+
+[COMMANDER NAMES]
+CommanderName=COM NORTHERN FLEET
+CommanderFleetName=GLAVCOM VMF
+
+PrestigeMode=TRUE
+//Easy, Normal, Realistic, Elite
+StartingPrestige=100,50,0,0
+LoadoutType=1984
+[Prestige Cost]
+wp_84_ss_kilo_un	 =	0	 =	0
+wp_84_ss_tango_un	 =	20	 =	0
+wp_84_ssn_victor1_pl	 =	40	 =	1
+wp_84_ssn_victor2_pl	 =	80	 =	1
+wp_84_ssn_alfa_pl	 =	160	 =	1
+wp_84_ssn_alfa2_pl	 =	180	 =	1
+wp_84_ssn_victor3_pl	 =	200	 =	1
+wp_84_ssgn_charlie2_pl	 =	230	 =	1
+wp_84_ssn_mike_pl	 =	260	 =	1
+wp_84_ssgn_papa_pl	 =	290	 =	1
+wp_84_ssn_sierra_pl	 =	330	 =	1
+wp_84_ssn_akula1_pl	 =	350	 =	1
+wp_84_ssgn_oscar1_pl	 =	390	 =	1
+wp_84_ssbn_delta3_un	 =	440	 =	2
+wp_84_ssbn_typhoon_pl	 =	500	 =	2
+wp_68_mpk_poti_pl	 =	0	 =	0
+wp_84_mpk_grisha3_pl	 =	0	 =	0
+wp_68_skr_riga_pl	 =	0	 =	0
+wp_68_em_kotlin_pl	 =	50	 =	0
+wp_68_bpk_kashin_pl	 =	100	 =	0
+wp_84_bpk_kashin-m_pl	 =	150	 =	0
+wp_84_bpk_kashin-imp_pl	 =	150	 =	0
+wp_84_skr_krivak1_pl	 =	200	 =	1
+wp_11351_pl	 =	200	 =	1
+wp_84_bpk_kresta2_pl	 =	250	 =	1
+wp_84_bpk_kara_pl	 =	250	 =	1
+wp_84_bpk_udaloy_pl	 =	250	 =	1
+wp_84_em_sovremenny_pl	 =	250	 =	1
+wp_84_PKR_Moskva_pl	 =	300	 =	2
+wp_68_kr_sverdlov_pl	 =	300	 =	2
+wp_84_rkr_atlant_pl	 =	400	 =	2
+wp_84_rkr_kirov_pl	 =	450	 =	2
+wp_84_TAvRKR_Kiev_pl	 =	500	 =	2

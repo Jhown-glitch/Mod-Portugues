@@ -1,0 +1,10 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+Return to <color=Red><ENDLOCATION>, <COUNTRY></color> immediately to repair your boat and replenish your arsenal.
+2.	(S) THE MAIN TASK:
+Arrive at <ENDLOCATION> for repairs and restocking.
+3.	(S) ADDITIONAL TASK:
+Search and destroy any enemy ship on the way back if possible.
+4.	(S) Avoid detection by enemy patrol forces.
+5.	(S) Free weapon choice.
+6.	(S) Keep the radio silent until you arrive at the base.

@@ -1,0 +1,15 @@
+NextAction=MAP
+Image=campaign/images/us/us (2).jpg,campaign/images/us/us (3).jpg,campaign/images/us/us (4).jpg,campaign/images/us/us (5).jpg,campaign/images/us/us (6).jpg,campaign/images/us/us (7).jpg
+
+Photo=campaign/images/us/news/usn (2).jpg
+Music=audio/music/ustowin.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><ENEMY> COMING ON ALL FRONTS!</b>|<b><ENEMY> CLOSE TO VICTORY!</b>
+Color=57,61,73,255
+Sentence1=<ENEMY> break into enemy defenses, <ENEMY_NAVY> successfully complete assigned missions at sea. The <FRIENDLY_SINGULAR> leadership is leaning towards starting formal truce negotiations and starting to lay the groundwork for a cessation of hostilities. Many are convinced that the negotiations will lead to a long-awaited agreement between all hostile countries.
+Color=218,218,208,255
+Sentence2=Given the strong position of <ENEMY> in the region, analysts remain gravely concerned as to what bargaining power the <FRIENDLY> actually has for any negotiations. However, both sides still hold their "trump" cards, in the form of their nuclear arsenals.

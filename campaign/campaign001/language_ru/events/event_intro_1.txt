@@ -1,0 +1,13 @@
+NextAction=event_intro_2
+Image=campaign/images/ussr/68/land/ussr68l (1).jpg,campaign/images/ussr/68/land/ussr68l (2).jpg,campaign/images/ussr/68/land/ussr68l (3).jpg,campaign/images/ussr/68/land/ussr68l (4).jpg,campaign/images/ussr/68/land/ussr68l (5).jpg,campaign/images/ussr/68/land/ussr68l (6).jpg,campaign/images/ussr/68/land/ussr68l (7).jpg,campaign/images/ussr/68/land/ussr68l (8).jpg,campaign/images/ussr/68/land/ussr68l (9).jpg,campaign/images/ussr/68/land/ussr68l (10).jpg,campaign/images/ussr/68/land/ussr68l (11).jpg,campaign/images/ussr/68/land/ussr68l (12).jpg,campaign/images/ussr/68/land/ussr68l (13).jpg,campaign/images/ussr/68/land/ussr68l (14).jpg,campaign/images/ussr/68/land/ussr68l (15).jpg,campaign/images/ussr/68/land/ussr68l (16).jpg,campaign/images/ussr/68/land/ussr68l (17).jpg,campaign/images/ussr/68/land/ussr68l (18).jpg,campaign/images/ussr/68/land/ussr68l (19).jpg,campaign/images/ussr/68/land/ussr68l (20).jpg,campaign/images/ussr/68/land/ussr68l (21).jpg,campaign/images/ussr/68/land/ussr68l (22).jpg,campaign/images/ussr/68/land/ussr68l (23).jpg,campaign/images/ussr/68/land/ussr68l (24).jpg,campaign/images/ussr/68/land/ussr68l (25).jpg,campaign/images/ussr/68/land/ussr68l (26).jpg,campaign/images/ussr/68/land/ussr68l (27).jpg
+Photo=campaign/images/photos/armor pact 1,campaign/images/photos/riot 2
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>КРАСНЫЕ<n>УГНЕТАЮТ</b>
+Color=57,61,73,255
+Sentence1=Силы Варшавского договора во главе с Советским Союзом сегодня вторглись в Чехословакию с 250 000 силами пехоты, поддерживаемыми примерно 2000 танками, жестоко подавляя там реформистское движение.
+Color=218,218,208,255
+Sentence2=Соединенные Штаты заявили, что НАТО не будет вмешиваться от имени Пражской весны, фактически развязывая СССР руки, чтобы делать то, что ей нравится. Аналитики считают, что это отношение связано с тяжелым ситуацией для Америки во Вьетнаме и нежеланием президента Джонсона поставить под угрозу предстоящие переговоры по ОСВ.

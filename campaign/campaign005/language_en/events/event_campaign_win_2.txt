@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/us (8).jpg,campaign/images/us/us (13).jpg,campaign/images/us/us (14).jpg
+Photo=campaign/images/us/news/usn (1).jpg,campaign/images/us/news/usn (3).jpg,campaign/images/us/news/usn (4).jpg,campaign/images/us/news/usn (5).jpg,campaign/images/us/news/usn (6).jpg,campaign/images/us/news/usn (7).jpg,campaign/images/us/news/usn (8).jpg
+Music=audio/music/usa.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Victory Day!</b>
+Sentence1=Deprived of their strategic leverage, the Chinese had no choice but to accept US terms during the peace negotiations, a direct result of their weak position in the western Pacific and mainland.
+Sentence2=A new period of prosperity for the West begins. The United States of America rejoices and celebrates this Great Day! Relatives and friends meet the winners and believe in the bright future of their country...

@@ -1,0 +1,14 @@
+NextAction=event_early_end_2
+Image=campaign/images/china/2000/ships/chs (1).jpg,campaign/images/china/2000/ships/chs (2).jpg,campaign/images/china/2000/ships/chs (3).jpg,campaign/images/china/2000/ships/chs (4).jpg,campaign/images/china/2000/ships/chs (5).jpg,campaign/images/china/2000/ships/chs (6).jpg,campaign/images/china/2000/ships/chs (7).jpg,campaign/images/china/2000/ships/chs (8).jpg,campaign/images/china/2000/ships/chs (9).jpg,campaign/images/china/2000/ships/chs (10).jpg,campaign/images/china/2000/ships/chs (11).jpg,campaign/images/china/2000/ships/chs (12).jpg,campaign/images/china/2000/ships/chs (13).jpg,campaign/images/china/2000/ships/chs (14).jpg,campaign/images/china/2000/ships/chs (15).jpg,campaign/images/china/2000/ships/chs (16).jpg,campaign/images/china/2000/ships/chs (17).jpg,campaign/images/china/2000/ships/chs (18).jpg,campaign/images/china/2000/ships/chs (19).jpg,campaign/images/china/2000/ships/chs (21).jpg
+Photo=campaign/images/convoy/news/convoyn (1).jpg,campaign/images/convoy/news/convoyn (2).jpg,campaign/images/convoy/news/convoyn (3).jpg,campaign/images/convoy/news/convoyn (4).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (1).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (3).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (4).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (5).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (6).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (7).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (8).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (9).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (10).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (11).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (12).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (1).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (2).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (3).jpg
+Music=audio/music/lost11.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>CRITICAL LOSS</b>
+Sentence1=The <FRIENDLY_NAVY> have suffered heavy casualties in recent encounters with the <ENEMY_NAVY_SUFFIX> and seem to be forced to cease active operations and focus solely on defending their bases.
+
+Sentence2=Meanwhile, <FRIENDLY_NAVY_SINGULAR> failures at sea are already having an impact on the course of the war on land. Several strike groups <ENEMY_NAVY_SINGULAR> provide active support to the defending troops, who were able not only to breathe easier, but also to go on the counteroffensive in several sectors of the front.

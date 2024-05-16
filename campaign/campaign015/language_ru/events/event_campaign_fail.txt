@@ -1,0 +1,13 @@
+﻿NextAction=event_campaign_fail_2
+Image=campaign/images/us/84/land/us84l (13).jpg,campaign/images/us/84/land/us84l (19).jpg,campaign/images/us/84/land/us84l (34).jpg,campaign/images/us/84/land/us84l (36).jpg,campaign/images/us/84/land/us84l (49).jpg,campaign/images/us/84/land/us84l (13).jpg
+Photo=campaign/images/photos/riot 1,campaign/images/photos/riot 2,campaign/images/photos/protests 1,campaign/images/photos/protests 2
+Music=audio/music/lost10.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ЖЕЛЕЗНЫЙ ЗАНАВЕС РАСТЯНУЛСЯ НАД РФ</b>
+Sentence1=Ближайшая угроза ядерной войны, похоже, исчезла, так как Запад и Восток наконец договорились о прекращении военных действий. К сожалению, НАТО одержали верх в мирных переговорах из-за их прочного положения в Центральной Европе.
+Sentence2=В настоящее время политические лидеры в изгнании с оккупированных территорий проявляют серьезную озабоченность по поводу того, что железный занавес будет расти дальше на восток. Опасения о постоянной оккупации вызвали кризис беженцев, десятки тысяч потекли в сторону Дальнего востока.

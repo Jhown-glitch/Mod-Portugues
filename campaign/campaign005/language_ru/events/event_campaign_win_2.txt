@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/us (8).jpg,campaign/images/us/us (13).jpg,campaign/images/us/us (14).jpg
+Photo=campaign/images/us/news/usn (1).jpg,campaign/images/us/news/usn (3).jpg,campaign/images/us/news/usn (4).jpg,campaign/images/us/news/usn (5).jpg,campaign/images/us/news/usn (6).jpg,campaign/images/us/news/usn (7).jpg,campaign/images/us/news/usn (8).jpg
+Music=audio/music/usa.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Victory Day!</b>
+Sentence1=Лишенные своих стратегических рычагов влияния, китайцы не имели иного выбора, кроме как согласиться на условия США во время мирных переговоров, что было прямым результатом их слабого положения в западной части Тихого океана и на материковой части.
+Sentence2=Начинается новый период процветания Запада. Соединенные Штаты Америки ликуют и празднуют этот Великий день! Родные и близкие встречают победителей и верят в светлое будущее своей страны... 

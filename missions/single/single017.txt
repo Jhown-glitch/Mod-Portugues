@@ -1,0 +1,70 @@
+//Strike From The Sea (USA)
+
+UseTerrain=TRUE
+MapCoordinates=3165,1066
+MapFromCampaign=North Atlantic
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/south_china_sea_traffic_nato
+
+//Environment
+Date=27 MAR 2005
+Hemisphere=North
+Time=1100
+UsePresetEnvironment=TRUE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,2-2,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_mpk_grisha3_ai|wp_84_bpk_udaloy_ai|wp_84_bpk_kresta2_ai|wp_84_bpk_kara_ai|wp_02_bpk_udaloy2_ai,wp_84_mpk_grisha3_ai|wp_84_bpk_udaloy_ai|wp_84_bpk_kresta2_ai|wp_84_bpk_kara_ai|wp_02_bpk_udaloy2_ai,wp_84_skr_riga_ai|wp_68_mpk_poti_ai,wp_ms_leninskiy_komsomol|wp_ms_poltava|wp_vt_boris_chilikin|wp_vt_dubna|wp_vt_kazbek|wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan|wp_fv_trawler
+
+FormationCruiseSpeed=8
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=40,350
+PlayerHeading=180
+PlayerDepthInFeet=45
+PlayerTelegraph=2
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//Inner leg
+EnemyWaypoints=-41,78|-225,137
+
+//Horizontal Inner Patrol
+EnemyWaypoints=106,117|185,520
+
+//Vert Patrol
+EnemyWaypoints=-225,222|-42,192
+
+//Vert Patrol
+EnemyWaypoints=-79,262|-77,616
+
+//Bonus
+EnemyWaypoints=-92,998|41,45
+
+//MissionPosition=13,19
+//MissionPositionColor=LAND_STRIKE
+
+//Enemy Aircraft
+NumberOfHelicopters=2
+HelicopterType=wp_haze
+NumberOfAircraft=1
+AircraftType=wp_be-12_mail
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=110,163,75
+AircraftSearchArea=-79,102,75
+AircraftSearchArea=-13,636,400
+
+PlayerVessels=usn_84_ssn_los_angeles_pl,usn_02_ssn_los_angeles2_pl,usn_02_ssn_los_angeles3_pl,usn_84_ssn_narwhal_pl,usn_02_ssn_seawolf_pl,usn_84_ssn_sturgeon_pl,usn_04_ssn_virginia_pl,usn_84_ssbn_ohio_un,usn_05_ssgn_ohio_vls_pl

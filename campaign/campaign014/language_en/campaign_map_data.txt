@@ -1,0 +1,244 @@
+[LOCATION NAMES AND COUNTRY/REGION]
+LocationName=Holy Loch=Scotland
+LocationName=Torshavn=Faroe Islands
+LocationName=Reykjavik and Keflavik=Iceland
+LocationName=Höbn=Iceland
+LocationName=Oslo=Norway
+LocationName=Bergen=Norway
+LocationName=Trondheim=Norway
+LocationName=Andoya=Norway
+LocationName=Narvik=Norway
+LocationName=Svalbard=Norway
+LocationName=Amsterdam=Netherlands
+LocationName=Halifax=Canada
+LocationName=Newport=USA
+LocationName=Norfolk=USA
+LocationName=British Northwest=England
+LocationName=British Southwest=England
+LocationName=Murmansk=Russia
+LocationName=Arkhangelsk=Russia
+LocationName=Gremikha=Russia
+LocationName=Alta=Norway
+LocationName=Saint Petersburg=Russia
+
+
+[CITY TOWN PORT NAMES]
+Color=255,200,0,255
+Outline=TRUE
+Size=14
+Font=4
+
+LabelPosition=-178.73,-193.87
+LabelName=Holy Loch
+LabelPosition=-125.4,-48.75
+LabelName=Torshavn
+LabelPosition=-228.59,149.97
+LabelName=Reykjavik \nKeflavik
+LabelPosition=-181.71,84.17
+LabelName=Höbn
+LabelPosition=53.1,-180.1
+LabelName=Oslo
+LabelPosition=12.7,-149.6
+LabelName=Bergen
+LabelPosition=76.5,-108
+LabelName=Trondheim
+LabelPosition=213.9,39.5
+LabelName=Andoya
+LabelPosition=189.3,9
+LabelName=Narvik
+LabelPosition=224.5,280.4
+LabelName=Svalbard
+LabelPosition=-112.9,-360.2
+LabelName=Antwerpen
+LabelPosition=352,58
+LabelName=Murmansk
+LabelPosition=474.3,-83.1
+LabelName=Arkhangelsk
+LabelPosition=420.2,1.7
+LabelName=Gremikha
+LabelPosition=150.8,-213.5
+LabelName=Stockholm
+LabelPosition=265.7,-201.2
+LabelName=Helsinki
+LabelPosition=354,-210.2
+LabelName=Saint Petersburg
+LabelPosition=265,-240
+LabelName=Tallinn
+LabelPosition=237,-295
+LabelName=Riga
+LabelPosition=241,-353
+LabelName=Vilnius
+LabelPosition=340,-350
+LabelName=Minsk
+LabelPosition=318,-275
+LabelName=Pskov
+LabelPosition=-77.8,-325.1
+LabelName=Amsterdam
+LabelPosition=-235.9,-364
+LabelName=Caen
+LabelPosition=-180.9,-353
+LabelName=Abbeville
+LabelPosition=-175,-310
+LabelName=London
+LabelPosition=-190,-265
+LabelName=Manchester
+LabelPosition=-243,-290
+LabelName=Plymouth
+LabelPosition=477,-305
+LabelName=Moscow
+LabelPosition=271.7,77
+LabelName=Alta
+LabelPosition=362,-247
+LabelName=Veliky Novgorod
+LabelPosition=402,-327
+LabelName=Smolensk
+LabelPosition=477,-347
+LabelName=Tula
+LabelPosition=470,-207
+LabelName=Yaroslavl
+LabelPosition=572,-284
+LabelName=Nizhny Novgorod
+LabelPosition=655,-240
+LabelName=Kazan
+LabelPosition=397,-152
+LabelName=Petrozavodsk
+LabelPosition=385,-70
+LabelName=Kem
+LabelPosition=275,-80
+LabelName=Oulu
+LabelPosition=-630.10,270
+LabelName=<- Halifax \n(Canada)
+LabelPosition=-630.10,90
+LabelName=<- Norfolk \n(USA)
+LabelPosition=-630.10,-10
+LabelName=<- Key West \n(USA)
+
+[MARKERS]
+Color=255,255,255,255
+Outline=TRUE
+Size=4
+LocationMarkerPosition=-204.16,-185.34
+LocationMarkerPosition=-142.37,-37.5
+LocationMarkerPosition=-254.81,130.94
+LocationMarkerPosition=-192.42,73.73
+LocationMarkerPosition=55.9,-191.8
+LocationMarkerPosition=-13.7,-150.4
+LocationMarkerPosition=77.3,-96.9
+LocationMarkerPosition=186,15.8
+LocationMarkerPosition=177.9,38.4
+LocationMarkerPosition=217.8,268.6
+LocationMarkerPosition=-112.9,-354.2
+Color=0,255,0,255
+Size=10
+LocationMarkerPosition=358,32.7
+Color=255,255,255,255
+Size=4
+LocationMarkerPosition=458.1,-72.1
+LocationMarkerPosition=424.6,12.3
+LocationMarkerPosition=343.5,-218.9
+LocationMarkerPosition=162.7,-225.2
+LocationMarkerPosition=265.9,-212.9
+LocationMarkerPosition=265,-235
+LocationMarkerPosition=255,-295
+LocationMarkerPosition=241,-348
+LocationMarkerPosition=315,-350
+LocationMarkerPosition=318,-282
+LocationMarkerPosition=-81.8,-337.1
+LocationMarkerPosition=-210.9,-364
+LocationMarkerPosition=-174.9,-363
+LocationMarkerPosition=-175,-320
+LocationMarkerPosition=-190,-260
+LocationMarkerPosition=-243,-300
+Color=200,0,0,255
+LocationMarkerPosition=477,-297
+Color=255,255,255,255
+LocationMarkerPosition=271.7,67
+LocationMarkerPosition=362,-257
+LocationMarkerPosition=402,-337
+LocationMarkerPosition=477,-357
+LocationMarkerPosition=470,-217
+LocationMarkerPosition=572,-274
+LocationMarkerPosition=655,-250
+LocationMarkerPosition=397,-162
+LocationMarkerPosition=385,-80
+LocationMarkerPosition=275,-90
+Color=200,0,0,255
+LocationMarkerPosition=-680.10,1.50
+LocationMarkerPosition=-680.10,280.50
+LocationMarkerPosition=-680.10,100.50
+
+
+[COUNTRY LABELS]
+Color=0,0,0,255
+Outline=FALSE
+Size=13
+Font=4
+LabelPosition=-201.2,103.3
+LabelName=ICELAND
+LabelPosition=-201.2,348.1
+LabelName=GREENLAND
+LabelPosition=-191.1,-281.1
+LabelName=UK
+LabelPosition=49.9,-160.5
+LabelName=NORWAY
+LabelPosition=130,-153.9
+LabelName=SWEDEN
+LabelPosition=269.8,-138.3
+LabelName=FINLAND
+LabelPosition=151,-374
+LabelName=POLAND
+LabelPosition=10,-369.2
+LabelName=GERMANY
+LabelPosition=9,-299
+LabelName=DENMARK
+Size=20
+LabelPosition=485.3,-250
+LabelName=RUSSIA
+Size=13
+LabelPosition=-94.9,-382
+LabelName=BELGIUM
+LabelPosition=-184.9,-383.7
+LabelName=FRANCE
+
+[OCEANS AND SEAS LABELS]
+Color=43,71,97,255
+//Color=0.16,113,255
+Outline=FALSE
+Size=16
+Font=4
+LabelPosition=-379,-23
+LabelName=NORTH ATLANTIC OCEAN
+LabelPosition=37,105
+LabelName=NORWEGIAN SEA
+LabelPosition=-82.1,-252.1
+LabelName=NORTH SEA
+LabelPosition=-248.5,218.6
+LabelName=DANISH STRAIT
+LabelPosition=380,115.5
+LabelName=BARENTS SEA
+LabelPosition=55,256
+LabelName=GREENLAND SEA
+Size=14
+LabelPosition=195.4,-249.5
+LabelName=BALTIC SEA
+
+//Color=0.83,237,255
+//Color=157,168,210,255
+//Color=180,180,230,255
+//Color=180,180,255,255
+Color=43,71,97,255
+Outline=FALSE
+Size=12
+Font=4
+LabelPosition=477,-15
+LabelName=Mezen \n Bay
+LabelPosition=426,40
+LabelName=Svyatonossky \n Gulf 
+LabelPosition=115,12
+LabelName=Lofoten \n Islands
+LabelPosition=16,-228
+LabelName=Skagerrak
+LabelPosition=170,-308
+LabelName=Gotland
+LabelPosition=98,-336
+LabelName=Bornholm

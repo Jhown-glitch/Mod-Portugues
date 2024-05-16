@@ -1,0 +1,24 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+THERE IS DATA INDICATING THAT AN ENEMY SUBMARINES WITH WINGED ROCKETS HAS BEEN DAMAGED BY THE Navy FORCES IN THE AREA <color=Orange><STARTLOCATION></color>. 
+INTELEGENCE REPORTS THAT A DAMAGED SUBMARINE IS SIGNED IN A MARINE BASE LOCATING NEARBY  <color=Cyan><ENDLOCATION>, <COUNTRY></color>. 
+THE PROBABILITY THAT IT CAN LAUNCH AN ATTACK IS STILL THERE. YOUR TASK IS TO SINK IT. PLEASE NOTE THIS SUBMARINE MAY BE Accompanied by Other NATO Submarines.
+
+2.	(S) THE MAIN TASK:
+SEARCH AND SINK THE ENEMY SUBMARINE WITH WINGED ROCKETS
+
+3.	(S) ADDITIONAL TASK:
+NONE
+
+4.	(S) AVOID DETECTION BY ENEMY PATROL FORCES
+5.	(S) FREE WEAPON SELECTION
+6.	(S) RADIO SILENCE - KEEP RADIO SILENCE MODE UNLESS OTHERWISE DIRECTED
+
+[MISSION WIN]
+The commander of the submarine forces of the Northern Fleet of the Russian Federation was very happy to hear about your recent success, Commander. NATO must remember that the waters of the Pacific Ocean are ours, and any attempt to act in them will be decisively suppressed. The excellent work of you and your team is why you received this message! Well done!
+
+[MISSION FAIL]
+Your were not able to face the enemy submarine with all determination, which has made life on the shores of the Pacific for our colleagues much more difficult. Not to mention the danger to our merchant ships. We will have to work hard.
+
+[MISSION MISSED]
+Further search for the enemy is unproductive at this time

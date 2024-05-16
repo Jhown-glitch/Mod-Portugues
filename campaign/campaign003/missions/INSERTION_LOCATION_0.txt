@@ -1,0 +1,58 @@
+UseTerrain=TRUE
+MapCoordinates=1460,520
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry.png
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_nato
+
+//Enemy Ships
+UsePresetPositions=TRUE
+PlayerPosition=-50,100
+
+PlayerHeading=135
+PlayerDepthInFeet=50
+
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_ssn_victor3_pl|wp_84_ssn_victor2_pl|wp_84_ssn_victor1_pl|wp_84_ssn_sierra_pl|wp_84_ssn_mike_pl|wp_84_ssn_alfa_pl|wp_84_ssn_alfa2_pl|wp_84_ssn_akula1_pl|wp_84_ss_tango_un|wp_84_ss_kilo_un|wp_84_ss_foxtrot_un|wp_84_ss_romeo_un|wp_84_ss_whiskey_un|wp_84_ss_zulu_un|wp_84_ssg_juliet_un|wp_84_ssgn_charlie1_un|wp_84_ssgn_echo1_un|wp_84_ssgn_echo2_un|wp_84_ssn_november_un|wp_84_ssn_victor1_pl,wp_84_skr_riga_ai|wp_84_mpk_grisha3_ai|wp_84_em_sovremenny_ai|wp_68_bpk_kanin_ai|wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai,wp_84_skr_riga_ai|wp_84_mpk_grisha3_ai|wp_84_em_sovremenny_ai|wp_68_bpk_kanin_ai|wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin
+FormationCruiseSpeed=10
+
+//Group 1 - Northern destroyer patrol
+EnemyWaypoints=-200,130|540,-220
+EnemyWaypoints=-200,130|540,-220
+
+//Group 2 - Southern frigate patrol
+EnemyWaypoints=-200,-400|700,-10
+EnemyWaypoints=-200,-400|700,-10
+
+//Group 3 - Center cruiser patrol
+EnemyWaypoints=-250,-300|320,120|360,-220
+EnemyWaypoints=-250,-300|320,120|360,-220
+
+//Group 4 - Sub
+EnemyWaypoints=-220,420|-50,-900
+
+//Mission position
+MissionPosition=525,25
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh60b
+NumberOfAircraft=1
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=120,-200,80
+AircraftSearchArea=240,-100,300
+
+//spawn minefields and set detection range
+
+//ProximityMineLocations=-31,155|-211,46
+ProximityMineLocations=-31,155|75,60
+//number across,number deep,length,depth
+ProximityMineField=30,4,170,40|30,4,120,10
+ProximityMineFieldAngles=10,-60
+ProximityMineScatter=0.5,0.5
+

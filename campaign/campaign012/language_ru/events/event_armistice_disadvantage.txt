@@ -1,0 +1,13 @@
+NextAction=MAP
+Image=campaign/images/us/us (19).jpg
+Photo=campaign/images/us/84/air/news/us84an (6).jpg,campaign/images/us/84/air/news/us84an (7).jpg,campaign/images/us/84/air/news/us84an (8).jpg,campaign/images/us/84/land/news/us84ln (11).jpg
+Music=audio/music/ustowin.ogg
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><ENEMY> НАСТУПАЮТ ПО ВСЕМ ФРОНТАМ!</b>|<b><ENEMY> БЛИЗКИ К ПОБЕДЕ!</b>
+Color=57,61,73,255
+Sentence1=<ENEMY> взламывают оборону противника, <ENEMY_NAVY> успешно выполняют поставленные задачи в море. Руководство <FRIENDLY_SINGULAR> склоняются к тому, чтобы начать официальные переговоры о перемирии и начать закладывать основу для прекращения военных действий. Многие убеждены, что переговоры приведут к долгожданному соглашению между всеми враждебными странами.
+Color=218,218,208,255
+Sentence2=Учитывая непреодолимую мощь <ENEMY_SINGULAR>, аналитики по-прежнему серьезно обеспокоены тем, какую позицию могут иметь <FRIENDLY> на любых переговорах. Однако обе стороны по-прежнему держат свои «козырные» карты в форме своих ядерных арсеналов.

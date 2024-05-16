@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/ussr/war/w (3).jpg,campaign/images/ussr/war/w (8).jpg,campaign/images/ussr/war/w (9).jpg,campaign/images/ussr/war/w (11).jpg
+Photo=campaign/images/ussr/war/news/wn (1).jpg,campaign/images/ussr/war/news/wn (4).jpg,campaign/images/ussr/war/news/wn (5).jpg
+Music=audio/music/5.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>CIVIL WAR IN THE SOVIET UNION!</b>
+Sentence1=Following the collapse of the Warsaw Pact Organization, many republics of the USSR also expressed their intention to declare independence. In the struggle for sovereignty, numerous clashes between militias and government forces turned into an armed confrontation.
+Sentence2=Bloody interethnic conflicts broke out in the southern republics. The entire post-Soviet space has plunged into discord and despair, long live Democracy and Capitalism with a wolfish grin...

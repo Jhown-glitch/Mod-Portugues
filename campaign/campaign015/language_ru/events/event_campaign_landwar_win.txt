@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_2
+Image=campaign/images/2002/RUS/avianesushchii-kreiser-admiral-kuznetsov-atomnyi-kreiser-pio.jpg,campaign/images/3.jpg,campaign/images/Akula.jpg
+Photo=campaign/images/ussr/84/subs/news/ussr84sun (1).jpg,campaign/images/ussr/84/subs/news/ussr84sun (2).jpg,campaign/images/ussr/84/subs/news/ussr84sun (3).jpg,campaign/images/ussr/84/subs/news/ussr84sun (5).jpg,campaign/images/ussr/84/subs/news/ussr84sun (8).jpg,campaign/images/ussr/84/subs/news/ussr84sun (9).jpg,campaign/images/ussr/84/subs/news/ussr84sun (10).jpg,campaign/images/ussr/84/subs/news/ussr84sun (12).jpg,campaign/images/ussr/84/subs/news/ussr84sun (13).jpg,campaign/images/ussr/84/subs/news/ussr84sun (14).jpg,campaign/images/ussr/84/subs/news/ussr84sun (16).jpg,campaign/images/ussr/84/subs/news/ussr84sun (17).jpg,campaign/images/ussr/84/subs/news/ussr84sun (18).jpg,campaign/images/ussr/84/subs/news/ussr84sun (20).jpg
+Music=audio/music/Win.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>МОСКВА ИМЕЕТ ВЛИЯНИЕ ПО ВСЕМУ МИРУ</b>
+Sentence1=Флот РФ успешно блокировал выходы в открытое море.  В ходе военных действий и морских десантных операций, флот РФ успешно перекрыл выходы и поставки снабжения на отдаленные военно морские базы. Намечается финальный штурм по всем фронтам, чтобы сломить сопротивление противника!
+Sentence2=Политическая дестабилизация оказала заметное влияние на линии фронта, и силы РФ воспользовались ситуацией. Кажется, что Натовская коалиция развалена, поскольку дезертирство на Восток растет с каждым днем.

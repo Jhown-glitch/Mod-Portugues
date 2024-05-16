@@ -1,0 +1,46 @@
+//Okinawa
+UseTerrain=TRUE
+MapCoordinates=2413,1093
+MapNavigationData=campaign/images/maps/south_china_sea_merchants_us
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry.png
+WorldObjectsData=campaign/maps/south_china_sea_world_objects1
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_84_ddg_spruance_ai|usn_84_ddg_ticonderoga_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl,usn_84_ddg_spruance_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl,usn_84_ddg_spruance_ai|usn_84_ddg_ticonderoga_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl,usn_84_ddg_spruance_ai|usn_84_ddg_ticonderoga_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl
+
+FormationCruiseSpeed=12
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=70,-70
+PlayerHeading=5
+
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//N/S1 Patrol line
+EnemyWaypoints=-993,-167|974,107
+//Sub or trawler
+EnemyWaypoints=-995,-78|-1090,-93|1028,111
+//Patrol line South
+EnemyWaypoints=-816,-213|1194,204
+//North to west lurker 
+EnemyWaypoints=-820,-190|-815,184|1080,-160|1060,230
+
+MissionPosition=200,070
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+//plan_helix
+HelicopterType=ch_z-9
+NumberOfAircraft=0
+AircraftType=ch_y-8x
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-1120,-1037,200
+AircraftSearchArea=-1020,-1340,400

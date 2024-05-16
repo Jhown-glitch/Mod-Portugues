@@ -1,0 +1,14 @@
+NextAction=event_intro_7
+Image=campaign/images/2002/Курск 3.jpg
+Photo=campaign/images/2002/1336221621_9d5e5b1fb8c24d3591428e3b16d.jpg,campaign/images/2002/e4b3a9aecde4c69e9a11ee338977acdf.jpg,campaign/images/2002/foto8.jpg
+Music=audio/music/Cold Waters Combat 03
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>KURSK WAS TORPEDED BY A U.S. Navy SUBCRAFT!</b>
+Color=57,61,73,255
+Sentence1=September 27, 2001 the conclusion of the military commission of inquiry, confirmed version of the torpedo. Trace of torpedo hit detected in the hull of the boat! In the UN Security Council, the world split in two, the delegation of the United States and other Western countries left the meeting. Representatives of a number of countries in the Middle East, China, and the CIS expressed their readiness to support Russia.
+Color=218,218,208,255
+Sentence2=Declassified documents found by the military intelligence of Russia, confirmed military action by the United States! Russia appreciated the events with Kursk as open aggression! War is growing with renewed vigor!

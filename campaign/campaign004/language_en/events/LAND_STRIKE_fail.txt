@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/ussr/84/air/ussr84a (1).jpg,campaign/images/ussr/84/air/ussr84a (2).jpg,campaign/images/ussr/84/air/ussr84a (3).jpg,campaign/images/ussr/84/air/ussr84a (4).jpg,campaign/images/ussr/84/air/ussr84a (10).jpg,campaign/images/ussr/84/air/ussr84a (11).jpg,campaign/images/ussr/84/air/ussr84a (12).jpg,campaign/images/ussr/84/air/ussr84a (13).jpg,campaign/images/ussr/84/air/ussr84a (15).jpg,campaign/images/ussr/84/air/ussr84a (16).jpg,campaign/images/ussr/84/air/ussr84a (17).jpg,campaign/images/ussr/84/air/ussr84a (20).jpg
+Photo=campaign/images/ussr/84/air/news/ussr84an (1).jpg,campaign/images/ussr/84/air/news/ussr84an (2).jpg,campaign/images/ussr/84/air/news/ussr84an (3).jpg,campaign/images/ussr/84/air/news/ussr84an (4).jpg,campaign/images/ussr/84/air/news/ussr84an (5).jpg,campaign/images/ussr/84/air/news/ussr84an (6).jpg,campaign/images/ussr/84/air/news/ussr84an (7).jpg,campaign/images/ussr/84/air/news/ussr84an (10).jpg,campaign/images/ussr/84/air/news/ussr84an (12).jpg,campaign/images/ussr/84/air/news/ussr84an (13).jpg,campaign/images/ussr/84/air/news/ussr84an (14).jpg,campaign/images/ussr/84/air/news/ussr84an (16).jpg,campaign/images/ussr/84/air/news/ussr84an (17).jpg,campaign/images/ussr/84/air/news/ussr84an (18).jpg,campaign/images/ussr/84/air/news/ussr84an (20).jpg,campaign/images/ussr/84/air/news/ussr84an (21).jpg,campaign/images/ussr/84/air/news/ussr84an (23).jpg,campaign/images/ussr/84/air/news/ussr84an (24).jpg,campaign/images/ussr/84/air/news/ussr84an (25).jpg
+Music=audio/music/lost1.ogg,audio/music/lost2.ogg,audio/music/lost3.ogg,audio/music/lost4.ogg,audio/music/lost5.ogg,audio/music/lost6.ogg,audio/music/lost7.ogg,audio/music/lost8.ogg,audio/music/lost9.ogg,audio/music/lost10.ogg,audio/music/lost11.ogg,audio/music/lost12.ogg,audio/music/lost13.ogg,audio/music/lost14.ogg,audio/music/lost15.ogg,audio/music/lost16.ogg,audio/music/lost17.ogg,audio/music/lost18.ogg,audio/music/lost19.ogg,audio/music/lost20.ogg,audio/music/lost21.ogg
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>AIR STRIKES</b>|<b><ENEMY_SINGULAR> AIR SUPERIORITY</b>
+Color=57,61,73,255
+Sentence1=<ENDLOCATION>, <COUNTRY>: Relying on well-equipped air bases, <ENEMY_SINGULAR> Airforces have won control of the skies and firmly hold air supremacy. Under the cover of numerous aerial patrols, strike aircraft operate almost with impunity, seriously complicating the life of <FRIENDLY_PREFIX>.
+
+Color=218,218,208,255
+Sentence2= View from the other side. According to reports from the General Staff, the situation is very difficult: The air approaches to the air bases are reliably blocked by enemy fighter aircraft, and the air defense system excludes the possibility of a missile strike. "Unfortunately, at the moment these bases are invulnerable to us", the representative of the General Staff admitted.

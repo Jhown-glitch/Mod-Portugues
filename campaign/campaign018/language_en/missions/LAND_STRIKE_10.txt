@@ -1,0 +1,19 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+According to intelligence reports, due to bad weather in the next 7 days, NATO naval aviation will have no choices but to stay on the ground near the area of ​​<ENDLOCATION>. THIS WILL CREATE A TACTICAL WINDOW WHICH YOU SHOULD USE.Prepare a course to approach within 100 miles from <color=Cyan><ENDLOCATION> ( <COUNTRY> )</color>, to launch rocket <WEAPONNUMBER> (<WEAPONNUMBERDIGITS>) <WEAPONREQUIRED> for these goals. <color=<REQUIREDWEAPONSONBOARD>>Attention: if you do not have <WEAPONNUMBERDIGITS> <WEAPONREQUIRED> on board, you must go back to the port of <STARTLOCATION> and re-equip rocket <WEAPONNUMBERDIGITS> <WEAPONREQUIRED> for this mission.</color>
+
+2.	(S) THE MAIN TASK:
+<color=<REQUIREDWEAPONSONBOARD>>DEPART WITH <WEAPONNUMBER> (<WEAPONNUMBERDIGITS>) <WEAPONREQUIRED> FROM <STARTLOCATION></color>
+APPROACH <ENDLOCATION> AND LAUNCH AT LEAST <WEAPONNUMBER> (<WEAPONNUMBERDIGITS>) <WEAPONREQUIRED> ROCKET.
+3.	(S) ADDITIONAL TASK:
+SEARCH AND SINK ANY NEARBY BATTLE SHIPS IF POSSIBLE
+
+4.	(S) AVOID DETECTION BY ANY ENEMY PATROL WARSHIP
+5.	(S) FREE WEAPON SELECTION
+6.	(S) RADIO SILENCE - KEEP RADIO SILENCE MODE UNLESS OTHERWISE DIRECTED
+[MISSION WIN]
+Perfectly executed strike on the ground targets. Satellite data show significant damage done to the targets.
+[MISSION FAIL]
+We are disappointed to hear that you were not able to complete the mission in full.
+[MISSION MISSED]
+We are disappointed to hear that you did not enter the attacking area as planned. Now the window with the ability to complete the mission is closed. Therefore, the mission has been cancelled.

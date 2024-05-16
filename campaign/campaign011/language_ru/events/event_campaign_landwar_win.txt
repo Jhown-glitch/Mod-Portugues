@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_2
+Image=campaign/images/ussr/84/land/ussr84l (2).jpg,campaign/images/ussr/84/land/ussr84l (5).jpg,campaign/images/ussr/84/land/ussr84l (10).jpg,campaign/images/ussr/84/land/ussr84l (11).jpg,campaign/images/ussr/84/land/ussr84l (19).jpg,campaign/images/ussr/84/land/ussr84l (20).jpg,campaign/images/ussr/84/sea/ussr84s (3).jpg,campaign/images/ussr/84/sea/ussr84s (18).jpg
+Photo=campaign/images/ussr/84/air/news/ussr84an (8).jpg,campaign/images/ussr/84/air/news/ussr84an (9).jpg,campaign/images/ussr/84/air/news/ussr84an (26).jpg
+Music=audio/music/win14.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>РАСПАД НАТО</b>
+Sentence1=Несмотря на сопротивление <ENEMY_SINGULAR>, <FRIENDLY> сумели захватить все стратегически важные регионы. Выход войск Варшавского договора на границу Франции и на берег Па-де-Кале, недвусмысленно намекет на разрушительные перспективы дальнейшей эскалации. Советский флот безраздельно контролирует Северную Атлантику.
+Sentence2=Неспособность НАТО выполнить свои обещания по защите входящих в него стран привела к лавинообразному распаду блока. Многие страны начали переговоры с СССР о сепаратном мире.

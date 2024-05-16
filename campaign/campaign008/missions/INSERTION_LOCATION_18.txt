@@ -1,0 +1,43 @@
+//Paracel Islands - Oil Rig
+//Не используется
+UseTerrain=TRUE
+MapCoordinates=1481,527
+
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_68_ssn_sturgeon_un|usn_68_ssn_permit_un|usn_68_ssn_skipjack_un|usn_68_ssn_sturgeon_un|usn_68_ss_guppy_un|usn_68_ss_guppy_3|usn_68_ss_tang_un|usn_68_ss_barbel_un|usn_68_ssn_nautilus_un|plan_uk_68_ssn_dreadnought_un|plan_uk_68_ssn_valliant_un|plan_ger_68_ss_205_un|plan_uk_68_ss_oberon_un|plan_aus_68_ss_oberon_un|plan_neth_68_ss_dolfijn_un,usn_68_ddg_adams_ai|usn_68_dd_sherman_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1|usn_68_cg_belknap_ai,usn_68_ddg_adams_ai|usn_68_dd_sherman_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1|usn_68_cg_belknap_ai,usn_vt_fleet-tanker|usn_vt_oiler|usn_84_aor_oiler|usn_vt_small-fl-tanker|usn_vtr_transport|usn_ms_small_freighter|usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p|usn_68_bb_iowa_ai|usn_68_cv_essex_ai|usn_68_lph_iwojima_ai
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-800,-1010
+PlayerHeading=280
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//N/S1 Patrol line
+EnemyWaypoints=-993,-767|-974,-1074
+//Sub or trawler
+EnemyWaypoints=-995,-780|-1090,-933|-1028,-1111
+//Patrol line South
+EnemyWaypoints=-816,-1139|-1194,-1040
+//North to west lurker 
+EnemyWaypoints=-820,-905|-815,-840|-1080,-860|-1060,-1030
+
+MissionPosition=-995,-937
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-1120,-1037,200
+AircraftSearchArea=-1020,-1340,400

@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/2002/NATO/sea/SEA (1).jpg,campaign/images/2002/NATO/sea/SEA (2).jpg,campaign/images/2002/NATO/sea/SEA (3).jpg,campaign/images/2002/NATO/sea/SEA (4).jpg,campaign/images/2002/NATO/sea/SEA (5).jpg,campaign/images/2002/NATO/sea/SEA (6).jpg,campaign/images/2002/NATO/sea/SEA (7).jpg,campaign/images/2002/NATO/sea/SEA (8).jpg,campaign/images/2002/NATO/sea/SEA (9).jpg,campaign/images/2002/NATO/sea/SEA (10).jpg,campaign/images/2002/NATO/sea/SEA (11).jpg,campaign/images/2002/NATO/sea/SEA (12).jpg,campaign/images/2002/NATO/sea/SEA (13).jpg,campaign/images/2002/NATO/sea/SEA (14).jpg,campaign/images/2002/NATO/sea/SEA (15).jpg,campaign/images/2002/NATO/sea/SEA (16).jpg,campaign/images/2002/NATO/sea/SEA (17).jpg
+Photo=campaign/images/2002/NATO/sea/JPEG/SEA (1).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (2).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (3).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (4).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (5).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (6).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (7).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (8).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (9).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (10).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (11).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (12).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (13).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (14).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (15).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (16).jpg,campaign/images/2002/NATO/sea/JPEG/SEA (17).jpg
+Music=audio/music/ussea3.ogg,audio/music/ussea4.ogg,audio/music/ussea5.ogg,audio/music/ussea6.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><FRIENDLY_TITLE_INVASION></b>
+Color=57,61,73,255
+Sentence1=<FRIENDLY_INVASION_SEA>
+Color=218,218,208,255
+Sentence2=<WARSTATUS1> <WARSTATUS2>

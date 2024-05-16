@@ -1,0 +1,13 @@
+﻿NextAction=event_campaign_fail_2
+Image=campaign/images/china/2000/subs/chs (1).jpg,campaign/images/china/2000/subs/chs (3).jpg,campaign/images/china/2000/subs/chs (9).jpg
+Photo=campaign/images/china/2000/subs/news/chsn (3).jpg,campaign/images/china/2000/subs/news/chsn (12).jpg,campaign/images/china/2000/subs/news/chsn (14).jpg,campaign/images/china/2000/subs/news/chsn (16).jpg,campaign/images/china/2000/subs/news/chsn (17).jpg,campaign/images/china/2000/subs/news/chsn (18).jpg
+Music=audio/music/lost10.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>УГРОЗА ПРИМЕНЕНИЯ ЯДЕРНОГО ОРУЖИЯ СЛИШКОМ ВЫСОКА</b>
+Sentence1=Ядерные баллистические ракеты, спрятанные на материковой части Китая, использовались в качестве рычага давления во время недавних переговоров о перемирии, чтобы укрепить слабую позицию Китая. Наконец, обе стороны признали "взаимно гарантированное уничтожение" дальнейшего развития конфликта, и в настоящее время ведутся переговоры о возвращении мира и стабильности в регион.
+Sentence2=ПРЕКРАЩЕНИЕ ОГНЯ<n> Общее прекращение огня, объявленное всего несколько дней назад, к счастью, похоже, соблюдается на всех фронтах. Анонимный представитель Министерства обороны предположил, что если мирные переговоры будут успешными, многие военнослужащие могут отправиться домой в течение нескольких недель.

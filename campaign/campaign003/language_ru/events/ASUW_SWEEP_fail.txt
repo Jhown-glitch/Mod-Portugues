@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/oilrigs
+Photo=campaign/images/ussr/84/ships/bb/news/ussr84shbbn (1).jpg,campaign/images/ussr/84/ships/bb/news/ussr84shbbn (2).jpg,campaign/images/ussr/84/ships/bb/news/ussr84shbbn (3).jpg,campaign/images/ussr/84/ships/bb/news/ussr84shbbn (4).jpg,campaign/images/ussr/84/ships/bb/news/ussr84shbbn (5).jpg,campaign/images/ussr/84/ships/bb/news/ussr84shbbn (6).jpg,campaign/images/ussr/84/ships/bb/news/ussr84shbbn (7).jpg,campaign/images/ussr/84/ships/bb/news/ussr84shbbn (8).jpg,campaign/images/ussr/84/ships/bb/news/ussr84shbbn (9).jpg,campaign/images/ussr/84/ships/cv/news/ussr84sgcvn (1).jpg,campaign/images/ussr/84/ships/cv/news/ussr84sgcvn (2).jpg,campaign/images/ussr/84/ships/cv/news/ussr84sgcvn (3).jpg,campaign/images/ussr/84/ships/cv/news/ussr84sgcvn (4).jpg,campaign/images/ussr/84/ships/cv/news/ussr84sgcvn (5).jpg,campaign/images/ussr/84/ships/news/ussr84shn (3).jpg,campaign/images/ussr/84/ships/news/ussr84shn (4).jpg,campaign/images/ussr/84/ships/news/ussr84shn (5).jpg,campaign/images/ussr/84/ships/news/ussr84shn (8).jpg,campaign/images/ussr/84/ships/news/ussr84shn (11).jpg,campaign/images/ussr/84/ships/news/ussr84shn (27).jpg,campaign/images/ussr/84/ships/news/ussr84shn (40).jpg,campaign/images/ussr/84/ships/news/ussr84shn (42).jpg,campaign/images/ussr/84/ships/news/ussr84shn (44).jpg
+Music=audio/music/lost1.ogg,audio/music/lost2.ogg,audio/music/lost3.ogg,audio/music/lost4.ogg,audio/music/lost5.ogg,audio/music/lost6.ogg,audio/music/lost7.ogg,audio/music/lost8.ogg,audio/music/lost9.ogg,audio/music/lost10.ogg,audio/music/lost11.ogg,audio/music/lost12.ogg,audio/music/lost13.ogg,audio/music/lost14.ogg,audio/music/lost15.ogg,audio/music/lost16.ogg,audio/music/lost17.ogg,audio/music/lost18.ogg,audio/music/lost19.ogg,audio/music/lost20.ogg,audio/music/lost21.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ПОСТАВКИ НЕФТИ</b>|<b>ДО ПОЛНОГО БАКА</b>
+Color=57,61,73,255
+Sentence1=Разведка докладывает, успешная операция <ENEMY_NAVY_SINGULAR> в районе <ENDLOCATION_RO> позволила осуществить большую поставку нефти по морскому пути. Ожидавется увеличение количества морских операций в регионе, в связи с пополнением запасов топлива на базах <ENEMY_SINGULAR>.
+Color=218,218,208,255
+Sentence2=<FRIENDLY> продолжают утверждать, что <ENEMY> используют гражданские объекты, такие как нефтяные вышки, в качестве передовых оперативных баз. Эксперты в области охраны окружающей среды выражают обеспокоенность тем, что, если это так, повреждение или разрушение таких объектов может привести к беспрецедентному и непоправимому экологическому ущербу для региона.

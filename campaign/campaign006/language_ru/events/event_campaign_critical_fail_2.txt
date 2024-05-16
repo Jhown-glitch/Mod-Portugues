@@ -1,0 +1,5 @@
+NextAction=END
+Image=campaign/images/photos/nuke/1.jpg,campaign/images/photos/nuke/2.jpg,campaign/images/photos/nuke/3.jpg,campaign/images/photos/nuke/5.jpg,campaign/images/photos/nuke/6.jpg,campaign/images/photos/nuke/n (4).jpg,campaign/images/photos/nuke/n (6).jpg,campaign/images/photos/nuke/n (10).jpg,campaign/images/photos/nuke/n (11).jpg,campaign/images/photos/nuke/n (12).jpg,campaign/images/photos/nuke/n (13).jpg,campaign/images/photos/nuke/n (14).jpg
+Photo=campaign/images/photos/nuke/1.jpg,campaign/images/photos/nuke/2.jpg,campaign/images/photos/nuke/3.jpg,campaign/images/photos/nuke/5.jpg,campaign/images/photos/nuke/6.jpg,campaign/images/photos/nuke/n (1).jpg,campaign/images/photos/nuke/n (2).jpg,campaign/images/photos/nuke/n (3).jpg,campaign/images/photos/nuke/n (4).jpg,campaign/images/photos/nuke/n (5).jpg,campaign/images/photos/nuke/n (6).jpg,campaign/images/photos/nuke/n (7).jpg,campaign/images/photos/nuke/n (8).jpg,campaign/images/photos/nuke/n (9).jpg,campaign/images/photos/nuke/n (10).jpg,campaign/images/photos/nuke/n (11).jpg,campaign/images/photos/nuke/n (12).jpg,campaign/images/photos/nuke/n (13).jpg
+Music=audio/music/02869.ogg
+Title=BLANK

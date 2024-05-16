@@ -1,0 +1,13 @@
+NextAction=event_campaign_court_martial_2
+Image=campaign/images/guam
+Photo=campaign/images/convoy/news/convoyn (1).jpg,campaign/images/convoy/news/convoyn (2).jpg,campaign/images/convoy/news/convoyn (3).jpg,campaign/images/convoy/news/convoyn (4).jpg
+Music=audio/music/lost15.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>WAR CRIMES</b>|<b>UNLIMITED UNDERWATER WAR?</b>
+Sentence1=Civilian shipping losses and maritime accidents have increased at an alarming rate in recent weeks. However, despite warnings about such contested regions, civilian ships may still cross them at their own risk.
+Sentence2=The civilian casualties have been described by analysts as nothing more than deliberate, raising questions about the behavior of both <ENEMY_SINGULAR> and <FRIENDLY_SINGULAR> commands in the region. In response, the authorized persons promised to investigate these numerous incidents in order to justify them or to identify any illegal activities.

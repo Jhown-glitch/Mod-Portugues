@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/navy_dsm.png
+Music=audio/music/good.ogg
+Header=THE SECRETARY OF THE NAVY<n>WASHINGTON
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=The Secretary of the Navy takes pleasure in awarding <POSTHUMOUSLY> the
+Sentence1=<b><size=22>DISTINGUISHED SERVICE MEDAL<n>TO<n><PLAYER_RANK> <PLAYERNAME><n>COMMANDING OFFICER,<n><PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME></size></b>
+Sentence2=FOR:<n>Exceptionally meritorious service as Commanding Officer <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME>. <PLAYERNAME>'s steadfast devotion and superior tactical decisions have consistently brought success to his unit in action. His conduct reflects great credit upon him, this command, and is in keeping with the highest traditions of the United States Naval Service.

@@ -1,0 +1,59 @@
+//Holy Loch 0
+//This location is nescessary since game have a bad habit using 0 sometimes...
+UseTerrain=TRUE
+MapCoordinates=1460,520
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry.png
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_nato
+
+//Enemy Ships
+UsePresetPositions=TRUE
+PlayerPosition=-50,100
+
+PlayerHeading=135
+PlayerDepthInFeet=50
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_84_ssn_narwhal_pl|usn_84_ssn_sturgeon_pl|usn_84_ssn_permit_pl|usn_84_ssn_skipjack_un|usn_84_ssn_los_angeles_pl|usn_84_ssn_sturgeon_pl|plan_it_84_ss_toti_un|plan_uk_84_ssn_trafalgar_un|plan_uk_84_ssn_swiftsure_un|plan_uk_84_ssn_churchill_un|plan_ger_68_ss_205_un|plan_uk_84_ss_oberon_un|plan_ger_84_ss_209_un|plan_knm_84_ss_kobben|plan_fr_84_ssn_rubis_un|plan_it_84_ss_toti_un|plan_neth_68_ss_dolfijn_un,usn_84_ddg_adams_ai|usn_84_cg_belknap_ai,usn_84_ff_knox_ai|usn_ddg_kidd|usn_cg_leahy|usn_84_ddg_ticonderoga_ai|usn_84_cgn_virginia_ai|usn_84_ff_perry_ai|usn_84_ffg_perry_lh_ai|usn_84_ddg_spruance_ai,usn_vt_fleet-tanker|usn_vt_oiler|usn_84_aor_oiler|usn_vt_small-fl-tanker|usn_vtr_transport|usn_ms_small_freighter|usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p
+FormationCruiseSpeed=10
+
+//Group 1 - Northern destroyer patrol
+EnemyWaypoints=-200,130|540,-220
+EnemyWaypoints=-200,130|540,-220
+
+//Group 2 - Southern frigate patrol
+EnemyWaypoints=-200,-400|700,-10
+EnemyWaypoints=-200,-400|700,-10
+
+//Group 3 - Center cruiser patrol
+EnemyWaypoints=-250,-300|320,120|360,-220
+EnemyWaypoints=-250,-300|320,120|360,-220
+
+//Group 4 - Sub
+EnemyWaypoints=-220,420|-50,-900
+
+//Mission position
+MissionPosition=525,25
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh60b
+NumberOfAircraft=0
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=120,-200,80
+AircraftSearchArea=240,-100,300
+
+//spawn minefields and set detection range
+
+//ProximityMineLocations=-31,155|-211,46
+ProximityMineLocations=-31,155|75,60
+//number across,number deep,length,depth
+ProximityMineField=30,3,170,40|30,3,120,10
+ProximityMineFieldAngles=10,-60
+ProximityMineScatter=0.3,0.3
+

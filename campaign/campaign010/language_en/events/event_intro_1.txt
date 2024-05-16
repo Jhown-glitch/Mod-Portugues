@@ -1,0 +1,13 @@
+NextAction=event_intro_2
+Image=campaign/images/1968/5035952_original.png,campaign/images/1968/1500462362_ea159231b2186607f233244e658f4412 (1) (2).jpg,campaign/images/1968/GettyImages-615204648-Horizontal.jpeg
+Photo=campaign/images/1968/viet.jpg,campaign/images/1968/vetnamskaya-vojna.jpg,campaign/images/1968/954587cabecc4274c556f0181a56fed6--north-vietnam-grip.jpg,campaign/images/1968/viet2.png
+Music=audio/music/Cold Waters Main Menu
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>1968 <n> THE COLD WAR AT THE HEIGHT</b>
+Color=57,61,73,255
+Sentence1=In Southeast Asia, America is fighting communism in Vietnam. Through this war, there was a clash on a global level between the USA and the USSR. The military power that was opposed to the United States is Soviet modern weapons and the dedication of the Vietnamese. 
+Color=218,218,208,255
+Sentence2=In the course of the war, the leading powers of the capitalist and socialist worlds collided. The Saigon army and the regime sided with the United States. There was a confrontation between the communist north and south represented by the Saigon regime.

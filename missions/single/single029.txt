@@ -1,0 +1,54 @@
+//JAN MAYEN
+UseTerrain=TRUE
+MapCoordinates=1985,1474
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_68_ru
+
+//Environment
+Date=05 Jan 1970
+Hemisphere=North
+Time=1700
+UsePresetEnvironment=TRUE
+Weather=Snow
+SeaState=FreshBreeze
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+//|
+NumberOfEnemyUnits=2-2,2-2,1-1
+CombatBehaviour=DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1,usn_68_ss_tang_un|usn_68_ss_guppy_un|usn_68_ss_guppy_3
+FormationCruiseSpeed=6
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=100,100
+PlayerHeading=270
+PlayerDepthInFeet=150
+
+
+//Group1 Waypoints.
+EnemyWaypoints=55,75|55,0
+EnemyWaypoints=50,70|50,0
+//Group2 Waypoints.FV
+EnemyWaypoints=80,80|0,0
+EnemyWaypoints=80,70|0,5
+//Group3 Waypoints.DE SM
+EnemyWaypoints=-300,0|-250,0
+
+MissionPosition=-320,50
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=usn_sh3d
+NumberOfAircraft=1
+AircraftType=usn_p3a
+
+PlayerVessels=wp_68_ss_whiskey_un,wp_68_ss_foxtrot_un,wp_68_ss_romeo_un,wp_68_ssgn_whiskeylb_un,wp_68_ssg_juliet_un
+
+CommanderName=COM NORTHERN FLEET
+CommanderFleetName=GLAVCOM VMF

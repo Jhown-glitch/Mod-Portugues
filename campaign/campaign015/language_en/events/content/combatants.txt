@@ -1,0 +1,23 @@
+FRIENDLY=RF Armed Forces|EAEU Troops|RF Armed Forces|Russian Armed Forces|CSTO Forces|Russians
+ENEMY=NATO Forces|Alliance Forces|Western Forces|Americans
+
+FRIENDLY_SINGULAR=EAEU Troops|Russian Armed Forces|CSTO Forces|Russians
+ENEMY_SINGULAR=NATO Forces|Alliance Forces|Western Forces|American
+
+FRIENDLY_PREFIX=EAEU Troops|Russian Armed Forces|CSTO Forces|Russians
+ENEMY_PREFIX=NATO Forces|Alliance Forces|Western Forces|Americans
+
+FRIENDLY_SUFFIX=EAEU Troops|Russian Armed Forces|CSTO Forces|Russians
+ENEMY_SUFFIX=NATO Forces|Alliance Forces|Western Forces|Americans
+
+FRIENDLY_NAVY=RF VMF|EAEU Troops|RF Naval Forces|Russian Fleet|Russians
+ENEMY_NAVY=NATO Navy|Alliance fleet|Western Navy|Americans
+
+FRIENDLY_NAVY_SINGULAR=RF VMF|EAEU Troops|RF Naval Forces|Russian Fleet|Russians
+ENEMY_NAVY_SINGULAR=NATO Navy|Alliance fleet|Western Navy|Americans
+
+FRIENDLY_NAVY_PREFIX=RF VMF|EAEU Troops|RF Naval Forces|Russian Fleet|Russians
+ENEMY_NAVY_PREFIX=NATO Navy|Alliance fleet|Western Navy|Americans
+
+FRIENDLY_NAVY_SUFFIX=NATO Navy|Alliance fleet|Western Navy|Americans
+ENEMY_NAVY_SUFFIX=RF VMF|EAEU Troops|RF Naval Forces|Russian Fleet|Russians

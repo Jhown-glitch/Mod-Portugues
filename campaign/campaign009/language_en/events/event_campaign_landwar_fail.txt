@@ -1,0 +1,13 @@
+NextAction=event_campaign_landwar_fail_2
+Image=campaign/images/us/68/land/us68l (38).jpg,campaign/images/us/68/land/us68l (2).jpg,campaign/images/us/68/land/us68l (4).jpg,campaign/images/us/68/land/us68l (5).jpg,campaign/images/us/68/land/us68l (11).jpg,campaign/images/us/68/land/us68l (23).jpg,campaign/images/us/68/land/us68l (24).jpg,campaign/images/us/68/land/us68l (28).jpg,campaign/images/us/68/land/us68l (35).jpg
+Photo=campaign/images/ussr/68/land/news/destroyed/ussr68nd (1).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (2).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (3).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (4).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (5).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (6).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (7).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (8).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (9).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (10).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (11).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (12).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (13).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (14).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (15).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (16).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (17).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (18).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (19).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (20).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (21).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (22).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (23).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (24).jpg,campaign/images/ussr/68/land/news/destroyed/ussr68nd (25).jpg
+Music=audio/music/lost9.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>THE WAR IS OVER!</b>
+Sentence1=The Soviet blitzkrieg in Europe was defeated. Having repulsed the initial onslaught, NATO troops went on the offensive and pushed WP troops back. In view of the senselessness of continuing military operations, the Soviet Union has been forced to peace negotiations.
+Sentence2=This defeat has led to the complete collapse of the Warsaw Pact as a command structure, with some republics of the USSR also having expressed their intention to secede. At present, however, their fate is still unclear, as Soviet troops are in their territory, and negotiations are still ongoing.

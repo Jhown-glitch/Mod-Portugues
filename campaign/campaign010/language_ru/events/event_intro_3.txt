@@ -1,0 +1,13 @@
+NextAction=event_intro_4
+Image=campaign/images/1968/1260692-russian-navy.jpg,campaign/images/1968/1-6.jpg,campaign/images/1968/342197.jpg,campaign/images/1968/tomswallpapers.com-31947.jpg,campaign/images/1968/tomswallpapers.com-31947.jpg
+Photo=campaign/images/1968/345.jpg,campaign/images/1968/315.jpg,campaign/images/1968/354.jpg,campaign/images/1968/464.jpg
+Music=audio/music/Cold Waters Main Menu
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ПРОТИВОСТОЯНИЕ</b>
+Color=57,61,73,255
+Sentence1=По обе стороны земного шара две Сверхдержавы ведут смертельно опасную, стратегически важную игру за обладание военным превосходством.
+Color=218,218,208,255
+Sentence2=В условиях противостояния двух военных блоков (НАТО и Организация Варшавского договора) Восточная Европа находилась под полным контролем СССР, а Западная Европа в прочном военно-политическом и экономическом союзе с США, основной ареной борьбы двух систем стали страны «третьего мира», что нередко приводило к локальным военным конфликтам по всему миру.

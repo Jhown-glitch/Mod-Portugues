@@ -1,0 +1,22 @@
+NextAction=MAP
+Image=campaign/images/ussr/84/ships/ussr84sh (18).jpg,campaign/images/ussr/84/ships/ussr84sh (26).jpg,campaign/images/ussr/84/ships/ussr84sh (54).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (1).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (2).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (3).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (4).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (5).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (6).jpg
+Photo=campaign/images/us/84/subs/ssbn/news/us84sussbnn (1).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (2).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (3).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (4).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (5).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (6).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (7).jpg,campaign/images/ussr/84/ships/news/ussr84shn (6).jpg,campaign/images/ussr/84/ships/news/ussr84shn (9).jpg,campaign/images/ussr/84/ships/news/ussr84shn (14).jpg,campaign/images/ussr/84/ships/news/ussr84shn (15).jpg,campaign/images/ussr/84/ships/news/ussr84shn (25).jpg,campaign/images/ussr/84/ships/news/ussr84shn (40).jpg
+Music=audio/music/lost1.ogg,audio/music/lost2.ogg,audio/music/lost3.ogg,audio/music/lost4.ogg,audio/music/lost5.ogg,audio/music/lost6.ogg,audio/music/lost7.ogg,audio/music/lost8.ogg,audio/music/lost9.ogg,audio/music/lost10.ogg,audio/music/lost11.ogg,audio/music/lost12.ogg,audio/music/lost13.ogg,audio/music/lost14.ogg,audio/music/lost15.ogg,audio/music/lost16.ogg,audio/music/lost17.ogg,audio/music/lost18.ogg,audio/music/lost19.ogg,audio/music/lost20.ogg,audio/music/lost21.ogg
+
+Header=<DATE>
+
+Font=0
+
+Outline=FALSE
+
+Color=180,71,64,255
+
+Title=<b>НЕУДАЧА НАНЕСЕНИЯ ЯДЕРНОГО УДАРА</b>
+
+Color=57,61,73,255
+
+Sentence1=В последние дни многочисленные войска и подкрепления прибыли на фронт. Внезапное превосходство в регионе показало <FRIENDLY_PREFIX> их неготовность и, как сообщается, оказало пагубное воздействие на большинство операций.
+
+Color=218,218,208,255
+
+Sentence2=В ходе исследования военные эксперты пришли к выводу, что нужно уничтожать инфраструктуру <ENEMY_SINGULAR> для достижения стратегического превосходства. 

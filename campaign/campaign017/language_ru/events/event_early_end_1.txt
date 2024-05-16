@@ -1,0 +1,14 @@
+NextAction=event_early_end_2
+Image=campaign/images/us/84/ships/us84s (4).jpg,campaign/images/us/84/ships/us84s (16).jpg,campaign/images/us/84/ships/us84s (47).jpg,campaign/images/us/84/ships/cv/us84scv (4).jpg
+Photo=campaign/images/convoy/news/convoyn (1).jpg,campaign/images/convoy/news/convoyn (2).jpg,campaign/images/convoy/news/convoyn (3).jpg,campaign/images/convoy/news/convoyn (4).jpg
+Music=audio/music/lost11.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>КРИТИЧЕСКИЕ ПОТЕРИ</b>
+Sentence1=<FRIENDLY_NAVY> понёсли тяжелые потери в последних столкновениях с <ENEMY_NAVY_SUFFIX> и похоже теперь вынуждены прекратить активные действия, сосредоточившись исключительно на обороне своих баз.
+
+Sentence2=Между тем неудачи <FRIENDLY_NAVY_SINGULAR> на море уже оказывают своё влияние на ход войны на суше. Несколько ударных групп <ENEMY_NAVY_SINGULAR> оказывают активную поддержку обороняющимся войскам, которые смогли не только вздохнуть свободнее, но и перейти в контрнаступление на нескольких участках фронта.

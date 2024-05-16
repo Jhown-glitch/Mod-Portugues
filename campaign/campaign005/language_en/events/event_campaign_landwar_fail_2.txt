@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/us (16).jpg,campaign/images/us/us (17).jpg,campaign/images/us/us (18).jpg
+Photo=campaign/images/us/news/usn (10).jpg,campaign/images/us/news/usn (11).jpg,campaign/images/us/news/usn (12).jpg,campaign/images/us/news/usn (13).jpg,campaign/images/us/news/usn (14).jpg
+Music=audio/music/5.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>SECOND AMERICAN CIVIL WAR!</b>
+Sentence1=Due to the difference in understanding of the further development of the country, in America, at first, disagreements arose in the political arena, then these disagreements grew into confrontation with peaceful demonstrations, which quickly turned into armed clashes due to the large number of weapons among citizens. The US is in chaos.
+Sentence2=The Western states declared themselves a separate territory from the United States, in response, troops were sent to their territories, fierce street battles ensued. In all states, riots, looting of shops and supermarkets do not subside, a food crisis and famine are setting in. There is also a split in the army, which only escalates the situation. Neither side is ready to compromise. God bless America...

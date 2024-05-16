@@ -1,0 +1,11 @@
+NextAction=event_campaign_win_2
+Image=campaign/images/2002/RUS/avianesushchii-kreiser-admiral-kuznetsov-atomnyi-kreiser-pio.jpg,campaign/images/3.jpg,campaign/images/Akula.jpg
+Photo=campaign/images/ussr/84/subs/news/ussr84sun (1).jpg,campaign/images/ussr/84/subs/news/ussr84sun (2).jpg,campaign/images/ussr/84/subs/news/ussr84sun (3).jpg,campaign/images/ussr/84/subs/news/ussr84sun (5).jpg,campaign/images/ussr/84/subs/news/ussr84sun (8).jpg,campaign/images/ussr/84/subs/news/ussr84sun (9).jpg,campaign/images/ussr/84/subs/news/ussr84sun (10).jpg,campaign/images/ussr/84/subs/news/ussr84sun (12).jpg,campaign/images/ussr/84/subs/news/ussr84sun (13).jpg,campaign/images/ussr/84/subs/news/ussr84sun (14).jpg,campaign/images/ussr/84/subs/news/ussr84sun (16).jpg,campaign/images/ussr/84/subs/news/ussr84sun (17).jpg,campaign/images/ussr/84/subs/news/ussr84sun (18).jpg,campaign/images/ussr/84/subs/news/ussr84sun (20).jpg
+Music=audio/music/Win.ogg
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>MOSCOW HAS INFLUENCE ALL OVER THE WORLD</b>
+Sentence1=The Russian fleet has successfully blocked access to the open sea. In the course of military operations and amphibious landing operations, the Russian fleet successfully blocked the exits and supplies to remote naval bases. A final assault is planned on all fronts in order to break the enemy’s resistance!
+Sentence2=Political destabilization had a noticeable impact on the front lines, and Russian forces took advantage of the situation. It seems that the NATO coalition has collapsed, as desertion to the East is growing every day.

@@ -1,0 +1,34 @@
+//The Duel - 2020
+
+UseTerrain=TRUE
+MapCoordinates=1470,946
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/south_china_sea_traffic
+
+//Environment
+Date=15 DEC 2020
+Hemisphere=North
+Time=1200
+UsePresetEnvironment=FALSE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=VeryWeak
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=OFFENSIVE
+EnemyShipClasses=plan_fr_20_ssn_suffren_un
+FormationCruiseSpeed=8
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
+
+PlayerVessels=wp_16_ss_kiloimp_pl,wp_02_ssn_akula2_pl,wp_14_ssn_yasen_pl,wp_20_ssn_yasenm_pl,wp_19_ssgn_oscar2mod_pl,wp_13_ssbn_borei_pl
+CommanderName=COMSUBLANT
+CommanderFleetName=CINCLANTFLT

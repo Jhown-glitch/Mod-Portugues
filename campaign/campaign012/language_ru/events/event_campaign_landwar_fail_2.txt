@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/ussr/war/w (3).jpg,campaign/images/ussr/war/w (4).jpg,campaign/images/ussr/war/w (7).jpg,campaign/images/ussr/war/w (8).jpg,campaign/images/ussr/war/w (11).jpg
+Photo=campaign/images/ussr/war/news/wn (2).jpg,campaign/images/ussr/war/news/wn (4).jpg,campaign/images/ussr/war/news/wn (6).jpg,campaign/images/ussr/war/news/wn (7).jpg
+Music=audio/music/5.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>В СОВЕТСКОМ СОЮЗЕ ГРАЖДАНСКАЯ ВОЙНА!</b>
+Sentence1=В след за распадом Организации Варшавского Договора, многие республики СССР тоже провозгласили свою независимость. В борьбе за суверинетет, многочисленные столкновения ополченцев с правительственными силами переросли в ожесточенное вооруженное противостояние.
+Sentence2=В южных республиках разгорелись кровопролитные межнациональные конфликты. Все постсоветское пространство погрузилось в раздор и отчаяние, да здраствует Демократия и Капитализм... 

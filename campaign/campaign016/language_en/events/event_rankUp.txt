@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/XV1NRaJMsXk.jpg
+Photo=campaign/images/awards/blank.png
+Music=audio/music/newmenu.ogg
+Header=PRESIDIUM OF THE FEDERATION COUNCIL<n>MOSCOW
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n><b>DECREE of the PRESIDIUM OF THE FEDERATION COUNCIL</b> <n><n>Dated <DATE>
+Sentence1=<size=14>The commander of <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><POSTHUMOUSLY> is assigned an extraordinary military rank </size><n><n><b><n><n><size=22><PLAYER_RANK></size></b><n><n><n>
+Sentence2=<PLAYERNAME>, the Command congratulates you on your promotion and wishes you further success in the service of the Motherland!

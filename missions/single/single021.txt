@@ -1,0 +1,33 @@
+//Thundering Storm (USA)
+
+UseTerrain=TRUE
+MapCoordinates=2977,1300
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_nato
+
+//Environment
+Date=12 FEB 1988
+Hemisphere=North
+Time=1800
+UsePresetEnvironment=TRUE
+Weather=Clear
+SeaState=StrongBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,2-2,2-3,1-1,1-1,4-6,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+EnemyShipClasses=wp_84_skr_krivak1_ai,wp_84_em_sovremenny_ai,wp_68_mpk_poti_ai,wp_84_bpk_kara_ai,wp_68_rkr_kresta1_ai,wp_68_em_kotlin_ai,wp_84_pkr_moskva_ai
+FormationCruiseSpeed=20
+
+//Enemy Aircraft
+NumberOfHelicopters=3
+HelicopterType=wp_helix
+NumberOfAircraft=2
+AircraftType=wp_tu-142_bear
+
+PlayerVessels=usn_84_ssn_los_angeles_pl,usn_84_ssn_narwhal_pl,usn_84_ssn_permit_pl,usn_84_ssn_skipjack_un,usn_84_ssn_sturgeon_pl,usn_68_ssbn_ethan_allen_un,usn_68_ssbn_washington_un,usn_84_ssbn_ohio_un,usn_84_ss_barbel_un,plan_uk_84_ssn_churchill_un,plan_uk_84_ssn_swiftsure_un,plan_uk_84_ssn_trafalgar_un,plan_fr_84_ssn_rubis_un,plan_uk_68_ssbn_resolution_un,plan_uk_84_ssbn_resolution_un,plan_fr_84_ssbn_redoubtable_un,plan_aus_68_ss_oberon_un,plan_neth_68_ss_dolfijn_un,plan_uk_68_ss_oberon_un,plan_ger_84_ss_209_un,plan_knm_84_ss_kobben,plan_it_84_ss_toti_un,plan_jp_84_ss_yushio_un,usn_84_ffg_perry_pl,usn_84_ff_knox_pl,usn_84_cg_belknap_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl,usn_84_cgn_longbeach_pl,usn_84_bb_iowa_pl

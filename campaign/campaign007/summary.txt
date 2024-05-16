@@ -1,0 +1,25 @@
+Image=campaign/images/29a8fb0b.jpg
+PlayerVessels=usn_84_ssn_sturgeon_pl,usn_84_ssn_los_angeles_pl,usn_02_ssn_los_angeles2_pl,usn_02_ssn_los_angeles3_pl,usn_02_ssn_seawolf_pl,usn_04_ssn_virginia_pl,usn_05_ssgn_ohio_vls_pl,usn_84_ssbn_ohio_un,usn_02_ffg_perry_lh_pl,usn_84_cg_ticonderoga_pl,usn_02_ddg_ticonderoga_pl,usn_02_ddg_arleigh_burke1_pl,usn_02_ddg_arleigh_burke_pl,usn_84_cvn_nimitz_pl
+
+[COMMANDER NAMES]
+CommanderName=COMSUBLANT
+CommanderFleetName=CINCLANTFLT
+
+PrestigeMode=TRUE
+//Easy, Normal, Hard, Elite
+StartingPrestige=200,100,0,0
+LoadoutType=2002
+[Prestige Cost]
+usn_84_ssn_sturgeon_pl	 =	0	 =	0
+usn_02_ssn_los_angeles2_pl	 =	40	 =	1
+usn_02_ssn_los_angeles3_pl	 =	80	 =	1
+usn_02_ssn_seawolf_pl	 =	160	 =	1
+usn_04_ssn_virginia_pl	 =	200	 =	1
+usn_84_ssbn_ohio_un	 =	250	 =	2
+usn_05_ssgn_ohio_vls_pl	 =	350	 =	2
+usn_02_ffg_perry_lh_pl	 =	0	 =	0
+usn_84_cg_ticonderoga_pl	 =	150	 =	1
+usn_02_ddg_ticonderoga_pl	 =	200	 =	1
+usn_02_ddg_arleigh_burke1_pl	 =	200	 =	1
+usn_02_ddg_arleigh_burke_pl	 =	250	 =	1
+usn_84_cvn_nimitz_pl	 =	350	 =	2

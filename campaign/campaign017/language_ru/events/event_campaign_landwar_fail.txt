@@ -1,0 +1,13 @@
+NextAction=event_campaign_landwar_fail_2
+Image=campaign/images/us/us (9).jpg,campaign/images/us/us (10).jpg,campaign/images/us/us (11).jpg
+Photo=campaign/images/photos/riot plan 1,campaign/images/photos/riot plan 2,campaign/images/photos/protests plan 1
+Music=audio/music/lost17.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ВОЙНА ОКОНЧЕНА!</b>
+Sentence1=Блицкриг <FRIENDLY_SINGULAR> потерпел поражение. Отбив начальный натиск, <ENEMY> прешли в наступление и разбили войска противника. Ввиду невозможности продолжения военных действил, <FRIENDLY> были вынуждены были отказаться от своего присутствия в Азиатско-Тихоокеанском регионе.
+Sentence2=Поражение в войне в совокупности с продолжающимся финансовым кризисом привело к еще большему спаду в экономике, а тем временем в самом Китае внутренняя ситуация с каждым днем расшатывается все больше и больше.

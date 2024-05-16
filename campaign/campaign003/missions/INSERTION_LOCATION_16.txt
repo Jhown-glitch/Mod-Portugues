@@ -1,0 +1,53 @@
+UseTerrain=TRUE
+MapCoordinates=2988,1138
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_skr_riga_ai|wp_84_mpk_grisha3_ai|wp_84_em_sovremenny_ai|wp_68_bpk_kanin_ai|wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai,wp_84_pkr_moskva_ai|wp_84_skr_krivak1_ai|wp_84_bpk_udaloy_ai|wp_84_bpk_kresta2_ai|wp_84_bpk_kara_ai|wp_68_rkr_kresta1_ai,wp_pb_don|wp_pb_ugra,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_84_ssn_victor3_pl|wp_84_ssn_victor2_pl|wp_84_ssn_victor1_pl|wp_84_ssn_sierra_pl|wp_84_ssn_mike_pl|wp_84_ssn_alfa_pl|wp_84_ssn_alfa2_pl|wp_84_ssn_akula1_pl|wp_84_ss_tango_un|wp_84_ss_kilo_un|wp_84_ss_foxtrot_un|wp_84_ss_romeo_un|wp_84_ss_whiskey_un|wp_84_ss_zulu_un|wp_84_ssg_juliet_un|wp_84_ssgn_charlie1_un|wp_84_ssgn_echo1_un|wp_84_ssgn_echo2_un|wp_84_ssn_november_un|wp_84_ssn_victor1_pl
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=150,150
+PlayerHeading=200
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//ASW Frigate 1
+EnemyWaypoints=430,30|130,-30
+//ASW Frigate 2
+EnemyWaypoints=-380,350|-160,100
+//Trawler 1
+EnemyWaypoints=92,244|-65,244|-65,169|92,169
+//Trawler 2
+EnemyWaypoints=474,215|257,215|257,307|474,307
+//Trawler 3
+EnemyWaypoints=-141,58|-293,58|-293,163|-141,163
+//Lurking Submarine
+EnemyWaypoints=403,-64|165,35|-25,226|-128,425
+//Merchant
+EnemyWaypoints=700,10|-480,610
+
+MissionPosition=14,-279
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=wp_haze
+NumberOfAircraft=0
+AircraftType=wp_be-12_mail
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-190,220,300
+
+ProximityMineLocations=286,-103|199,-102|144,-168|90,-233
+//number across,number deep,length,depth
+ProximityMineField=50,1,100,10|50,1,100,10|50,1,100,10|50,1,100,10
+ProximityMineFieldAngles=25,-25,-75,-25
+ProximityMineScatter=0.3,0.3,0.3,0.3

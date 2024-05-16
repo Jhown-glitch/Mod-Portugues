@@ -1,0 +1,13 @@
+﻿NextAction=END
+Image=campaign/images/ussr/ussr (2).jpg,campaign/images/ussr/ussr (8).jpg
+Photo=campaign/images/ussr/news/ussrn (1).jpg,campaign/images/ussr/news/ussrn (2).jpg,campaign/images/ussr/news/ussrn (3).jpg,campaign/images/ussr/news/ussrn (6).jpg,campaign/images/ussr/news/ussrn (7).jpg
+Music=audio/music/ussr.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>VICTORY OF THE SOVIET UNION!</b>
+Sentence1=The specter of nuclear Armageddon finally melted away when the warring blocs sat down at the negotiating table. The Soviet Union has a very strong position and many analysts predict the expansion of the power up to the World.
+Sentence2=Meanwhile, Moscow is preparing for a parade in honor of the victory, and civilians are simply rejoicing at the end of the war and waiting for the return of their relatives and friends from the front with faith in a brighter future...

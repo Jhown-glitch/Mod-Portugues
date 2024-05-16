@@ -1,0 +1,13 @@
+﻿NextAction=event_campaign_fail_2
+Image=campaign/images/us/84/land/us84l (13).jpg,campaign/images/us/84/land/us84l (19).jpg,campaign/images/us/84/land/us84l (34).jpg,campaign/images/us/84/land/us84l (36).jpg,campaign/images/us/84/land/us84l (49).jpg,campaign/images/us/84/land/us84l (13).jpg
+Photo=campaign/images/photos/riot 1,campaign/images/photos/riot 2,campaign/images/photos/protests 1,campaign/images/photos/protests 2
+Music=audio/music/lost10.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>IRON CURTAIN SPREADED OVER RF</b>
+Sentence1=The immediate threat of nuclear war seems to have disappeared, as West and East finally agreed to end the hostilities. Unfortunately, NATO prevailed in peace talks because of their strong position in Central Europe.
+Sentence2=At present, political leaders in exile from the occupied territories are seriously concerned that the Iron Curtain will grow further to east. Fears of permanent occupation caused a refugee crisis in which tens of thousands flowed towards the Far East.

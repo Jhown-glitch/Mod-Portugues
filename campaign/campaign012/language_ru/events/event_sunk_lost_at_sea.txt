@@ -1,0 +1,15 @@
+NextAction=event_early_end_1
+Image=campaign/images/photos/s (1).jpg,campaign/images/photos/s (2).jpg,campaign/images/photos/s (3).jpg,campaign/images/photos/s (4).jpg,campaign/images/photos/s (5).jpg,campaign/images/photos/s (6).jpg
+Photo=campaign/images/photos/sn (1).jpg,campaign/images/photos/sn (2).jpg,campaign/images/photos/sn (3).jpg,campaign/images/photos/sn (4).jpg,campaign/images/photos/sn (5).jpg,campaign/images/photos/sn (6).jpg
+Music=audio/music/Russian_Sub_Sunk_or_Captured2.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ПОТЕРЯ <PLAYERVESSELDESIGNATION>!</b>
+Color=57,61,73,255
+Sentence1=Представитель ВМФ СССР сообщил сегодня о гибели <PLAYERVESSELHULL> <PLAYERVESSELNAME> во время выполнения боевой задачи. Подробности пока не раскрываются, но сообщается, что <PLAYERVESSELDESIGNATION> и весь экипаж погибли.
+Color=218,218,208,255
+Sentence2=<FRIENDLY_NAVY> несут тяжёлые потери и постепенно начинают терять инициативу. Уже сейчас советские корабли и лодки не рискуют выходить в Северную Атлантику и судя по всему, вскоре им придётся оставить часть ключевых позиций, считают эксперты.

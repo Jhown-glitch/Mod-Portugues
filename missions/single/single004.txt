@@ -1,0 +1,34 @@
+//The Duel in Rifs - 1984 (RUS)
+
+UseTerrain=TRUE
+MapCoordinates=1470,946
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_ru
+
+//Environment
+Date=15 DEC 1984
+Hemisphere=North
+Time=0900
+UsePresetEnvironment=FALSE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=OFFENSIVE
+EnemyShipClasses=usn_84_ssn_los_angeles_pl|usn_84_ssn_narwhal_pl|usn_84_ssn_permit_pl|usn_84_ssn_skipjack_un|usn_84_ssn_sturgeon_pl|plan_uk_84_ssn_trafalgar_un|plan_uk_84_ssn_swiftsure_un|plan_uk_84_ssn_churchill_un|plan_fr_84_ssn_rubis_un
+FormationCruiseSpeed=12
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
+
+PlayerVessels=wp_84_ss_whiskey_un,wp_84_ss_foxtrot_un,wp_84_ss_romeo_un,wp_84_ssg_juliet_un,wp_84_ssb_golf_un,wp_84_ss_kilo_un,wp_84_ss_tango_un,wp_84_ssn_november_un,wp_84_ssn_victor1_pl,wp_84_ssn_alfa_pl,wp_84_ssn_alfa2_pl,wp_84_ssn_victor2_pl,wp_84_ssn_victor3_pl,wp_84_ssn_mike_pl,wp_84_ssn_sierra_pl,wp_84_ssn_akula1_pl,wp_84_ssgn_echo1_un,wp_84_ssgn_echo2_un,wp_84_ssgn_charlie1_un,wp_84_ssgn_papa_pl,wp_84_ssgn_charlie2_pl,wp_84_ssgn_oscar1_pl,wp_84_ssbn_hotel2_un,wp_84_ssbn_yankee_un,wp_84_ssbn_delta3_un,wp_84_ssbn_typhoon_pl,ch_ss_kilo,ch_ss_ming,ch_ss_romeo,ch_ssk_song,ch_ssn_han,ch_ssn_han-imp_un,ch_ssbn_xia
+CommanderName=COM NORTHERN FLEET
+CommanderFleetName=GLAVCOM VMF

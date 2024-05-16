@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/us (9).jpg,campaign/images/us/us (10).jpg,campaign/images/us/us (11).jpg,campaign/images/us/us (15).jpg
+Photo=campaign/images/us/news/usn (9).jpg
+Music=audio/music/draw.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ВОЙНА ОКОНЧЕНА</b>
+Sentence1=Война официально окончена, обе стороны согласовали условия и подписали документ о перемирии. Несмотря на попытки западных дипломатов, <ENEMY> сохранят контроль над оккупированными территориями.
+Sentence2=Из-за экономической и военной напряженности недавних событий аналитики по-прежнему обеспокоены тем, что война может возобновиться в ближайшие десятилетия. Что еще хуже, этот конфликт, несомненно, оправдает будущее увеличение военных расходов как <ENEMY_SINGULAR>, так и <FRIENDLY_SINGULAR>.

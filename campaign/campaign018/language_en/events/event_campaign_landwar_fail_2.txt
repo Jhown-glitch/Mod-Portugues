@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/china/ch (10).jpg
+Photo=campaign/images/china/news/chn (5).jpg,campaign/images/china/news/chn (6).jpg
+Music=audio/music/end7.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Collapse of the PLA</b>
+Sentence1=Despite the resistance of <FRIENDLY>, <ENEMY_NAVY_SINGULAR> managed to capture all strategically important regions. The advance of US troops to the Mongolian border and deep into Asia clearly hints at the destructive prospects for further escalation. <ENEMY_NAVY> have complete control of the Asia-Pacific region. Part of the forces is recalled to places of permanent deployment.
+Sentence2=<FRIENDLY_SINGULAR>'s failure to fulfill its mission of protecting key areas has led to a difficult but inevitable takeover of territories with large numbers of civilians. Once again under the yoke of the invaders, the civilian population of the PRC hopes that the Americans will not treat them like the Japanese imperialists did during World War II. Meanwhile, according to fragmentary information from foreign intelligence, Russia is concentrating the forces of the Trans-Baikal, 1st Far Eastern and 2nd Far Eastern Fronts, as 55 years ago...

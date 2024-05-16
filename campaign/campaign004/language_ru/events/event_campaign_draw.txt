@@ -1,0 +1,14 @@
+NextAction=event_campaign_draw_2
+Image=campaign/images/ussr/84/subs/ssbn/ussr84sussbn (1).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (2).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (3).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (4).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (5).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (6).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (7).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (8).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (9).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (10).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (11).jpg
+Photo=campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (1).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (2).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (3).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (4).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (5).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (6).jpg
+Music=audio/music/win6.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>УГРОЗА ЯДЕРНОЙ ВОЙНЫ</b>
+Sentence1=Подводные лодки с ядерными баллистическими ракетами, развёрнутые в Атлантике, использовались в качестве «рычага давления» во время недавних переговоров о перемирии, чтобы усилить слабые позиции <FRIENDLY_SINGULAR>. Наконец, обе стороны признали что дальнейшее развитие конфликта приведёт к «гарантированному взаимному уничтожению», и сейчас ведутся переговоры, о возвращении мира и стабильности.
+
+Sentence2=ПЕРЕМИРИЕ?<n>Прекращение огня, объявленное всего несколько дней назад, к счастью, соблюдается обеими сторонами. Анонимный представитель <FRIENDLY_SINGULAR> предположил, что если мирные переговоры увенчаются успехом, многие военнослужащие могут быть на пути домой уже в течение нескольких недель.

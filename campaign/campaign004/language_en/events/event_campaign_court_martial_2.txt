@@ -1,0 +1,5 @@
+NextAction=END
+Image=campaign/images/us/us (1).jpg
+Photo=campaign/images/us/us (1).jpg
+Music=audio/music/end5.ogg
+Title=BLANK

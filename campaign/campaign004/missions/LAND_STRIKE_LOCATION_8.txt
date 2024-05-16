@@ -1,0 +1,45 @@
+UseTerrain=TRUE
+MapCoordinates=1916,1800
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_skr_riga_ai|wp_84_mpk_grisha3_ai|wp_84_em_sovremenny_ai|wp_68_bpk_kanin_ai|wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai,wp_84_pkr_moskva_ai|wp_84_skr_krivak1_ai|wp_84_bpk_udaloy_ai|wp_84_bpk_kresta2_ai|wp_84_bpk_kara_ai|wp_68_rkr_kresta1_ai,wp_pb_don|wp_pb_ugra,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_84_ssn_victor3_pl|wp_84_ssn_victor2_pl|wp_84_ssn_victor1_pl|wp_84_ssn_sierra_pl|wp_84_ssn_mike_pl|wp_84_ssn_alfa_pl|wp_84_ssn_alfa2_pl|wp_84_ssn_akula1_pl|wp_84_ss_tango_un|wp_84_ss_kilo_un|wp_84_ss_foxtrot_un|wp_84_ss_romeo_un|wp_84_ss_whiskey_un|wp_84_ss_zulu_un|wp_84_ssg_juliet_un|wp_84_ssgn_charlie1_un|wp_84_ssgn_echo1_un|wp_84_ssgn_echo2_un|wp_84_ssn_november_un|wp_84_ssn_victor1_pl
+
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=500,-1700
+PlayerHeading=100
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+EnemyWaypoints=-301,-2168|1000,-1200
+EnemyWaypoints=-200,-1301|668,-2100
+EnemyWaypoints=-301,-1401|1111,-2201
+EnemyWaypoints=-200,-1401|900,-2101
+//Enter/Leave Port
+EnemyWaypoints=-401,-2200|977,-1400
+//M
+EnemyWaypoints=-277,-2100|800,-1500
+//M
+EnemyWaypoints=-144,-1300|900,-1900
+
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=wp_haze
+NumberOfAircraft=2
+AircraftType=wp_il-38_may
+
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=800,-1900,200
+AircraftSearchArea=700,-1300,200
+AircraftSearchArea=400,-1400,200

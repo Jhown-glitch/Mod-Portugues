@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/XV1NRaJMsXk.jpg
+Photo=campaign/images/awards/rf14grf.png
+Music=audio/music/newmenu.ogg
+Header=ПРЕЗИДИУМ СОВЕТА ФЕДЕРАЦИИ<n>МОСКВА
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n>       <b>УКАЗОМ ПРЕЗИДИУМА СОВЕТА ФЕДЕРАЦИИ</b> <n><n>                                    от <DATE>г.
+Sentence1=<size=14>Командир <PLAYERVESSELDESIGNATION> <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><PLAYER_RANK> <PLAYERNAME> <n><POSTHUMOUSLY> награждается высшей наградой</size><n><n><b><size=18></size><n><n><size=22>"ГЕРОЙ РОССИЙСКОЙ ФЕДЕРАЦИИ"</size></b>
+Sentence2=ЦИТАТА:<n>За героические достижения и доблестное лидерство в действии на <DATE> в качестве офицера <PLAYERVESSELNAVY> <PLAYERVESSELNAME>. Его неустанное стремление в поисках вражеских войск в области <PLAYERMAPREGION> и безрассудное мужество перед лицом непреодолимых разногласий привели к огромным материальным потерям для противника и поддержали самые высокие традиции Военно-морской службы Российской Федерации.

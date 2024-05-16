@@ -1,0 +1,13 @@
+NextAction=event_campaign_landwar_fail_2
+Image=campaign/images/us/us (9).jpg,campaign/images/us/us (10).jpg,campaign/images/us/us (11).jpg
+Photo=campaign/images/photos/riot plan 1,campaign/images/photos/riot plan 2,campaign/images/photos/protests plan 1
+Music=audio/music/lost17.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>THE WAR IS OVER!</b>
+Sentence1=Prompt Global Strike <FRIENDLY_SINGULAR> has been defeated. Having repelled the initial onslaught, <ENEMY> went on the offensive and defeated the enemy troops. Due to the impossibility of continuing hostilities, <FRIENDLY> were forced to abandon their presence in the Asia-Pacific region.
+Sentence2=The defeat in the war, coupled with the ongoing financial crisis, led to an even greater recession in the economy, and in the meantime, in China itself, the internal situation is being shaken more and more every day.

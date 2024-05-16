@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/ussr/ussr (9).jpg
+Photo=campaign/images/photos/riot 1,campaign/images/photos/protests 1,campaign/images/photos/protests 2
+Music=audio/music/end5.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>WAR CRIMES INVESTIGATION</b>
+Sentence1=Outrageous protests erupted after <FRIENDLY> accepted <ENEMY_SINGULAR>'s demands for a truce to deport and prosecute war criminals. Political scientists have dismissed the armistice agreement as a travesty and called it the "greatest betrayal" and the "darkest hour" in modern history.
+Sentence2=Numerous <FRIENDLY_SINGULAR> officers have been named under the terms of the truce agreement and charged with their direct involvement and participation in war crimes. A leaked report reveals that <PLAYERNAME>, who served as commander of <PLAYERVESSELHULL> <PLAYERVESSELNAME> is among those already deported.

@@ -1,0 +1,14 @@
+NextAction=event_intro_6
+Image=campaign/images/2002/Апл Мемфис1.jpg
+Photo=campaign/images/2002/Апл Мемфис2.jpg
+Music=audio/music/Cold Waters Combat 03
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>RUSSIAN MILITARY SATELLITE AND MILITARY INTELLIGENCE US SECOND BOAT DETECTED!</b>
+Color=57,61,73,255
+Sentence1=One of the US boats seen in the incident on August 10, 2000, was found under repair in the dock! In the USA, in an ultimatum form, they declined to comment sending US Navy combat groups into the waters of the Arctic and Atlantic oceans, while the tension in Europe is growing...
+Color=218,218,208,255
+Sentence2=It is assumed that the United States sent to the waters of the Barents Sea, where in August 2000 exercises were held, its own Toledo and Memphis submarines. They were particularly interested in the tests of the latest Russian torpedo "Shkval", capable of developing an amazing speed in water up to 500 km / h. The Russian Navy was about to demonstrate the launch of this torpedo to a group of high-ranking Chinese military personnel on board the cruiser Peter the Great.

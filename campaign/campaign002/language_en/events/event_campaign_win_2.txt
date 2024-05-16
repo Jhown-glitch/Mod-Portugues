@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/us (21).jpg,campaign/images/us/us (22).jpg
+Photo=campaign/images/us/news/usn (3).jpg,campaign/images/us/news/usn (7).jpg,campaign/images/us/news/usn (9).jpg,campaign/images/us/news/usn (15).jpg,campaign/images/us/news/usn (16).jpg
+Music=audio/music/end8.ogg,audio/music/end9.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>VICTORY! STATES WITHIN THE SOVIET UNION DECLARE INDEPENDENCE</b>
+Sentence1=The withdrawal has sparked a chain reaction within the Soviet Union, with several of the peripheral Central Asian federated states proclaiming their independence. The Union States of Turkmenia and Uzbekistan have respectively announced themselves "Free Socialist Republics", with Kazakhstan expected to follow any day.
+Sentence2=In response to the domestic turmoil, the Soviet army has ceased hostile operations in the West. Peace negotiations will commence at once. Whatever the outcome, it will be with a Soviet Union strongly reduced in allies and domestic territory. Meanwhile in America, people rejoice and celebrate on this Great Day! Relatives and friends meet the winners and believe in the further prosperity of the United States of America...

@@ -1,0 +1,14 @@
+NextAction=ASSIGN_NEW
+Image=campaign/images/us/84/ships/us84s (16).jpg,campaign/images/us/84/ships/us84s (31).jpg,campaign/images/us/84/ships/us84s (47).jpg,campaign/images/us/84/ships/us84s (58).jpg
+Photo=campaign/images/us/84/ships/news/us84sn (17).jpg,campaign/images/us/84/ships/news/us84sn (27).jpg,campaign/images/us/84/ships/news/us84sn (27).jpg,campaign/images/us/84/ships/news/us84sn (31).jpg,campaign/images/us/84/ships/news/us84sn (38).jpg
+Music=audio/music/good2.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><FRIENDLY_NAVY> ПРИЗНАЛИ ПОТЕРЮ <PLAYERVESSELHULL></b>
+Color=57,61,73,255
+Sentence1=Представитель ВМС НАТО подтвердил уничтожение  <PLAYERVESSELHULL> <PLAYERVESSELNAME> в ходе выполнения боевой задачи, однако благодаря успешно проведённой спасательной операции, удалось спасти большую часть экипажа.
+Color=218,218,208,255
+Sentence2=Несмотря на потери, <FRIENDLY_NAVY> не намерены снижать масштаб своих операций. По неподтверждённой информации экипаж уже готовится к назначению на новый корабль и скоро вновь выйдет в море.

@@ -1,0 +1,13 @@
+NextAction=MAP
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/blank.png
+Music=audio/music/good.ogg
+Header=THE SECRETARY OF THE NAVY<n>WASHINGTON
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n>       <b>The Secretary of the Navy</b> <n><n>
+Sentence1=<size=14>COMMANDING OFFICER <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><POSTHUMOUSLY> conferred a new military rank </size><n><n><b><n><n><size=22><PLAYER_RANK></size></b><n><n><n>
+Sentence2=<PLAYERNAME>, The Secretary of the Navy extends his heartfelt congratulations on the promotion and wishes you continued success in your service in the Navy!
+

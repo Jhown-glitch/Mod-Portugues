@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/XV1NRaJMsXk.jpg
+Photo=campaign/images/awards/rf7om.png
+Music=audio/music/newmenu.ogg
+Header=ПРЕЗИДИУМ СОВЕТА ФЕДЕРАЦИИ <n>МОСКВА
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=ПРЕЗИДИУМ СОВЕТА ФЕДЕРАЦИИ  выражает сердечные поздравления и с большим удовольствием награждает <POSTHUMOUSLY>
+Sentence1=<size=14>Командир <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><PLAYER_RANK> <PLAYERNAME> <n><POSTHUMOUSLY> награждается </size><n><n><b><size=18></size><n><n><size=22>"ОРДЕНОМ МУЖЕСТВА"</size></b>
+Sentence2=ЦИТАТА:<n>За исключительный героизм и лидерство в действии против врага как командующего<PLAYERVESSELNAVY> <PLAYERVESSELNAME> в непосредственной близости <PLAYERMAPREGION> от <DATE>. Командиру <PLAYERNAME> за выдающееся мореплавание и искусную тактику, которая нанесла большой урон вражеским войскам, а его поведение оставило в силе самые высокие традиции Военно-морской службы РФ.

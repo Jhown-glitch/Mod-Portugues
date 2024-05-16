@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_2
+Image=campaign/images/china/ch (11).jpg
+Photo=campaign/images/photos/photo2/245.jpg
+Music=audio/music/back.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>RESISTANCE BROKEN</b>
+Sentence1=The immediate threat of nuclear war disappeared as the PRC triumphantly announced that "American nuclear deterrent has been neutralized by precision-guided missile strikes." The solidarity of the China and other allied countries makes it possible to defeat "American capitalism", as well as to maintain the foundations of a "free society" and leadership in world trade.
+Sentence2=Towards the end of the war, an economic upsurge in the China and a number of allied countries is more and more clearly observed. In the meantime, ground forces and the most active formations of the navy are partially recalled to their bases.

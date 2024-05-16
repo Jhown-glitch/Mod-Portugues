@@ -1,0 +1,57 @@
+UseTerrain=TRUE
+MapCoordinates=2988,1138
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_84_ddg_spruance_ai,usn_84_bb_iowa_ai,usn_vt_fleet-tanker,usn_vtr_small-cargo,usn_vtr_small-cargo,usn_84_ssn_los_angeles_pl|usn_84_ssn_narwhal_pl|usn_84_ssn_permit_pl|usn_84_ssn_skipjack_un|usn_84_ssn_sturgeon_pl|usn_84_ss_barbel_un|plan_uk_84_ssn_trafalgar_un|plan_uk_84_ssn_swiftsure_un|plan_uk_84_ssn_churchill_un|plan_ger_68_ss_205_un|plan_uk_84_ss_oberon_un|plan_fr_84_ssn_rubis_un|plan_it_84_ss_toti_un|plan_neth_68_ss_dolfijn_un|plan_it_84_ss_toti_un|plan_ger_84_ss_209_un|plan_knm_84_ss_kobben,usn_vt_fleet-tanker|usn_vt_oiler|usn_84_aor_oiler|usn_vt_small-fl-tanker|usn_vtr_transport|usn_ms_small_freighter,usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p,usn_vt_fleet-tanker|usn_vt_oiler|usn_84_aor_oiler|usn_vt_small-fl-tanker|usn_vtr_transport|usn_ms_small_freighter,usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=150,150
+PlayerHeading=200
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//ASW Frigate 1
+EnemyWaypoints=430,30|130,-30
+//ASW Frigate 2
+EnemyWaypoints=-380,350|-160,100
+//Trawler 1
+EnemyWaypoints=92,244|-65,244|-65,169|92,169
+//Trawler 2
+EnemyWaypoints=474,215|257,215|257,307|474,307
+//Trawler 3
+EnemyWaypoints=-141,58|-293,58|-293,163|-141,163
+//Lurking Submarine
+EnemyWaypoints=403,-64|165,35|-25,226|-128,425
+//Merchant
+EnemyWaypoints=700,10|-480,610
+
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+
+MissionPosition=14,-279
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=0
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-190,220,300
+
+ProximityMineLocations=286,-103|199,-102|144,-168|90,-233
+//number across,number deep,length,depth
+ProximityMineField=30,3,100,20|30,3,100,20|30,3,100,20|30,3,100,12
+ProximityMineFieldAngles=25,-25,-75,-25
+ProximityMineScatter=0.3,0.3,0.3,0.3

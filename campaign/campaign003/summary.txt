@@ -1,0 +1,33 @@
+Image=campaign/images/us1984.jpg
+
+PlayerVessels=usn_84_ss_barbel_un,usn_84_ssn_skipjack_un,usn_84_ssn_permit_pl,usn_84_ssn_sturgeon_pl,usn_84_ssn_narwhal_pl,usn_84_ssn_los_angeles_pl,usn_68_ssbn_washington_un,usn_68_ssbn_ethan_allen_un,usn_84_ssbn_ohio_un,plan_it_84_ss_toti_un,plan_ger_84_ss_209_un,plan_knm_84_ss_kobben,plan_uk_84_ss_oberon_un,plan_uk_84_ssn_trafalgar_un,plan_uk_84_ssn_swiftsure_un,plan_uk_84_ssn_valliant_un,plan_uk_84_ssn_churchill_un,plan_fr_84_ssn_rubis_un,plan_uk_84_ssbn_resolution_un,plan_fr_84_ssbn_redoubtable_un,usn_84_ffg_perry_pl,usn_84_ffg_perry_lh_pl,usn_84_ff_knox_pl,usn_84_cg_belknap_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl,usn_84_cgn_longbeach_pl,usn_84_bb_iowa_pl,usn_84_cvn_nimitz_pl,plan_uk_84_ddg_county_pl,plan_uk_84_ffg_type21_pl,plan_uk_84_ddg_type42_pl
+
+[COMMANDER NAMES]
+CommanderName=COMSUBLANT
+CommanderFleetName=CINCLANTFLT
+
+PrestigeMode=TRUE
+//Easy, Normal, Hard, Elite
+StartingPrestige=200,100,0,0
+LoadoutType=1984
+[Prestige Cost]
+usn_84_ssn_skipjack_un	 =	0	 =	0
+usn_84_ssn_permit_pl	 =	40	 =	0
+usn_84_ssn_sturgeon_pl	 =	60	 =	0
+usn_84_ssn_narwhal_pl	 =	100	 =	1
+usn_84_ssn_los_angeles_pl	 =	130	 =	1
+usn_68_ssbn_ethan_allen_un	 =	200	 =	2
+usn_68_ssbn_washington_un	 =	240	 =	2
+usn_84_ssbn_ohio_un	 =	280	 =	2
+usn_84_ffg_perry_pl	 =	0	 =	0
+usn_84_ffg_perry_lh_pl	 =	0	 =	0
+usn_84_ff_knox_pl	 =	50	 =	0
+usn_84_cg_belknap_pl	 =	100	 =	1
+usn_84_dd_spruance_pl	 =	120	 =	1
+usn_84_cg_ticonderoga_pl	 =	150	 =	1
+usn_84_cgn_longbeach_pl	 =	200	 =	1
+usn_84_bb_iowa_pl	 =	250	 =	2
+usn_84_cvn_nimitz_pl	 =	280	 =	2
+plan_uk_84_ddg_county_pl	 =	0	 =	0
+plan_uk_84_ffg_type21_pl	 =	50	 =	0
+plan_uk_84_ddg_type42_pl	 =	100	 =	1

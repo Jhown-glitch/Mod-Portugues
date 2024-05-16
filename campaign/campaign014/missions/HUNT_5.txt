@@ -1,0 +1,31 @@
+//AI mission
+//North Atlantic
+MissionType=HUNT
+AllowedOnlyFor=
+ForbiddenFor=
+AllowedOnlyForCostBelow=
+AllowedOnlyForCostHigherThan=
+HoursToStart=200,300
+StartLocation=STRATEGIC_NODE
+StartAlignment=ENEMY
+EndLocation=WAYPOINT
+EndAlignment=
+Speed=12
+MustUseWaypoints=
+UseAtLeastOneWaypointOf=A1,A2,A3
+ProhibitedWaypoints=
+PatrolForHours=1,2
+StrategicValue=0
+MissionEndsWhen=PATROL_END
+MapBehaviour=DEFENSIVE
+DisruptOnFail=
+DisruptOnPass=
+InvadeOnFail=
+RequiresStealth=
+RequiresWeapon=
+NumberOfEnemyUnits=1-1
+CombatBehaviour=DEFENSIVE
+EnemyUnitMissionCritical=TRUE
+EnemyShipClasses=usn_84_fss_algol
+EventWin=HUNT_end
+EventFail=HUNT_end

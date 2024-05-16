@@ -1,0 +1,13 @@
+NextAction=event_intro_4
+Image=campaign/images/1968/1260692-russian-navy.jpg,campaign/images/1968/1-6.jpg,campaign/images/1968/342197.jpg,campaign/images/1968/tomswallpapers.com-31947.jpg,campaign/images/1968/tomswallpapers.com-31947.jpg
+Photo=campaign/images/1968/345.jpg,campaign/images/1968/315.jpg,campaign/images/1968/354.jpg,campaign/images/1968/464.jpg
+Music=audio/music/Cold Waters Main Menu
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>CONFRONTATION</b>
+Color=57,61,73,255
+Sentence1=On both sides of the globe, the two Superpowers are playing a deadly, strategically important game for military superiority.
+Color=218,218,208,255
+Sentence2=In the context of the confrontation between the two military blocs (NATO and the Warsaw Pact Organization), Eastern Europe was under the full control of the USSR, and Western Europe was in a strong military-political and economic alliance with the United States, the main arena of the struggle between the two systems was the countries of the “third world”, which often led to local military conflicts around the world.

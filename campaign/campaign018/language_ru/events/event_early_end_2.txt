@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/84/land/us84l (13).jpg,campaign/images/us/84/land/us84l (19).jpg,campaign/images/us/84/land/us84l (34).jpg,campaign/images/us/84/land/us84l (36).jpg,campaign/images/us/84/land/us84l (49).jpg,campaign/images/us/84/land/us84l (13).jpg
+Photo=campaign/images/photos/riot plan 1,campaign/images/photos/riot plan 2,campaign/images/photos/protests plan 1
+Music=audio/music/lost12.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ВОЙНА ОКОНЧЕНА.</b>
+Sentence1=Блицкриг <FRIENDLY_SINGULAR> потерпел поражение. Отбив начальный натиск, <ENEMY> прешли в наступление и разбили войска противника. Ввиду невозможности продолжения военных действил, <FRIENDLY> были вынуждены были отказаться от своего присутствия в Азиатско-Тихоокеанском регионе.
+Sentence2=Поражение в войне привело к спаду и в экономике, внешней политике былой контроль утерян, а тем временем в самом Китае внутренняя ситуация с каждым днем расшатывается все больше и больше...

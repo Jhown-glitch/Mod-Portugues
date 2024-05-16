@@ -1,0 +1,19 @@
+NextAction=MAP
+Image=campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (1).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (2).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (3).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (4).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (5).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (6).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (7).jpg
+Photo=campaign/images/2002/NATO/asuwcarr/win/ch/ch (1).jpg,campaign/images/2002/NATO/asuwcarr/win/ch/ch (2).jpg,campaign/images/2002/NATO/asuwcarr/win/ch/ch (3).jpg,campaign/images/2002/NATO/asuwcarr/win/ch/ch (4).jpg,campaign/images/2002/NATO/asuwcarr/win/ch/ch (5).jpg,campaign/images/2002/NATO/asuwcarr/win/ch/ch (6).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (1).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (2).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (3).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (4).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (5).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (6).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (7).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (8).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (9).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (10).jpg
+Music=audio/music/win.ogg,audio/music/win2.ogg,audio/music/win3.ogg,audio/music/win4.ogg,audio/music/win6.ogg,audio/music/win7.ogg,audio/music/win8.ogg,audio/music/win9.ogg,audio/music/win10.ogg,audio/music/win11.ogg,audio/music/win12.ogg,audio/music/win13.ogg,audio/music/win14.ogg
+Header=<DATE>
+
+Font=0
+
+Outline=FALSE
+
+Color=180,71,64,255
+
+Title=<b>АВИАНОСНАЯ ГРУППА РАЗБИТА</b>|<b>АВИАНОСЕЦ ПОТОПЛЕН!</b>|<b>РАЗГРОМ ЭСКАДРЫ</b>
+
+Color=57,61,73,255
+Sentence1=Авианосная ударная группа <ENEMY_NAVY_SINGULAR>, развёрнутая в <ENDLOCATION_PR>, была полностью разбита в результате атаки <FRIENDLY_NAVY_SINGULAR>. Представитель Генштаба подтвердил, что удар был нанесен <FRIENDLY_NAVY_SUFFIX> и сообщил что к сожалению не может раскрыть имена героев, поскольку местонахождение и районы действия - военная тайна.
+
+Color=218,218,208,255
+Sentence2=Применение авианосцев слишком рискованно?<n>В свете последних событий возникает вопрос, возможны ли эффективные действия авианосцев? Многие конгрессмены призывают вывести авианосцы из зоны боёв, считая что риск слишком велик.|На страже Родины!<n><FRIENDLY_NAVY> в очередной раз доказали что не дадут врагу вольготно чувствовать себя в <ENDLOCATION_PR>.

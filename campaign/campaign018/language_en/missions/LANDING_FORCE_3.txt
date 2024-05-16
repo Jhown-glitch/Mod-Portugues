@@ -1,0 +1,23 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+SATELLITE DETECTED A MOVING GROUP OF SHIPS CARRYING THE ENEMY MARINES HAS LEFT <color=Cyan><STARTLOCATION></color>. 
+LATEST INTELENGENCE SHOWS THAT THE ENEMY IS PLANNING TO MAKE A LANDING ATTACK ON THE COAST, CLOSE TO <color=Red><ENDLOCATION>, <COUNTRY></color>. 
+YOU SHOULD HINDER THE LANDING.
+
+2.	(S) THE MAIN TASK:
+SEARCH AND SINK THE ENEMY LANDING SHIPS
+
+3.	(S) ADDITIONAL TASK:
+SEARCH AND DESTROY ESCORT WARSHIPS IF POSSIBLE
+
+4.	(S) AVOID DETECTION BY ENEMY ESCORT FORCES
+5.	(S) FREE WEAPON SELECTION
+6.	(S) RADIO SILENCE - KEEP RADIO SILENCE MODE UNLESS OTHERWISE DIRECTED
+[MISSION WIN]
+Great job. Nice to hear the expected invasion of <ENDLOCATION>, <COUNTRY> was prevented.
+
+[MISSION FAIL]
+The expected attack on <ENDLOCATION>, <COUNTRY> succeeded as enemy's plan. At today's meeting of the Joint Chiefs of Staff, the Secretary raised questions about why this invasion cannot be prevented.
+
+[MISSION MISSED]
+We are disappointed to hear that you could not seize the forces of the landing.

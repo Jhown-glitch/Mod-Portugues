@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/china/ch (12).jpg,campaign/images/china/ch (13).jpg
+Photo=campaign/images/china/news/chn (7).jpg,campaign/images/china/news/chn (8).jpg,campaign/images/china/news/chn (9).jpg,campaign/images/china/news/chn (10).jpg
+Music=audio/music/guxiang.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Victory!</b>
+Sentence1=Deprived of their strategic leverage, the US had no choice but to accept China terms during the peace negotiations, a direct result of their weak position in the western Pacific.
+Sentence2=A new period of prosperity for the East begins. The People's Republic of China rejoices and celebrates this Great Day! Relatives and friends meet the winners and believe in the bright future of their country...

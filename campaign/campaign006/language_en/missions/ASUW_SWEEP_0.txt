@@ -1,0 +1,23 @@
+[ORDERS]
+1. (S) TACTICAL SITUATION:
+WE NEED TO DISRUPT THE ENEMY'S ACTIVITIES IN THE OIL AND GAS SPHERE AS MUCH WE CAN DO. YOU are ORDERED TO arrive in COASTAL WATERS <color=Red><ENDLOCATION></color> AND DESTROY THE ENEMY'S TANKERS AND Oil rig.
+
+2. (S) MAIN TASK: 
+DESTROY ENEMY TANKERS.
+
+3. (S) ADDITIONAL TASK: 
+DESTROY THE ENEMY'S Oil rig AND ANY ESCORTING WARSHIPS IF POSSIBLE
+
+4.	(S) AVOID DETECTION BY ENEMY ASW PATROLS
+
+5.	(S) ROE: WARNING YELLOW, WEAPONS FREE ON DESIGNATED TARGETS
+
+6.	(S) EMCON - MAINTAIN RADIO SILENCE UNTIL OTHERWISE DIRECTED
+[MISSION WIN]
+Excellent work. It is good to hear about the violation of work in the oil and gas sector of the enemy.
+
+[MISSION FAIL]
+It's a pity that you couldn't complete the task. Enemy will continue to supply NATO forces with fuel, which will negatively affect the course of the war... 
+
+[MISSION MISSED]
+We are disappointed that you were not able to destroy the oil rig in the allotted time.

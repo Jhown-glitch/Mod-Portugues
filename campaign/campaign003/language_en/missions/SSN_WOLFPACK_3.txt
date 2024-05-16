@@ -1,0 +1,21 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+INTELLIGENCE BELIEVES THAT ENEMY SUBMARINES WITH CRUISE MISSILES ON BOARD, AFTER CONDUCTING A NUMBER OF SUCCESSFUL OPERATIONS AGAINST SUPPLY CONVOYS IN THE NORTH OF THE <color=Orange>BARENTS SEA</color>, WILL TRY TO RETURN TO THE PORT OF THE <color=Red><ENDLOCATION></color> FOR REPAIRS AND REARMAMENT.
+
+2.	(S) PRIMARY OBJECTIVE:
+LOCATE AND SINK THE ENEMY SUBMARINE.
+
+3.	(S) SECONDARY OBJECTIVE:
+NONE.
+
+4.	(S) AVOID DETECTION BY ENEMY ASW PATROLS
+
+5.	(S) ROE: WARNING YELLOW, WEAPONS FREE ON DESIGNATED TARGETS
+
+6.	(S) EMCON - MAINTAIN RADIO SILENCE UNTIL OTHERWISE DIRECTED
+[MISSION WIN]
+Good work. You kept our transports safe. They're what win wars, after all!
+[MISSION FAIL]
+While command understands that attacking enemy SSNs can be difficult, we are nevertheless disappointed you failed to protect our critical supply transports.
+[MISSION MISSED]
+Two-and-a-half hours ago, one of our supply convoys was completely decimated by a torpedo strike, sinking every transport and leaving few survivors. Command believes this was the work of the enemy sub you failed to intercept.

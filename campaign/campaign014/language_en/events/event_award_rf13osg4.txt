@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/XV1NRaJMsXk.jpg
+Photo=campaign/images/awards/rf13osg4.png
+Music=audio/music/newmenu.ogg
+Header=PRESIDIUM OF THE FEDERATION COUNCIL<n>MOSCOW
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n><b>DECREE of the PRESIDIUM OF THE FEDERATION COUNCIL</b><n><n>Dated <DATE>
+Sentence1=<size=14>The commander <PLAYERVESSELDESIGNATION> <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <PLAYERNAME> <n><POSTHUMOUSLY> is awarded </size><n><n><b><size=18></size><n><n><size=22>"ORDER OF SAINT GEORGE IV DEGREE"</size></b>
+Sentence2=QUOTE:<n> For particularly important services in the defense of the Motherland and strengthening the defense capability of the Russian Federation. During the war, the commander of <PLAYERVESSELDESIGNATION> <PLAYERVESSELHULL> <PLAYERVESSELNAME> carried out a number of combat operations that ensured the superiority of the CSF in the naval theater and the advance of the Russian ground forces deep into enemy territory, which suffered heavy losses due to irregular supply of units.

@@ -1,0 +1,19 @@
+NextAction=MAP
+Image=campaign/images/ussr/68/ships/bb/ussr68shbb (1).jpg,campaign/images/ussr/68/ships/bb/ussr68shbb (2).jpg,campaign/images/ussr/68/ships/bb/ussr68shbb (3).jpg,campaign/images/ussr/68/ships/bb/ussr68shbb (4).jpg,campaign/images/ussr/68/ships/bb/ussr68shbb (5).jpg
+Photo=campaign/images/ussr/68/ships/bb/news/ussr68shbbn (1).jpg,campaign/images/ussr/68/ships/bb/news/ussr68shbbn (2).jpg,campaign/images/ussr/68/ships/bb/news/ussr68shbbn (3).jpg,campaign/images/ussr/68/ships/bb/news/ussr68shbbn (4).jpg,campaign/images/ussr/68/ships/bb/news/ussr68shbbn (5).jpg,campaign/images/ussr/68/ships/bb/news/ussr68shbbn (6).jpg,campaign/images/ussr/68/ships/bb/news/ussr68shbbn (7).jpg,campaign/images/ussr/68/ships/bb/news/ussr68shbbn (8).jpg
+Music=audio/music/lost1.ogg,audio/music/lost2.ogg,audio/music/lost3.ogg,audio/music/lost4.ogg,audio/music/lost5.ogg,audio/music/lost6.ogg,audio/music/lost7.ogg,audio/music/lost8.ogg,audio/music/lost9.ogg,audio/music/lost10.ogg,audio/music/lost11.ogg,audio/music/lost12.ogg,audio/music/lost13.ogg,audio/music/lost14.ogg,audio/music/lost15.ogg,audio/music/lost16.ogg,audio/music/lost17.ogg,audio/music/lost18.ogg,audio/music/lost19.ogg,audio/music/lost20.ogg,audio/music/lost21.ogg
+Header=<DATE>
+
+Font=0
+
+Outline=FALSE
+Color=180,71,64,255
+
+Title=<b>ЖЕСТОКИЙ УДАР</b>|<b>КОНВОЙ УНИЧТОЖЕН</b>|<b>РАЗГРОМ КОНВОЯ</b>|<b>ПОРАЖЕНИЕ НА МОРЕ</b>
+
+Color=57,61,73,255
+
+Sentence1=Атака <ENEMY_NAVY_SINGULAR> в <ENDLOCATION_PR> привела к потере нескольких торговых судов и кораблей сопровождения. Точное количество потопленых судов уточняется. <FRIENDLY_NAVY> признают, что эта ударная группа представляет серьезную угрозу для всего судоходства в регионе и что попытки перехватить ее не увенчались успехом.
+Color=218,218,208,255
+
+Sentence2=Отчеты показывают, что непрерывное снабжение войск в прибрежной зоне конфликта имеет решающее значение для успешного ведения боевых действий. Потеря снабжения и кораблей серьезно снижает способность <FRIENDLY_SINGULAR> поддерживать военные операции.

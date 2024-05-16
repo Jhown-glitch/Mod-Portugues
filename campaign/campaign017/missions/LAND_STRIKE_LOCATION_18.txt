@@ -1,0 +1,42 @@
+//Paracel Islands
+UseTerrain=TRUE
+MapCoordinates=1481,527
+MapNavigationData=campaign/images/maps/south_china_sea_merchants_us
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry.png
+WorldObjectsData=campaign/maps/south_china_sea_world_objects1
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_84_ddg_spruance_ai|usn_84_ddg_ticonderoga_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl,usn_84_ddg_spruance_ai|usn_84_ddg_ticonderoga_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl,usn_84_ddg_spruance_ai|usn_84_ddg_ticonderoga_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl,usn_84_ddg_spruance_ai|usn_84_ddg_ticonderoga_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-154,352
+PlayerHeading=150
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//N/S East flank
+EnemyWaypoints=52,194|27,534
+//North Patrol
+EnemyWaypoints=-44,512|-376,476
+//West Patrol
+EnemyWaypoints=-376,300|-560,240
+//South Patrol
+EnemyWaypoints=-324,121|260,121
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+//plan_helix
+HelicopterType=ch_z-9
+NumberOfAircraft=1
+AircraftType=ch_y-8x
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=86,400,200
+AircraftSearchArea=-440,290,200

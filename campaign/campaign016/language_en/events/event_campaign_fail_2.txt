@@ -1,0 +1,14 @@
+﻿NextAction=END
+Image=campaign/images/2002/z.jpg
+Photo=campaign/images/kremlinattack.png
+Music=audio/music/lost16.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>MISSILES IN EUROPE</b>|<b>SECOND CUBAN CRISIS</b>
+Sentence1=During a diplomatic shock strike, NATO agreed to create intermediate ballistic missiles in Europe as part of the armistice agreement. They claim that these missiles were placed as the first deterrent against any future hostilities initiated by the Russian Federation or their allies.
+
+Sentence2=The situation in the Russian Federation continues to deteriorate, as food shortages cause riots and further protests amid the uncertainty of what lies ahead.

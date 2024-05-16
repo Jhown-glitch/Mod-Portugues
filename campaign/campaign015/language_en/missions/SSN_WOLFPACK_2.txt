@@ -1,0 +1,19 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+Spy satellite spotted enemy submarines with cruise missiles on board, which would be ready to sail from their bases <color=Cyan><STARTLOCATION></color> in the next 24 hours. 
+There is information that several attacking submarines will escort them. You must destroy them before they can unfold their attack on our Navy FORCES in the <color=Orange><ENDLOCATION></color>.
+2.	(S) THE MAIN TASK:
+Search and destroy enemy submarines equpped with cruise missiles.
+
+3.	(S) ADDITIONAL TASK:
+Detect and destroy escort attacking submarines.
+
+4.	(S) Avoid detection by enemy intelligence.
+5.	(S) You are free to choose your weapons.
+6.	(S) Keep Radio Silent Mode.
+[MISSION WIN]
+Congratulations on your brilliant work which ensure the safe movement of our convoys in the area.
+[MISSION FAIL]
+A disappointing result. A complete paralysis of our traffic in the area is inevitable due to your failure in this mission.
+[MISSION MISSED]
+Your further work in this area is considered meaningless. The result of your inaction was not only the disruption of the stratigraphic-important transportation of our fleet in the area, but also the casualties on our part: about 10 ships, and about 500 people killed. How will you live with this next?

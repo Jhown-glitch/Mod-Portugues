@@ -1,0 +1,11 @@
+NextAction=END
+Image=campaign/images/XV1NRaJMsXk.jpg
+Photo=campaign/images/awards/rf7om.png
+Music=audio/music/lost7.ogg
+Header=ПРЕЗИДИУМ СОВЕТА ФЕДЕРАЦИИ<n>МОСКВА
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=ПРЕЗИДИУМ СОВЕТА ФЕДЕРАЦИИ награждает <POSTHUMOUSLY>
+Sentence1=<size=14>Командир <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><PLAYER_RANK> <PLAYERNAME> <n><POSTHUMOUSLY> награждается </size><n><n><b><size=18></size><n><n><size=22>"ОРДЕНОМ МУЖЕСТВА"</size></b>
+Sentence2=ЦИТАТА:<n>За мужество и отвагу, проявленные при исполнении воинского и служебного долга, офицеру <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME>, <PLAYERNAME> показавшему многочисленные достижения и непоколебимую преданность делу, соответствующую самым высоким традициям Военно-морской службы Российской Федерации (посмертно).

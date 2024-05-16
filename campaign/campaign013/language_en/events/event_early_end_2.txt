@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/84/land/us84l (13).jpg,campaign/images/us/84/land/us84l (19).jpg,campaign/images/us/84/land/us84l (34).jpg,campaign/images/us/84/land/us84l (36).jpg,campaign/images/us/84/land/us84l (49).jpg,campaign/images/us/84/land/us84l (13).jpg
+Photo=campaign/images/photos/riot 1,campaign/images/photos/riot 2,campaign/images/photos/protests 1,campaign/images/photos/protests 2
+Music=audio/music/lost12.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>DISINTEGRATION of the Warsaw Pact</b>
+Sentence1=The governments of Czechoslovakia, Poland and the GDR began negotiations with the political leadership of NATO in order to conclude an immediate separate peace. The proposal was accompanied by a call for NATO to guarantee the future independence of these regions from communist pressure.
+Sentence2=Acceptance of this proposal could mean NATO committing itself to assist in the expulsion of Soviet troops from these respective territories. Moreover, the displacement of hundreds of thousands of civilians from Eastern to Western Europe will lead to a humanitarian catastrophe that will need to be resolved by NATO member countries.

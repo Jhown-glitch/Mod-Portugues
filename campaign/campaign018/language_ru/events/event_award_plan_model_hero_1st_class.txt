@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/xred2.jpg
+Photo=campaign/images/awards/plan_model_hero_1st_class.png
+Music=audio/music/TheEastIsRed.ogg
+Header=ПРЕЗИДИУМ ВЕРХОВНОГО СОВЕТА КНР<n>ПЕКИН
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n><b>УКАЗОМ ПРЕЗИДИУМА ВЕРХОВНОГО СОВЕТА КНР</b> <n><n>от <DATE>
+Sentence1=<size=14>Командир <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><POSTHUMOUSLY> награждается </size><n><n><b><size=18>медалью</size><n><n><size=22>"ОБРАЗЦОВЫЙ ГЕРОЙ 1-го КЛАССА"</size></b>
+Sentence2=За многочисленные героические подвиги командира  <PLAYERVESSELDESIGNATION> <PLAYERVESSELHULL>, беззаветное служение Родине и отчаянную борьбу с врагом. В ожесточённых боях <PLAYER_RANK_l> <PLAYERNAME> проявил себя как опытный в боях, инициативный, смелый, решительный отважный командир, умеющий выполнять любое задание командования. 

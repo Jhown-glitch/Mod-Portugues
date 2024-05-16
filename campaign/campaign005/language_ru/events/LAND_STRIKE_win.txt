@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/photos/photo2/1 (4).jpeg,campaign/images/photos/photo2/1 (42).jpg
+Photo=campaign/images/photos/explosions 1,campaign/images/photos/explosions 2,campaign/images/photos/explosions 3,campaign/images/photos/fire 1,campaign/images/photos/ruins 1,campaign/images/photos/smoke 1
+Music=audio/music/win.ogg,audio/music/win2.ogg,audio/music/win3.ogg,audio/music/win4.ogg,audio/music/win6.ogg,audio/music/win7.ogg,audio/music/win8.ogg,audio/music/win9.ogg,audio/music/win10.ogg,audio/music/win11.ogg,audio/music/win12.ogg,audio/music/win13.ogg,audio/music/win14.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><ENDLOCATION> ПОД УДАРОМ!</b>|<b><ENDLOCATION> В ОГНЕ!</b>|<b>РАКЕТНЫЙ УДАР ПО <ENDLOCATION_DA></b>
+Color=57,61,73,255
+Sentence1=Военные объекты в <ENDLOCATION_PR>, (<COUNTRY>) понесли значительный ущерб в результате мощного ракетного удара нанесённого <FRIENDLY_SUFFIX>. Инфраструктура военной базы и порта подверглась значительным разрушениям и на её восстановление потребуются значительные силы и средства.
+Color=218,218,208,255
+Sentence2=Представители <COUNTRY> выступили с протестом, заявив о многочисленных жертвах среди гражданского населения. Отрицая эти обвинения, представители <FRIENDLY_SINGULAR> призывают здравомыслящих граждан во всём мире не верить "очевидной дезинформации".

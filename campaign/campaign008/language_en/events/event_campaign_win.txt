@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_2
+Image=campaign/images/ussr/ussr (13).jpg
+Photo=campaign/images/photos/photo2/245.jpg
+Music=audio/music/orchestra.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>BLOCKADE OF EUROPE!</b>
+Sentence1=The people and the army are united! Ground forces completely defeated the enemy! The Soviet Navy has seized the initiative and is in full control of the North Atlantic and the Norwegian Sea. Transatlantic convoys are still trying to break through the Soviet blockade, but mounting losses will mean that these attempts will soon cease.
+Sentence2=Ground forces and the most active formations of the navy are partially recalled to their places of permanent deployment, apparently something very important is being planned.

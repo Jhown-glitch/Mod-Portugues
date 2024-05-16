@@ -1,0 +1,44 @@
+//Coiled Viper (USA)
+
+UseTerrain=TRUE
+MapCoordinates=2977,1300
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/south_china_sea_traffic_nato
+
+//Environment
+Date=12 FEB 2002
+Hemisphere=North
+Time=1800
+UsePresetEnvironment=TRUE
+Weather=Clear
+SeaState=StrongBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,TRUE,TRUE
+EnemyShipClasses=wp_02_bpk_udaloy2_ai,wp_84_bpk_udaloy_ai,wp_84_bpk_kresta2_ai,wp_84_em_sovremenny_ai,wp_84_em_sovremenny_ai
+FormationCruiseSpeed=10
+
+//
+EnemyWaypoints=-90,-110|-80,90
+//
+EnemyWaypoints=-110,-110|-70,80
+//
+EnemyWaypoints=-90,-160|-80,30
+//
+EnemyWaypoints=-110,-160|-100,30
+//
+EnemyWaypoints=-100,-100|-90,100
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=wp_helix
+NumberOfAircraft=1
+AircraftType=wp_tu-142_bear
+
+PlayerVessels=usn_68_ss_barbel_un,usn_84_ss_barbel_un,usn_68_ss_guppy_un,usn_68_ss_guppy_3,usn_68_ss_tang_un,usn_68_ssn_nautilus_un,usn_68_ssn_sturgeon_un,usn_68_ssn_permit_un,usn_68_ssn_skipjack_un,usn_84_ssn_skipjack_un,usn_84_ssn_narwhal_pl,usn_84_ssn_permit_pl,usn_84_ssn_sturgeon_pl,usn_84_ssn_los_angeles_pl,usn_02_ssn_los_angeles2_pl,usn_02_ssn_los_angeles3_pl,usn_02_ssn_seawolf_pl,usn_04_ssn_virginia_pl,usn_05_ssgn_ohio_vls_pl,usn_68_ssbn_washington_un,usn_68_ssbn_ethan_allen_un,usn_84_ssbn_ohio_un,plan_uk_68_ssn_dreadnought_un,plan_uk_68_ssn_valliant_un,plan_uk_84_ssn_trafalgar_un,plan_uk_84_ssn_swiftsure_un,plan_uk_84_ssn_churchill_un,plan_uk_02_ssn_trafalgar_un,plan_uk_02_ssn_swiftsure_un,plan_uk_05_ssn_212a_un,plan_uk_10_ssn_astute_un,plan_uk_68_ssbn_resolution_un,plan_uk_02_ssbn_vanguard_un,plan_fr_84_ssn_rubis_un,plan_fr_20_ssn_suffren_un,plan_fr_84_ssbn_redoubtable_un,plan_jp_84_ss_yushio_un,plan_jp_02_ss_oyashio_un,plan_it_02_ss_sauro4_un,plan_it_84_ss_toti_un,plan_uk_68_ss_oberon_un,plan_uk_02_ss_upholder_un,plan_neth_68_ss_dolfijn_un,plan_neth_02_ss_walrus_un,plan_ger_84_ss_209_un,plan_knm_84_ss_kobben,plan_is_02_ss_dolphin_un,plan_aus_68_ss_oberon_un,plan_aus_02_ss_collins_un,plan_swe_02_ss_gotland_un,plan_pak_02_ss_agosta_un,usn_84_ffg_perry_pl,usn_84_ff_knox_pl,usn_84_cg_belknap_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl,usn_02_ddg_ticonderoga_pl,usn_02_ddg_arleigh_burke1_pl,usn_02_ddg_arleigh_burke_pl,usn_84_cgn_longbeach_pl,usn_84_bb_iowa_pl

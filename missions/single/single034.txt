@@ -1,0 +1,32 @@
+//Statfjord Oil Field, North Sea - NATO
+UseTerrain=TRUE
+MapCoordinates=1903,773
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_68_nato
+
+//Environment
+Date=05 Jan 1970
+Hemisphere=North
+Time=1700
+UsePresetEnvironment=FALSE
+Weather=Snow
+SeaState=FreshBreeze
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=2-2,5-8
+CombatBehaviour=DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE
+EnemyShipClasses=wp_68_ssn_victor1_un|wp_68_ssn_november_un|wp_68_ssgn_charlie1_un|wp_68_ssgn_echo1_un|wp_68_ssgn_echo2_un|wp_68_ssg_juliet_un|wp_68_ss_foxtrot_un|wp_68_ss_romeo_un|wp_68_ss_whiskey_un|wp_68_ssgn_whiskeylb_un,wp_68_kr_sverdlov_ai|wp_68_pkr_moskva_ai|wp_68_rkr_kresta1_ai|wp_68_bpk_kashin_ai|wp_68_bpk_kanin_ai|wp_68_em_kotlin_ai|wp_68_mpk_poti_ai
+FormationCruiseSpeed=6
+
+
+MissionPosition=0,-40
+
+//Enemy Aircraft
+
+
+PlayerVessels=usn_68_ssbn_washington_un,usn_68_ssbn_ethan_allen_un,usn_68_ssn_sturgeon_un,usn_68_ssn_permit_un,usn_68_ssn_skipjack_un,usn_68_ss_barbel_un,usn_68_ss_guppy_un,usn_68_ss_guppy_3,usn_68_ss_tang_un,usn_68_ssn_nautilus_un,plan_it_84_ss_toti_un,plan_uk_68_ssn_dreadnought_un,plan_uk_68_ssn_valliant_un,plan_uk_84_ssn_churchill_un,plan_uk_68_ssbn_resolution_un,plan_uk_68_ss_oberon_un,plan_neth_68_ss_dolfijn_un

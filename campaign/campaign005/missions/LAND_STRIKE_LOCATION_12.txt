@@ -1,0 +1,42 @@
+//Quingdao
+UseTerrain=TRUE
+MapCoordinates=1996,1697
+MapNavigationData=campaign/images/maps/south_china_sea_merchants_us
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry.png
+WorldObjectsData=campaign/maps/south_china_sea_world_objects1
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=ch_ss_ming|ch_ddg_sovremenny|ch_ddg_luhu|ch_ddg_luda3|ch_ddg_luda|ch_ffg_jiangwei|ch_ff_jianghu3|ch_ff_jianghu|ch_ff_chengdu,ch_ss_ming|ch_ddg_sovremenny|ch_ddg_luhu|ch_ddg_luda3|ch_ddg_luda|ch_ffg_jiangwei|ch_ff_jianghu3|ch_ff_jianghu|ch_ff_chengdu,ch_ss_ming|ch_ddg_sovremenny|ch_ddg_luhu|ch_ddg_luda3|ch_ddg_luda|ch_ffg_jiangwei|ch_ff_jianghu3|ch_ff_jianghu|ch_ff_chengdu,ch_ss_ming|ch_ddg_sovremenny|ch_ddg_luhu|ch_ddg_luda3|ch_ddg_luda|ch_ffg_jiangwei|ch_ff_jianghu3|ch_ff_jianghu|ch_ff_chengdu
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=70,-200
+PlayerHeading=290
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//Port Front
+EnemyWaypoints=-383,-160|-60,10
+//East N/S
+EnemyWaypoints=360,10|350,-320
+//West N/S
+EnemyWaypoints=-360,-250|-160,-520
+//Outer Patrol
+EnemyWaypoints=-450,-600|80,-530|280,-50
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+//plan_helix
+HelicopterType=ch_z-9
+NumberOfAircraft=1
+AircraftType=ch_y-8x
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=250,-70,150
+AircraftSearchArea=-195,-440,200

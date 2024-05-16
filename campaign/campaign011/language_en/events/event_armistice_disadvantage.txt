@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/us/84/ships/cv/us84scv (4).jpg,campaign/images/us/84/ships/cv/us84scv (12).jpg,campaign/images/us/84/ships/cv/us84scv (16).jpg
+
+Photo=campaign/images/us/84/air/news/us84an (6).jpg,campaign/images/us/84/air/news/us84an (7).jpg,campaign/images/us/84/air/news/us84an (8).jpg,campaign/images/us/84/land/news/us84ln (11).jpg
+Music=audio/music/ustowin.ogg
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><ENEMY> ATTACK ON ALL FRONTS!</b>|<b><ENEMY> CLOSE TO VICTORY!</b>
+Color=57,61,73,255
+Sentence1=<ENEMY> break into enemy defenses, <ENEMY_NAVY> successfully complete assigned missions at sea. The <FRIENDLY_SINGULAR> leadership is leaning towards starting formal truce negotiations and starting to lay the groundwork for a cessation of hostilities. Many are convinced that the negotiations will lead to a long-awaited agreement between all hostile countries.
+Color=218,218,208,255
+Sentence2=Given the unstoppable power of <ENEMY_SINGULAR>, analysts remain seriously concerned about what position <FRIENDLY> might have in any negotiation. However, both sides still hold their trump cards in the form of their nuclear arsenals.

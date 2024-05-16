@@ -1,0 +1,23 @@
+UseTerrain=TRUE
+MapCoordinates=1343,1065
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_84_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_84_ff_knox_ai|usn_84_ddg_spruance_ai,usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p,usn_84_cg_belknap_ai,plan_uk_02_ssn_trafalgar_un|plan_uk_02_ssn_swiftsure_un|plan_uk_84_ssn_churchill_un|plan_uk_02_ssn_trafalgar_un|plan_uk_84_ssn_churchill_un|plan_uk_02_ssn_swiftsure_un|plan_fr_84_ssn_rubis_un|plan_aus_02_ss_collins_un|plan_neth_02_ss_walrus_un|plan_neth_02_ss_walrus_un|plan_pak_02_ss_agosta_un,usn_vt_fleet-tanker|usn_vt_small-fl-tanker|usn_vt_oiler|usn_84_aor_oiler,usn_84_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_84_ff_knox_ai|usn_84_ddg_spruance_ai,usn_vtr_transport|usn_ms_small_freighter,usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p,usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_84_ssn_narwhal_pl|usn_02_ssn_seawolf_pl|usn_84_ssn_sturgeon_pl,usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p
+
+FormationCruiseSpeed=10
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=1
+AircraftType=usn_p3c
+
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=156,574,200

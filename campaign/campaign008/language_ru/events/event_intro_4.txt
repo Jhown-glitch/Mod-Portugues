@@ -1,0 +1,13 @@
+NextAction=MAP
+Image=campaign/images/ussr/68/land/ussr68l (1).jpg,campaign/images/ussr/68/land/ussr68l (2).jpg,campaign/images/ussr/68/land/ussr68l (3).jpg,campaign/images/ussr/68/land/ussr68l (4).jpg,campaign/images/ussr/68/land/ussr68l (5).jpg,campaign/images/ussr/68/land/ussr68l (6).jpg,campaign/images/ussr/68/land/ussr68l (7).jpg,campaign/images/ussr/68/land/ussr68l (8).jpg,campaign/images/ussr/68/land/ussr68l (9).jpg,campaign/images/ussr/68/land/ussr68l (10).jpg,campaign/images/ussr/68/land/ussr68l (11).jpg,campaign/images/ussr/68/land/ussr68l (12).jpg,campaign/images/ussr/68/land/ussr68l (13).jpg,campaign/images/ussr/68/land/ussr68l (14).jpg,campaign/images/ussr/68/land/ussr68l (15).jpg,campaign/images/ussr/68/land/ussr68l (16).jpg,campaign/images/ussr/68/land/ussr68l (17).jpg,campaign/images/ussr/68/land/ussr68l (18).jpg,campaign/images/ussr/68/land/ussr68l (19).jpg,campaign/images/ussr/68/land/ussr68l (20).jpg,campaign/images/ussr/68/land/ussr68l (21).jpg,campaign/images/ussr/68/land/ussr68l (22).jpg,campaign/images/ussr/68/land/ussr68l (23).jpg,campaign/images/ussr/68/land/ussr68l (24).jpg,campaign/images/ussr/68/land/ussr68l (25).jpg,campaign/images/ussr/68/land/ussr68l (26).jpg,campaign/images/ussr/68/land/ussr68l (27).jpg
+Photo=campaign/images/us/68/land/news/destroyed/us68lnd (1).jpg,campaign/images/us/68/land/news/destroyed/us68lnd (2).jpg,campaign/images/us/68/land/news/destroyed/us68lnd (3).jpg,campaign/images/us/68/land/news/destroyed/us68lnd (4).jpg,campaign/images/us/68/land/news/destroyed/us68lnd (5).jpg,campaign/images/us/68/land/news/destroyed/us68lnd (6).jpg,campaign/images/us/68/land/news/destroyed/us68lnd (7).jpg,campaign/images/us/68/land/news/destroyed/us68lnd (8).jpg,campaign/images/us/68/land/news/destroyed/us68lnd (9).jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>БРЕЖНЕВ<n></b>СНОВА НАНОСИТ УДАР
+Color=57,61,73,255
+Sentence1=Советские войска при поддержке массивных ракетных ударов, сегодня при неожиданном нападении взломали немецкую оборону, которая включала в себя как бронетанковые соединения так и воздушно-десантные силы НАТО. Несмотря на готовность к битве, НАТО все равно застали врасплох и сейчас они отступают.
+Color=218,218,208,255
+Sentence2=Белый дом объявил, что сейчас между США и СССР идет состояние войны, и заявил о своей поддержке союзников по НАТО 'любой ценой'. Пресс-секретарь Пентагона сказал, что поставки конвоев достигнут Европы только в течение недели и до тех пор подразделениям НАТО просто нужно будет держать линию обороны.

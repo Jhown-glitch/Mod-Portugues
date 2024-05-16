@@ -1,0 +1,11 @@
+[Medals and Awards]
+
+PatrolAwards=event_award_plan_meritorous_service_medal_3rd_class
+PatrolTonnage=25000
+
+CumulativeAwards=event_award_plan_meritorous_service_medal_2nd_class,event_award_plan_meritorous_service_medal_1st_class,event_award_plan_model_hero_2nd_class,event_award_plan_model_hero_1st_class
+CumulativeTonnage=50000,100000,250000,500000
+MissionsPassed=5,11,17,25
+
+WoundedAwards=event_award_plan_model_hero_1st_class
+ProbabilityWounded=0.15,0.001

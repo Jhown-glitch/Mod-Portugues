@@ -1,0 +1,68 @@
+//Cruising Triumph (USA)
+
+UseTerrain=TRUE
+MapCoordinates=2382,179
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_nato
+
+//Environment
+Date=17 MAR 1987
+Hemisphere=North
+Time=0100
+UsePresetEnvironment=TRUE
+Weather=Clear
+SeaState=RANDOM
+DuctStrength=Strong
+LayerStrength=Moderate
+
+//Enemy Ships
+UsePresetPositions=TRUE
+NumberOfEnemyUnits=2-2,2-2,1-1,1-1,2-2,2-2,1-1,2-2
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_em_sovremenny_ai,wp_84_em_sovremenny_ai,wp_84_bpk_kresta2_ai,wp_84_rkr_kirov_ai,wp_84_bpk_udaloy_ai,wp_84_bpk_kara_ai|wp_84_bpk_kresta2_ai,wp_84_ssn_alfa_pl,wp_84_mpk_grisha3_ai
+FormationCruiseSpeed=20
+
+
+//Group1 Waypoints.
+EnemyWaypoints=452,112|-420,-164
+EnemyWaypoints=457,107|-420,-164
+
+//Group2 Waypoints.
+EnemyWaypoints=488,108|-400,-152
+EnemyWaypoints=493,103|-400,-152
+
+//Group3 Waypoints.
+EnemyWaypoints=488,44|-416,-172
+
+//Group4 Waypoints.
+EnemyWaypoints=468,76|-412,-160
+
+//Group5 Waypoints.
+EnemyWaypoints=500,80|-464,-164
+EnemyWaypoints=505,75|-464,-164
+
+//Group6 Waypoints.
+EnemyWaypoints=404,80|-476,-172
+EnemyWaypoints=409,75|-476,-172
+
+//Group7 Waypoints.
+EnemyWaypoints=92,156|0,0
+
+//Group8 Waypoints.
+EnemyWaypoints=268,116|68,88|-228,-48
+EnemyWaypoints=273,111|73,83|-231,-51
+
+PlayerPosition=0,0
+PlayerHeading=0
+PlayerDepthInFeet=100
+
+//Enemy Aircraft
+NumberOfHelicopters=2
+HelicopterType=wp_helix
+NumberOfAircraft=1
+AircraftType=wp_tu-142_bear
+
+PlayerVessels=usn_84_ssn_los_angeles_pl,usn_84_ssn_narwhal_pl,usn_84_ssn_permit_pl,usn_84_ssn_skipjack_un,usn_84_ssn_sturgeon_pl,usn_68_ssbn_ethan_allen_un,usn_68_ssbn_washington_un,usn_84_ssbn_ohio_un,usn_84_ss_barbel_un,plan_uk_84_ssn_churchill_un,plan_uk_84_ssn_swiftsure_un,plan_uk_84_ssn_trafalgar_un,plan_fr_84_ssn_rubis_un,plan_uk_68_ssbn_resolution_un,plan_uk_84_ssbn_resolution_un,plan_fr_84_ssbn_redoubtable_un,plan_aus_68_ss_oberon_un,plan_neth_68_ss_dolfijn_un,plan_uk_68_ss_oberon_un,plan_ger_84_ss_209_un,plan_knm_84_ss_kobben,plan_it_84_ss_toti_un,plan_jp_84_ss_yushio_un,usn_84_ffg_perry_pl,usn_84_ff_knox_pl,usn_84_cg_belknap_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl,usn_84_cgn_longbeach_pl,usn_84_bb_iowa_pl

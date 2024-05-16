@@ -1,0 +1,14 @@
+NextAction=event_early_end_2
+Image=campaign/images/ussr/68/ships/cv/ussr68scv (1).jpg,campaign/images/ussr/68/ships/cv/ussr68scv (2).jpg,campaign/images/ussr/68/ships/cv/ussr68scv (3).jpg,campaign/images/ussr/68/ships/cv/ussr68scv (4).jpg,campaign/images/ussr/68/ships/cv/ussr68scv (5).jpg,campaign/images/ussr/68/ships/bb/ussr68shbb (1).jpg,campaign/images/ussr/68/ships/bb/ussr68shbb (2).jpg,campaign/images/ussr/68/ships/bb/ussr68shbb (3).jpg,campaign/images/ussr/68/ships/bb/ussr68shbb (4).jpg,campaign/images/ussr/68/ships/bb/ussr68shbb (5).jpg
+Photo=campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (1).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (2).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (3).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (4).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (5).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (6).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (7).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (8).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (9).jpg,campaign/images/us/68/ships/cv/news/destroyed/us68shcvnd (10).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (1).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (3).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (4).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (5).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (6).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (7).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (8).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (9).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (10).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (11).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (12).jpg,campaign/images/us/84/ships/bb/news/destroyed/us84sbbnd.jpg,campaign/images/us/84/ships/news/destroyed/us84snd (1).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (2).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (3).jpg
+Music=audio/music/lost11.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>КРИТИЧЕСКИЕ ПОТЕРИ</b>
+Sentence1=<FRIENDLY_NAVY> понёсли тяжелые потери в последних столкновениях с <ENEMY_NAVY_SUFFIX> и похоже теперь вынужден прекратить активные действия, сосредоточившись исключительно на обороне своих баз.
+
+Sentence2=Между тем неудачи <FRIENDLY_NAVY_SINGULAR> на море уже оказывают своё влияние на ход войны на суше. Несколько ударных групп и авианосцев <ENEMY_NAVY_SINGULAR> оказывают активную поддержку обороняющимся войскам, которые смогли не только вздохнуть свободнее, но и перейти в контрнаступление на нескольких участках фронта.

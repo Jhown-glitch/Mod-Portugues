@@ -1,0 +1,13 @@
+NextAction=event_campaign_landwar_fail_2
+Image=campaign/images/china/ch (1).jpg,campaign/images/china/ch (2).jpg
+Photo=campaign/images/china/news/chn (2).jpg,campaign/images/china/news/chn (3).jpg
+Music=audio/music/lost17.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>WAR IS OVER!</b>
+Sentence1=Prompt Global Strike <FRIENDLY_SINGULAR> has been defeated. Having repelled the initial onslaught, <ENEMY> went on the offensive and defeated the enemy troops. Due to the impossibility of continuing hostilities, <FRIENDLY> were forced to abandon their presence in the Asia-Pacific region.
+Sentence2=The defeat in the war, coupled with the ongoing financial crisis, led to an even greater recession in the economy, more and more countries are abandoning the dollar as a reserve currency. In foreign policy, the former control is lost, the global hegemony of the United States is coming to an end, and in the meantime, in America itself, the internal situation is being shaken more and more every day.

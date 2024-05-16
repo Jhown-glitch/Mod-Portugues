@@ -1,0 +1,14 @@
+NextAction=event_intro_2
+Image=campaign/images/2002/Белый дом 2.jpg
+Photo=campaign/images/2002/Белый дом 1.jpg,campaign/images/2002/Белый дом 3.jpg,campaign/images/2002/hqdefault.jpg
+Music=audio/music/Cold Waters Combat 03
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Decay of the USSR!<n>WHITE HOUSE ON FIRE!</b>
+Color=57,61,73,255
+Sentence1=On October 4, 1993, the White House in Moscow, where supporters of the Supreme Soviet of the RSFSR were headed by Ruslan Khazbulatov, was stormed. Thus ended one of the most acute political crises in modern Russian history, which lasted a total of about two weeks.
+Color=218,218,208,255
+Sentence2=he period of "dual power" ended in clashes, the victims of which were more than 150 people. About 400 people were injured. Among the dead were journalists reporting on what was happening, and many ordinary citizens.

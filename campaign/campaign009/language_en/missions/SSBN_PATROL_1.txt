@@ -1,0 +1,19 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+According to the intelligence from a NATO port, the enemy is equipping submarines with ballistic missiles. In a few hours, they will be ready to leave the Naval Base near <color=Cyan><STARTLOCATION></color>, and in a few days they will most likely approach the Russian Far East to launch nuclear missiles to our key strategic sites. You must immediately depart to the Pacific Ocean to intercept and eliminate this threat. Most likely, the missile carriers will be accompanied by an attacking submarine or a combination of surface ships. Do not come back if you fail in this mission. There will be nowhere to accept such a failure. 
+
+2.	(S) THE MAIN TASK:
+Search and destroy the ballistic missile submarines.
+
+3.	(S) ADDITIONAL TASK:
+Absent. 
+
+4.	(S) Avoid detection.
+5.	(S) You are free to choose your weapons.
+6.	(S) Keep silent mode.
+[MISSION WIN]
+Great job! You have successfully finished this impossible mission - saving our key strategic objects from a nuclear strike and practically saving our homeland! Congratulations to you Commander!
+[MISSION FAIL]
+Although you did everything you could, it was still not enough. The submarines are about to strike with their nuclear ballistic missiles on board.
+[MISSION MISSED]
+This is the most important task that was entrusted to you, and you failed to cope with it! Nuclear strike is incoming, and we are now on the verge of complete mutual destruction...

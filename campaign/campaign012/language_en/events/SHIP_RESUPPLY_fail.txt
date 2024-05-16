@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/us/84/ships/us84s (29).jpg,campaign/images/us/84/ships/us84s (47).jpg,campaign/images/us/84/ships/us84s (53).jpg,campaign/images/us/84/ships/us84s (61).jpg
+Photo=campaign/images/us/84/ships/news/us84sn (27).jpg,campaign/images/us/84/ships/news/us84sn (31).jpg,campaign/images/us/84/ships/news/us84sn (37).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (5).jpg
+Music=audio/music/lost1.ogg,audio/music/lost2.ogg,audio/music/lost3.ogg,audio/music/lost4.ogg,audio/music/lost5.ogg,audio/music/lost6.ogg,audio/music/lost7.ogg,audio/music/lost8.ogg,audio/music/lost9.ogg,audio/music/lost10.ogg,audio/music/lost11.ogg,audio/music/lost12.ogg,audio/music/lost13.ogg,audio/music/lost14.ogg,audio/music/lost15.ogg,audio/music/lost16.ogg,audio/music/lost17.ogg,audio/music/lost18.ogg,audio/music/lost19.ogg,audio/music/lost20.ogg,audio/music/lost21.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>NATO SUPPLIES SHIPS</b>|<b>REFUELING AT SEA</b>|<b>FLEET SUPPLY</b>
+Color=57,61,73,255
+Sentence1=According to the press service, the NATO Navy has managed to supply its ships on the high seas. Tankers and supply vessels transfer fuel, provisions and ammunition directly to the sea, significantly expanding the capabilities of combat groups in the <ENDLOCATION_RO> area. Attempts by the Soviet Navy to counteract these operations were unsuccessful.
+Color=218,218,208,255
+Sentence2=A sharp increase in the activity of the NATO Navy in the <ENDLOCATION_RO> area was noted, which creates an increasing threat to the USSR forces in the region. At the moment, analysts believe that NATO fully owns the initiative and is not going to concede it.

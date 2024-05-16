@@ -1,0 +1,13 @@
+NextAction=event_campaign_critical_fail_2
+Image=campaign/images/nuke launch farm
+Photo=campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (1).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (2).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (3).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (4).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (5).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (6).jpg
+Music=audio/music/lost8.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>END CLOSE</b>
+Sentence1=Russian nuclear ballistic missile submarines, having successfully taken positions along the US coast, have been used as leverage during recent ceasefire negotiations. As tensions continue to escalate, the inevitable use of tactical nuclear weapons has become a certainty as the crisis continues to spiral out of control.
+Sentence2=From three devastating tactical nuclear attacks in Central and Western Europe, it has become frighteningly clear to date that the current conflict will not be resolved through diplomatic means. Despite the civil unrest and riots spreading in many major cities around the world, most are content to be loved, waiting on one side or the other to unleash their full nuclear arsenal first.

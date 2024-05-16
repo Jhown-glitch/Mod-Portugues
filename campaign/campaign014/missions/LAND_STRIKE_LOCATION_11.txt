@@ -1,0 +1,51 @@
+UseTerrain=TRUE
+MapCoordinates=161,1734
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,0-1,1-1,0-1,1-1,0-1,1-1,0-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_02_ff_perry_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_cg_belknap_ai,usn_84_ff_knox_ai|usn_84_ddg_spruance_ai,usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_05_ssgn_ohio_vls_pl|usn_84_ssn_sturgeon_pl|usn_02_ssn_seawolf_pl|plan_jp_02_ss_oyashio_un|plan_it_84_ss_toti_un|plan_uk_02_ssn_trafalgar_un|plan_uk_02_ssn_swiftsure_un|plan_uk_84_ssn_churchill_un|plan_uk_02_ssn_trafalgar_un|plan_uk_84_ssn_churchill_un|plan_uk_02_ssn_swiftsure_un|plan_ger_84_ss_209_un|plan_knm_84_ss_kobben|plan_fr_84_ssn_rubis_un|plan_aus_02_ss_collins_un|plan_neth_02_ss_walrus_un|plan_neth_02_ss_walrus_un|plan_pak_02_ss_agosta_un,usn_84_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ff_perry_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai,usn_84_ff_knox_ai|usn_84_ddg_spruance_ai,usn_84_ssn_narwhal_pl|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_05_ssgn_ohio_vls_pl|usn_84_ssn_sturgeon_pl|usn_02_ssn_seawolf_pl|plan_jp_02_ss_oyashio_un|plan_it_84_ss_toti_un|plan_uk_02_ssn_trafalgar_un|plan_uk_02_ssn_swiftsure_un|plan_uk_84_ssn_churchill_un|plan_uk_02_ssn_trafalgar_un|plan_uk_84_ssn_churchill_un|plan_uk_02_ssn_swiftsure_un|plan_ger_84_ss_209_un|plan_knm_84_ss_kobben|plan_fr_84_ssn_rubis_un|plan_aus_02_ss_collins_un|plan_neth_02_ss_walrus_un|plan_neth_02_ss_walrus_un|plan_pak_02_ss_agosta_un,usn_84_ff_knox_ai|usn_84_ddg_spruance_ai,usn_84_ff_knox_ai|usn_84_ddg_spruance_ai,usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_05_ssgn_ohio_vls_pl|usn_84_ssn_sturgeon_pl|usn_02_ssn_seawolf_pl|plan_jp_02_ss_oyashio_un|plan_it_84_ss_toti_un|plan_uk_02_ssn_trafalgar_un|plan_uk_02_ssn_swiftsure_un|plan_uk_84_ssn_churchill_un|plan_uk_02_ssn_trafalgar_un|plan_uk_84_ssn_churchill_un|plan_uk_02_ssn_swiftsure_un|plan_ger_84_ss_209_un|plan_knm_84_ss_kobben|plan_fr_84_ssn_rubis_un|plan_aus_02_ss_collins_un|plan_neth_02_ss_walrus_un|plan_neth_02_ss_walrus_un|plan_pak_02_ss_agosta_un,usn_84_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_84_ff_knox_ai
+
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=325,800
+PlayerHeading=280
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+EnemyWaypoints=-41,68|326,276
+EnemyWaypoints=251,382|330,685
+EnemyWaypoints=-408,552|-74,522
+EnemyWaypoints=583,723|184,777
+//Enter/Leave Port
+EnemyWaypoints=353,825|15,-246
+//M
+EnemyWaypoints=500,750|100,740
+//M
+EnemyWaypoints=100,790|650,810
+//M
+EnemyWaypoints=550,820|950,810
+
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+
+MissionPosition=-1800,100
+MissionPositionColor=LAND_STRIKE
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=1
+AircraftType=usn_p3c
+
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=156,574,200

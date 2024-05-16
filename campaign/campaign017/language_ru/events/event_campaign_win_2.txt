@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/china/ch (12).jpg,campaign/images/china/ch (13).jpg
+Photo=campaign/images/china/news/chn (7).jpg,campaign/images/china/news/chn (8).jpg,campaign/images/china/news/chn (9).jpg,campaign/images/china/news/chn (10).jpg
+Music=audio/music/guxiang.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Победа!</b>
+Sentence1=Лишенные своих стратегических рычагов влияния, американцы не имели иного выбора, кроме как согласиться на условия Китая во время мирных переговоров, что было прямым результатом их слабого положения в западной части Тихого океана.
+Sentence2=Начинается новый период процветания Востока. Китайская Народная Республика ликует и празднует этот Великий день! Родные и близкие встречают победителей и верят в светлое будущее своей страны... 

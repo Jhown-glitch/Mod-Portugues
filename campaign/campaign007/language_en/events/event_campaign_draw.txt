@@ -1,0 +1,13 @@
+NextAction=event_campaign_draw_2
+Image=campaign/images/ussr/84/subs/ssbn/ussr84sussbn (1).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (2).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (3).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (4).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (5).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (6).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (7).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (8).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (9).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (10).jpg,campaign/images/ussr/84/subs/ssbn/ussr84sussbn (11).jpg
+Photo=campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (1).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (2).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (3).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (4).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (5).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (6).jpg
+Music=audio/music/win6.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>THE NUCLEAR WEAPON THREAT IS TOO GREAT</b>
+Sentence1=Nuclear ballistic missile submarines, taking up positions along the US coast, have been used as "leverage" during the recent ceasefire talks to bolster Russia's weak position. Finally, both sides have recognized the "mutually assured destruction" of further conflict, and negotiations are under way to return peace and stability to the world.
+Sentence2=Cessation of fire <n> A general ceasefire - announced a few days ago - fortunately it seems to have been supported on all fronts. An anonymous US spokesman suggested that if the peace talks are successful, many troops could be on their way home in a few weeks.

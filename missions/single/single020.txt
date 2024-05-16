@@ -1,0 +1,33 @@
+//Roaring Lions (USA)
+
+UseTerrain=TRUE
+MapCoordinates=1311,920
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_68_nato
+
+//Environment
+Date=30 OCT 1962
+Hemisphere=North
+Time=1400
+UsePresetEnvironment=TRUE
+Weather=Storm
+SeaState=StrongBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=2-2,4-4,1-1,1-1,1-1,2-2,3-6,1-1
+CombatBehaviour=DEFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_vtr_amguema,wp_vtr_andizhan|wp_vtr_andizhan_mod,wp_vtr_yuniy_partizan,wp_vt_kazbek,wp_vt_boris_chilikin,wp_68_ssn_november_un,wp_68_bpk_kashin_ai,wp_68_kr_sverdlov_ai
+FormationCruiseSpeed=10
+
+//Enemy Aircraft
+NumberOfHelicopters=3
+HelicopterType=wp_hormone_68
+NumberOfAircraft=1
+AircraftType=wp_be-12_mail
+
+PlayerVessels=usn_68_ssn_nautilus_un,usn_68_ssn_permit_un,usn_68_ssn_skipjack_un,usn_68_ssn_sturgeon_un,usn_68_ssbn_ethan_allen_un,usn_68_ssbn_washington_un,usn_68_ss_barbel_un,usn_68_ss_guppy_un,usn_68_ss_guppy_3,usn_68_ss_tang_un,plan_uk_68_ssn_dreadnought_un,plan_uk_68_ssn_valliant_un,plan_uk_68_ssbn_resolution_un,plan_aus_68_ss_oberon_un,plan_neth_68_ss_dolfijn_un,plan_uk_68_ss_oberon_un

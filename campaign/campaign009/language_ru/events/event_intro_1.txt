@@ -1,0 +1,13 @@
+NextAction=event_intro_2
+Image=campaign/images/1968/5035952_original.png,campaign/images/1968/1500462362_ea159231b2186607f233244e658f4412 (1) (2).jpg,campaign/images/1968/GettyImages-615204648-Horizontal.jpeg
+Photo=campaign/images/1968/viet.jpg,campaign/images/1968/vetnamskaya-vojna.jpg,campaign/images/1968/954587cabecc4274c556f0181a56fed6--north-vietnam-grip.jpg,campaign/images/1968/viet2.png
+Music=audio/music/Cold Waters Main Menu
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>1968 ГОД<n>ХОЛОДНАЯ ВОЙНА В САМОМ РАЗГАРЕ</b>
+Color=57,61,73,255
+Sentence1=В юго-восточной Азии Америка борется с комунизмом во Вьетнаме. Через эту войну произошло столкновение на мировом уровне между США и СССР. Военная мощь, которая была противопоставлена США — это советское современное вооружение и самоотверженность вьетнамцев. 
+Color=218,218,208,255
+Sentence2=В ходе войны столкнулись ведущие державы капиталистического и социалистического миров. На стороне США выступали сайгонская армия и режим. Шло противостояние коммунистического севера и юга в лице сайгонского режима.

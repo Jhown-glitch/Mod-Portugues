@@ -1,0 +1,11 @@
+[Medals and Awards]
+
+PatrolAwards=event_award_navy_com
+PatrolTonnage=25000
+
+CumulativeAwards=event_award_legion_of_merit,event_award_bronze_star,event_award_silver_star,event_award_navy_dsm,event_award_navy_cross,event_award_medal_of_honor
+CumulativeTonnage=50000,100000,200000,500000,900000,1500000
+MissionsPassed=3,7,11,17,25,33
+
+WoundedAwards=event_award_purple_heart
+ProbabilityWounded=0.15,0.001

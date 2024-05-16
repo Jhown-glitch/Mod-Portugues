@@ -1,0 +1,13 @@
+NextAction=event_intro_5
+Image=campaign/images/1968/Drwa6HJW4AEJoYq.jpg
+Photo=campaign/images/1968/EJHKDRAXUAgxME4.jpg,campaign/images/1968/0957645_normal.jpg,campaign/images/1968/00019705.jpg,campaign/images/1968/0957645_normal.jpg,campaign/images/1968/20-4347268-pr.658.jpg
+Music=audio/music/Cold Waters Main Menu
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ХОЛОДНАЯ ВОЙНА<n>ПОД ВОДОЙ</b>
+Color=57,61,73,255
+Sentence1=Нигде ставки не высоки так, как в морских глубинах, где оснащенные ядерным оружием подводные лодки могут незаметно подкрасться к берегам противника.
+Color=218,218,208,255
+Sentence2=Определить точные координаты такого смертельно опасного корабля - дело первостепенной важности. На карту поставлено само существование мира.

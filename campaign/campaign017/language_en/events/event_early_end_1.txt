@@ -1,0 +1,14 @@
+NextAction=event_early_end_2
+Image=campaign/images/us/84/ships/us84s (4).jpg,campaign/images/us/84/ships/us84s (16).jpg,campaign/images/us/84/ships/us84s (47).jpg,campaign/images/us/84/ships/cv/us84scv (4).jpg
+Photo=campaign/images/convoy/news/convoyn (1).jpg,campaign/images/convoy/news/convoyn (2).jpg,campaign/images/convoy/news/convoyn (3).jpg,campaign/images/convoy/news/convoyn (4).jpg
+Music=audio/music/lost11.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>CRITICAL LOSS</b>
+Sentence1=The <FRIENDLY_NAVY> have suffered heavy casualties in recent encounters with the <ENEMY_NAVY_SUFFIX> and seem to be forced to cease active operations and focus solely on defending their bases.
+
+Sentence2=Meanwhile, <FRIENDLY_NAVY_SINGULAR> failures at sea are already having an impact on the course of the war on land. Several strike groups <ENEMY_NAVY_SINGULAR> provide active support to the defending troops, who were able not only to breathe easier, but also to go on the counteroffensive in several sectors of the front.

@@ -1,0 +1,23 @@
+UseTerrain=TRUE
+MapCoordinates=1498,537
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,0-1,0-1,0-1,0-1,0-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_68_bpk_kanin_ai|wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai|wp_68_rkr_kresta1_ai,wp_68_bpk_kanin_ai|wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai|wp_68_rkr_kresta1_ai,wp_pb_don|wp_pb_ugra,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_68_ss_foxtrot_un|wp_68_ss_romeo_un|wp_84_ss_whiskey_un|wp_68_ss_zulu_un|wp_68_ssg_juliet_un|wp_68_ssgn_charlie1_un|wp_68_ssgn_echo1_un|wp_68_ssgn_echo2_un|wp_68_ssn_november_un|wp_68_ssn_victor1_un,wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan,wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin
+
+FormationCruiseSpeed=10
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_haze
+NumberOfAircraft=1
+AircraftType=wp_il-38_may
+
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=156,574,200

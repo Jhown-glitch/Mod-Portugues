@@ -1,0 +1,42 @@
+UseTerrain=TRUE
+MapCoordinates=1916,1800
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_84_ff_knox_ai|usn_ddg_kidd|usn_cg_leahy|usn_84_ddg_ticonderoga_ai|usn_84_cgn_virginia_ai|usn_84_cg_belknap_ai,usn_84_ddg_spruance_ai|usn_84_ff_perry_ai|usn_84_ffg_perry_lh_ai,usn_84_ssn_narwhal_pl|usn_84_ssn_sturgeon_pl|usn_84_ssn_permit_pl|usn_84_ssn_skipjack_un|usn_84_ssn_los_angeles_pl|usn_84_ssn_sturgeon_pl|plan_it_84_ss_toti_un|plan_uk_84_ssn_trafalgar_un|plan_uk_84_ssn_swiftsure_un|plan_uk_84_ssn_churchill_un|plan_ger_68_ss_205_un|plan_uk_84_ss_oberon_un|plan_ger_84_ss_209_un|plan_knm_84_ss_kobben|plan_fr_84_ssn_rubis_un|plan_it_84_ss_toti_un|plan_neth_68_ss_dolfijn_un,usn_84_ff_perry_ai|usn_84_ffg_perry_lh_ai,usn_84_ff_knox_ai|usn_ddg_kidd|usn_cg_leahy|usn_84_ddg_ticonderoga_ai|usn_84_cgn_virginia_ai|usn_84_ddg_spruance_ai,usn_84_ssn_los_angeles_pl|usn_84_ssn_permit_pl|usn_84_ssn_skipjack_un|usn_84_ssn_sturgeon_pl|usn_84_ss_barbel_un|plan_uk_84_ssn_trafalgar_un|plan_uk_84_ssn_swiftsure_un|plan_uk_84_ssn_churchill_un|plan_ger_68_ss_205_un|plan_uk_84_ss_oberon_un|plan_fr_84_ssn_rubis_un|plan_it_84_ss_toti_un|plan_neth_68_ss_dolfijn_un|plan_it_84_ss_toti_un|plan_ger_84_ss_209_un|plan_knm_84_ss_kobben,usn_84_ff_knox_ai|usn_ddg_kidd|usn_cg_leahy|usn_84_ddg_ticonderoga_ai|usn_84_cgn_virginia_ai|usn_84_ddg_spruance_ai
+
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=500,-1700
+PlayerHeading=100
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+EnemyWaypoints=-301,-2168|1000,-1200
+EnemyWaypoints=-200,-1301|668,-2100
+EnemyWaypoints=-301,-1401|1111,-2201
+EnemyWaypoints=-200,-1401|900,-2101
+//Enter/Leave Port
+EnemyWaypoints=-401,-2200|977,-1400
+//M
+EnemyWaypoints=-277,-2100|800,-1500
+//M
+EnemyWaypoints=-144,-1300|900,-1900
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=1
+AircraftType=usn_p3c
+
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=800,-1900,200

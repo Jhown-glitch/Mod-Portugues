@@ -1,0 +1,55 @@
+UseTerrain=TRUE
+MapCoordinates=128,1283
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,0-1,1-1,0-1,1-1,0-1,1-1,0-1,1-1,0-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_68_ddg_adams_ai|usn_68_dd_sherman_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1|usn_68_cg_belknap_ai,usn_68_ddg_adams_ai|usn_68_dd_sherman_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1|usn_68_cg_belknap_ai,usn_68_ssn_sturgeon_un|usn_68_ssn_permit_un|usn_68_ssn_skipjack_un|usn_68_ssn_sturgeon_un|usn_68_ss_guppy_un|usn_68_ss_guppy_3|usn_68_ss_tang_un|usn_68_ss_barbel_un|usn_68_ssn_nautilus_un|plan_uk_68_ssn_dreadnought_un|plan_uk_68_ssn_valliant_un|plan_ger_68_ss_205_un|plan_uk_68_ss_oberon_un|plan_aus_68_ss_oberon_un|plan_neth_68_ss_dolfijn_un,usn_68_ddg_adams_ai|usn_68_dd_sherman_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1|usn_68_cg_belknap_ai,usn_68_ddg_adams_ai|usn_68_dd_sherman_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1|usn_68_cg_belknap_ai,usn_68_ssn_sturgeon_un|usn_68_ssn_permit_un|usn_68_ssn_skipjack_un|usn_68_ssn_sturgeon_un|usn_68_ss_guppy_un|usn_68_ss_guppy_3|usn_68_ss_tang_un|usn_68_ss_barbel_un|usn_68_ssn_nautilus_un|plan_uk_68_ssn_dreadnought_un|plan_uk_68_ssn_valliant_un|plan_ger_68_ss_205_un|plan_uk_68_ss_oberon_un|plan_aus_68_ss_oberon_un|plan_neth_68_ss_dolfijn_un,usn_68_ddg_adams_ai|usn_68_dd_sherman_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1|usn_68_cg_belknap_ai,usn_68_ddg_adams_ai|usn_68_dd_sherman_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1|usn_68_cg_belknap_ai,usn_68_ssn_sturgeon_un|usn_68_ssn_permit_un|usn_68_ssn_skipjack_un|usn_68_ssn_sturgeon_un|usn_68_ss_guppy_un|usn_68_ss_guppy_3|usn_68_ss_tang_un|usn_68_ss_barbel_un|usn_68_ssn_nautilus_un|plan_uk_68_ssn_dreadnought_un|plan_uk_68_ssn_valliant_un|plan_ger_68_ss_205_un|plan_uk_68_ss_oberon_un|plan_aus_68_ss_oberon_un|plan_neth_68_ss_dolfijn_un,usn_68_ssn_sturgeon_un|usn_68_ssn_permit_un|usn_68_ssn_skipjack_un|usn_68_ssn_sturgeon_un|usn_68_ss_guppy_un|usn_68_ss_guppy_3|usn_68_ss_tang_un|usn_68_ss_barbel_un|usn_68_ssn_nautilus_un|plan_uk_68_ssn_dreadnought_un|plan_uk_68_ssn_valliant_un|plan_ger_68_ss_205_un|plan_uk_68_ss_oberon_un|plan_aus_68_ss_oberon_un|plan_neth_68_ss_dolfijn_un
+
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=40,350
+PlayerHeading=270
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//Inner leg
+EnemyWaypoints=-41,78|-225,137
+
+//Horizontal Inner Patrol
+EnemyWaypoints=106,117|185,520
+
+//Vert Patrol
+EnemyWaypoints=-225,222|-42,192
+
+//Vert Patrol
+EnemyWaypoints=-79,262|-77,616
+
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+
+//Bonus
+EnemyWaypoints=-92,998|41,45
+MissionPositionColor=LAND_STRIKE
+
+
+MissionPosition=-1800,-100
+
+//Enemy Aircraft
+NumberOfHelicopters=2
+HelicopterType=usn_sh2f
+NumberOfAircraft=1
+AircraftType=usn_p3a
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=110,163,75
+AircraftSearchArea=-79,102,75
+AircraftSearchArea=-13,636,400

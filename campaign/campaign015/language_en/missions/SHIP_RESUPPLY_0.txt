@@ -1,0 +1,19 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+Intelligence data shows that the enemy plans to form a supply convoy in the area <color=Orange><ENDLOCATION></color>. 
+Convoy ships will depart from <color=Cyan><STARTLOCATION></color>. 
+Your task is to intercept and destroy this convoy before it reaches its goal of replenishing the ammunition and provisions for its forces at sea.
+2.	(S) THE MAIN TASK:
+Search and destroy convoy ships.
+3.	(S) ADDITIONAL TASK:
+Search and destroy escort warships if possible.
+
+4.	(S) Take all possible measures to avoid the detection of your boat. 
+5.	(S) You have a free choice of weapons.
+6.	(S) Keep silent mode.
+[MISSION WIN]
+Congratulations and well done! You succeeded in slowing down the enemy's attack.
+[MISSION FAIL]
+We are disappointed with the result. Your actions killed more than 100 civilians and military personnels. It's a shame for the fleet! 
+[MISSION MISSED]
+We are saddened by the results of your mission. Wait for further directions.

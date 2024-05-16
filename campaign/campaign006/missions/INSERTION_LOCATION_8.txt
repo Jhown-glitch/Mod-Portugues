@@ -1,0 +1,61 @@
+//Narvik 8
+UseTerrain=TRUE
+MapCoordinates=2530,1070
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry.png
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_mpk_grisha3_ai|wp_84_bpk_udaloy_ai|wp_84_bpk_kresta2_ai|wp_84_bpk_kara_ai|wp_02_bpk_udaloy2_ai,wp_84_em_sovremenny_ai|wp_84_skr_krivak1_ai,wp_02_rkr_kirov_ai|wp_02_rkr_atlant_ai,wp_84_ssn_sierra_pl|wp_84_ss_tango_un|wp_84_ss_kilo_un|wp_02_ss_kilo_alrosa|wp_02_ssn_victor3_pl|wp_02_ssn_sierra2_pl|wp_02_ssn_akula-imp_pl|wp_02_ssn_akula2_pl,wp_vt_boris_chilikin|wp_vt_dubna|wp_vt_kazbek,wp_vt_boris_chilikin|wp_vt_dubna|wp_vt_kazbek
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-1250,-210
+PlayerHeading=90
+
+//AI Nav Waypoints
+//Fjord Patrol
+EnemyWaypoints=-400,-10|-590,-35|-585,-25|100,-10
+
+//Center Patrol
+EnemyWaypoints=-800,-70|-1200,-190
+
+//Trawler
+EnemyWaypoints=-960,-150|-980,-250|-970,-212
+
+//Traffic 1
+EnemyWaypoints=-1000,-96|-400,-23|-200,-7|150,-40
+
+//Traffic 2
+EnemyWaypoints=-1300,-94|-400,-25|-200,-9|160,-35
+
+//Traffic 3
+EnemyWaypoints=-1300,-92|-400,-27|-200,-6|170,-45
+
+//Outer Patrol
+EnemyWaypoints=-1500,-400|-1400,-34|-1650,-100
+
+MissionPosition=-800,-290
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=0
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-1130,-200,120
+AircraftSearchArea=-620,-95,70
+
+//spawn minefields and set detection range
+
+ProximityMineLocations=-1050,-215|-1000,-205|-950,-215|-900,-215
+//number across,number deep,length,depth
+ProximityMineField=30,3,250,5|30,3,250,10|30,3,250,5|30,3,250,10
+ProximityMineFieldAngles=90,92,94,96
+ProximityMineScatter=0.3,0.3,0.3,0.3

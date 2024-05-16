@@ -1,0 +1,11 @@
+NextAction=END
+Image=campaign/images/2002/RUS/9200_screenshots_2011-10-25_00008.jpg,campaign/images/2002/RUS/82620_original.jpg,campaign/images/2002/RUS/x.jpg
+Photo=campaign/images/2002/RUS/Wallpaper_5091_Soldier_Russian_Soldier.jpg,campaign/images/2002/RUS/i3auowmcpjl11.jpg
+Music=audio/music/end.ogg
+Header=<DATE>
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>The collapse of the USA!</b>|<b>Missile defense systems turned out to be a leaky umbrella</b>
+Sentence1=The war with NATO has ended since decision centers have been destroyed. The influence of the Russian Federation has spread throughout the world, attempts are being made to contain the unstable situation and help civilians who were leaving the places of the most fierce battles.
+Sentence2=This end of the conflict was a shock to analysts who admit that the “strength of the Russian spirit” was greatly underestimated. Despite the fact that economically weakened countries and their satellites have ceased to exist, there remains a threat of renewed confrontation, since the Western world, although in ruins, has not gone away...

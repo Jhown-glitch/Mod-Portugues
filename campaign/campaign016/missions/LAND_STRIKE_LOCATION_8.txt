@@ -1,0 +1,42 @@
+UseTerrain=TRUE
+MapCoordinates=1916,1800
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_84_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_84_ff_knox_ai|usn_84_ddg_spruance_ai,usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p,usn_84_cg_belknap_ai,plan_uk_02_ssn_trafalgar_un|plan_uk_02_ssn_swiftsure_un|plan_uk_84_ssn_churchill_un|plan_uk_02_ssn_trafalgar_un|plan_uk_84_ssn_churchill_un|plan_uk_02_ssn_swiftsure_un|plan_fr_84_ssn_rubis_un|plan_aus_02_ss_collins_un|plan_neth_02_ss_walrus_un|plan_neth_02_ss_walrus_un|plan_pak_02_ss_agosta_un,usn_vt_fleet-tanker|usn_vt_small-fl-tanker|usn_vt_oiler|usn_84_aor_oiler,usn_84_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_84_ff_knox_ai|usn_84_ddg_spruance_ai,usn_vtr_transport|usn_ms_small_freighter
+
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=500,-1700
+PlayerHeading=100
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+EnemyWaypoints=-301,-2168|1000,-1200
+EnemyWaypoints=-200,-1301|668,-2100
+EnemyWaypoints=-301,-1401|1111,-2201
+EnemyWaypoints=-200,-1401|900,-2101
+//Enter/Leave Port
+EnemyWaypoints=-401,-2200|977,-1400
+//M
+EnemyWaypoints=-277,-2100|800,-1500
+//M
+EnemyWaypoints=-144,-1300|900,-1900
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=1
+AircraftType=usn_p3c
+
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=800,-1900,200

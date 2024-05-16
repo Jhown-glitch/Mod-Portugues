@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/oilrigs
+Photo=campaign/images/us/84/ships/news/us84sn (8).jpg,campaign/images/us/84/ships/news/us84sn (17).jpg,campaign/images/us/84/ships/news/us84sn (22).jpg,campaign/images/us/84/ships/news/us84sn (27).jpg,campaign/images/us/84/ships/news/us84sn (31).jpg,campaign/images/us/84/ships/news/us84sn (37).jpg,campaign/images/us/84/ships/news/us84sn (38).jpg,campaign/images/us/84/ships/news/us84sn (8).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (3).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (5).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (7).jpg
+Music=audio/music/lost1.ogg,audio/music/lost2.ogg,audio/music/lost3.ogg,audio/music/lost4.ogg,audio/music/lost5.ogg,audio/music/lost6.ogg,audio/music/lost7.ogg,audio/music/lost8.ogg,audio/music/lost9.ogg,audio/music/lost10.ogg,audio/music/lost11.ogg,audio/music/lost12.ogg,audio/music/lost13.ogg,audio/music/lost14.ogg,audio/music/lost15.ogg,audio/music/lost16.ogg,audio/music/lost17.ogg,audio/music/lost18.ogg,audio/music/lost19.ogg,audio/music/lost20.ogg,audio/music/lost21.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>OIL DELIVERY</b>|<b>UP TO A FULL TANK</b>
+Color=57,61,73,255
+Sentence1=Intelligence reports that the successful operation of the US Navy in the area of <ENDLOCATION> allowed for a large supply of oil along the sea route. It is expected to increase the number of naval operations in the region, in connection with the replenishment of fuel reserves at the bases of the NATO Navy.
+Color=218,218,208,255
+Sentence2=The Soviet Headquarters of the Supreme Command continues to claim that Western naval forces operating in the European part use civilian facilities, such as oil rigs, as forward operating bases. Environmental experts are concerned that, if this is the case, damage or destruction to such facilities could lead to unprecedented and irreparable environmental damage to the region.

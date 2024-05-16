@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/china/ch (1).jpg,campaign/images/china/ch (2).jpg
+Photo=campaign/images/us/news/usn (10).jpg,campaign/images/us/news/usn (11).jpg,campaign/images/us/news/usn (12).jpg,campaign/images/us/news/usn (13).jpg,campaign/images/us/news/usn (14).jpg
+Music=audio/music/lost12.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ВОЙНА ОКОНЧЕНА.</b>
+Sentence1=Блицкриг <FRIENDLY_SINGULAR> потерпел поражение. Отбив начальный натиск, <ENEMY> прешли в наступление и разбили войска противника. Ввиду невозможности продолжения военных действил, <FRIENDLY> были вынуждены были отказаться от своего присутствия в Азиатско-Тихоокеанском регионе.
+Sentence2=Поражение в войне привело к спаду и в экономике, все больше стран отказывается от доллара, как резервной валюты. Во внешней политике былой контроль утерян, Глобальная гегемония США подошла к концу, а тем временем в самой Америке внутренняя ситуация с каждым днем расшатывается все больше и больше...

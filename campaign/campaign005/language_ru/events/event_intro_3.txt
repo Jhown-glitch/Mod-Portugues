@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/china/2000/sea/chs (1).jpg,campaign/images/china/2000/sea/chs (2).jpg,campaign/images/china/2000/sea/chs (3).jpg,campaign/images/china/2000/sea/chs (4).jpg,campaign/images/china/2000/sea/chs (5).jpg,campaign/images/china/2000/sea/chs (6).jpg,campaign/images/china/2000/sea/chs (7).jpg,campaign/images/china/2000/sea/chs (8).jpg
+Photo=campaign/images/photos/landing plan 1,campaign/images/photos/landing plan 2,campaign/images/photos/naval plan 3,campaign/images/photos/naval plan 4,campaign/images/photos/naval plan 5,campaign/images/photos/naval plan 6,campaign/images/china/2000/sea/news/chsn (1).jpg,campaign/images/china/2000/sea/news/chsn (2).jpg,campaign/images/china/2000/sea/news/chsn (3).jpg,campaign/images/china/2000/sea/news/chsn (4).jpg,campaign/images/china/2000/sea/news/chsn (5).jpg,campaign/images/china/2000/sea/news/chsn (6).jpg,campaign/images/china/2000/sea/news/chsn (7).jpg,campaign/images/china/2000/sea/news/chsn (8).jpg,campaign/images/china/2000/sea/news/chsn (9).jpg,campaign/images/china/2000/sea/news/chsn (10).jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>КИТАЙ В НАСТУПЛЕНИИ</b>
+Color=57,61,73,255
+Sentence1=Китай предпринял серию атак вдоль своей периферии, выставив недавние диверсии против американских военных объектов в Новом Свете. Напряженность остается высокой с момента обретения Тайванем независимости и неудачной передачи Гонконга, что, вероятно, привело к тому, что КНР решила, что настало время решить эти вопросы и реализовать свои территориальные претензии в Южно-Китайском море.
+Color=218,218,208,255
+Sentence2=Кроме того, аналитики отмечают, что в последние месяцы китайская экономика, возможно, наконец-то почувствует на себе последствия Азиатского экономического кризиса. Захват богатых ресурсами районов в Южно-Китайском море может быть попыткой отвлечь внутреннее внимание от суровой экономической ситуации.

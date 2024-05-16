@@ -1,0 +1,15 @@
+NextAction=MAP
+Image=campaign/images/ussr/2002/rus (2).jpg,campaign/images/ussr/2002/rus (3).jpg,campaign/images/ussr/2002/rus (4).jpg,campaign/images/ussr/2002/rus (5).jpg
+Photo=campaign/images/photos/naval pact 1,campaign/images/photos/naval pact 2,campaign/images/photos/naval pact 3,campaign/images/photos/naval pact 4,campaign/images/photos/naval pact 5,campaign/images/photos/naval pact 6,campaign/images/ussr/84/ships/news/ussr84shn (3).jpg,campaign/images/ussr/84/ships/news/ussr84shn (4).jpg,campaign/images/ussr/84/ships/news/ussr84shn (5).jpg,campaign/images/ussr/84/ships/news/ussr84shn (8).jpg,campaign/images/ussr/84/ships/news/ussr84shn (11).jpg,campaign/images/ussr/84/ships/news/ussr84shn (27).jpg,campaign/images/ussr/84/ships/news/ussr84shn (40).jpg,campaign/images/ussr/84/ships/news/ussr84shn (42).jpg,campaign/images/ussr/84/ships/news/ussr84shn (44).jpg
+Music=audio/music/lost1.ogg,audio/music/lost2.ogg,audio/music/lost3.ogg,audio/music/lost4.ogg,audio/music/lost5.ogg,audio/music/lost6.ogg,audio/music/lost7.ogg,audio/music/lost8.ogg,audio/music/lost9.ogg,audio/music/lost10.ogg,audio/music/lost11.ogg,audio/music/lost12.ogg,audio/music/lost13.ogg,audio/music/lost14.ogg,audio/music/lost15.ogg,audio/music/lost16.ogg,audio/music/lost17.ogg,audio/music/lost18.ogg,audio/music/lost19.ogg,audio/music/lost20.ogg,audio/music/lost21.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>TRANSPORT LOST!</b>|<b>TRANSPORT SUNFLED</b>|<b>TRANSPORT DESTROYED!</b>
+Color=57,61,73,255
+Sentence1=The NATO militant group at <ENDLOCATION> has reportedly been hit by a sudden, heavy attack. The Pentagon has confirmed that several ships, including transports, were lost in a massive missile attack.
+Details remain unknown, but the death toll or missing remains high.
+Color=218,218,208,255
+Sentence2=Is the transport too risky? <n> In light of the recent and severe defeat, questions have been raised about whether the transport operations can be carried out efficiently. Many in Congress are calling for transport vessels to be withdrawn from all disputed waters, arguing that the risks are too high.

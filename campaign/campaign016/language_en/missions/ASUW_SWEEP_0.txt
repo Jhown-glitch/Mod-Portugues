@@ -1,0 +1,22 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+EUROPEAN TNCS DECIDED TO SUPPLY NATO FORCES WITH FUEL, AND WE NEED TO PREVENT THEIR FUEL SUPPLIES. YOU ARE ORDERED TO DESTROY THE CONVOY WHICH WILL FILL THEIR TANKERS AT OIL TOWERS IN THE AREA <color=Orange><EndLocation></color>. 
+YOU ARE ALSO REQUIRED TO DESTROY ENEMY'S OIL TOWERS.
+
+2.	(S) THE MAIN TASK:
+DESTROY ENEMY'S TANKERS.
+
+3.	(S) ADDITIONAL TASK:
+DESTROY ENEMY'S OIL TOWERS IF POSSIBLE.
+
+4.	(S) AVOID DETECTION BY ANY ENEMY PATROL WARSHIP.
+5.	(S) FREE WEAPON SELECTION.
+6.	(S) RADIO SILENCE - KEEP RADIO SILENCE MODE UNLESS OHERWISE DIRECTED.
+[MISSION WIN]
+Great job. It's nice to hear about the reduction of oil and gas supply to the enemy in the area <ENDLOCATION>, <COUNTRY>.
+
+[MISSION FAIL]
+We are disappointed to hear that you were unable to destroy the tankers and oil towers of the enemy.
+
+[MISSION MISSED]
+We are disappointed to hear that you were unable to destroy the enemy's tankers and oil towers in the area <ENDLOCATION>, <COUNTRY>.

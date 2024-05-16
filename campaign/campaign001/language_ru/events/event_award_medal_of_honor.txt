@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/medal_of_honor.png
+Music=audio/music/good2.ogg
+Header=СЕКРЕТАРИАТ ВОЕННО-МОРСКИХ СИЛ СОЕДИНЕННЫХ ШТАТОВ АМЕРИКИ<n>ВАШИНГТОН
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=Секретарь ВМС США выражает сердечные поздравления
+Sentence1=<size=14>Капитан <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><PLAYER_RANK> <PLAYERNAME> <n><POSTHUMOUSLY> награждается </size><n><n><b><size=18></size><n><n><size=22>"МЕДАЛЬ ПОЧЁТА"</size></b>
+
+Sentence2=<n><n><n><n>Командуя <PLAYERVESSELHULL> он храбро вступил в бой с превосходящими силами противника, но благодаря своей высокой выучке и тактическому мастерству сумел одержать победу, внеся заметный вклад в дело борьбы против врагов Соединенных Штатов.

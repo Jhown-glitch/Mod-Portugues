@@ -1,0 +1,14 @@
+NextAction=event_intro_5
+Image=campaign/images/2002/Курск 2.jpg
+Photo=campaign/images/2002/Курск 1.jpg,campaign/images/2002/1.jpg
+Music=audio/music/Cold Waters Combat 03
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Navy RECOGNIZES LOSS OF ATOMIC K-141 KURSK Rocket Carrier!</b>
+Color=57,61,73,255
+Sentence1=On August 10, 2000, as a result of planned exercises of the Northern Fleet, the newest nuclear boat of Project 949A Antei was lost in the waters of the Barents Sea! One of the U.S. submarines discovered in the waters of the Barents Sea was sunk by naval anti-submarine aircraft raised by alarm. In pursuit of a second boat, the squadron collided with a NATO aircraft carrier group, which caused a large number of victims on both sides! A local conflict could escalate into a global war...
+Color=218,218,208,255
+Sentence2=Tensions between Washington and Moscow have now increased to a degree that has not been observed since the Cuban missile crisis in 1961. General military preparedness is increasing as NATO in the Pacific and the Atlantic is condemned by Russia as "deliberate imperialist provocations."

@@ -1,0 +1,45 @@
+UseTerrain=TRUE
+MapCoordinates=2186,506
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,0-1,1-1,0-1,1-1,0-1,1-1,0-1,1-1,0-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_68_bpk_kanin_ai|wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai|wp_68_rkr_kresta1_ai,wp_68_bpk_kanin_ai|wp_68_bpk_kashin_ai|wp_68_em_kotlin_ai|wp_68_rkr_kresta1_ai,wp_pb_don|wp_pb_ugra,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_68_ss_foxtrot_un|wp_68_ss_romeo_un|wp_84_ss_whiskey_un|wp_68_ss_zulu_un|wp_68_ssg_juliet_un|wp_68_ssgn_charlie1_un|wp_68_ssgn_echo1_un|wp_68_ssgn_echo2_un|wp_68_ssn_november_un|wp_68_ssn_victor1_un,wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan,wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin
+
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=FALSE
+PlayerPosition=-246,269
+PlayerHeading=170
+
+//AI Nav Waypoints
+//Escort 1
+EnemyWaypoints=-230,140|-210,30
+
+//Escort 2
+EnemyWaypoints=-160,0|190,-40
+
+//Merchant 1
+EnemyWaypoints=-260,320|-180,-50
+
+//Merchant 2
+EnemyWaypoints=-280,330|-510,290
+
+//Lurking Sub
+EnemyWaypoints=0,-34|-60,-30|-30,0
+
+//MissionPosition=-170,-80
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=wp_haze
+NumberOfAircraft=1
+AircraftType=wp_il-38_may
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-560,510,100

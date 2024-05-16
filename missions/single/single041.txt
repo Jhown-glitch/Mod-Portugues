@@ -1,0 +1,35 @@
+//Lurking Hunter - 1968 (RUS)
+
+UseTerrain=TRUE
+MapCoordinates=1470,946
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_68_ru
+
+//Environment
+Date=15 DEC 1968
+Hemisphere=North
+Time=1200
+UsePresetEnvironment=FALSE
+Weather=Rain
+SeaState=Moderate Breeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=3-5,2-3
+CombatBehaviour=DEFENSIVE,DEFENSIVE
+EnemyShipClasses=usn_fv_trawler|usn_vt_oiler|usn_vt_fleet-tanker|usn_vtr_transport,usn_68_cg_belknap_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1
+FormationCruiseSpeed=5
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
+
+
+PlayerVessels=wp_68_ssn_victor1_un,wp_68_ssn_november_un,wp_68_ssgn_echo1_un,wp_68_ssgn_echo2_un,wp_84_ssgn_papa_pl,wp_68_ssg_juliet_un,wp_84_ss_tango_un,wp_68_ss_foxtrot_un,wp_68_ss_romeo_un,wp_68_ss_whiskey_un,wp_68_ssgn_whiskeylb_un
+CommanderName=COM NORTHERN FLEET
+CommanderFleetName=GLAVCOM VMF

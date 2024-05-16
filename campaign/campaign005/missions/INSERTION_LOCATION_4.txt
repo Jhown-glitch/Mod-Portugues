@@ -1,0 +1,45 @@
+//Okinawa
+UseTerrain=TRUE
+MapCoordinates=2413,1093
+MapNavigationData=campaign/images/maps/south_china_sea_merchants_us
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry.png
+WorldObjectsData=campaign/maps/south_china_sea_world_objects1
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=ch_ss_ming|ch_ddg_sovremenny|ch_ddg_luhu|ch_ddg_luda3|ch_ddg_luda|ch_ffg_jiangwei|ch_ff_jianghu3|ch_ff_jianghu|ch_ff_chengdu,ch_ss_ming|ch_ddg_sovremenny|ch_ddg_luhu|ch_ddg_luda3|ch_ddg_luda|ch_ffg_jiangwei|ch_ff_jianghu3|ch_ff_jianghu|ch_ff_chengdu,ch_ss_ming,ch_ss_ming|ch_ddg_sovremenny|ch_ddg_luhu|ch_ddg_luda3|ch_ddg_luda|ch_ffg_jiangwei|ch_ff_jianghu3|ch_ff_jianghu|ch_ff_chengdu
+FormationCruiseSpeed=12
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=70,-70
+PlayerHeading=5
+
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//N/S1 Patrol line
+EnemyWaypoints=-993,-167|974,107
+//Sub or trawler
+EnemyWaypoints=-995,-78|-1090,-93|1028,111
+//Patrol line South
+EnemyWaypoints=-816,-213|1194,204
+//North to west lurker 
+EnemyWaypoints=-820,-190|-815,184|1080,-160|1060,230
+
+MissionPosition=200,070
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+//plan_helix
+HelicopterType=ch_z-9
+NumberOfAircraft=0
+AircraftType=ch_y-8x
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-1120,-1037,200
+AircraftSearchArea=-1020,-1340,400

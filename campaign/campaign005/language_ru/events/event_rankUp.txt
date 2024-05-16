@@ -1,0 +1,13 @@
+NextAction=MAP
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/blank.png
+Music=audio/music/good.ogg
+Header=СЕКРЕТАРЬ ВОЕННО-МОРСКОГО ФЛОТА США<n>ВАШИНГТОН
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n>       <b>УКАЗОМ СЕКРЕТАРИАТА ВОЕННО-МОРСКОГО ФЛОТА США</b> <n><n>                                    от <DATE>г.
+Sentence1=<size=14>Капитану <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><POSTHUMOUSLY> присваевается внеочередное воинское звание </size><n><n><b><n><n><size=22><PLAYER_RANK></size></b><n><n><n>
+Sentence2=<PLAYERNAME>, Секретарь ВМС выражает сердечные поздравления с повышением и желает дальнейших успехов на службе в ВМС!
+

@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/china/ch (1).jpg,campaign/images/china/ch (2).jpg
+Photo=campaign/images/us/news/usn (10).jpg,campaign/images/us/news/usn (11).jpg,campaign/images/us/news/usn (12).jpg,campaign/images/us/news/usn (13).jpg,campaign/images/us/news/usn (14).jpg
+Music=audio/music/lost12.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>WAR IS OVER.</b>
+Sentence1=Prompt Global Strike <FRIENDLY_SINGULAR> has been defeated. Having repelled the initial onslaught, <ENEMY> went on the offensive and defeated the enemy troops. Due to the impossibility of continuing hostilities, <FRIENDLY> were forced to abandon their presence in the Asia-Pacific region.
+Sentence2=The defeat in the war led to a recession in the economy, more and more countries are abandoning the dollar as a reserve currency. In foreign policy, the former control has been lost, the global hegemony of the United States has come to an end, and meanwhile, in America itself, the internal situation is being shaken more and more every day ...

@@ -1,0 +1,28 @@
+Image=campaign/images/china/2000/sea/chs (5).jpg
+PlayerVessels=ch_ss_romeo,ch_ss_ming,ch_ssk_song,ch_ss_kilo,ch_ssn_han,ch_ssn_han-imp_un,ch_ssbn_xia,ch_ptg_huangfeng_pl,ch_ff_chengdu_pl,ch_ff_jianghu_pl,ch_ff_jianghu3_pl,ch_ddg_luda_pl,ch_ddg_luda3_pl,ch_ffg_jiangwei_pl,ch_ddg_luhu_pl,ch_ddg_sovremenny_pl
+
+[COMMANDER NAMES]
+CommanderName=COM PACIFIC FLEET
+CommanderFleetName=CICPLAN
+
+PrestigeMode=TRUE
+//Easy, Normal, Hard, Elite
+StartingPrestige=200,100,0,0
+LoadoutType=2000
+[Prestige Cost]
+ch_ss_romeo	 =	0	 =	0
+ch_ss_ming	 =	0	 =	0
+ch_ssk_song	 =	0	 =	0
+ch_ss_kilo	 =	50	 =	0
+ch_ssn_han	 =	150	 =	0
+ch_ssn_han-imp_un	 =	200	 =	0
+ch_ssbn_xia	 =	250	 =	0
+ch_ptg_huangfeng_pl	 =	0	 =	0
+ch_ff_chengdu_pl	 =	0	 =	0
+ch_ff_jianghu_pl	 =	50	 =	0
+ch_ff_jianghu3_pl	 =	50	 =	0
+ch_ddg_luda_pl	 =	100	 =	0
+ch_ddg_luda3_pl	 =	150	 =	0
+ch_ffg_jiangwei_pl	 =	200	 =	0
+ch_ddg_luhu_pl	 =	250	 =	0
+ch_ddg_sovremenny_pl	 =	250	 =	0

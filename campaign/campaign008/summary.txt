@@ -1,0 +1,34 @@
+Image=campaign/images/photos/ussr/1571224585_4.jpg
+
+PlayerVessels=wp_68_ss_whiskey_un,wp_68_ss_zulu_un,wp_68_ss_romeo_un,wp_68_ss_foxtrot_un,wp_68_ssn_november_un,wp_68_ssn_victor1_un,wp_68_ssgn_whiskeylb_un,wp_68_ssg_juliet_un,wp_68_ssgn_echo1_un,wp_68_ssgn_echo2_un,wp_68_ssgn_charlie1_un,wp_68_ssb_golf_un,wp_68_ssbn_hotel2_un,wp_68_ssbn_yankee_un,wp_68_mpk_poti_pl,wp_68_skr_riga_pl,wp_68_em_kotlin_pl,wp_68_bpk_kashin_pl,wp_68_rkr_kresta1_pl,wp_68_PKR_Moskva_pl,wp_68_kr_sverdlov_pl
+
+[COMMANDER NAMES]
+CommanderName=COM NORTHERN FLEET
+CommanderFleetName=GLAVCOM VMF
+
+PrestigeMode=TRUE
+//Easy, Normal, Hard, Elite
+StartingPrestige=200,100,0,0
+LoadoutType=1968
+[Prestige Cost]
+wp_68_ss_whiskey_un	 =	0	 =	0
+wp_68_ss_zulu_un	 =	0	 =	0
+wp_68_ss_romeo_un	 =	10	 =	0
+wp_68_ss_foxtrot_un	 =	20	 =	0
+wp_68_ssn_november_un	 =	40	 =	1
+wp_68_ssn_victor1_un	 =	80	 =	1
+wp_68_ssgn_whiskeylb_un	 =	100	 =	1
+wp_68_ssg_juliet_un	 =	120	 =	1
+wp_68_ssgn_echo1_un	 =	150	 =	1
+wp_68_ssgn_echo2_un	 =	190	 =	1
+wp_68_ssgn_charlie1_un	 =	230	 =	1
+wp_68_ssb_golf_un	 =	280	 =	2
+wp_68_ssbn_hotel2_un	 =	330	 =	2
+wp_68_ssbn_yankee_un	 =	400	 =	2
+wp_68_mpk_poti_pl	 =	0	 =	0
+wp_68_skr_riga_pl	 =	50	 =	0
+wp_68_em_kotlin_pl	 =	100	 =	0
+wp_68_bpk_kashin_pl	 =	150	 =	0
+wp_68_rkr_kresta1_pl	 =	250	 =	1
+wp_68_PKR_Moskva_pl	 =	350	 =	2
+wp_68_kr_sverdlov_pl	 =	350	 =	2

@@ -1,0 +1,333 @@
+[LOCATION NAMES AND COUNTRY/REGION]
+LocationName=Acapulco=Mexico
+LocationName=Houston=USA
+LocationName=Washington=USA
+LocationName=Los Angeles=USA
+LocationName=Tel Aviv=Israel
+LocationName=Bremerhaven=Germany
+LocationName=Rome=Italy
+LocationName=Narvik=Norway
+LocationName=Bergen=Norway
+LocationName=Svalbard=Norway
+LocationName=Holy Loch=Great Britain
+LocationName=Cayenne=French Guiana
+LocationName=Reykjavik=Iceland
+LocationName=Quebec=Canada
+LocationName=Buenos Aires=Argentina
+LocationName=Malaga=Spain
+LocationName=Moscow=USSR
+LocationName=Irkutsk=USSR
+LocationName=Vladivostok=USSR
+LocationName=Murmansk=USSR
+LocationName=Shanghai=China
+LocationName=Tokyo=Japan
+LocationName=Chennai=India
+LocationName=Perth=Australia
+LocationName=Sydney=Australia
+LocationName=Darwin=Australia
+LocationName=Pearl Harbor=USA
+LocationName=Wake Island=USA
+LocationName=Guam=USA
+LocationName=Petropavlovsk-Kamchatsky=USSR
+LocationName=AA55 Area=the Greenland Sea
+LocationName=AD61 Area=the Denmark Strait
+LocationName=AK49 Area=the North Atlantic
+LocationName=AL64 Area=the North Atlantic
+LocationName=AM57 Area=the North Atlantic
+LocationName=BD67 Area=the North Atlantic
+LocationName=BE56 Area=the North Atlantic
+LocationName=BF46 Area=the North Atlantic
+LocationName=AJ58 Area=the North Atlantic
+LocationName=BC52 Area=the North Atlantic
+LocationName=CD37 Area=the North Atlantic
+LocationName=CE59 Area=the North Atlantic
+LocationName=CF43 Area=the North Atlantic
+LocationName=NR55 Area=the Pacific Ocean
+LocationName=NS28 Area=the Pacific Ocean
+LocationName=RA34 Area=the Pacific Ocean
+LocationName=RR51 Area=the Pacific Ocean
+LocationName=RS19 Area=the Pacific Ocean
+LocationName=RT72 Area=the Pacific Ocean
+LocationName=SL53 Area=the Pacific Ocean
+LocationName=SM29 Area=the Pacific Ocean
+LocationName=BB59 Area=the Atlantic Ocean
+LocationName=CB43 Area=the Atlantic Ocean
+LocationName=CA64 Area=the Atlantic Ocean
+LocationName=DC28 Area=the Atlantic Ocean
+LocationName=DN51 Area=the Atlantic Ocean
+LocationName=DL29 Area=the Atlantic Ocean
+LocationName=HC58 Area=the Pacific Ocean
+LocationName=HF67 Area=the Pacific Ocean
+LocationName=HG73 Area=the Pacific Ocean
+LocationName=HK55 Area=the Pacific Ocean
+LocationName=HP46 Area=the Pacific Ocean
+LocationName=CC54 Area=the Atlantic Ocean
+LocationName=DD27 Area=the Atlantic Ocean
+LocationName=DO18 Area=the Atlantic Ocean
+LocationName=HJ61 Area=the Pacific Ocean
+LocationName=HN53 Area=the Pacific Ocean
+LocationName=HO56 Area=the Pacific Ocean
+LocationName=HS37 Area=the Pacific Ocean
+LocationName=HT52 Area=the Pacific Ocean
+LocationName=DE57 Area=the Atlantic Ocean
+LocationName=DF81 Area=the Atlantic Ocean
+LocationName=DQ73 Area=the Atlantic Ocean
+LocationName=DR49 Area=the Atlantic Ocean
+LocationName=HV72 Area=the Pacific Ocean
+LocationName=HW83 Area=the Pacific Ocean
+LocationName=HY56 Area=the Pacific Ocean
+LocationName=HZ91 Area=the Pacific Ocean
+
+[CITY TOWN PORT NAMES]
+Color=255,200,0,255
+Outline=TRUE
+Size=10
+Font=4
+
+LabelPosition=-490,85
+LabelName=Acapulco
+LabelPosition=-465,133
+LabelName=Houston
+LabelPosition=-380,160
+LabelName=Washington
+LabelPosition=-540,140
+LabelName=Los Angeles
+LabelPosition=50,180
+LabelName=Bulgaria
+LabelPosition=-10,220
+LabelName=Bremerhaven
+LabelPosition=-30,195
+LabelName=France
+LabelPosition=-70,168
+LabelName=Malaga
+LabelPosition=-70,130
+LabelName=Morocco
+LabelPosition=-10,145
+LabelName=Tunisia
+LabelPosition=30,240
+LabelName=Poland
+LabelPosition=60,260
+LabelName=Finland
+LabelPosition=-130,270
+LabelName=Reykjavik
+LabelPosition=120,220
+LabelName=Moscow
+LabelPosition=220,210
+LabelName=Kazakhstan
+LabelPosition=100,180
+LabelName=Turkey
+LabelPosition=-280,0
+LabelName=Cayenne
+LabelPosition=133,300
+LabelName=Murmansk
+LabelPosition=180,240
+LabelName=Kirov
+LabelPosition=140,190
+LabelName=Krasnodar
+LabelPosition=-60,230
+LabelName=Holy Loch
+LabelPosition=-660,270
+LabelName=Alaska
+LabelPosition=-370,200
+LabelName=Quebec
+LabelPosition=-520,210
+LabelName=Edmonton
+LabelPosition=-390,80
+LabelName=Cuba
+LabelPosition=-650,75
+LabelName=Pearl Harbor
+LabelPosition=220,290
+LabelName=Vorkuta
+LabelPosition=35,290
+LabelName=Narvik
+LabelPosition=-10,255
+LabelName=Bergen
+LabelPosition=260,260
+LabelName=Novosibirsk
+LabelPosition=280,290
+LabelName=Surgut
+LabelPosition=320,240
+LabelName=Krasnoyarsk
+LabelPosition=390,230
+LabelName=Irkutsk
+LabelPosition=370,270
+LabelName=Ust Ilimsk
+LabelPosition=340,310
+LabelName=Norilsk
+LabelPosition=450,250
+LabelName=Chita
+LabelPosition=520,220
+LabelName=Khabarovsk
+LabelPosition=-310,-142
+LabelName=Buenos Aires
+LabelPosition=520,186
+LabelName=Vladivostok
+LabelPosition=570,225
+LabelName=Sakhalin
+LabelPosition=530,255
+LabelName=Yakutsk
+LabelPosition=610,260
+LabelName=Magadan
+LabelPosition=650,270
+LabelName=Slautnoe
+LabelPosition=635,228
+LabelName=Petropavlovsk\n-Kamchatsky
+LabelPosition=460,165
+LabelName=Beijing
+LabelPosition=415,115
+LabelName=Huaihua
+LabelPosition=420,180
+LabelName=Sian
+LabelPosition=445,35
+LabelName=Spratly Islands
+LabelPosition=360,135
+LabelName=Kunming
+LabelPosition=300,160
+LabelName=Qinghai
+LabelPosition=370,170
+LabelName=Hami
+LabelPosition=465,138
+LabelName=Shanghai
+LabelPosition=445,95
+LabelName=Hong Kong
+LabelPosition=415,50
+LabelName=Vietnam
+LabelPosition=310,75
+LabelName=Bhilai
+LabelPosition=290,56
+LabelName=Chennai
+LabelPosition=280,100
+LabelName=New Delhi
+LabelPosition=200,120
+LabelName=Iran
+LabelPosition=155,145
+LabelName=Iraq
+LabelPosition=120,150
+LabelName=Syria
+LabelPosition=530,135
+LabelName=Hiroshima
+LabelPosition=555,156
+LabelName=Tokyo
+LabelPosition=570,200
+LabelName=Sapporo
+LabelPosition=575,50
+LabelName=Guam
+LabelPosition=650,80
+LabelName=Wake
+LabelPosition=480,65
+LabelName=Philippines
+LabelPosition=520,-80
+LabelName=Darwin
+LabelPosition=460,-145
+LabelName=Perth
+LabelPosition=595,-143
+LabelName=Sydney
+LabelPosition=565,-165
+LabelName=Melbourne
+LabelPosition=370,75
+LabelName=Myanmar
+LabelPosition=225,145
+LabelName=Afghanistan
+LabelPosition=195,175
+LabelName=Turkmenistan
+LabelPosition=115,130
+LabelName=Tel Aviv
+LabelPosition=30,130
+LabelName=Libya
+LabelPosition=150,80
+LabelName=Saudi\nArabia
+LabelPosition=150,20
+LabelName=Somalia
+LabelPosition=10,170
+LabelName=Rome
+LabelPosition=28,336
+LabelName=Svalbard
+LabelPosition=20,195
+LabelName=Austria
+LabelPosition=105,200
+LabelName=Ukraine
+LabelPosition=75,220
+LabelName=Belarus
+LabelPosition=60,202
+LabelName=Romania
+LabelPosition=-430,165
+LabelName=Chicago
+LabelPosition=-500,160
+LabelName=Denver
+
+
+[MARKERS]
+Color=255,255,255,255
+Outline=TRUE
+Size=3
+LocationMarkerPosition=-480,70
+LocationMarkerPosition=-460,125
+LocationMarkerPosition=-378,165
+LocationMarkerPosition=-560,145
+LocationMarkerPosition=105,140
+LocationMarkerPosition=-20,230
+LocationMarkerPosition=10,175
+LocationMarkerPosition=20,295
+LocationMarkerPosition=-25,260
+LocationMarkerPosition=30,330
+LocationMarkerPosition=-80,240
+LocationMarkerPosition=-270,20
+LocationMarkerPosition=-150,280
+LocationMarkerPosition=-348,210
+LocationMarkerPosition=-295,-155
+LocationMarkerPosition=-65,160
+LocationMarkerPosition=555,150
+LocationMarkerPosition=455,-140
+LocationMarkerPosition=605,-155
+LocationMarkerPosition=520,-55
+
+LocationMarkerPosition=520,180
+LocationMarkerPosition=100,300
+LocationMarkerPosition=485,130
+LocationMarkerPosition=300,60
+LocationMarkerPosition=650,90
+LocationMarkerPosition=575,60
+LocationMarkerPosition=-660,85
+
+Color=0,255,0,255
+Outline=TRUE
+Size=5
+LocationMarkerPosition=105,300
+
+[COUNTRY LABELS]
+Color=0,0,0,255
+Outline=FALSE
+Size=13
+Font=4
+LabelPosition=-520,280
+LabelName=CANADA
+LabelPosition=-230,330
+LabelName=GREENLAND
+LabelPosition=330,280
+LabelName=USSR
+LabelPosition=280,125
+LabelName=INDIA
+LabelPosition=410,165
+LabelName=CHINA
+LabelPosition=530,-110
+LabelName=AUSTRALIA
+Size=11
+LabelPosition=-300,-40
+LabelName=SOUTH\nAMERICA
+LabelPosition=-25.6,-369.2
+LabelName=ANTARCTIC
+Size=14
+LabelPosition=-10,90
+LabelName=AFRICA
+LabelPosition=-490,180
+LabelName=USA
+
+[OCEANS AND SEAS LABELS]
+Color=43,71,97,255
+Outline=FALSE
+Size=16
+Font=4
+LabelPosition=-550,-50
+LabelName=PACIFIC OCEAN
+LabelPosition=70,375
+LabelName=ARCTIC OCEAN

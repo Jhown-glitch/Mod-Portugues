@@ -1,0 +1,51 @@
+UseTerrain=TRUE
+MapCoordinates=726,1010
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=2-3
+CombatBehaviour=OFFENSIVE
+EnemyUnitMissionCritical=FALSE
+EnemyShipClasses=usn_68_ssn_sturgeon_un|usn_68_ssn_permit_un|usn_68_ssn_skipjack_un|usn_68_ssn_nautilus_un|plan_uk_68_ssn_dreadnought_un|plan_uk_68_ssn_valliant_un
+
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=0,0
+PlayerHeading=0
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+EnemyWaypoints=-601,68|600,-200
+EnemyWaypoints=200,-601|-68,600
+EnemyWaypoints=-701,-401|700,601
+EnemyWaypoints=801,301|-800,-601
+//Enter/Leave Port
+EnemyWaypoints=-901,200|900,100
+//M
+EnemyWaypoints=601,-200|-600,-200
+//M
+EnemyWaypoints=501,300|-400,-300
+//M
+EnemyWaypoints=300,500|-300,-200
+
+EnemyWaypoints=600,800|-600,-500
+EnemyWaypoints=-700,-200|700,300
+EnemyWaypoints=900,-50|-900,100
+
+MissionPosition=100,1800
+MissionPositionColor=LAND_STRIKE
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_haze
+NumberOfAircraft=0
+AircraftType=wp_tu-142_bear
+
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=156,574,500

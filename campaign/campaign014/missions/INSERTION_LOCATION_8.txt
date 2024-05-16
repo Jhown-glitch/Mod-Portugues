@@ -1,0 +1,61 @@
+//Narvik 8
+UseTerrain=TRUE
+MapCoordinates=2530,1070
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry.png
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_02_ffg_perry_lh_ai|usn_02_ff_perry_ai|usn_84_ddg_spruance_ai,usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ddg_ticonderoga_ai,usn_vtr_cargo|usn_vtr_cargo_mod|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p,usn_02_ssn_seawolf_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl,usn_vt_fleet-tanker|usn_vt_small-fl-tanker|usn_vt_oiler|usn_84_aor_oiler,usn_vt_fleet-tanker|usn_vt_small-fl-tanker|usn_vt_oiler|usn_84_aor_oiler
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-1250,-210
+PlayerHeading=90
+
+//AI Nav Waypoints
+//Fjord Patrol
+EnemyWaypoints=-400,-10|-590,-35|-585,-25|100,-10
+
+//Center Patrol
+EnemyWaypoints=-800,-70|-1200,-190
+
+//Trawler
+EnemyWaypoints=-960,-150|-980,-250|-970,-212
+
+//Traffic 1
+EnemyWaypoints=-1000,-96|-400,-23|-200,-7|150,-40
+
+//Traffic 2
+EnemyWaypoints=-1300,-94|-400,-25|-200,-9|160,-35
+
+//Traffic 3
+EnemyWaypoints=-1300,-92|-400,-27|-200,-6|170,-45
+
+//Outer Patrol
+EnemyWaypoints=-1500,-400|-1400,-34|-1650,-100
+
+MissionPosition=-800,-290
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=0
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-1130,-200,120
+AircraftSearchArea=-620,-95,70
+
+//spawn minefields and set detection range
+
+ProximityMineLocations=-1050,-215|-1000,-205|-950,-215|-900,-215
+//number across,number deep,length,depth
+ProximityMineField=30,3,250,5|30,3,250,10|30,3,250,5|30,3,250,10
+ProximityMineFieldAngles=90,92,94,96
+ProximityMineScatter=0.3,0.3,0.3,0.3

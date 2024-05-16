@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/XV1NRaJMsXk.jpg
+Photo=campaign/images/awards/rf7om.png
+Music=audio/music/newmenu.ogg
+Header=PRESIDIUM OF THE FEDERATION COUNCIL<n>MOSCOW
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n><b>DECREE of the PRESIDIUM OF THE FEDERATION COUNCIL</b><n><n>Dated <DATE>
+Sentence1=<size=14>The commander <PLAYERVESSELDESIGNATION> <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <PLAYERNAME> <n><POSTHUMOUSLY> is awarded </size><n><n><b><size=18></size><n><n><size=22>"ORDER OF COURAGE"</size></b>
+Sentence2=For skillful, initiative and courageous actions that contributed to the successful completion of combat tasks assigned to <PLAYERVESSELDESIGNATION> <PLAYERVESSELHULL>, as a result of which the enemy's position in the naval theater of operations was greatly complicated

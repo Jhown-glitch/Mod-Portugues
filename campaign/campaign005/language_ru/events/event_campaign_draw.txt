@@ -1,0 +1,14 @@
+NextAction=event_campaign_draw_2
+Image=campaign/images/china/2000/subs/chs (1).jpg,campaign/images/china/2000/subs/chs (3).jpg,campaign/images/china/2000/subs/chs (9).jpg
+Photo=campaign/images/china/2000/subs/news/chsn (3).jpg,campaign/images/china/2000/subs/news/chsn (12).jpg,campaign/images/china/2000/subs/news/chsn (14).jpg,campaign/images/china/2000/subs/news/chsn (16).jpg,campaign/images/china/2000/subs/news/chsn (17).jpg,campaign/images/china/2000/subs/news/chsn (18).jpg
+Music=audio/music/win6.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>УГРОЗА ЯДЕРНОЙ ВОЙНЫ</b>
+Sentence1=Подводные лодки с ядерными баллистическими ракетами, развёрнутые в Тихом Океане, использовались в качестве «рычага давления» во время недавних переговоров о перемирии, чтобы усилить слабые позиции <ENEMY_SINGULAR>. Наконец, обе стороны признали что дальнейшее развитие конфликта приведёт к «гарантированному взаимному уничтожению», и сейчас ведутся переговоры, о возвращении мира и стабильности.
+
+Sentence2=ПЕРЕМИРИЕ?<n>Прекращение огня, объявленное всего несколько дней назад, к счастью, соблюдается обеими сторонами. Анонимный представитель <ENEMY_SINGULAR> предположил, что если мирные переговоры увенчаются успехом, многие военнослужащие могут быть на пути домой уже в течение нескольких недель.

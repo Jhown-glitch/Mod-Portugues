@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/XV1NRaJMsXk.jpg
+Photo=campaign/images/awards/rf12ozpo4.png
+Music=audio/music/newmenu.ogg
+Header=ПРЕЗИДИУМ СОВЕТА ФЕДЕРАЦИИ <n>МОСКВА
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n>       <b>УКАЗОМ ПРЕЗИДИУМА СОВЕТА ФЕДЕРАЦИИ</b> <n><n>                                    от <DATE>г.
+Sentence1=<size=14>Командир <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><PLAYER_RANK> <PLAYERNAME> <n><POSTHUMOUSLY> награждается </size><n><n><b><size=18></size><n><n><size=22>"ОРДЕНОМ ЗА ЗАСЛУГИ ПЕРЕД ОТЕЧЕСТВОМ IV СТЕПЕНИ"</size></b>
+Sentence2=ЗА:<n>Исключительно достойное служение в качестве командира <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME>. <PLAYERNAME> стойкую преданность и превосходные тактические решения последовательно приносящие успех его подразделению в действии. Его поведение свидетельствует о его большой заслуге, этой команде и соответствует самым высоким традициям Военно-морской службы РФ.

@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/84/land/us84l (13).jpg,campaign/images/us/84/land/us84l (19).jpg,campaign/images/us/84/land/us84l (34).jpg,campaign/images/us/84/land/us84l (36).jpg,campaign/images/us/84/land/us84l (49).jpg,campaign/images/us/84/land/us84l (13).jpg
+Photo=campaign/images/photos/riot plan 1,campaign/images/photos/riot plan 2,campaign/images/photos/protests plan 1
+Music=audio/music/lost12.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>THE WAR IS OVER</b>
+Sentence1=Prompt Global Strike <FRIENDLY_SINGULAR> has been defeated. Having repelled the initial onslaught, <ENEMY> went on the offensive and defeated the enemy troops. Due to the impossibility of continuing hostilities, <FRIENDLY> were forced to abandon their presence in the Asia-Pacific region.
+Sentence2=The defeat in the war led to a recession in the economy. In foreign policy, the former control has been lost, and meanwhile, in China the internal situation is being shaken more and more every day...

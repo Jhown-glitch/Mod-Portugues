@@ -1,0 +1,333 @@
+[LOCATION NAMES AND COUNTRY/REGION]
+LocationName=Акапулько=Мексика=Акапулько=Акапулько=Акапулько=Акапулько=Акапулько
+LocationName=Хьюстон=США=Хьюстона=Хьюстону=Хьюстон=Хьюстоном=Хьюстоне
+LocationName=Вашингтон=США=Вашингтона=Вашингтону=Вашингтон=Вашингтоном=Вашингтоне
+LocationName=Лос-Анджелес=США=Лос-Анджелеса=Лос-Анджелесу=Лос-Анджелес=Лос-Анджелесом=Лос-Анджелесе
+LocationName=Тель-Авив=Израиль=Тель-Авива=Тель-Авиву=Тель-Авив=Тель-Авивом=Тель-Авиве
+LocationName=Бремерхафен=Германия=Бремерхафена=Бремерхафену=Бремерхафен=Бремерхафеном=Бремерхафене
+LocationName=Рим=Италия=Рима=Риму=Рим=Римом=Риме
+LocationName=Нарвик=Норвегия=Нарвика=Нарвику=Нарвик=Нарвиком=Нарвике
+LocationName=Берген=Норвегия=Бергена=Бергену=Берген=Бергеном=Бергене
+LocationName=Шпицберген=Норвегия=Шпицбергена=Шпицбергену=Шпицберген=Шпицбергеном=Шпицбергене
+LocationName=Холи-Лох=Великобритания=Холи-Лох=Холи-Лох=Холи-Лох=Холи-Лох=Холи-Лох
+LocationName=Кайенна=Французская Гвиана=Кайенны=Кайенну=Кайенну=Кайенной=Кайенне
+LocationName=Рекьявик=Исландия=Рекьявика=Рекьявику=Рекьявик=Рекьявиком=Рекьявике
+LocationName=Квебек=Канада=Квебека=Квебеку=Квебек=Квебеком=Квебеке
+LocationName=Буэнос-Айрес=Аргентина=Буэнос-Айреса=Буэнос-Айресу=Буэнос-Айрес=Буэнос-Айресом=Буэнос-Айресе
+LocationName=Малага=Испания=Малаги=Малагу=Малагу=Малагой=Малаге
+LocationName=Москва=Россия=Москвы=Москву=Москву=Москвой=Москве
+LocationName=Иркутск=Россия=Иркутска=Иркутску=Иркутск=Иркутском=Иркутске
+LocationName=Владивосток=Россия=Владивостока=Владивостоку=Владивосток=Владивостоком=Владивостоке
+LocationName=Мурманск=Россия=Мурманска=Мурманску=Мурманск=Мурманском=Мурманске
+LocationName=Шанхай=Китай=Шанхая=Шанхаю=Шанхай=Шанхаем=Шанхае
+LocationName=Токио=Япония=Токио=Токио=Токио=Токио=Токио
+LocationName=Ченнай=Индия=Ченная=Ченнаю=Ченнай=Ченнаем=Ченнае
+LocationName=Перт=Австралия=Перта=Перту=Перт=Пертом=Перте
+LocationName=Сидней=Австралия=Сиднея=Сиднею=Сидней=Сиднеем=Сиднее
+LocationName=Дарвин=Австралия=Дарвина=Дарвину=Дарвин=Дарвином=Дарвине
+LocationName=Перл-Харбор=США=Перл-Харбора=Перл-Харбору=Перл-Харбор=Перл-Харбором=Перл-Харборе
+LocationName=Уэйк=США=района Уэйка=Уэйку=Уэйк=Уэйком=Уэйке
+LocationName=Гуам=США=района Гуама=Гуаму=Гуам=Гуамом=Гуаме
+LocationName=Вилючинск=Россия=Вилючинска=Вилючинску=Вилючинск=Вилючинском=Вилючинске
+LocationName=Квадрат AA55=Гренландское море=Квадрата AA55=Квадрату AA55=Квадрат AA55=Квадрате AA55
+LocationName=Квадрат AD61=Датский пролив=Квадрата AD61=Квадрату AD61=Квадрат AD61=Квадрате AD61
+LocationName=Квадрат AK49=Северная Атлантика=Квадрата AK49=Квадрату AK49=Квадрат AK49=Квадрате AK49
+LocationName=Квадрат AL64=Северная Атлантика=Квадрата AL64=Квадрату AL64=Квадрат AL64=Квадрате AL64
+LocationName=Квадрат AM57=Северная Атлантика=Квадрата AM57=Квадрату AM57=Квадрат AM57=Квадрате AM57
+LocationName=Квадрат BD67=Северная Атлантика=Квадрата BD67=Квадрату BD67=Квадрат BD67=Квадрате BD67
+LocationName=Квадрат BE56=Северная Атлантика=Квадрата BE56=Квадрату BE56=Квадрат BE56=Квадрате BE56
+LocationName=Квадрат BF46=Северная Атлантика=Квадрата BF46=Квадрату BF46=Квадрат BF46=Квадрате BF46
+LocationName=Квадрат AJ58=Северная Атлантика=Квадрата AJ58=Квадрату AJ58=Квадрат AJ58=Квадрате AJ58
+LocationName=Квадрат BC52=Северная Атлантика=Квадрата BC52=Квадрату BC52=Квадрат BC52=Квадрате BC52
+LocationName=Квадрат CD37=Северная Атлантика=Квадрата CD37=Квадрату CD37=Квадрат CD37=Квадрате CD37
+LocationName=Квадрат CE59=Северная Атлантика=Квадрата CE59=Квадрату CE59=Квадрат CE59=Квадрате CE59
+LocationName=Квадрат CF43=Северная Атлантика=Квадрата CF43=Квадрату CF43=Квадрат CF43=Квадрате CF43
+LocationName=Квадрат NR55=Тихий океан=Квадрата NR55=Квадрату NR55=Квадрат NR55=Квадрате NR55
+LocationName=Квадрат NS28=Тихий океан=Квадрата NS28=Квадрату NS28=Квадрат NS28=Квадрате NS28
+LocationName=Квадрат RA34=Тихий океан=Квадрата RA34=Квадрату RA34=Квадрат RA34=Квадрате RA34
+LocationName=Квадрат RR51=Тихий океан=Квадрата RA34=Квадрату RA34=Квадрат RA34=Квадрате RA34
+LocationName=Квадрат RS19=Тихий океан=Квадрата RS19=Квадрату RS19=Квадрат RS19=Квадрате RS19
+LocationName=Квадрат RT72=Тихий океан=Квадрата RT72=Квадрату RT72=Квадрат RT72=Квадрате RT72
+LocationName=Квадрат SL53=Тихий океан=Квадрата SL53=Квадрату SL53=Квадрат SL53=Квадрате SL53
+LocationName=Квадрат SM29=Тихий океан=Квадрата SM29=Квадрату SM29=Квадрат SM29=Квадрате SM29
+LocationName=Квадрат BB59=Атлантический океан=Квадрата BB59=Квадрату BB59=Квадрат BB59=Квадрате BB59
+LocationName=Квадрат CB43=Атлантический океан=Квадрата CB43=Квадрату CB43=Квадрат CB43=Квадрате CB43
+LocationName=Квадрат CA64=Атлантический океан=Квадрата CA64=Квадрату CA64=Квадрат CA64=Квадрате CA64
+LocationName=Квадрат DC28=Атлантический океан=Квадрата DC28=Квадрату DC28=Квадрат DC28=Квадрате DC28
+LocationName=Квадрат DN51=Атлантический океан=Квадрата DN51=Квадрату DN51=Квадрат DN51=Квадрате DN51
+LocationName=Квадрат DL29=Атлантический океан=Квадрата DL29=Квадрату DL29=Квадрат DL29=Квадрате DL29
+LocationName=Квадрат HC58=Тихий океан=Квадрата HC58=Квадрату HC58=Квадрат HC58=Квадрате HC58
+LocationName=Квадрат HF67=Тихий океан=Квадрата HF67=Квадрату HF67=Квадрат HF67=Квадрате HF67
+LocationName=Квадрат HG73=Тихий океан=Квадрата HG73=Квадрату HG73=Квадрат HG73=Квадрате HG73
+LocationName=Квадрат HK55=Тихий океан=Квадрата HK55=Квадрату HK55=Квадрат HK55=Квадрате HK55
+LocationName=Квадрат HP46=Тихий океан=Квадрата HP46=Квадрату HP46=Квадрат HP46=Квадрате HP46
+LocationName=Квадрат CC54=Атлантический океан=Квадрата CC54=Квадрату CC54=Квадрат CC54=Квадрате CC54
+LocationName=Квадрат DD27=Атлантический океан=Квадрата DD27=Квадрату DD27=Квадрат DD27=Квадрате DD27
+LocationName=Квадрат DO18=Атлантический океан=Квадрата DO18=Квадрату DO18=Квадрат DO18=Квадрате DO18
+LocationName=Квадрат HJ61=Тихий океан=Квадрата HJ61=Квадрату HJ61=Квадрат HJ61=Квадрате HJ61
+LocationName=Квадрат HN53=Тихий океан=Квадрата HN53=Квадрату HN53=Квадрат HN53=Квадрате HN53
+LocationName=Квадрат HO56=Тихий океан=Квадрата HO56=Квадрату HO56=Квадрат HO56=Квадрате HO56
+LocationName=Квадрат HS37=Тихий океан=Квадрата HS37=Квадрату HS37=Квадрат HS37=Квадрате HS37
+LocationName=Квадрат HT52=Тихий океан=Квадрата HT52=Квадрату HT52=Квадрат HT52=Квадрате HT52
+LocationName=Квадрат DE57=Атлантический океан=Квадрата DE57=Квадрату DE57=Квадрат DE57=Квадрате DE57
+LocationName=Квадрат DF81=Атлантический океан=Квадрата DF81=Квадрату DF81=Квадрат DF81=Квадрате DF81
+LocationName=Квадрат DQ73=Атлантический океан=Квадрата DQ73=Квадрату DQ73=Квадрат DQ73=Квадрате DQ73
+LocationName=Квадрат DR49=Атлантический океан=Квадрата DR49=Квадрату DR49=Квадрат DR49=Квадрате DR49
+LocationName=Квадрат HV72=Тихий океан=Квадрата HV72=Квадрату HV72=Квадрат HV72=Квадрате HV72
+LocationName=Квадрат HW83=Тихий океан=Квадрата HW83=Квадрату HW83=Квадрат HW83=Квадрате HW83
+LocationName=Квадрат HY56=Тихий океан=Квадрата HY56=Квадрату HY56=Квадрат HY56=Квадрате HY56
+LocationName=Квадрат HZ91=Тихий океан=Квадрата HZ91=Квадрату HZ91=Квадрат HZ91=Квадрате HZ91
+
+[CITY TOWN PORT NAMES]
+Color=255,200,0,255
+Outline=TRUE
+Size=10
+Font=4
+
+LabelPosition=-490,85
+LabelName=Акапулько
+LabelPosition=-465,133
+LabelName=Хьюстон
+LabelPosition=-380,160
+LabelName=Вашингтон
+LabelPosition=-540,140
+LabelName=Лос-Анджелес
+LabelPosition=50,180
+LabelName=Болгария
+LabelPosition=-10,220
+LabelName=Бремерхафен
+LabelPosition=-30,195
+LabelName=Франция
+LabelPosition=-70,168
+LabelName=Малага
+LabelPosition=-70,130
+LabelName=Марокко
+LabelPosition=-10,145
+LabelName=Тунис
+LabelPosition=30,240
+LabelName=Польша
+LabelPosition=60,260
+LabelName=Финляндия
+LabelPosition=-130,270
+LabelName=Рекьявик
+LabelPosition=120,220
+LabelName=Москва
+LabelPosition=220,210
+LabelName=Казахстан
+LabelPosition=100,180
+LabelName=Турция
+LabelPosition=-280,0
+LabelName=Кайенна
+LabelPosition=133,300
+LabelName=Мурманск
+LabelPosition=180,240
+LabelName=Киров
+LabelPosition=140,190
+LabelName=Краснодар
+LabelPosition=-60,230
+LabelName=Холи-Лох
+LabelPosition=-660,270
+LabelName=Аляска
+LabelPosition=-370,200
+LabelName=Квебек
+LabelPosition=-520,210
+LabelName=Эдмонтон
+LabelPosition=-390,80
+LabelName=Куба
+LabelPosition=-650,75
+LabelName=Перл-Харбор
+LabelPosition=220,290
+LabelName=Воркута
+LabelPosition=35,290
+LabelName=Нарвик
+LabelPosition=-10,255
+LabelName=Берген
+LabelPosition=260,260
+LabelName=Новосибирск
+LabelPosition=280,290
+LabelName=Сургут
+LabelPosition=320,240
+LabelName=Красноярск
+LabelPosition=390,230
+LabelName=Иркутск
+LabelPosition=370,270
+LabelName=Усть Илимск
+LabelPosition=340,310
+LabelName=Норильск
+LabelPosition=450,250
+LabelName=Чита
+LabelPosition=520,220
+LabelName=Хабаровск
+LabelPosition=-310,-142
+LabelName=Буэнос-Айрес
+LabelPosition=520,186
+LabelName=Владивосток
+LabelPosition=570,225
+LabelName=Сахалин
+LabelPosition=530,255
+LabelName=Якутск
+LabelPosition=610,260
+LabelName=Магадан
+LabelPosition=650,270
+LabelName=Слаутное
+LabelPosition=635,228
+LabelName=Петропавловск\n-Камчатский
+LabelPosition=460,165
+LabelName=Пекин
+LabelPosition=415,115
+LabelName=Хуайхуа
+LabelPosition=420,180
+LabelName=Сиан
+LabelPosition=445,35
+LabelName=о-ва Спратли
+LabelPosition=360,135
+LabelName=Кунминь
+LabelPosition=300,160
+LabelName=Цинхай
+LabelPosition=370,170
+LabelName=Хами
+LabelPosition=465,138
+LabelName=Шанхай
+LabelPosition=445,95
+LabelName=Гонг-Конг
+LabelPosition=415,50
+LabelName=Вьетнам
+LabelPosition=310,75
+LabelName=Бхилаи
+LabelPosition=290,56
+LabelName=Ченнай
+LabelPosition=280,100
+LabelName=Нью-Дели
+LabelPosition=200,120
+LabelName=Иран
+LabelPosition=155,145
+LabelName=Ирак
+LabelPosition=120,150
+LabelName=Сирия
+LabelPosition=530,135
+LabelName=Хиросима
+LabelPosition=555,156
+LabelName=Токио
+LabelPosition=570,200
+LabelName=Саппоро
+LabelPosition=575,50
+LabelName=о-в Гуам
+LabelPosition=650,80
+LabelName=о-в Уэйк
+LabelPosition=480,65
+LabelName=Филиппины
+LabelPosition=520,-80
+LabelName=Дарвин
+LabelPosition=460,-145
+LabelName=Перт
+LabelPosition=595,-143
+LabelName=Сидней
+LabelPosition=565,-165
+LabelName=Мельбурн
+LabelPosition=370,75
+LabelName=Мьянма
+LabelPosition=225,145
+LabelName=Афганистан
+LabelPosition=195,175
+LabelName=Туркменистан
+LabelPosition=115,130
+LabelName=Тель-Авив
+LabelPosition=30,130
+LabelName=Ливия
+LabelPosition=150,80
+LabelName=Саудовская\nАравия
+LabelPosition=150,20
+LabelName=Сомали
+LabelPosition=10,170
+LabelName=Рим
+LabelPosition=28,336
+LabelName=Шпицберген
+LabelPosition=20,195
+LabelName=Австрия
+LabelPosition=105,200
+LabelName=Украина
+LabelPosition=75,220
+LabelName=Беларусь
+LabelPosition=60,202
+LabelName=Румыния
+LabelPosition=-430,165
+LabelName=Чикаго
+LabelPosition=-500,160
+LabelName=Денвер
+
+
+[MARKERS]
+Color=255,255,255,255
+Outline=TRUE
+Size=3
+LocationMarkerPosition=-480,70
+LocationMarkerPosition=-460,125
+LocationMarkerPosition=-378,165
+LocationMarkerPosition=-560,145
+LocationMarkerPosition=105,140
+LocationMarkerPosition=-20,230
+LocationMarkerPosition=10,175
+LocationMarkerPosition=20,295
+LocationMarkerPosition=-25,260
+LocationMarkerPosition=30,330
+LocationMarkerPosition=-80,240
+LocationMarkerPosition=-270,20
+LocationMarkerPosition=-150,280
+LocationMarkerPosition=-348,210
+LocationMarkerPosition=-295,-155
+LocationMarkerPosition=-65,160
+LocationMarkerPosition=555,150
+LocationMarkerPosition=455,-140
+LocationMarkerPosition=605,-155
+LocationMarkerPosition=520,-55
+
+LocationMarkerPosition=520,180
+LocationMarkerPosition=100,300
+LocationMarkerPosition=485,130
+LocationMarkerPosition=300,60
+LocationMarkerPosition=650,90
+LocationMarkerPosition=575,60
+LocationMarkerPosition=-660,85
+
+Color=0,255,0,255
+Outline=TRUE
+Size=5
+LocationMarkerPosition=105,300
+
+[COUNTRY LABELS]
+Color=0,0,0,255
+Outline=FALSE
+Size=13
+Font=4
+LabelPosition=-520,280
+LabelName=КАНАДА
+LabelPosition=-230,330
+LabelName=ГРЕНЛАНДИЯ
+LabelPosition=330,280
+LabelName=РОССИЯ
+LabelPosition=280,125
+LabelName=ИНДИЯ
+LabelPosition=410,165
+LabelName=КИТАЙ
+LabelPosition=530,-110
+LabelName=АВСТРАЛИЯ
+Size=11
+LabelPosition=-300,-40
+LabelName=ЮЖНАЯ\nАМЕРИКА
+LabelPosition=-25.6,-369.2
+LabelName=АНТАРКТИКА
+Size=14
+LabelPosition=-10,90
+LabelName=АФРИКА
+LabelPosition=-490,180
+LabelName=США
+
+[OCEANS AND SEAS LABELS]
+Color=43,71,97,255
+Outline=FALSE
+Size=16
+Font=4
+LabelPosition=-600,-50
+LabelName=ТИХИЙ ОКЕАН
+LabelPosition=70,375
+LabelName=СЕВЕРНЫЙ ЛЕДОВИТЫЙ ОКЕАН

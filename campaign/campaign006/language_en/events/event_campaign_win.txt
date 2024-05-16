@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_2
+Image=campaign/images/us/us (9).jpg,campaign/images/us/us (10).jpg,campaign/images/us/us (11).jpg,campaign/images/us/us (15).jpg
+Photo=campaign/images/photos/photo2/245.jpg
+Music=audio/music/Track1.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>RUSSIAN FEDERATION COLLAPSES</b>|<b>WAR GETS CIVIL</b>
+Sentence1=The war with the West has come to an abrupt halt as the Russian fractures, with some regions even falling into civil war. Attempts are made to contain the volatile situation and aid the civilians streaming out of the former Russian Federation.
+Sentence2=CEASEFIRE<n>The general ceasefire - announced only days ago - thankfully seems to have been upheld along all fronts. An anonymous NATO spokesman has suggested that if peace talks are successful, many troops could be on their way home in a matter of weeks.

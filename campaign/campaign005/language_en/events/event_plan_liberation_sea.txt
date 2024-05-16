@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/china/2000/sea/chs (1).jpg,campaign/images/china/2000/sea/chs (2).jpg,campaign/images/china/2000/sea/chs (3).jpg,campaign/images/china/2000/sea/chs (4).jpg,campaign/images/china/2000/sea/chs (5).jpg,campaign/images/china/2000/sea/chs (6).jpg,campaign/images/china/2000/sea/chs (7).jpg,campaign/images/china/2000/sea/chs (8).jpg
+Photo=campaign/images/photos/landing plan 1,campaign/images/photos/landing plan 2,campaign/images/photos/naval plan 3,campaign/images/photos/naval plan 4,campaign/images/photos/naval plan 5,campaign/images/photos/naval plan 6,campaign/images/china/2000/sea/news/chsn (1).jpg,campaign/images/china/2000/sea/news/chsn (2).jpg,campaign/images/china/2000/sea/news/chsn (3).jpg,campaign/images/china/2000/sea/news/chsn (4).jpg,campaign/images/china/2000/sea/news/chsn (5).jpg,campaign/images/china/2000/sea/news/chsn (6).jpg,campaign/images/china/2000/sea/news/chsn (7).jpg,campaign/images/china/2000/sea/news/chsn (8).jpg,campaign/images/china/2000/sea/news/chsn (9).jpg,campaign/images/china/2000/sea/news/chsn (10).jpg
+Music=audio/music/chsea1.ogg,audio/music/chsea2.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><ENEMY_TITLE_LIBERATION></b>
+Color=57,61,73,255
+Sentence1=<ENEMY_LIBERATION_SEA>
+Color=218,218,208,255
+Sentence2=<WARSTATUS1> <WARSTATUS2>

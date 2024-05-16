@@ -1,0 +1,15 @@
+NextAction=MAP
+Image=campaign/images/us/68/ships/us68s (1).jpg,campaign/images/us/68/ships/us68s (2).jpg,campaign/images/us/68/ships/us68s (5).jpg,campaign/images/us/68/ships/us68s (8).jpg,campaign/images/us/68/ships/us68s (13).jpg,campaign/images/us/68/ships/us68s (16).jpg,campaign/images/us/68/ships/us68s (25).jpg,campaign/images/us/68/ships/us68s (34).jpg,campaign/images/us/68/ships/us68s (37).jpg,campaign/images/us/68/ships/us68s (39).jpg,campaign/images/us/68/ships/us68s (45).jpg,campaign/images/us/68/ships/us68s (46).jpg,campaign/images/us/68/ships/us68s (58).jpg
+
+Photo=campaign/images/us/68/ships/news/us68sn (10).jpg,campaign/images/us/68/ships/news/us68sn (13).jpg,campaign/images/us/68/ships/news/us68sn (17).jpg,campaign/images/us/68/ships/news/us68sn (19).jpg,campaign/images/us/68/ships/news/us68sn (27).jpg,campaign/images/us/68/ships/news/us68sn (33).jpg,campaign/images/us/68/ships/news/us68sn (34).jpg,campaign/images/us/68/ships/news/us68sn (44).jpg,campaign/images/us/68/ships/news/us68sn (47).jpg,campaign/images/us/68/ships/news/us68sn (48).jpg,campaign/images/us/68/ships/news/us68sn (49).jpg
+Music=audio/music/lost1.ogg,audio/music/lost2.ogg,audio/music/lost3.ogg,audio/music/lost4.ogg,audio/music/lost5.ogg,audio/music/lost6.ogg,audio/music/lost7.ogg,audio/music/lost8.ogg,audio/music/lost9.ogg,audio/music/lost10.ogg,audio/music/lost11.ogg,audio/music/lost12.ogg,audio/music/lost13.ogg,audio/music/lost14.ogg,audio/music/lost15.ogg,audio/music/lost16.ogg,audio/music/lost17.ogg,audio/music/lost18.ogg,audio/music/lost19.ogg,audio/music/lost20.ogg,audio/music/lost21.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>КОНВОЙ ПРИБЫЛ</b>|<b><ENEMY> СНАБЖАЮТ ВОЙСКА</b>|<b>СНАБЖЕНИЕ МОРЕМ</b>|<b>УКРЕПЛЯЯ ПОЗИЦИИ</b>
+Color=57,61,73,255
+Sentence1=Конвои снабжения <ENEMY_SINGULAR> продолжают доставлять грузы с минимальными потреями. Один из таких конвоев недавно доставил необходимые грузы и вооружение в <ENDLOCATION_VI>. Это обусловлено высокой эффективностью и слаженностью действий <ENEMY_NAVY_SINGULAR>.
+Color=218,218,208,255
+Sentence2=<ENEMY> продолжают сдерживать натиск <FRIENDLY_SINGULAR>. Большую роль в этой войне играет непрерывное снабжение армейских частей, которое позволяет им сохранять высокую боеспособность несмотря на постоянные атаки противника.

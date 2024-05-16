@@ -1,0 +1,46 @@
+//Trondheim 6
+UseTerrain=TRUE
+MapCoordinates=2247,774
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry.png
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=DEFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_mpk_grisha3_ai|wp_84_em_sovremenny_ai,wp_84_pkr_moskva_ai|wp_84_skr_krivak1_ai|wp_84_bpk_udaloy_ai|wp_84_bpk_kresta2_ai|wp_84_bpk_kara_ai|wp_02_bpk_udaloy2_ai,wp_84_takr_kiev_ai,wp_84_ssn_sierra_pl|wp_84_ss_tango_un|wp_84_ss_kilo_un|wp_02_ss_kilo_alrosa|wp_02_ssn_victor3_pl|wp_02_ssn_sierra2_pl|wp_02_ssn_akula-imp_pl|wp_02_ssn_akula2_pl,wp_vt_boris_chilikin|wp_vt_dubna|wp_vt_kazbek
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-246,269
+PlayerHeading=170
+
+//AI Nav Waypoints
+//Escort 1
+EnemyWaypoints=-230,140|-210,30
+
+//Escort 2
+EnemyWaypoints=-160,0|190,-40
+
+//Merchant 1
+EnemyWaypoints=-260,320|-180,-50
+
+//Merchant 2
+EnemyWaypoints=-280,330|-510,290
+
+//Lurking Sub
+EnemyWaypoints=0,-34|-60,-30|-30,0
+
+MissionPosition=-170,-80
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=0
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-560,510,100

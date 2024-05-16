@@ -1,0 +1,66 @@
+//The Narvik Caper (USA)
+
+//Narvik
+UseTerrain=TRUE
+MapCoordinates=2530,1070
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_nato
+
+//Environment
+Date=22 MAR 1984
+Hemisphere=North
+Time=1200
+UsePresetEnvironment=TRUE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,DEFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_ss_kilo_un|wp_84_ss_tango_un|wp_68_ss_foxtrot_un|wp_68_ss_romeo_un|wp_68_ss_whiskey_un,wp_84_skr_krivak1_ai|wp_68_mpk_poti_ai|wp_84_mpk_grisha3_ai|wp_84_skr_riga_ai,wp_84_skr_krivak1_ai|wp_68_mpk_poti_ai|wp_84_mpk_grisha3_ai|wp_84_skr_riga_ai,wp_84_skr_krivak1_ai|wp_68_mpk_poti_ai|wp_84_mpk_grisha3_ai|wp_84_skr_riga_ai,wp_fv_trawler|wp_vtr_yuniy_partizan|wp_ms_poltava|wp_68_rkr_kresta1_ai,wp_fv_trawler|wp_vtr_yuniy_partizan|wp_68_kr_sverdlov_ai|wp_68_rkr_kresta1_ai
+FormationCruiseSpeed=8
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-266,9
+PlayerHeading=90
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//Lurking Sub
+EnemyWaypoints=25,-78|-59,-79|-17,32
+//Outer Patrol
+EnemyWaypoints=-201,23|-238,-17
+//Second Outer Patrol
+EnemyWaypoints=-90,22|-155,-44
+//Center Patrol 2
+EnemyWaypoints=-33,-24|-64,-100
+//Inner Patrol
+EnemyWaypoints=-164,-25|141,-52
+//Second Inner Patrol
+EnemyWaypoints=57,-94|-29,-63
+
+MissionPosition=103,-68
+
+//Enemy Aircraft
+NumberOfHelicopters=2
+HelicopterType=wp_haze
+NumberOfAircraft=0
+AircraftType=wp_be-12_mail
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-150,-5,75
+AircraftSearchArea=-23,-57,75
+
+//Drop passive sonobouys as barriers
+//Array of Vector 2 positions
+SonobouyLocations=-49,85,40|-219,165,40|-305,200,40|-395,205,40
+
+PlayerVessels=usn_84_ssn_los_angeles_pl,usn_84_ssn_narwhal_pl,usn_84_ssn_permit_pl,usn_84_ssn_skipjack_un,usn_84_ssn_sturgeon_pl,usn_68_ssbn_ethan_allen_un,usn_68_ssbn_washington_un,usn_84_ssbn_ohio_un,usn_84_ss_barbel_un,plan_uk_84_ssn_churchill_un,plan_uk_84_ssn_swiftsure_un,plan_uk_84_ssn_trafalgar_un,plan_fr_84_ssn_rubis_un,plan_uk_68_ssbn_resolution_un,plan_uk_84_ssbn_resolution_un,plan_fr_84_ssbn_redoubtable_un,plan_aus_68_ss_oberon_un,plan_neth_68_ss_dolfijn_un,plan_uk_68_ss_oberon_un,plan_ger_84_ss_209_un,plan_knm_84_ss_kobben,plan_it_84_ss_toti_un,plan_jp_84_ss_yushio_un,usn_84_ffg_perry_pl,usn_84_ff_knox_pl,usn_84_cg_belknap_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl,usn_84_cgn_longbeach_pl,usn_84_bb_iowa_pl

@@ -1,0 +1,46 @@
+//Trondheim 6
+UseTerrain=TRUE
+MapCoordinates=2247,774
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry.png
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=DEFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_02_ffg_perry_lh_ai|usn_02_ff_perry_ai|usn_84_ddg_spruance_ai,usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ddg_ticonderoga_ai,usn_84_lha_tarawa_ai|usn_84_lph_iwojima_ai,usn_84_ssn_los_angeles_pl|usn_02_ssn_seawolf_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_84_ssn_sturgeon_pl,usn_vt_fleet-tanker|usn_vt_small-fl-tanker|usn_vt_oiler|usn_84_aor_oiler
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-246,269
+PlayerHeading=170
+
+//AI Nav Waypoints
+//Escort 1
+EnemyWaypoints=-230,140|-210,30
+
+//Escort 2
+EnemyWaypoints=-160,0|190,-40
+
+//Merchant 1
+EnemyWaypoints=-260,320|-180,-50
+
+//Merchant 2
+EnemyWaypoints=-280,330|-510,290
+
+//Lurking Sub
+EnemyWaypoints=0,-34|-60,-30|-30,0
+
+MissionPosition=-170,-80
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=0
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-560,510,100

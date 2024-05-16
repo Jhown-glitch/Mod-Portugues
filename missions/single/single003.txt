@@ -1,0 +1,34 @@
+//The Duel - 1984 (USA)
+
+UseTerrain=TRUE
+MapCoordinates=1470,946
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_nato
+
+//Environment
+Date=15 DEC 1984
+Hemisphere=North
+Time=1200
+UsePresetEnvironment=FALSE
+Weather=Rain
+SeaState=Moderate Breeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=OFFENSIVE
+EnemyShipClasses=wp_84_ss_tango_un|wp_84_ss_kilo_un|wp_84_ssn_victor2_pl|wp_84_ssn_alfa_pl|wp_84_ssn_sierra_pl|wp_84_ssgn_charlie2_pl|wp_84_ssgn_oscar1_pl|wp_84_ssbn_delta3_un|wp_84_ssbn_typhoon_pl|wp_84_ssn_mike_pl|wp_84_ssgn_papa_pl
+FormationCruiseSpeed=12
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
+
+PlayerVessels=usn_84_ssn_los_angeles_pl,usn_84_ssn_narwhal_pl,usn_84_ssn_permit_pl,usn_84_ssn_skipjack_un,usn_84_ssn_sturgeon_pl,usn_68_ssbn_ethan_allen_un,usn_68_ssbn_washington_un,usn_84_ssbn_ohio_un,usn_84_ss_barbel_un,plan_uk_84_ssn_churchill_un,plan_uk_84_ssn_swiftsure_un,plan_uk_84_ssn_trafalgar_un,plan_fr_84_ssn_rubis_un,plan_uk_68_ssbn_resolution_un,plan_uk_84_ssbn_resolution_un,plan_fr_84_ssbn_redoubtable_un,plan_aus_68_ss_oberon_un,plan_neth_68_ss_dolfijn_un,plan_uk_68_ss_oberon_un,plan_ger_84_ss_209_un,plan_knm_84_ss_kobben,plan_it_84_ss_toti_un,plan_jp_84_ss_yushio_un
+CommanderName=COMSUBLANT
+CommanderFleetName=CINCLANTFLT

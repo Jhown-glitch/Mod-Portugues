@@ -1,0 +1,12 @@
+[Medals and Awards]
+
+Navy=Soviet Navy
+PatrolAwards=event_award_rf1mu,event_award_rf2mj,event_award_rf3mozpo2,event_award_rf4mozpo1
+PatrolTonnage=10000,30000,60000,100000
+
+CumulativeAwards=event_award_rf5omz,event_award_rf6ovz,event_award_rf7om,event_award_rf8on,event_award_rf9oj,event_award_rf10ou,event_award_rf11oan,event_award_rf12ozpo4,event_award_rf13osg4,event_award_rf14grf
+CumulativeTonnage=25000,50000,75000,100000,150000,250000,400000,550000,900000,1500000
+MissionsPassed=2,3,7,11,15,20,25,31,37,45
+
+WoundedAwards=event_award_rf7omps
+ProbabilityWounded=0.15,0.001

@@ -1,0 +1,19 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+According to the latest Aerial Intelligence Data, NATO's safety rules for storing ammunition are disregarded, The ammunition is therefore an easy target for missiles. This negligence will cost them dearly. You are ordered to approach within 100 miles from <color=Cyan><ENDLOCATION> ( <COUNTRY> )</color> to launch <WEAPONNUMBERDIGITS> <WEAPONREQUIRED> for these goals. <color=<REQUIREDWEAPONSONBOARD>>Attention: if you do not have <WEAPONNUMBERDIGITS> <WEAPONREQUIRED> on board, you must go back to the port of <STARTLOCATION> and re-equip <WEAPONNUMBERDIGITS> <WEAPONREQUIRED> for this mission.</color>
+
+2.	(S) THE MAIN TASK:
+<color=<REQUIREDWEAPONSONBOARD>>Re-equip <WEAPONNUMBERDIGITS> <WEAPONREQUIRED> in the port of <STARTLOCATION></color>
+Approach <ENDLOCATION> and launch at least <WEAPONNUMBERDIGITS> <WEAPONREQUIRED>
+3.	(S) ADDITIONAL TASK:
+SEARCH AND SINK ANY NEARBY BATTLE SHIPS IF POSSIBLE
+
+4.	(S) AVOID DETECTION BY ANY ENEMY PATROL WARSHIP
+5.	(S) FREE WEAPON SELECTION
+6.	(S) RADIO SILENCE - KEEP RADIO SILENCE MODE UNLESS OTHERWISE DIRECTED
+[MISSION WIN]
+Perfectly executed strike on ground targets. Initial reports indicate that the target has suffered significant damage.
+[MISSION FAIL]
+We are disappointed to hear that you were not able to complete the mission in full.
+[MISSION MISSED]
+We are disappointed to hear that you did not enter the attacking area as planned. Now the window with the ability to complete the mission is closed. Therefore, the mission has been cancelled.

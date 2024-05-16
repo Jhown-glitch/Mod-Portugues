@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/oil/oil (1).jpg,campaign/images/oil/oil (2).jpg,campaign/images/oil/oil (3).jpg,campaign/images/oil/oil (4).jpg
+Photo=campaign/images/china/2000/subs/news/chsn (1).jpg,campaign/images/china/2000/subs/news/chsn (3).jpg,campaign/images/china/2000/subs/news/chsn (4).jpg,campaign/images/china/2000/subs/news/chsn (5).jpg,campaign/images/china/2000/subs/news/chsn (6).jpg,campaign/images/china/2000/subs/news/chsn (9).jpg,campaign/images/china/2000/subs/news/chsn (11).jpg,campaign/images/china/2000/subs/news/chsn (13).jpg,campaign/images/china/2000/subs/news/chsn (15).jpg
+Music=audio/music/win.ogg,audio/music/win2.ogg,audio/music/win3.ogg,audio/music/win4.ogg,audio/music/win6.ogg,audio/music/win7.ogg,audio/music/win8.ogg,audio/music/win9.ogg,audio/music/win10.ogg,audio/music/win11.ogg,audio/music/win12.ogg,audio/music/win13.ogg,audio/music/win14.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>НЕФТЯНАЯ ВЫШКА УНИЧТОЖЕНА</b>
+Color=57,61,73,255
+Sentence1=<FRIENDLY> захватили и впоследствии уничтожили нефтяную вышку вблизи <ENDLOCATION_RO> после недавних обвинений в том, что <ENEMY> использовали платформу для слежки за передвижениями военно-морских сил в регионе. Представитель <ENEMY_SINGULAR> опроверг подобные заявления и призвал к немедленному прекращению неспровоцированных нападений на гражданские объекты и их разрушению.
+Color=218,218,208,255
+Sentence2=Официальные лица <FRIENDLY_SINGULAR> заявили, что большинство гражданских работников с буровой платформы будут освобождены в течение нескольких дней, в то время как несколько оставшихся все еще удерживаются для дальнейшего допроса.

@@ -1,0 +1,14 @@
+NextAction=event_campaign_critical_fail_2
+Image=campaign/images/nuke launch farm
+Photo=campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (1).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (2).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (3).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (4).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (5).jpg,campaign/images/ussr/84/subs/ssbn/news/ussr84sussbnn (6).jpg
+Music=audio/music/lost8.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>КОНЕЦ БЛИЗКО</b>
+Sentence1=Российские подводные лодки с ядерными баллистическими ракетами, успешно заняв позиции вдоль побережья США, использовались в качестве рычагов давления во время недавних переговоров о перемирии, но это лишь привело к немедленному срыву каких-либо договоренностей. Напряженность продолжает расти и кризис выходит из-под контроля, многие эксперты считают применение стратегического ядерного оружия неизбежным.
+
+Sentence2=После трех тактических ядерных ударов по Центральной и Восточной Европе стало пугающе ясно, что нынешний конфликт не будет урегулирован дипломатическими средствами. Несмотря на гражданские беспорядки, вспыхнувшие во многих крупных городах по всему миру, большинство людей стремится быть рядом с близкими, ожидая когда та или другая сторона выпустит весь свой ядерный арсенал.

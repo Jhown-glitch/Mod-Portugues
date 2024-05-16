@@ -1,0 +1,21 @@
+NextAction=MAP
+Image=campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (1).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (2).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (3).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (4).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (5).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (6).jpg,campaign/images/2002/NATO/asuwcarr/win/asuwcarrw (7).jpg
+Photo=campaign/images/2002/NATO/asuwcarr/win/ch/ch (1).jpg,campaign/images/2002/NATO/asuwcarr/win/ch/ch (2).jpg,campaign/images/2002/NATO/asuwcarr/win/ch/ch (3).jpg,campaign/images/2002/NATO/asuwcarr/win/ch/ch (4).jpg,campaign/images/2002/NATO/asuwcarr/win/ch/ch (6).jpg
+Music=audio/music/win2.ogg
+Header=<DATE>
+
+Font=0
+
+Outline=FALSE
+
+Color=180,71,64,255
+
+Title=<b>THE CARRIER WAS ATTACKED!</b>|<b>CARRIER FLOODED!</b>|<b>Aircraft Carrier Destroyed!</b>
+
+Color=57,61,73,255
+
+Sentence1=The U.S. Navy carrier strike group in the <ENDLOCATION> zone was attacked surprisely. The headquarters confirmed that several warships, including an aircraft-carrying cruiser, were destroyed in the sudden strike. Details are still unknown, but the number of KIA and MIA would be very high.
+
+Color=218,218,208,255
+
+Sentence2=Is the risk too high? <n>In light of the recent serious defeats, questions were raised in NATO command about whether operations involving aircraft carriers could be effectively carried out. The Commander-in-Chief of the United States Navy called the ideas to withdraw the aircraft-carrying cruisers from the disputed waters "defeatist" and stated that the fleet would continue to carry out tasks despite losses.

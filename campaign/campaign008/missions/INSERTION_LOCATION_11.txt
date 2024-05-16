@@ -1,0 +1,80 @@
+//Bruh, y you lettin' Soviet territory be captured?
+
+UseTerrain=TRUE
+MapCoordinates=3242,830
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+MapCoordinates=3242,830
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+//Environment
+Date=15 MAR 1984
+Hemisphere=North
+Time=1200
+UsePresetEnvironment=FALSE
+Weather=Clear
+SeaState=LightBreeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_68_ddg_adams_ai|usn_68_dd_sherman_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1|usn_68_cg_belknap_ai,usn_68_ddg_adams_ai|usn_68_dd_sherman_ai|usn_68_ddg_farragut_ai|usn_68_ff_garcia_ai|usn_68_dd_gearing_fram1|usn_68_cg_belknap_ai,usn_68_bb_iowa_ai|usn_68_cv_essex_ai|usn_68_lph_iwojima_ai,usn_vt_fleet-tanker,usn_vtr_small-cargo,usn_vtr_small-cargo,usn_68_ssn_sturgeon_un|usn_68_ssn_permit_un|usn_68_ssn_skipjack_un|usn_68_ssn_sturgeon_un|usn_68_ss_guppy_un|usn_68_ss_guppy_3|usn_68_ss_tang_un|usn_68_ss_barbel_un|usn_68_ssn_nautilus_un|plan_uk_68_ssn_dreadnought_un|plan_uk_68_ssn_valliant_un|plan_ger_68_ss_205_un|plan_uk_68_ss_oberon_un|plan_aus_68_ss_oberon_un|plan_neth_68_ss_dolfijn_un,usn_vt_fleet-tanker|usn_vt_oiler|usn_84_aor_oiler|usn_vt_small-fl-tanker|usn_vtr_transport|usn_ms_small_freighter,usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p,usn_vt_fleet-tanker|usn_vt_oiler|usn_84_aor_oiler|usn_vt_small-fl-tanker|usn_vtr_transport|usn_ms_small_freighter,usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-390,150
+PlayerHeading=180
+
+//AI Nav Waypoints
+
+//ASW Escort 1
+EnemyWaypoints=-400,-40|-710,-50
+
+//ASW Escort 2
+EnemyWaypoints=-230,130|-140,330
+
+//AAW Escort 1
+EnemyWaypoints=-130,220|-890,490
+
+//AAW Escort 2
+EnemyWaypoints=-950,230|250,60
+
+//Traffic 1
+EnemyWaypoints=-380,-100|-510,-100|-510,0|-380,0
+
+//Traffic 2
+EnemyWaypoints=-300,120|-420,120|-420,220|-300,220
+
+//Three docked vessels; cannot shoot
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+EnemyWaypoints=0,0,0,ANCHORED_NOMISSILE_DOCKED
+
+MissionPosition=-330,-210
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-530,0,150
+
+//spawn minefields and set detection range
+
+ProximityMineLocations=-180,-30|-310,-130|-470,-180
+//number across,number deep,length,depth
+ProximityMineField=30,3,100,10|30,3,100,10|30,3,100,10
+ProximityMineFieldAngles=-50,-25,0
+ProximityMineScatter=0.3,0.3,0.3

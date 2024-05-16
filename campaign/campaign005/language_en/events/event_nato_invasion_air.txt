@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/2002/NATO/air/AIR (1).jpg,campaign/images/2002/NATO/air/AIR (2).jpg,campaign/images/2002/NATO/air/AIR (3).jpg,campaign/images/2002/NATO/air/AIR (4).jpg,campaign/images/2002/NATO/air/AIR (5).jpg,campaign/images/2002/NATO/air/AIR (6).jpg,campaign/images/2002/NATO/air/AIR (7).jpg,campaign/images/2002/NATO/air/AIR (8).jpg,campaign/images/2002/NATO/air/AIR (9).jpg,campaign/images/2002/NATO/air/AIR (10).jpg,campaign/images/2002/NATO/air/AIR (11).jpg,campaign/images/2002/NATO/air/AIR (12).jpg,campaign/images/2002/NATO/air/AIR (13).jpg,campaign/images/2002/NATO/air/AIR (14).jpg,campaign/images/2002/NATO/air/AIR (15).jpg,campaign/images/2002/NATO/air/AIR (16).jpg,campaign/images/2002/NATO/air/AIR (17).jpg,campaign/images/2002/NATO/air/AIR (18).jpg,campaign/images/2002/NATO/air/AIR (19).jpg,campaign/images/2002/NATO/air/AIR (20).jpg,campaign/images/2002/NATO/air/AIR (21).jpg,campaign/images/2002/NATO/air/AIR (22).jpg,campaign/images/2002/NATO/air/AIR (23).jpg
+Photo=campaign/images/photos/air nato 1,campaign/images/photos/air nato 2,campaign/images/photos/air nato 3,campaign/images/photos/air nato 4,campaign/images/photos/air nato 5,campaign/images/2002/NATO/air/JPEG/AIR (1).jpg,campaign/images/2002/NATO/air/JPEG/AIR (2).jpg,campaign/images/2002/NATO/air/JPEG/AIR (3).jpg,campaign/images/2002/NATO/air/JPEG/AIR (4).jpg,campaign/images/2002/NATO/air/JPEG/AIR (5).jpg,campaign/images/2002/NATO/air/JPEG/AIR (6).jpg,campaign/images/2002/NATO/air/JPEG/AIR (7).jpg,campaign/images/2002/NATO/air/JPEG/AIR (8).jpg,campaign/images/2002/NATO/air/JPEG/AIR (9).jpg,campaign/images/2002/NATO/air/JPEG/AIR (10).jpg,campaign/images/2002/NATO/air/JPEG/AIR (11).jpg,campaign/images/2002/NATO/air/JPEG/AIR (12).jpg,campaign/images/2002/NATO/air/JPEG/AIR (13).jpg,campaign/images/2002/NATO/air/JPEG/AIR (14).jpg,campaign/images/2002/NATO/air/JPEG/AIR (15).jpg,campaign/images/2002/NATO/air/JPEG/AIR (16).jpg,campaign/images/2002/NATO/air/JPEG/AIR (17).jpg,campaign/images/2002/NATO/air/JPEG/AIR (18).jpg,campaign/images/2002/NATO/air/JPEG/AIR (19).jpg,campaign/images/2002/NATO/air/JPEG/AIR (20).jpg,campaign/images/2002/NATO/air/JPEG/AIR (21).jpg,campaign/images/2002/NATO/air/JPEG/AIR (22).jpg,campaign/images/2002/NATO/air/JPEG/AIR (23).jpg
+Music=audio/music/usair3.ogg,audio/music/usair4.ogg,audio/music/usair5.ogg,audio/music/usair6.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><FRIENDLY_TITLE_INVASION></b>
+Color=57,61,73,255
+Sentence1=<FRIENDLY_INVASION_AIR>
+Color=218,218,208,255
+Sentence2=<WARSTATUS1> <WARSTATUS2>

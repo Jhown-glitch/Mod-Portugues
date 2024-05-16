@@ -1,0 +1,18 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+According to intellegence reports, we believe that an aircraft carrier strike group will leave the area <color=Cyan><STARTLOCATION></color> in the next 2 days. 
+It is believed that AUG will head for the area <color=Orange><ENDLOCATION></color>. 
+Attention! The strike group may be accompanied by NATO submarines.  
+2.	(S) THE MAIN TASK:
+Search and sink the enemy aircraft carrier.
+3.	(S) ADDITIONAL TASK:
+Search and sink any escort ship.
+4.	(S) Avoid detection by enemy patrols.
+5.	(S) You are free to choose your weapons.
+6.	(S) Keep silent mode.
+[MISSION WIN]
+Great job! The neutralization of this threat significantly contributes to the protection of our fleet in the North Atlantic. Thank you for the service!
+[MISSION FAIL]
+We are disappointed in you for your failure in this combat mission. As a result, we suffered huge losses in the area. Because of your inept actions, more than 5,000 Russian sailors and soldiers died in the fighting for their homeland. Their blood is on your hands!
+[MISSION MISSED]
+We are extremely disappointed to hear that you missed the opportunity to destroy this high-priority target. We therefore suffered huge losses of technical and manpower. 

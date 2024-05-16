@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_2
+Image=campaign/images/china/ch (11).jpg
+Photo=campaign/images/photos/photo2/245.jpg
+Music=audio/music/back.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Collapse of the US Army</b>
+Sentence1=Despite the resistance of <ENEMY_NAVY_SINGULAR>, <FRIENDLY> managed to capture all strategically important regions. The advance of <FRIENDLY_NAVY_SINGULAR> to Pacific Ocean clearly hints at the destructive prospects for further escalation. <FRIENDLY_NAVY> have complete control of the Asia-Pacific region. Part of the forces is recalled to bases.
+Sentence2=<ENEMY_SINGULAR>'s failure to fulfill its mission of protecting key areas has led to an even greater recession in the economy, more and more countries are abandoning the dollar as a reserve currency. In foreign policy, the former control is lost, the global hegemony of the United States is coming to an end, and in the meantime, in America itself, the internal situation is being shaken more and more every day.

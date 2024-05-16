@@ -1,0 +1,51 @@
+[MAIN TEXT]
+=====================================================
+
+To: Captain <PLAYERNAME>
+Subject: Crew status
+From: XO, <XONAME>
+
+Overall, our crew proficiency level is <color=<SHIP_LEVELCOLOR>><OVERALLCREWQUALITY></color> (<SHIPLEVEL> / <SHIPMAXLEVEL>)
+Crew experience: <SHIPEXP> / <NEXTLEVEL>
+<CREWQUALITYDESCRIPTION>
+
+Divisions:
+
+Fire Control: <color=<CREW1_LEVELCOLOR>><CREW1_QUALITY></color> (<CREW1_LEVEL> / <CREWMAXLEVEL>)
+ - Target motion analysis (TMA) <color=<CREW1_LEVELCOLOR>><PLAYERTMABONUS></color>
+ - Periscope autoposition error: <color=<CREW1_LEVELCOLOR>><PERISCOPEERRORBONUS></color>
+ - Periscope autoposition speed: <color=<CREW1_LEVELCOLOR>><PERISCOPESPEEDBONUS></color>
+
+Torpedomen: <color=<CREW3_LEVELCOLOR>><CREW3_QUALITY></color> (<CREW3_LEVEL> / <CREWMAXLEVEL>)
+ - Tube reload is <color=<CREW3_LEVELCOLOR>><TUBERELOADBONUS></color> seconds faster.
+ Tube reload <TUBERELOAD> seconds.
+ - Noisemaker reload is <color=<CREW3_LEVELCOLOR>><NOISEMAKERRELOADBONUS></color> seconds faster.
+ Noisemaker reload: <NOISEMAKERRELOAD> seconds.
+
+Damage Control: <color=<CREW5_LEVELCOLOR>><CREW5_QUALITY></color> (<CREW5_LEVEL> / <CREWMAXLEVEL>)
+ - System repair speed: <color=<CREW5_LEVELCOLOR>><SYSTEMREPAIRBONUS></color>
+ - Water pumping speed: <color=<CREW5_LEVELCOLOR>>+ <FLOODINGPUMPBONUS></color>
+ - Self noise reduction <color=<CREW5_LEVELCOLOR>><SELFNOISEBONUS></color> db
+ 
+Navigation:  <color=<CREW7_LEVELCOLOR>><CREW7_QUALITY></color> (<CREW7_LEVEL> / <CREWMAXLEVEL>)
+ - Radar range: <RADARRANGE> + <color=<CREW7_LEVELCOLOR>><RADARRANGEBONUS></color> km
+ - Signal noise from speed: <color=<CREW7_LEVELCOLOR>>-<SCREENNOISEBONUS></color>
+
+=====================================================
+
+[STATS]
+//Number of levels depends on number of entries, Max level for a division depends on number of levels
+ExpForNextLevel=10000,25000,45000,70000,100000,135000,175000,220000,270000,325000,385000,450000,520000,595000,675000,760000,850000,945000,1045000,1150000,1260000,1375000,1495000,1620000,1750000,1885000,2025000,2170000,2320000,2475000,2635000,2800000,2970000,3145000,3325000,3510000,3700000,3895000,4095000,4300000
+//You can adjust multiplier to ALL bonuses, to reflect changes in number of levels
+BonusMultiplier=1
+//XO variants, you can have any number
+XO_Variants=Captain of 2nd rank Smirnov M.D.,captain of the 2nd rank Baranov V.I.,captain of the 2nd rank Vygovskiy N.O.,captain of 3rd rank Ramius E.I.,captain of the 3rd rank Martynov N.K.,captain of 3rd rank rank Panov B.M.,captain of the 3rd rank Safonov A.M.,captain-Lieutenant Nichagin I.N.,captain-Lieutenant Krymsky S.A.,captain-Lieutenant Ivanov K.S.,captain-Lieutenant Bondarenko J.D.,captain-Lieutenant Sklyarov P.M.
+//Just messages
+ExpForMission=Experience gained
+NewLevelGained=Crew proficiency increased!
+//Crew qualities. You can have any amount. Last quality is ALWAYS last level. You may not be able to reach it with all divisions if number of levels is not multiply of 4
+CrewQualities=Trained crew, Experienced crew, 3rd class Specialists, 2nd class Specialists, 1st class Specialists, Master class Specialists
+//Write something in theese phrases to describe your crew
+CrewQualitiesDescription=The crew has properly mastered the management of the boat. Our men will gain further experience in battle.|Our people are professionals in their field. The crew demonstrates excellent command of controlled equipment. We have received several proposals to increase the efficiency of the ship's systems.|The crew thoroughly studied the materiel. Many improvements have been made to the ship's systems, which allows us to significantly increase our combat potential.|Our people are veterans who have dozens of combat campaigns behind them.|Our crew is one of the best in the fleet, and the ship they manage functions as a single organism. Our people are the elite of the Navy.|Our crew is considered to be the best of the best. Our people are a true legend of the Navy.
+PlayerRanks=Kapitan-Leytenant,Kapitan 3rd Rank,Kapitan 2nd Rank,Kapitan 1st Rank,Kontr-Admiral
+AwardsNeededForRank=0,2,5,8,16

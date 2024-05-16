@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/us/84/sea/us84s (1).jpg,campaign/images/us/84/sea/us84s (2).jpg,campaign/images/us/84/sea/us84s (3).jpg,campaign/images/us/84/sea/us84s (4).jpg,campaign/images/us/84/sea/us84s (5).jpg,campaign/images/us/84/sea/us84s (6).jpg,campaign/images/us/84/sea/us84s (7).jpg,campaign/images/us/84/sea/us84s (8).jpg,campaign/images/us/84/sea/us84s (9).jpg,campaign/images/us/84/sea/us84s (10).jpg,campaign/images/us/84/sea/us84s (11).jpg,campaign/images/us/84/sea/us84s (12).jpg,campaign/images/us/84/sea/us84s (13).jpg,campaign/images/us/84/sea/us84s (14).jpg,campaign/images/us/84/sea/us84s (15).jpg,campaign/images/us/84/sea/us84s (16).jpg,campaign/images/us/84/sea/us84s (17).jpg
+Photo=campaign/images/us/84/sea/news/us84sn (1).jpg,campaign/images/us/84/sea/news/us84sn (2).jpg,campaign/images/us/84/sea/news/us84sn (3).jpg,campaign/images/us/84/sea/news/us84sn (4).jpg,campaign/images/us/84/sea/news/us84sn (5).jpg,campaign/images/us/84/sea/news/us84sn (6).jpg,campaign/images/us/84/sea/news/us84sn (7).jpg,campaign/images/us/84/sea/news/us84sn (8).jpg,campaign/images/us/84/sea/news/us84sn (9).jpg,campaign/images/us/84/sea/news/us84sn (10).jpg
+Music=audio/music/lost1.ogg,audio/music/lost2.ogg,audio/music/lost3.ogg,audio/music/lost4.ogg,audio/music/lost5.ogg,audio/music/lost6.ogg,audio/music/lost7.ogg,audio/music/lost8.ogg,audio/music/lost9.ogg,audio/music/lost10.ogg,audio/music/lost11.ogg,audio/music/lost12.ogg,audio/music/lost13.ogg,audio/music/lost14.ogg,audio/music/lost15.ogg,audio/music/lost16.ogg,audio/music/lost17.ogg,audio/music/lost18.ogg,audio/music/lost19.ogg,audio/music/lost20.ogg,audio/music/lost21.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ВТОРЖЕНИЕ С МОРЯ</b>|<b>ШТУРМ <ENDLOCATION_RO></b>|<b><ENEMY> АТАКУЮТ</b>|<b>ДЕСАНТ <ENEMY_SINGULAR> в <ENDLOCATION_PR></b>
+Color=57,61,73,255
+Sentence1=<b><COUNTRY>:</b> <ENEMY_NAVY> провели успешную десантную операцию, результатом которой оказался захват плацдарма в районе <ENDLOCATION_RO>. Сообщается об упорном сопротивлении <FRIENDLY_SINGULAR>, преодолеть которое удалось только после высадки основных сил десантной группы. 
+Color=218,218,208,255
+Sentence2=Потеря <ENDLOCATION_RO> стала тяжёлым ударом для <FRIENDLY_SINGULAR>. Десант, закрепившийся на береговом плацдарме, представляет собой угрозу которую невозможно игнорировать, а это означает, что для её парирования придётся перебросить силы так необходимые на основном направлении. Всё это осложнит <FRIENDLY_PREFIX> ведение кампании и может привести к потере инициативы.

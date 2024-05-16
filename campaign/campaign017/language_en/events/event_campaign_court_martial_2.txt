@@ -1,0 +1,5 @@
+NextAction=END
+Image=campaign/images/china/ch (9).jpg
+Photo=campaign/images/china/ch (9).jpg
+Music=audio/music/end6.ogg
+Title=BLANK

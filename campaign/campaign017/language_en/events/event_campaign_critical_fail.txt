@@ -1,0 +1,14 @@
+NextAction=event_campaign_critical_fail_2
+Image=campaign/images/us/84/subs/ssbn/us84sussbn (1).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (2).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (3).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (4).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (5).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (6).jpg
+Photo=campaign/images/us/84/subs/ssbn/news/us84sussbnn (1).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (2).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (3).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (4).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (5).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (6).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (7).jpg
+Music=audio/music/lost17.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>END NEAR</b>
+Sentence1=An attempt by <ENEMY_SINGULAR> in recent truce negotiations to use nuclear ballistic missile submarines deployed in the Pacific Ocean as leverage against the position of <FRIENDLY_SINGULAR> only led to an immediate breakdown in negotiations. As tensions continue to rise and the crisis spirals out of control, many experts believe the use of nuclear weapons is inevitable.
+
+Sentence2=After two tactical nuclear strikes on islands in the South China Sea, it has become frighteningly clear that the current conflict will not be resolved through diplomatic means. Despite the civil unrest that has broken out in many major cities, most people long to be close to loved ones, waiting for one side or the other to release their entire nuclear arsenal.

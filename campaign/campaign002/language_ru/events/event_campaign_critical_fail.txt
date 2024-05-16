@@ -1,0 +1,14 @@
+NextAction=event_campaign_critical_fail_2
+Image=campaign/images/ussr/68/subs/ussr68su (7).jpg,campaign/images/ussr/68/subs/ussr68su (20).jpg,campaign/images/ussr/68/subs/ussr68su (23).jpg
+Photo=campaign/images/ussr/68/subs/news/ussr68sun (6).jpg,campaign/images/ussr/68/subs/news/ussr68sun (9).jpg,campaign/images/ussr/68/subs/news/ussr68sun (13).jpg,campaign/images/ussr/68/subs/news/ussr68sun (16).jpg,campaign/images/ussr/68/subs/news/ussr68sun (17).jpg,campaign/images/ussr/68/subs/news/ussr68sun (18).jpg,campaign/images/ussr/68/subs/news/ussr68sun (21).jpg,campaign/images/ussr/68/subs/news/ussr68sun (22).jpg,campaign/images/ussr/68/subs/news/ussr68sun (34).jpg
+Music=audio/music/lost8.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>КОНЕЦ БЛИЗКО</b>
+Sentence1=Попытка <ENEMY_SINGULAR> на недавних переговорах о перемирии использовать в качестве рычага давления на позицию <FRIENDLY_SINGULAR> подводные лодки с ядерными баллистическими ракетами, развёрнутые в Атлантике, привела лишь к немедленному срыву переговоров. Напряженность продолжает расти и кризис выходит из-под контроля, многие эксперты считают применение стратегического ядерного оружия неизбежным.
+
+Sentence2=После трех тактических ядерных ударов по Центральной и Восточной Европе стало пугающе ясно, что нынешний конфликт не будет урегулирован дипломатическими средствами. Несмотря на гражданские беспорядки, вспыхнувшие во многих крупных городах по всему миру, большинство людей стремится быть рядом с близкими, ожидая когда та или другая сторона выпустит весь свой ядерный арсенал.

@@ -1,0 +1,5 @@
+NextAction=END
+Image=campaign/images/ussr/ussr (9).jpg
+Photo=campaign/images/ussr/ussr (9).jpg
+Music=audio/music/end4.ogg
+Title=BLANK

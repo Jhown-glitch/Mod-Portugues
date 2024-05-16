@@ -1,0 +1,24 @@
+Image=campaign/images/us/68/subs/us68su (16).jpg
+
+PlayerVessels=usn_68_ss_tang_un,usn_68_ss_guppy_un,usn_68_ss_guppy_3,usn_68_ss_barbel_un,usn_68_ssn_nautilus_un,usn_68_ssn_skipjack_un,usn_68_ssn_permit_un,usn_68_ssn_sturgeon_un,usn_68_ssbn_washington_un,usn_68_ssbn_ethan_allen_un,usn_68_dd_gearing_fram1_pl
+
+[COMMANDER NAMES]
+CommanderName=COMSUBLANT
+CommanderFleetName=CINCLANTFLT
+
+PrestigeMode=TRUE
+//Easy, Normal, Hard, Elite
+StartingPrestige=200,100,0,0
+LoadoutType=1968
+[Prestige Cost]
+usn_68_ss_tang_un	 =	0	 =	0
+usn_68_ss_guppy_un	 =	0	 =	0
+usn_68_ss_guppy_3	 =	0	 =	0
+usn_68_ss_barbel_un	 =	0	 =	0
+usn_68_ssn_nautilus_un	 =	50	 =	1
+usn_68_ssn_skipjack_un	 =	100	 =	1
+usn_68_ssn_permit_un	 =	150	 =	1
+usn_68_ssn_sturgeon_un	 =	170	 =	1
+usn_68_ssbn_washington_un	 =	190	 =	2
+usn_68_ssbn_ethan_allen_un	 =	200	 =	2
+usn_68_dd_gearing_fram1_pl	 =	0	 =	0

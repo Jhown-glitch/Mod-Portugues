@@ -1,0 +1,33 @@
+//Lurking Hunter - 1968 (USA)
+
+UseTerrain=TRUE
+MapCoordinates=1470,946
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_68_nato
+
+//Environment
+Date=15 DEC 1968
+Hemisphere=North
+Time=1200
+UsePresetEnvironment=FALSE
+Weather=Rain
+SeaState=Moderate Breeze
+DuctStrength=Moderate
+LayerStrength=Moderate
+
+//Enemy Ships
+NumberOfEnemyUnits=3-5,2-3
+CombatBehaviour=DEFENSIVE,DEFENSIVE
+EnemyShipClasses=wp_bdk_ropuchaii|wp_vtr_amguema|wp_vtr_andizhan|wp_vt_dubna,wp_68_em_kotlin_ai|wp_68_bpk_kanin_ai
+FormationCruiseSpeed=5
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
+
+
+PlayerVessels=usn_68_ssn_nautilus_un,usn_68_ssn_permit_un,usn_68_ssn_skipjack_un,usn_68_ssn_sturgeon_un,usn_68_ssbn_ethan_allen_un,usn_68_ssbn_washington_un,usn_68_ss_barbel_un,usn_68_ss_guppy_un,usn_68_ss_guppy_3,usn_68_ss_tang_un,plan_uk_68_ssn_dreadnought_un,plan_uk_68_ssn_valliant_un,plan_uk_68_ssbn_resolution_un,plan_aus_68_ss_oberon_un,plan_neth_68_ss_dolfijn_un,plan_uk_68_ss_oberon_un

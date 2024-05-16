@@ -1,0 +1,21 @@
+[ORDERS]
+1. (S) TACTICAL SITUATION:
+A DESERTER, WHO LEFT THE <color=Orange><STARTLOCATION></color> AND CONTACTS WITH NATO FORCES POSE A THREAT TO OUR FATHERLAND. RECENT INTELLIGENCE REPORTS INDICATE THAT THE DESERTER IS PLANNING TO HEAD TO <color=Cyan><ENDLOCATION></color>. YOUR ORDERS ARE TO INTERCEPT AND DESTROY THE TRAITOR.
+
+2. (S) MAIN TASK: 
+FIND AND SINK THE DESERTER.
+
+3. (S) ADDITIONAL TASK: 
+FIND AND SINK NATO CONTACT POINTS, IF POSSIBLE 
+
+4. (S) AVOID DETECTION BY ENEMY ANTI-SUBMARINE PATROL
+5. (S) FREE CHOICE OF WEAPONS
+6. (S) RADIO SILENCE-MAINTAIN RADIO SILENCE UNTIL OTHERWISE SPECIFIED
+[MISSION WIN]
+Excellent work. It is good to hear that the secrets of the Soviet Navy did not go into the hands of NATO.
+
+[MISSION FAIL]
+The deserter reached the coastal waters of <ENDLOCATION>, <COUNTRY> in accordance with the enemy's plans. The Navy is under threat, because many secrets have become available to the enemy.
+
+[MISSION MISSED]
+The deserter reached the coastal waters of <ENDLOCATION>, <COUNTRY> in accordance with the enemy's plans. The Navy is under threat, because many secrets have become available to the enemy.

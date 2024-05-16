@@ -1,0 +1,51 @@
+//Andoya 7
+UseTerrain=TRUE
+MapCoordinates=2515,1200
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry.png
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_84_ddg_spruance_ai|usn_84_ddg_ticonderoga_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl,usn_84_ddg_spruance_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl,usn_84_ddg_spruance_ai|usn_84_ddg_ticonderoga_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl,usn_84_ddg_spruance_ai|usn_84_ddg_ticonderoga_ai|usn_84_lph_iwojima_ai|usn_02_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ssn_sturgeon_pl|usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_02_ssn_seawolf_pl
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-150,-900
+PlayerHeading=180
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//Lurking Sub
+EnemyWaypoints=-250,-1400|-250,-1200
+//Patrol 1
+EnemyWaypoints=163,-803|144,-920
+//Patrol 2
+EnemyWaypoints=228,-1422|-302,-763
+//Patrol 3
+EnemyWaypoints=-323,-909|-358,-1090
+
+MissionPosition=-120,-1300
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh60b
+NumberOfAircraft=0
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-380,-1320,80
+AircraftSearchArea=560,-1450,300
+
+//spawn minefields and set detection range
+
+-ProximityMineLocations=-120,-1350|-120,-1050
+//number across,number deep,length,depth
+-ProximityMineField=30,3,170,50|30,3,120,50
+-ProximityMineFieldAngles=10,-60
+-ProximityMineScatter=0.3,0.3

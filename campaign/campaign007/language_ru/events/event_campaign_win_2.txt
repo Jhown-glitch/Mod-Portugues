@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/us (8).jpg,campaign/images/us/us (13).jpg,campaign/images/us/us (14).jpg
+Photo=campaign/images/us/news/usn (1).jpg,campaign/images/us/news/usn (3).jpg,campaign/images/us/news/usn (4).jpg,campaign/images/us/news/usn (5).jpg,campaign/images/us/news/usn (6).jpg,campaign/images/us/news/usn (7).jpg,campaign/images/us/news/usn (8).jpg
+Music=audio/music/usa.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>КРАХ РОССИИ!</b>|<b>СИСТЕМЫ ОБОРОНЫ РОССИИ ОКАЗАЛИСЬ ДЫРЯВЫМ ЗОНТИКОМ</b>
+Sentence1=Война с Россией завершена, так как центры принятия решений уничтожены. Влияние США распространилось по всему миру, предпринимаются попытки сдержать нестабильную ситуацию и помочь мирным жителям, выходившим с мест самых ожесточенных сражений.
+Sentence2=Этот конец конфликта явился шоком для аналитиков, которые признают, что сила армии США была сильно недооценена. Несмотря на то, что экономически ослабленные страны и их сателиты перестали существовать, остается угроза возобновления противостояния, так как русский мир хоть и в руинах, но никуда не делся...

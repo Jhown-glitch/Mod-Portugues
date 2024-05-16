@@ -1,0 +1,14 @@
+NextAction=event_intro_6
+Image=campaign/images/1968/08-3768327-k129-still-compose.jpg,campaign/images/1968/05-3359747-25-102650-4fa0259de1fbb83.jpg
+Photo=campaign/images/1968/00019705.jpg,campaign/images/1968/0957645_normal.jpg
+Music=audio/music/Cold Waters Main Menu
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Hostile water</b>
+Color=57,61,73,255
+Sentence1=The Soviet submarine K-129 is approaching the Hawaiian Islands within the range of its ballistic missiles. The Americans are nervous, they are closely watching every movement of the Soviet submarine.
+Color=218,218,208,255
+Sentence2=This is one of the most elite strike submarines for 1968. The first complex of underwater launch of nuclear missiles was installed on it. Each missile could destroy a city as large as San Francisco or San Diego. There are also torpedoes with a nuclear warhead. 

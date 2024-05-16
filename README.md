@@ -4,7 +4,8 @@
 ## Seções
 
 [Aviso](#aviso)
-[Instalção](#instalação)
+[Instalação no jogo](#instalação-no-jogo-padrão)
+[Instalção no Epic Mod](#instalação-epic-mod)
 [Nota](#nota)
 [Agradecimentos](#agradecimentos)
 
@@ -14,7 +15,11 @@ O mod é gratuito e feito completamente por mim [Jhown](github.com/Jhown-glitch)
 
 Se for apresentar este mod em alguma postagem nessa enorme rede, por favor anexe o link direto deste repositório.
 
-## Instalação
+## Instalação no jogo padrão
+
+Jhown ainda não sabe como fazer isso, se você souber, por favor ajude.
+
+## Instalação Epic Mod
 
 A instalção do mod é simples, será necessário baixar apenas um arquivo compactado e copiar uma pasta e um arquivo txt.
 
@@ -25,7 +30,7 @@ Após instalar o jogo e seguir as intruções de instalação do 'Epic Mod'. Voc
 1 - Baixe o arquivo [Source code](https://github.com/Jhown-glitch/Mod-Portugues/releases/latest).
 
 ## Em caso de erro, tente novamente a partir daqui
-2 - Extraia a pasta [language_pt-br](language_pt-br) e o arquivo [language_def.txt](language_def.txt).
+2 - Extraia a pasta [language_pt-br](contribution/translation%20for%20epic%20mod/Português-pt-br/language_pt-br/) e o arquivo [language_def.txt](contribution/translation%20for%20epic%20mod/language_def.txt).
 
 3 - Clique com o botão direito no ícone do jogo na sua area de trabalho, em seguida clique em 'Abrir local do arquivo'.
 

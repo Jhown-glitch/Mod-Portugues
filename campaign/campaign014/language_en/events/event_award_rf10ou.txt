@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/XV1NRaJMsXk.jpg
+Photo=campaign/images/awards/rf10ou.png
+Music=audio/music/newmenu.ogg
+Header=PRESIDIUM OF THE FEDERATION COUNCIL<n>MOSCOW
+ 
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n><b>DECREE of the PRESIDIUM OF THE FEDERATION COUNCIL</b><n><n>Dated <DATE>
+Sentence1=<size=14>The commander <PLAYERVESSELDESIGNATION> <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <PLAYERNAME> <n><POSTHUMOUSLY> is awarded </size><n><n><b><size=18></size><n><n><size=22>"ORDER OF ADMIRAL USHAKOV"</size></b>
+Sentence2=<n>For showing initiative and determination in leading a combat operation, as a result of which a numerically superior enemy was defeated and the combat mission was fully completed.<n>With his skillful and brave actions, the commander of <PLAYERNAME> shows unwavering devotion to the Motherland and supports the best traditions of the Russian Navy.

@@ -1,0 +1,14 @@
+NextAction=event_campaign_critical_fail_2
+Image=campaign/images/us/84/subs/ssbn/us84sussbn (1).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (2).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (3).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (4).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (5).jpg,campaign/images/us/84/subs/ssbn/us84sussbn (6).jpg
+Photo=campaign/images/us/84/subs/ssbn/news/us84sussbnn (1).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (2).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (3).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (4).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (5).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (6).jpg,campaign/images/us/84/subs/ssbn/news/us84sussbnn (7).jpg
+Music=audio/music/lost17.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>КОНЕЦ БЛИЗКО</b>
+Sentence1=Попытка <ENEMY_SINGULAR> на недавних переговорах о перемирии использовать в качестве рычага давления на позицию <FRIENDLY_SINGULAR> подводные лодки с ядерными баллистическими ракетами, развёрнутые в Тихом Океане, привела лишь к немедленному срыву переговоров. Напряженность продолжает расти и кризис выходит из-под контроля, многие эксперты считают применение ядерного оружия неизбежным.
+
+Sentence2=После двух тактических ядерных ударов по островам в Южно-Китайском море, стало пугающе ясно, что нынешний конфликт не будет урегулирован дипломатическими средствами. Несмотря на гражданские беспорядки, вспыхнувшие во многих крупных городах, большинство людей стремится быть рядом с близкими, ожидая когда та или другая сторона выпустит весь свой ядерный арсенал.

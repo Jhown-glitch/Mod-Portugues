@@ -1,0 +1,17 @@
+NextAction=MAP
+Image=campaign/images/nato convoy
+Photo=campaign/images/photos/cargo 1,campaign/images/photos/cargo 2
+Music=audio/music/win.ogg,audio/music/win2.ogg,audio/music/win3.ogg,audio/music/win4.ogg,audio/music/win6.ogg,audio/music/win7.ogg,audio/music/win8.ogg,audio/music/win9.ogg,audio/music/win10.ogg,audio/music/win11.ogg,audio/music/win12.ogg,audio/music/win13.ogg,audio/music/win14.ogg
+Header=<DATE>
+Font=0
+
+Outline=FALSE
+Color=180,71,64,255
+
+Title=<b>THE CONVOYS HAVE ARRIVED</b>|<b>SAFE ESCORTING OF CONVOYS</b>|<b>PERMANENT CONVOYS</b>
+Color=57,61,73,255
+
+Sentence1=Convoys of the <FRIENDLY_SINGULAR> continue to transport cargo to Europe with minimal losses. This is due to the effective actions of the forces and means of the fleet, which pays great attention to the protection of supply convoys. "The convoy system worked in both world war I and world war II, and it still works today," a Navy spokesman said.
+Color=218,218,208,255
+
+Sentence2=Meanwhile, in Europe, the <FRIENDLY> launched a full-scale offensive and were able to push back <ENEMY_SINGULAR> in several strategically important areas. A large role in this was played by well-organized supply.

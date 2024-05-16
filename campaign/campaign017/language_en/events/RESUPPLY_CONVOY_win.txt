@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/pact landing sunk,campaign/images/plan landing sunk,campaign/images/convoy/convoy (4).jpg,campaign/images/convoy/convoy (5).jpg,campaign/images/convoy/convoy (6).jpg,campaign/images/convoy/convoy (8).jpg,campaign/images/convoy/convoy (4).jpg,campaign/images/photos/nato/2 (1).jpg,campaign/images/photos/nato/2 (2).jpg,campaign/images/photos/nato/2 (3).jpg,campaign/images/photos/nato/2 (9).jpg
+Photo=campaign/images/convoy/news/convoyn (1).jpg,campaign/images/convoy/news/convoyn (2).jpg,campaign/images/convoy/news/convoyn (3).jpg,campaign/images/convoy/news/convoyn (4).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (1).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (3).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (4).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (5).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (6).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (7).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (8).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (9).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (10).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (11).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (12).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (1).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (2).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (3).jpg
+Music=audio/music/win.ogg,audio/music/win2.ogg,audio/music/win3.ogg,audio/music/win4.ogg,audio/music/win6.ogg,audio/music/win7.ogg,audio/music/win8.ogg,audio/music/win9.ogg,audio/music/win10.ogg,audio/music/win11.ogg,audio/music/win12.ogg,audio/music/win13.ogg,audio/music/win14.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>NATO SUPPLIES SUNK</b>|<b>ENEMY CONVOY SUNK</b>|<b>SHIPS TURN AND RUN</b>
+Color=57,61,73,255
+Sentence1=A spokesman for PLA naval operations today revealed that an enemy resupply convoy had been successfully repelled by a naval blockade of <ENDLOCATION>, <COUNTRY>. The  fighting was intense, with numerous vessels sunk.
+Color=218,218,208,255
+Sentence2=The success of recent China naval operations continues to have a significant and lasting impact on the ground war. Initial suggestions that the role of the navy in this conflict would be limited at best have been proven wrong.

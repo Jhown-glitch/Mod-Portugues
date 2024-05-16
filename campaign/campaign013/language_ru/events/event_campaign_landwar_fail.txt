@@ -1,0 +1,13 @@
+NextAction=event_campaign_landwar_fail_2
+Image=campaign/images/ussr/war/w (9).jpg,campaign/images/ussr/war/w (10).jpg
+Photo=campaign/images/ussr/war/news/wn (1).jpg,campaign/images/ussr/war/news/wn (3).jpg,campaign/images/ussr/war/news/wn (3).jpg,campaign/images/ussr/war/news/wn (8).jpg
+Music=audio/music/lost8.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ВОЙНА ОКОНЧЕНА!</b>
+Sentence1=Блицкриг <FRIENDLY_SINGULAR> потерпел поражение. Отбив начальный натиск, <ENEMY> прешли в наступление и разбили войска противника. Ввиду невозможности продолжения военных действил, <FRIENDLY> были вынуждены перейти к мирным переговорам.
+Sentence2=Поражение в войне привело к распаду Варшавского пакта. Правительства Чехословакии, Польши и ГДР начали переговоры с политическим руководством НАТО с целью заключения немедленного сепаратного мира. 

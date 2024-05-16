@@ -1,0 +1,50 @@
+UseTerrain=TRUE
+MapCoordinates=2233,1920
+MapFromCampaign=North Atlantic
+MapElevationData=oparea_norwegiansea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_84_mpk_grisha3_ai|wp_84_em_sovremenny_ai,wp_84_pkr_moskva_ai|wp_84_skr_krivak1_ai|wp_84_bpk_udaloy_ai|wp_84_bpk_kresta2_ai|wp_84_bpk_kara_ai|wp_02_bpk_udaloy2_ai,wp_pb_don|wp_pb_ugra,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_ms_kommunist|wp_ms_roro|wp_ms_mercur|wp_ms_leninskiy_komsomol|wp_ms_poltava,wp_84_ssn_sierra_pl|wp_84_ss_tango_un|wp_84_ss_kilo_un|wp_02_ss_kilo_alrosa|wp_02_ssn_victor3_pl|wp_02_ssn_sierra2_pl|wp_02_ssn_akula-imp_pl|wp_02_ssn_akula2_pl,wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan,wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin,wp_vt_kazbek|wp_vt_dubna|wp_vt_boris_chilikin
+
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-1500,-1000
+PlayerHeading=280
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+EnemyWaypoints=-1801,-1568|-600,-200
+EnemyWaypoints=-2200,-1601|-68,-600
+EnemyWaypoints=-1701,-2001|-700,-301
+EnemyWaypoints=-801,-301|-1800,-1601
+//Enter/Leave Port
+EnemyWaypoints=-1901,-800|-900,-900
+//M
+EnemyWaypoints=-601,-1200|-2000,-1200
+//M
+EnemyWaypoints=-501,-700|-2100,-1300
+//M
+EnemyWaypoints=-1000,0|-2100,-2200
+
+EnemyWaypoints=-600,-800|-1600,-1500
+EnemyWaypoints=-1700,-2200|-300,-700
+
+//Enemy Aircraft
+NumberOfHelicopters=2
+HelicopterType=wp_haze
+NumberOfAircraft=2
+AircraftType=wp_il-38_may
+
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-1400,-800,200
+AircraftSearchArea=-1200,-1200,200
+AircraftSearchArea=-1900,-500,400
+AircraftSearchArea=-2100,-1400,400

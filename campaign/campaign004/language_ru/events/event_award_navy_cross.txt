@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/navy_cross.png
+Music=audio/music/good.ogg
+Header=СЕКРЕТАРИАТ ВОЕННО-МОРСКИХ СИЛ СОЕДИНЕННЫХ ШТАТОВ АМЕРИКИ<n>ВАШИНГТОН
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=Секретарь ВМС США выражает сердечные поздравления
+Sentence1=<size=14>Капитан <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><PLAYER_RANK> <PLAYERNAME> <n><POSTHUMOUSLY> награждается </size><n><n><b><size=18></size><n><n><size=22>"ВОЕННО-МОРСКОЙ КРЕСТ"</size></b>
+
+Sentence2=<n>За выдающуюся службу в качестве командира <PLAYERVESSELHULL> <PLAYERVESSELNAME> в многочисленных боевых походах. Его лидерство и тактические навыки обеспечили успешное решение поставленных задач и соответствуют высочайшим традициям Военно-Морских сил Соединенных Штатов Америки.

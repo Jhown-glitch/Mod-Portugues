@@ -1,0 +1,54 @@
+//Bergen 5
+UseTerrain=TRUE
+MapCoordinates=2000,630
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry.png
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1
+CombatBehaviour=DEFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_02_ffg_perry_lh_ai|usn_02_ff_perry_ai|usn_84_ddg_spruance_ai,usn_02_ddg_arleigh_burke1_ai|usn_02_ddg_arleigh_burke_ai|usn_02_ddg_ticonderoga_ai|usn_84_ddg_ticonderoga_ai,usn_84_lha_tarawa_ai|usn_84_lph_iwojima_ai,usn_84_ssn_los_angeles_pl|usn_02_ssn_seawolf_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_84_ssn_sturgeon_pl,usn_vt_fleet-tanker|usn_vt_small-fl-tanker|usn_vt_oiler|usn_84_aor_oiler
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-370,-200
+PlayerHeading=170
+
+//Merchant
+EnemyWaypoints=-266,-750|-266,800
+
+//Merchant2
+EnemyWaypoints=-300,-800|-292,950
+
+//ASW Patrol North Coast
+EnemyWaypoints=-250,-600|-240,85|-300,-150
+
+//ASW Patrol South Coast
+EnemyWaypoints=-300,-400|-550,-390|-300,-280
+
+//Whale1
+EnemyWaypoints=-134,-265|-380,-313|-190,-292
+
+MissionPosition=50,-310
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=0
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-300,-360,70
+AircraftSearchArea=-320,-160,70
+
+//spawn minefields and set detection range
+
+ProximityMineLocations=-10,-290|-10,-290
+//number across,number deep,length,depth
+ProximityMineField=30,3,35,20|30,3,38,100
+ProximityMineFieldAngles=180,180
+ProximityMineScatter=0.3,0.3

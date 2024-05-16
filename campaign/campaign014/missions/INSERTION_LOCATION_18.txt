@@ -1,0 +1,43 @@
+//Paracel Islands - Oil Rig
+//Не используется
+UseTerrain=TRUE
+MapCoordinates=1481,527
+
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=usn_84_ff_perry_ai|usn_02_ffg_perry_lh_ai|usn_84_ff_knox_ai|usn_84_ddg_spruance_ai,usn_vtr_transport|usn_ms_small_freighter,usn_vtr_cargo|usn_vtr_cargo_mod|usn_vtr_small-cargo|usn_84_lst_lander|usn_84_fss_algol|usn_84_ap_act_1|usn_84_ap_roro|usn_84_ap_super_p,usn_84_ssn_los_angeles_pl|usn_02_ssn_los_angeles2_pl|usn_02_ssn_los_angeles3_pl|usn_84_ssn_narwhal_pl|usn_02_ssn_seawolf_pl|usn_84_ssn_sturgeon_pl
+FormationCruiseSpeed=10
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=-800,-1010
+PlayerHeading=280
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//N/S1 Patrol line
+EnemyWaypoints=-993,-767|-974,-1074
+//Sub or trawler
+EnemyWaypoints=-995,-780|-1090,-933|-1028,-1111
+//Patrol line South
+EnemyWaypoints=-816,-1139|-1194,-1040
+//North to west lurker 
+EnemyWaypoints=-820,-905|-815,-840|-1080,-860|-1060,-1030
+
+MissionPosition=-995,-937
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh2f
+NumberOfAircraft=0
+AircraftType=usn_p3c
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=-1120,-1037,200
+AircraftSearchArea=-1020,-1340,400

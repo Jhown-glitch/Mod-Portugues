@@ -1,0 +1,20 @@
+NextAction=MAP
+Image=campaign/images/us/84/ships/bb/us84sbb (1).jpg,campaign/images/us/84/ships/bb/us84sbb (2).jpg,campaign/images/us/84/ships/bb/us84sbb (3).jpg,campaign/images/us/84/ships/bb/us84sbb (4).jpg,campaign/images/us/84/ships/bb/us84sbb (5).jpg,campaign/images/us/84/ships/bb/us84sbb (6).jpg,campaign/images/us/84/ships/bb/us84sbb (7).jpg,campaign/images/us/84/ships/bb/us84sbb (8).jpg,campaign/images/us/84/ships/bb/us84sbb (9).jpg,campaign/images/us/84/ships/bb/us84sbb (10).jpg,campaign/images/us/84/ships/bb/us84sbb (11).jpg,campaign/images/us/84/ships/bb/us84sbb (12).jpg,campaign/images/us/84/ships/bb/us84sbb (13).jpg,campaign/images/us/84/ships/bb/us84sbb (14).jpg,campaign/images/us/84/ships/bb/us84sbb (15).jpg,campaign/images/us/84/ships/bb/us84sbb (16).jpg,campaign/images/us/84/ships/bb/us84sbb (17).jpg
+
+Photo=campaign/images/us/84/ships/bb/news/us84sbbn (1).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (2).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (3).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (4).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (5).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (6).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (7).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (8).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (9).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (10).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (11).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (12).jpg,campaign/images/us/84/ships/bb/news/us84sbbn (13).jpg,campaign/images/ussr/84/ships/news/destroyed/ussr84shnd (1).jpg,campaign/images/ussr/84/ships/news/destroyed/ussr84shnd (2).jpg,campaign/images/convoy/news/convoyn (1).jpg,campaign/images/convoy/news/convoyn (2).jpg,campaign/images/convoy/news/convoyn (3).jpg,campaign/images/convoy/news/convoyn (4).jpg
+Music=audio/music/lost1.ogg,audio/music/lost2.ogg,audio/music/lost3.ogg,audio/music/lost4.ogg,audio/music/lost5.ogg,audio/music/lost6.ogg,audio/music/lost7.ogg,audio/music/lost8.ogg,audio/music/lost9.ogg,audio/music/lost10.ogg,audio/music/lost11.ogg,audio/music/lost12.ogg,audio/music/lost13.ogg,audio/music/lost14.ogg,audio/music/lost15.ogg,audio/music/lost16.ogg,audio/music/lost17.ogg,audio/music/lost18.ogg,audio/music/lost19.ogg,audio/music/lost20.ogg,audio/music/lost21.ogg
+Header=<DATE>
+
+Font=0
+
+Outline=FALSE
+Color=180,71,64,255
+
+Title=<b>CRUEL BLOW</b>|<b>THE CONVOY IS DESTROYED</b>|<b>DEFEAT OF THE CONVOY</b>|<b>THE DEFEAT OF THE SEA</b>
+
+Color=57,61,73,255
+
+Sentence1=An attack by a NATO naval strike group in <ENDLOCATION> resulted in the loss of several merchant vessels and escort ships. The exact number of ships sunk is being clarified. Representatives of the Ministry of defense of the USSR recognize that this strike group poses a serious threat to all shipping in the region and that attempts to intercept it were not successful.
+Color=218,218,208,255
+
+Sentence2=Reports show that a continuous supply of troops in the coastal conflict zone is crucial for successful combat operations. The loss of materials and ships seriously reduces the Soviet Union's ability to support military operations.

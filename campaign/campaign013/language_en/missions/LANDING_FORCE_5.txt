@@ -1,0 +1,21 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+According to the latest air reconnaissance data, the enemy's surface ships, carrying large forces for their amphibious assault, are prepared for departure within 3 days from the base <color=Cyan><STARTLOCATION></color>. 
+MILITARY COMMAND ASSUMES THAT THEY ARE PREPARED FOR THE LANDING OF THE MARINE ON THE COAST NEAR  <color=Red><ENDLOCATION>, <COUNTRY></color>. 
+BAD WEATHER DISTURBED THEIR ACTIONS VIA AIRCRAFT. MILITARY COMMAND HOPES YOU TO SEARCH AND DESTROY THESE FORCES BEFORE THEY CAN UNFOLD THEIR LANDING.
+
+2.	(S) THE MAIN TASK:
+SEARCH AND SINK THE ENEMY LANDING SHIPS
+
+3.	(S) ADDITIONAL TASK:
+Search and destroy escort warships if possible
+
+4.	(S) AVOID DETECTION BY ENEMY PATROL FORCES
+5.	(S) FREE WEAPON SELECTION
+6.	(S) RADIO SILENCE - KEEP RADIO SILENCE MODE UNLESS OTHERWISE DIRECTED
+[MISSION WIN]
+Great job. Nice to hear that the invasion of <ENDLOCATION>, <COUNTRY> did not take place.
+[MISSION FAIL]
+Despite the warning, the attack on <ENDLOCATION>, <COUNTRY> was not prevented.
+[MISSION MISSED]
+We are disappointed to hear that you failed to intercept the enemy’s landing. Be aggressive!

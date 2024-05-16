@@ -1,0 +1,14 @@
+NextAction=event_intro_3
+Image=campaign/images/2002/Инаугурация 1.jpg
+Photo=campaign/images/2002/Инаугурация 2.jpg
+Music=audio/music/Cold Waters Combat 03
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>INAUGURATION OF THE SECOND PRESIDENT OF THE RUSSIAN FEDERATION</b>
+Color=57,61,73,255
+Sentence1=On May 7, 2000, the inauguration ceremony of Russian President Vladimir Vladimirovich Putin took place in the Grand Kremlin Palace. The inauguration began with the solemn introduction into the hall of the State Flag of the Russian Federation, a special copy of the Russian constitution, as well as symbols of the presidency - the standard and sign of the President of the Russian Federation.
+Color=218,218,208,255
+Sentence2=Boris Yeltsin in his speech congratulated Vladimir Putin, wished success and encouraged him to continue building a new democratic Russia. Then, the incoming head of state delivered a response speech. At its end, an artillery salute of 30 volleys was fired. The president went to the Kremlin’s Cathedral Square, where he and Yeltsin received a review of the President’s regiment.

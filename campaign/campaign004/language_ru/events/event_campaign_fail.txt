@@ -1,0 +1,13 @@
+﻿NextAction=event_campaign_fail_2
+Image=campaign/images/ussr/84/land/ussr84l (2).jpg,campaign/images/ussr/84/land/ussr84l (5).jpg,campaign/images/ussr/84/land/ussr84l (10).jpg,campaign/images/ussr/84/land/ussr84l (11).jpg,campaign/images/ussr/84/land/ussr84l (19).jpg,campaign/images/ussr/84/land/ussr84l (20).jpg,campaign/images/ussr/84/sea/ussr84s (3).jpg,campaign/images/ussr/84/sea/ussr84s (18).jpg
+Photo=campaign/images/photos/politics 1,campaign/images/photos/politics 2,campaign/images/photos/politics 3
+Music=audio/music/lost10.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ЖЕЛЕЗНЫЙ ЗАНАВЕС РАСТЯНУЛСЯ НАД ЕВРОПОЙ</b>
+Sentence1=Ближайшая угроза ядерной войны, похоже, исчезла, так как Запад и Восток наконец договорились о прекращении военных действий. К сожалению, Советы одержали верх в мирных переговорах из-за их прочного положения в Центральной Европе.
+Sentence2=В настоящее время политические лидеры в изгнании с оккупированных территорий проявляют серьезную озабоченность по поводу того, что железный занавес будет расти дальше на запад. Опасения о постоянной оккупации вызвали кризис беженцев, десятки тысяч потекли в сторону Запада.

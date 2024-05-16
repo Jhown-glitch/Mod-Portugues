@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/silver_star.png
+Music=audio/music/good.ogg
+Header=СЕКРЕТАРИАТ ВОЕННО-МОРСКИХ СИЛ СОЕДИНЕННЫХ ШТАТОВ АМЕРИКИ<n>ВАШИНГТОН
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=Секретарь ВМС США выражает сердечные поздравления
+Sentence1=<size=14>Капитан <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><PLAYER_RANK> <PLAYERNAME> <n><POSTHUMOUSLY> награждается </size><n><n><b><size=18>медалью</size><n><n><size=22>"СЕРЕБРЯНАЯ ЗВЕЗДА"</size></b>
+
+Sentence2=ЦИТАТА:<n>За выдающееся руководство боевой операцией против численно превосходящего противника. <DATE> <PLAYER_RANK> <PLAYERNAME>, командуя <PLAYERVESSELHULL> проявил особую храбрость, самоотверженность и мужество при выполнении особо важного задания в обстановке с явной опасностью для корабля и экипажа.

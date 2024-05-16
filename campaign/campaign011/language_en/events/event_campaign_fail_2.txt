@@ -1,0 +1,13 @@
+﻿NextAction=END
+Image=campaign/images/ussr/war/w (9).jpg,campaign/images/ussr/war/w (10).jpg
+Photo=campaign/images/ussr/war/news/wn (1).jpg,campaign/images/ussr/war/news/wn (3).jpg,campaign/images/ussr/war/news/wn (3).jpg,campaign/images/ussr/war/news/wn (8).jpg
+Music=audio/music/lost16.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>WAR IS OVER, STATES WITHIN THE SOVIET UNION DECLARE INDEPENDENCE</b>
+Sentence1=The withdrawal has sparked a chain reaction within the Soviet Union, with several of the peripheral Central Asian federated states proclaiming their independence. The Union States of Turkmenia and Uzbekistan have respectively announced themselves "Free Socialist Republics", with Kazakhstan expected to follow any day.
+Sentence2=In response to the domestic turmoil, the Soviet army has ceased hostile operations in the West. Peace negotiations will commence at once. Whatever the outcome, it will be with a Soviet Union strongly reduced in allies and domestic territory.

@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/ussr/68/land/ussr68l (4).jpg,campaign/images/ussr/68/land/ussr68l (12).jpg,campaign/images/ussr/68/land/ussr68l (14).jpg,campaign/images/ussr/68/land/ussr68l (17).jpg,campaign/images/ussr/68/land/ussr68l (18).jpg,campaign/images/ussr/68/land/ussr68l (20).jpg,campaign/images/ussr/68/land/ussr68l (22).jpg,campaign/images/ussr/68/land/ussr68l (25).jpg
+Photo=campaign/images/photos/riot 1,campaign/images/photos/riot 2,campaign/images/photos/protests 1,campaign/images/photos/protests 2
+Music=audio/music/lost12.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ЖЕЛЕЗНЫЙ ЗАНАВЕС РАСТЯНУЛСЯ НАД ЕВРОПОЙ</b>
+Sentence1=Сотни тысяч беженцев бегут к Ла-Маншу, так как красное пятно коммунизма, наконец, доминирует на континенте. В оккупированной Европе ходят слухи, что многие из среднего класса и академических кругов все чаще отправляются в Гулаг. Советские оккупанты удвоили безопасность в ответ на факты подрывной деятельности.
+Sentence2=<b>ВПЕРЕДИ СМУТНЫЕ ВРЕМЕНА</b><n>Из-за экономического и военного напряжения недавнего конфликта аналитики по-прежнему обеспокоены тем, что атмосфера холодной войны может эскалироваться и сохраняться на десятилетия вперед. Хуже того, недавнее столкновение, без сомнения, оправдывает будущее увеличение военных расходов как западными, так и восточными странами.

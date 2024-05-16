@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/us (9).jpg,campaign/images/us/us (10).jpg,campaign/images/us/us (11).jpg
+Photo=campaign/images/photos/riot plan 1,campaign/images/photos/riot plan 2,campaign/images/photos/protests plan 1
+Music=audio/music/lost17.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>THE COST OF DEFEAT</b>
+Sentence1=The immediate threat of nuclear war looks to have faded as the US and China finally negotiate terms for the cessation of hostilities. The USA clearly hold the upper hand in these peace talks due to their strong position in the Western Pacific. The war's outcome has magnified the effects of the Asian economic collapse and the overvaluing of "dot com stocks," triggering a massive economic collapse, and a move towards isolationism.
+Sentence2=Economic analysts predict the defeat could lead to a collapse of the Chinese-led security order in the Pacific, with even strong allies wavering on their commitment to Asian security institutions in the face of a dominant Washington.

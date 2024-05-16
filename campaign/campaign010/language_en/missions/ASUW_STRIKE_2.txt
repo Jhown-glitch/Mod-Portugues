@@ -1,0 +1,19 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+According to intelligence from the <color=Cyan><STARTLOCATION></color> naval base, an attack aircraft carrier is preparing to patrol in the <color=Orange><ENDLOCATION></color> area, which will threaten our supply ships. Attention! There is information that several nuclear submarines, possibly of an attacking class, will escort it. Your task is to destroy this strike group before they could stumble upon our military transport vessels.
+
+2.	(S) THE MAIN TASK:
+Search and destroy the aircraft carrier.
+
+3.	(S) ADDITIONAL TASK:
+If possible, sink escort submarines and surface vessels.
+4.	(S) Avoid early detection by adversary.
+5.	(S) You are free to choose your weapons.
+6.	(S) You are instructed to maintain the radio silence mode during your tasks.
+[MISSION WIN]
+Great job! Russia will not forget you!
+[MISSION FAIL]
+We are extremely disappointed in your report. Because of your failure, our troops are stuck there due to lack of food and ammunition, some of whom had no choice but to surrender. Not to mention those who served on the supply ships that were sunken by this enemy group which you should have destroyed.
+You are not worthy to be the commander of a warship! You are a shame for the motherland!
+[MISSION MISSED]
+We are saddened by your report. Now this strike group will keep threatening the supply of provisions and ammunition to our forces.

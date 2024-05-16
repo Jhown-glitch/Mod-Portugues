@@ -1,0 +1,13 @@
+NextAction=MAP
+Image=campaign/images/pact landing sunk,campaign/images/plan landing sunk,campaign/images/convoy/convoy (4).jpg,campaign/images/convoy/convoy (5).jpg,campaign/images/convoy/convoy (6).jpg,campaign/images/convoy/convoy (8).jpg,campaign/images/convoy/convoy (4).jpg
+Photo=campaign/images/convoy/news/convoyn (1).jpg,campaign/images/convoy/news/convoyn (2).jpg,campaign/images/convoy/news/convoyn (3).jpg,campaign/images/convoy/news/convoyn (4).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (1).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (3).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (4).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (5).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (6).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (7).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (8).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (9).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (10).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (11).jpg,campaign/images/us/68/ships/news/destroyed/us68snd (12).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (1).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (2).jpg,campaign/images/us/84/ships/news/destroyed/us84snd (3).jpg
+Music=audio/music/win.ogg,audio/music/win2.ogg,audio/music/win3.ogg,audio/music/win4.ogg,audio/music/win6.ogg,audio/music/win7.ogg,audio/music/win8.ogg,audio/music/win9.ogg,audio/music/win10.ogg,audio/music/win11.ogg,audio/music/win12.ogg,audio/music/win13.ogg,audio/music/win14.ogg
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ПОДДЕРЖКИ НЕ БУДЕТ</b>|<b><FRIENDLY_NAVY> НАНОСЯТ УДАР</b>
+Color=57,61,73,255
+Sentence1=Операция <ENEMY_NAVY_SINGULAR> по снабжению своих кораблей возле <ENDLOCATION_RO> была внезапно прервана с появлением <FRIENDLY_NAVY_SINGULAR>. Несмотря на наличие эскорта, они сумели нанести удар по кораблям обеспечения и беспрепятственно уйти до подхода патрульных сил. <ENEMY_NAVY> из-за опасности повторения подобных атак были вынуждены вывести оставшиеся корабли снабжения из опасного района.
+Sentence2=Представитель <ENEMY_SINGULAR> сообщил, что ситуация складывается сложная, но пока ещё не критическая, поскольку <ENEMY_NAVY> продолжают опираться на многочисленные военно-морские базы, однако отсутствие возможности пополнения запасов в море неизбежно приведёт к снижению их эффективности.

@@ -1,0 +1,13 @@
+NextAction=event_campaign_fail_2
+Image=campaign/images/2002/RUS/land/LAND (1).jpg,campaign/images/2002/RUS/land/LAND (2).jpg,campaign/images/2002/RUS/land/LAND (3).jpg,campaign/images/2002/RUS/land/LAND (4).jpg,campaign/images/2002/RUS/land/LAND (5).jpg,campaign/images/2002/RUS/land/LAND (6).jpg,campaign/images/2002/RUS/land/LAND (7).jpg,campaign/images/2002/RUS/land/LAND (8).jpg,campaign/images/2002/RUS/land/LAND (9).jpg,campaign/images/2002/RUS/land/LAND (10).jpg,campaign/images/2002/RUS/land/LAND (11).jpg,campaign/images/2002/RUS/land/LAND (12).jpg,campaign/images/2002/RUS/land/LAND (13).jpg,campaign/images/2002/RUS/land/LAND (14).jpg,campaign/images/2002/RUS/land/LAND (15).jpg,campaign/images/2002/RUS/land/LAND (16).jpg,campaign/images/2002/RUS/land/LAND (17).jpg,campaign/images/2002/RUS/land/LAND (18).jpg,campaign/images/2002/RUS/land/LAND (19).jpg,campaign/images/2002/RUS/land/LAND (20).jpg,campaign/images/2002/RUS/land/LAND (21).jpg,campaign/images/2002/RUS/land/LAND (22).jpg,campaign/images/2002/RUS/land/LAND (23).jpg,campaign/images/2002/RUS/land/LAND (24).jpg,campaign/images/2002/RUS/land/LAND (25).jpg,campaign/images/2002/RUS/land/LAND (26).jpg,campaign/images/2002/RUS/land/LAND (27).jpg,campaign/images/2002/RUS/land/LAND (28).jpg,campaign/images/2002/RUS/land/LAND (29).jpg,campaign/images/2002/RUS/land/LAND (30).jpg,campaign/images/2002/RUS/land/LAND (31).jpg,campaign/images/2002/RUS/land/LAND (32).jpg,campaign/images/2002/RUS/land/LAND (33).jpg,campaign/images/2002/RUS/land/LAND (34).jpg,campaign/images/2002/RUS/land/LAND (35).jpg,campaign/images/2002/RUS/land/LAND (36).jpg,campaign/images/2002/RUS/land/LAND (37).jpg
+Photo=campaign/images/photos/politics 1,campaign/images/photos/politics 2,campaign/images/photos/politics 3
+Music=audio/music/lost10.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ЖЕЛЕЗНЫЙ ЗАНАВЕС РАСТЯНУЛСЯ НАД ЕВРОПОЙ</b>
+Sentence1=Ближайшая угроза ядерной войны, похоже, исчезла, так как Запад и Восток наконец договорились о прекращении военных действий. К сожалению, Русские одержали верх в мирных переговорах из-за их прочного положения в Центральной Европе.
+Sentence2=В настоящее время политические лидеры в изгнании с оккупированных территорий проявляют серьезную озабоченность по поводу того, что железный занавес будет расти дальше на запад. Опасения о постоянной оккупации вызвали кризис беженцев, десятки тысяч потекли в сторону Западной Европы.

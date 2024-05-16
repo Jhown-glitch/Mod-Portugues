@@ -1,0 +1,12 @@
+NextAction=END
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/purple_heart.png
+Music=audio/music/good2.ogg
+Header=СЕКРЕТАРИАТ ВОЕННО-МОРСКИХ СИЛ СОЕДИНЕННЫХ ШТАТОВ АМЕРИКИ<n>ВАШИНГТОН
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=Президентом Соединенных Штатов Америки в соответствии с полномочиями, предоставленными ему Конгрессом
+Sentence1=<size=14>Капитан <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><PLAYER_RANK> <PLAYERNAME> <n><POSTHUMOUSLY> награждается </size><n><n><b><size=18>медалью</size><n><n><size=22>"ПУРПУРНОЕ СЕРДЦЕ"</size></b>
+
+Sentence2=ЦИТАТА:<n>За мужество и отвагу, проявленные при исполнении воинского  долга, Капитану <PLAYERVESSELHULL> <PLAYERVESSELNAME> (посмертно). <DATE> <PLAYER_RANK> <PLAYERNAME> ценой своей жизни выполнил особо важное задание во имя защиты своей Страны.

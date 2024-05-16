@@ -1,0 +1,34 @@
+//The Duel - 2002 (USA)
+
+UseTerrain=TRUE
+MapCoordinates=1470,946
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/south_china_sea_traffic_nato
+
+//Environment
+Date=1 MAR 2002
+Hemisphere=North
+Time=1400
+UsePresetEnvironment=TRUE
+Weather=Scattered
+SeaState=ModerateBreeze
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=OFFENSIVE
+EnemyShipClasses=wp_84_bpk_udaloy_ai|wp_84_bpk_kara_ai|wp_84_bpk_kresta2_ai|wp_84_em_sovremenny_ai|wp_84_skr_krivak1_ai|wp_84_rkr_kirov_ai|wp_02_bpk_udaloy2_ai
+FormationCruiseSpeed=24
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=wp_helix
+NumberOfAircraft=1
+AircraftType=wp_il-38_may
+
+PlayerVessels=usn_68_dd_gearing_fram1_pl,usn_84_ffg_perry_pl,usn_84_ffg_perry_lh_pl,usn_84_ff_knox_pl,usn_84_cg_belknap_pl,usn_84_dd_spruance_pl,usn_84_cg_ticonderoga_pl,usn_02_ffg_perry_lh_pl,usn_02_ddg_ticonderoga_pl,usn_02_ddg_arleigh_burke1_pl,usn_02_ddg_arleigh_burke_pl,usn_84_cgn_longbeach_pl,usn_84_bb_iowa_pl,usn_84_cvn_nimitz_pl,plan_uk_68_ddg_county_pl,plan_uk_84_ffg_type21_pl,plan_uk_84_ddg_county_pl,plan_uk_84_ddg_type42_pl
+CommanderName=COMSUBLANT
+CommanderFleetName=CINCLANTFLT

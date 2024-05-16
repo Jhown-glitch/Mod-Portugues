@@ -1,0 +1,20 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+According to intelligence data, the enemy plans to send their marine corps to land in the CITY <color=Red><ENDLOCATION>, <COUNTRY></color>. 
+A squad of landing ships is preparing to leave <color=Cyan><STARTLOCATION></color>. 
+Your task is to intercept and destroy this squad before they can land their marines on land. Now everything depends on you! No other ships and planes will be AVAILABLE to leave for the area at that time.
+2.	(S) THE MAIN TASK:
+Search and sink the squad of landing ships.
+
+3.	(S) ADDITIONAL TASK:
+Search and destroy escort warships. 
+
+4.	(S) Avoid detection by enemy intelligence.
+5.	(S) You are free to choose weapons.
+6.	(S) Keep the radio silent until the mission is finished.
+[MISSION WIN]
+Great job! You were able to prevent the invasion of <ENDLOCATION>, <COUNTRY>, thereby saving hundreds of lives.
+[MISSION FAIL]
+The attack on <ENDLOCATION>, <COUNTRY> was not prevented. Your fault killed hundreds of civilians and military personnels. Their deaths are on your conscience!
+[MISSION MISSED]
+We are disappointed to hear that you failed to intercept the enemy’s landing troops. We suffered great losses due to your failure. The party will give you another chance.

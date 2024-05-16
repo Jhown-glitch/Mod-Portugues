@@ -1,0 +1,13 @@
+NextAction=event_campaign_landwar_fail_2
+Image=campaign/images/ussr/war/w (9).jpg,campaign/images/ussr/war/w (10).jpg
+Photo=campaign/images/ussr/war/news/wn (1).jpg,campaign/images/ussr/war/news/wn (3).jpg,campaign/images/ussr/war/news/wn (3).jpg,campaign/images/ussr/war/news/wn (8).jpg
+Music=audio/music/lost9.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>THE WAR IS OVER!</b>
+Sentence1=The Soviet blitzkrieg in Europe was defeated. Having repulsed the initial onslaught, NATO troops went on the offensive and pushed WP troops back. In view of the senselessness of continuing military operations, the Soviet Union has been forced to peace negotiations.
+Sentence2=This defeat has led to the complete collapse of the Warsaw Pact as a command structure, with some republics of the USSR also having expressed their intention to secede. At present, however, their fate is still unclear, as Soviet troops are in their territory, and negotiations are still ongoing.

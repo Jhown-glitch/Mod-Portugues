@@ -1,0 +1,24 @@
+FRIENDLY=China|PLA Forces|PRC Forces|Chinese Forces|PRC Armed Forces|Chinese Forces|PLA Forces|Chinese
+ENEMY=Alliance|NATO|NATO Forces|Alliance Forces|Western Forces|Americans
+
+FRIENDLY_SINGULAR=China|PLA forces|Chinese troops|PRC armed forces|Chinese forces|Chinese
+ENEMY_SINGULAR=Alliance|NATO|NATO Forces|Alliance Forces|Western Forces|Americans
+
+FRIENDLY_PREFIX=China|PLA forces|Chinese troops|PRC armed forces|Chinese forces|Chinese
+ENEMY_PREFIX=Alliance|NATO|NATO Forces|Alliance Forces|Western Forces|Americans
+
+FRIENDLY_SUFFIX=China|PLA Forces|Chinese Forces|PRC Armed Forces|Chinese Forces|Chinese
+ENEMY_SUFFIX=Alliance|NATO|NATO forces|Alliance forces|Western forces|Americans
+
+
+FRIENDLY_NAVY=Chinese Navy Forces|China Navy Forces|Chinese Navy|PLA Navy|China Navy Forces|Chinese Sailors
+ENEMY_NAVY=NATO Naval Forces|Alliance Naval Forces|Alliance Naval Forces|Navy North Atlantic Alliance|NATO Naval Forces|American Sailors
+
+FRIENDLY_NAVY_SINGULAR=Chinese Navy Forces|Chinese Navy Forces|Chinese Navy|PLA Navy|China Navy Forces|Chinese Sailors
+ENEMY_NAVY_SINGULAR=NATO Naval Forces|Alliance Naval Forces|Alliance Naval Forces|Navy Alliance Naval Forces|NATO Naval Forces|American Sailors
+
+FRIENDLY_NAVY_PREFIX=Chinese Navy Forces|China Navy Forces|Chinese Navy|PLA Navy|China Navy Forces|Chinese Sailors
+ENEMY_NAVY_PREFIX=NATO Naval Forces|Alliance Naval Forces|Alliance Naval Forces|Navy Alliance Naval Forces|NATO Naval Forces|American Sailors
+
+FRIENDLY_NAVY_SUFFIX=Chinese Navy|Chinese Navy|Chinese Navy|PLA Navy|China Navy|Chinese sailors
+ENEMY_NAVY_SUFFIX=NATO Naval Forces|Alliance Naval Forces|Alliance Naval Forces|Navy Alliance Naval Forces|NATO Naval Forces|American Sailors

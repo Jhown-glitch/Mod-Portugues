@@ -1,0 +1,18 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+Satellite intelligence indicates that an enemy aircraft carrier group is preparing to depart from its base near  <color=Cyan><STARTLOCATION></color>.
+ According to our intelligence analysts, the group could approach the area <color=Orange><ENDLOCATION></color>.
+ Your task is to search and attack this aircraft carrier group. To destory the aircraft carrier has the highest priority. Caution! the group consist of escort surface vessels and submarines.
+2.	(S) THE MAIN TASK:
+Search and sink the enemy aircraft carrier.
+3.	(S) ADDITIONAL TASK:
+Sink any escort warship if possible.
+4.	(S) Avoid detection by enemy escorts.
+5.	(S) You are free to choose your weapons.
+6.	(S) Keep silent mode.
+[MISSION WIN]
+Excellent work, Commander! your neutralization of such a high-priority target has significantly undermined the enemy’s combat effectiveness. The Russian Navy Group is waiting for a meeting with you. Enjoy a cup of coffee.
+[MISSION FAIL]
+We are disappointed in you as you failed to destroy this high-priority target. As a result, we suffered huge losses in the area. Because of your inept actions, more than 4,000 Russian sailors and soldiers fighting for their homeland died. Their blood is on your hands!
+[MISSION MISSED]
+We are extremely disappointed to hear that you missed the opportunity to destroy this aircraft carrier. We suffer huge losses of technical and manpower due to your failure.

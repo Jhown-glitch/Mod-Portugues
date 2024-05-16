@@ -1,0 +1,13 @@
+NextAction=event_campaign_court_martial_2
+Image=campaign/images/china/ch (6).jpg
+Photo=campaign/images/convoy/news/convoyn (1).jpg,campaign/images/convoy/news/convoyn (2).jpg,campaign/images/convoy/news/convoyn (3).jpg,campaign/images/convoy/news/convoyn (4).jpg
+Music=audio/music/lost15.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ВОЕННЫЕ ПРЕСТУПЛЕНИЯ</b>|<b>НЕОГРАНИЧЕННАЯ ПОДВОДНАЯ ВОЙНА?</b>
+Sentence1=Потери гражданского судоходства и несчастные случаи на море за последние недели возросли угрожающими темпами. Тем не менее, несмотря на предупреждения о таких оспариваемых регионах, гражданские суда все еще могут пересекать их на свой страх и риск.
+Sentence2=Случаи поражения гражданских были названы аналитиками не чем иным, как преднамеренными, вызывающим вопросы относительно поведения командования как <ENEMY_SINGULAR>, так и <FRIENDLY_SINGULAR> в регионе. В ответ уполномоченные лица пообещали расследовать эти многочисленные инциденты, чтобы оправдать их или выявить какие-либо противоправные действия.

@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/xred2.jpg
+Photo=campaign/images/awards/plan_model_hero_2nd_class.png
+Music=audio/music/TheEastIsRed.ogg
+Header=PRESIDIUM OF THE SUPREME SOVIET OF THE PRC<n>BEIJING
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n><b>DECREE OF THE PRESIDIUM OF THE SUPREME SOVIET OF THE PRC</b> <n><n>Dated <DATE>
+Sentence1=<size=14>Commander <PLAYERVESSELHULL> <PLAYERVESSELNAME> <PLAYERNAME> <n><POSTHUMOUSLY> is awarded </size><n><n><b><size=18></size><n><n><size=22>"MODEL HERO 2nd CLASS"</size></b>
+Sentence2=<n>For outstanding leadership of a combat operation in the <PLAYERMAPREGION> area against a numerically superior enemy. <DATE> <PLAYERNAME>, commanding <PLAYERVESSELHULL>, showed special bravery, dedication and courage when performing a particularly important task in an environment with obvious danger to the ship and crew.

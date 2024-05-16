@@ -1,0 +1,14 @@
+NextAction=END
+Image=campaign/images/us/us (9).jpg,campaign/images/us/us (10).jpg,campaign/images/us/us (11).jpg,campaign/images/us/us (15).jpg
+Photo=campaign/images/us/news/usn (9).jpg
+Music=audio/music/draw.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>CONSEQUENCES OF THE CHANTAGE BY NUCLEAR ROCKETS</b>
+Sentence1=The war is officially over as the armistice agreements have been negotiated and signed by both sides. Despite intensive negotiations between American diplomats, it was necessary to satisfy the Russian demand for the withdrawal of troops from the territory of all Eastern Europe.
+
+Sentence2=Due to the economic and military tensions of recent events, analysts remain concerned that the atmosphere of the Cold War could resume and persist for decades to come. Worse, the recent clash no doubt justifies the future expansion of military spending by both Western and Eastern countries.

@@ -1,0 +1,45 @@
+[MAIN TEXT]
+=====================================================
+
+To: <PLAYER_RANK> <PLAYERNAME>
+Subject: Crew status
+From: XO, <XONAME>
+
+Overall, our crew proficiency level is <color=<SHIP_LEVELCOLOR>><OVERALLCREWQUALITY></color> (<SHIPLEVEL> / <SHIPMAXLEVEL>)
+Crew experience: <SHIPEXP> / <NEXTLEVEL>
+<CREWQUALITYDESCRIPTION>
+
+Details by group:
+
+Navigation: <color=<CREW1_LEVELCOLOR>><CREW1_QUALITY></color> (<CREW1_LEVEL> / <CREWMAXLEVEL>)
+ - Target motion analysis (TMA) <color=<CREW1_LEVELCOLOR>><PLAYERTMABONUS></color>
+ - Periscope autoposition error: <color=<CREW1_LEVELCOLOR>><PERISCOPEERRORBONUS></color>
+ - Periscope autoposition speed: <color=<CREW1_LEVELCOLOR>><PERISCOPESPEEDBONUS></color>
+
+Mine-torpedo: <color=<CREW3_LEVELCOLOR>><CREW3_QUALITY></color> (<CREW3_LEVEL> / <CREWMAXLEVEL>)
+ - Tube reload is <color=<CREW3_LEVELCOLOR>><TUBERELOADBONUS></color> seconds faster.
+ Tube reload <TUBERELOAD> seconds.
+ - Noisemaker reload is <color=<CREW3_LEVELCOLOR>><NOISEMAKERRELOADBONUS></color> seconds faster.
+ Noisemaker reload: <NOISEMAKERRELOAD> seconds.
+
+Electromechanical: <color=<CREW5_LEVELCOLOR>><CREW5_QUALITY></color> (<CREW5_LEVEL> / <CREWMAXLEVEL>)
+ - System repair speed: <color=<CREW5_LEVELCOLOR>><SYSTEMREPAIRBONUS></color>
+ - Water pumping speed: <color=<CREW5_LEVELCOLOR>>+ <FLOODINGPUMPBONUS></color>
+ - Self noise reduction <color=<CREW5_LEVELCOLOR>><SELFNOISEBONUS></color> db
+ 
+Radio engineering:  <color=<CREW7_LEVELCOLOR>><CREW7_QUALITY></color> (<CREW7_LEVEL> / <CREWMAXLEVEL>)
+ - Radar range: <RADARRANGE> + <color=<CREW7_LEVELCOLOR>><RADARRANGEBONUS></color> km
+ - Signal noise from speed: <color=<CREW7_LEVELCOLOR>>-<SCREENNOISEBONUS></color>
+
+=====================================================
+
+[STATS]
+ExpForNextLevel=10000,25000,45000,70000,100000,135000,175000,220000,270000,325000,385000,450000,520000,595000,675000,760000,850000,945000,1045000,1150000,1260000,1375000,1495000,1620000,1750000,1885000,2025000,2170000,2320000,2475000,2635000,2800000,2970000,3145000,3325000,3510000,3700000,3895000,4095000,4300000
+BonusMultiplier=1
+XO_Variants=K.V. Skwabie,M.S. Lorenzo,A.D. Mich,F.R. Rokvam,H.G. Frank,J.F. Smith
+ExpForMission=Experience gained
+NewLevelGained=Crew proficiency increaced!
+CrewQualities=Trained crew, Experienced crew, 3rd class Specialists, 2nd class Specialists, 1st class Specialists, Master class Specialists
+CrewQualitiesDescription=The crew has properly mastered the management of the boat. Our men will gain further experience in battle.|Our people are professionals in their field. The crew demonstrates excellent command of controlled equipment. We have received several proposals to increase the efficiency of the ship's systems.|The crew thoroughly studied the materiel. Many improvements have been made to the ship's systems, which allows us to significantly increase our combat potential.|Our people are veterans who have dozens of combat campaigns behind them.|Our crew is one of the best in the fleet, and the ship they manage functions as a single organism. Our people are the elite of the Navy.|Our crew is considered to be the best of the best. Our people are a true legend of the Navy.
+PlayerRanks=Commander,Captain,Rear Admiral (lower half),Rear Admiral,Vice Admiral
+AwardsNeededForRank=0,5,10,15,20

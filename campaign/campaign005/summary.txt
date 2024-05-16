@@ -1,0 +1,21 @@
+Image=campaign/images/china/2000/sea/chs (2).jpg
+PlayerVessels=usn_84_ssn_sturgeon_pl,usn_02_ssn_los_angeles2_pl,usn_02_ssn_los_angeles3_pl,usn_02_ssn_seawolf_pl,usn_02_ffg_perry_lh_pl,usn_84_cg_ticonderoga_pl,usn_02_ddg_ticonderoga_pl,usn_02_ddg_arleigh_burke1_pl,usn_02_ddg_arleigh_burke_pl,usn_84_cvn_nimitz_pl
+[COMMANDER NAMES]
+CommanderName=COMSUBPAC
+CommanderFleetName=CINCPACFLT
+
+PrestigeMode=TRUE
+//Easy, Normal, Hard, Elite
+StartingPrestige=200,100,0,0
+LoadoutType=2000
+[Prestige Cost]
+usn_84_ssn_sturgeon_pl	 =	0
+usn_02_ssn_los_angeles2_pl	 =	50
+usn_02_ssn_los_angeles3_pl	 =	100
+usn_02_ssn_seawolf_pl	 =	200
+usn_02_ffg_perry_lh_pl	 =	0
+usn_84_cg_ticonderoga_pl	 =	150
+usn_02_ddg_ticonderoga_pl	 =	200
+usn_02_ddg_arleigh_burke1_pl	 =	200
+usn_02_ddg_arleigh_burke_pl	 =	250
+usn_84_cvn_nimitz_pl	 =	350

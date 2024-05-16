@@ -1,0 +1,44 @@
+//Revenge Is A Dish... (RUS)
+
+UseTerrain=TRUE
+MapCoordinates=1714,895
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_ru
+
+//Environment
+Date=05 Jan 1990
+Hemisphere=North
+Time=1700
+UsePresetEnvironment=FALSE
+Weather=Snow
+SeaState=FreshBreeze
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=DEFENSIVE
+EnemyUnitMissionCritical=TRUE
+EnemyShipClasses=usn_84_ssn_narwhal_pl|usn_84_ssn_sturgeon_pl|usn_84_ssn_permit_pl|usn_84_ssn_skipjack_un|usn_84_ssn_los_angeles_pl|usn_84_ss_barbel_un|usn_68_ssn_nautilus_un|plan_it_84_ss_toti_un|plan_uk_84_ssn_trafalgar_un|plan_uk_84_ssn_swiftsure_un|plan_uk_68_ssn_dreadnought_un|plan_uk_68_ssn_valliant_un|plan_uk_84_ssn_churchill_un|plan_uk_68_ss_oberon_un|plan_ger_84_ss_209_un|plan_fr_84_ssn_rubis_un|plan_aus_68_ss_oberon_un|plan_neth_68_ss_dolfijn_un
+FormationCruiseSpeed=15
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=20,4
+PlayerHeading=90
+PlayerDepthInFeet=0
+
+//Group1 Waypoints.
+EnemyWaypoints=-16,120|140,36|56,-128|-112,-28|-16,116
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=usn_sh3d
+NumberOfAircraft=0
+AircraftType=usn_p3a
+
+PlayerVessels=wp_68_mpk_poti_pl,wp_84_skr_krivak1_pl,wp_84_rkr_kirov_pl
+CommanderName=COM NORTHERN FLEET
+CommanderFleetName=GLAVCOM VMF

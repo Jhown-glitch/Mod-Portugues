@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/XV1NRaJMsXk.jpg
+Photo=campaign/images/awards/rf8on.png
+Music=audio/music/newmenu.ogg
+Header=ПРЕЗИДИУМ СОВЕТА ФЕДЕРАЦИИ <n>МОСКВА
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=<n>       <b>УКАЗОМ ПРЕЗИДИУМА СОВЕТА ФЕДЕРАЦИИ</b> <n><n>                                    от <DATE>г.
+Sentence1=<size=14>Командир <PLAYERVESSELNAVY> <PLAYERVESSELHULL> <PLAYERVESSELNAME> <n><PLAYER_RANK> <PLAYERNAME> <n><POSTHUMOUSLY> награждается </size><n><n><b><size=18></size><n><n><size=22>"ОРДЕНОМ НАХИМОВА"</size></b>
+Sentence2=ЦИТАТА:<n>Командир <PLAYERNAME> награждается за необычайный героизм в действии против врагов Российской Федерации <DATE>. Его непоколебимая решимость и самоотверженная преданность делу перед лицом смерти достойны высшего подражания.

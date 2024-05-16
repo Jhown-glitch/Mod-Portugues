@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/us/us (8).jpg,campaign/images/us/us (13).jpg,campaign/images/us/us (14).jpg
+Photo=campaign/images/us/news/usn (1).jpg,campaign/images/us/news/usn (3).jpg,campaign/images/us/news/usn (4).jpg,campaign/images/us/news/usn (5).jpg,campaign/images/us/news/usn (6).jpg,campaign/images/us/news/usn (7).jpg,campaign/images/us/news/usn (8).jpg
+Music=audio/music/usa.ogg
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>THE CRASH OF RUSSIA!</b>|<b>THE RUSSIAN DEFENSE SYSTEMS TURNED OUT A HOLE UMBRELLA</b>
+Sentence1=The war with Russia is over as the decision centers are destroyed. The influence of the United States has spread throughout the world, attempts are being made to contain the unstable situation and help civilians who left the places of the most fierce battles.
+Sentence2=This end of the conflict came as a shock to analysts who admit that the strength of the US Army has been grossly underestimated. Despite the fact that economically weakened countries and their satellites have ceased to exist, the threat of renewed confrontation remains, since the Russian world, although in ruins, has not gone anywhere...

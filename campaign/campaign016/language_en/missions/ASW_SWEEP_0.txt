@@ -1,0 +1,23 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+A DESERT, WHO LEFT <color=Orange><STARTLOCATION></color> AND IS GOING TO CONTACT WITH NATO FORCES, POSES A THREAT ON OUR FATHERLAND.
+ THE LATEST ANALYSIS SHOWS THAT THE DESERTER MAY GO TO <color=Cyan><ENDLOCATION>, <COUNTRY></color>.
+ YOU ARE ORDERED TO SEARCH AND SINK THE TRAITOR.
+
+2.	(S) THE MAIN TASK:
+SEARCH AND SINK THE DESERT.
+
+3.	(S) ADDITIONAL TASK:
+SEARCH AND SINK ANY CONTACT OF NATO IF POSSIBLE
+
+4.	(S) AVOID DETECTION BY ANY ENEMY PATROL WARSHIP
+5.	(S) FREE WEAPON SELECTION
+6.	(S) RADIO SILENCE - KEEP RADIO SILENCE MODE UNLESS OTHERWISE DIRECTED
+[MISSION WIN]
+Great job. Nice to hear that the secrets of the Russian Navy are not leaked to NATO.
+
+[MISSION FAIL]
+The deserter has arrived in the coastal waters of <ENDLOCATION>, <COUNTRY> as the enemy planned. The Navy is under threat as lots of secrets were leaked.
+
+[MISSION MISSED]
+The deserter has arrived in the coastal waters of <ENDLOCATION>, <COUNTRY> as the enemy planned. The Navy is under threat as lots of secrets were leaked.

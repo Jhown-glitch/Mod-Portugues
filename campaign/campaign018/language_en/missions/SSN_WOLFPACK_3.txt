@@ -1,0 +1,21 @@
+[ORDERS]
+1.	(S) TACTICAL SITUATION:
+Intelligence believes that enemy submarines equipped with winged missiles have carried out a number of successful operations against convoys supplying Russian Navy in the Asia-Pacific region, which were trying to return to the port <color=Cyan><ENDLOCATION>, <COUNTRY></color> for maintenance and re-equipment.
+
+2.	(S) THE MAIN TASK:
+Search and destroy enemy submarines equipped with winged missiles
+
+3.	(S) ADDITIONAL TASK:
+NONE
+
+4.	(S) AVOID DETECTION BY ENEMY PATROL FORCES
+5.	(S) FREE WEAPON SELECTION
+6.	(S) RADIO SILENCE - KEEP RADIO SILENCE MODE UNLESS OTHERWISE DIRECTED
+[MISSION WIN]
+It’s very nice to see that you managed to destroy these submarines with determination and honor, Commander! Remember that more ships we sink, more safer our transportation of troops and vehicles will be. Good job.
+
+[MISSION FAIL]
+Commander, your inability to stop the enemy underwater threat with determination will make life in the Pacific much more difficult for our colleagues. Not to mention a much more dangerous life for merchants.
+
+[MISSION MISSED]
+We are disappointed to hear that you failed to intercept the enemy. We are expecting a better hunt result from you next time.

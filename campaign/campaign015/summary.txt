@@ -1,0 +1,36 @@
+Image=campaign/images/2002/6cfbb57f26d782de9da317b2dae54f818.jpg
+
+PlayerVessels=wp_02_ss_kilo_alrosa,wp_02_ssn_victor3_pl,wp_02_ssn_sierra2_pl,wp_02_ssn_akula-imp_pl,wp_02_ssn_akula2_pl,wp_02_ssgn_oscar2_pl,wp_02_ssbn_delta4_un,wp_02_ssbn_typhoon_pl,wp_02_ssbn_typhoon941um_pl,wp_10_ss_lada_pl,wp_16_ss_kiloimp_pl,wp_14_ssn_yasen_pl,wp_20_ssn_yasenm_pl,wp_13_ssbn_borei_pl,wp_84_mpk_grisha3_pl,wp_84_skr_krivak1_pl,wp_84_bpk_kresta2_pl,wp_84_bpk_kara_pl,wp_84_bpk_udaloy_pl,wp_84_em_sovremenny_pl,wp_02_rkr_atlant_pl,wp_02_rkr_kirov_pl,wp_02_kuznecov_pl
+
+[COMMANDER NAMES]
+CommanderName=COM NORTHERN FLEET
+CommanderFleetName=GLAVCOM VMF
+
+PrestigeMode=TRUE
+//Easy, Normal, Hard, Elite
+StartingPrestige=200,100,0,0
+LoadoutType=2002
+[Prestige Cost]
+wp_02_ss_kilo_alrosa	 =	0	 =	0
+wp_02_ssn_victor3_pl	 =	20	 =	2
+wp_02_ssn_sierra2_pl	 =	50	 =	1
+wp_02_ssn_akula-imp_pl	 =	60	 =	1
+wp_02_ssn_akula2_pl	 =	100	 =	1
+wp_02_ssgn_oscar2_pl	 =	120	 =	1
+wp_02_ssbn_delta4_un	 =	150	 =	2
+wp_02_ssbn_typhoon_pl	 =	160	 =	2
+wp_02_ssbn_typhoon941um_pl	 =	180	 =	2
+wp_10_ss_lada_pl	 =	190	 =	0
+wp_16_ss_kiloimp_pl	 =	210	 =	0
+wp_14_ssn_yasen_pl	 =	260	 =	1
+wp_20_ssn_yasenm_pl	 =	300	 =	1
+wp_13_ssbn_borei_pl	 =	350	 =	2
+wp_84_mpk_grisha3_pl	 =	350	 =	0
+wp_84_skr_krivak1_pl	 =	350	 =	1
+wp_84_bpk_kresta2_pl	 =	350	 =	1
+wp_84_bpk_kara_pl	 =	350	 =	1
+wp_84_bpk_udaloy_pl	 =	350	 =	1
+wp_84_em_sovremenny_pl	 =	350	 =	1
+wp_02_rkr_atlant_pl	 =	450	 =	2
+wp_02_rkr_kirov_pl	 =	500	 =	2
+wp_02_kuznecov_pl	 =	550	 =	2
