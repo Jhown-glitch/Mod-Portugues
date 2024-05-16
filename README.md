@@ -33,7 +33,7 @@ Após instalar o jogo e seguir as intruções de instalação do 'Epic Mod'. Voc
 
 5 - Copie os arquivos extraídos no passo 2 para a pasta epicmod que deve estar no seguinte caminho: ...\Cold Waters\ColdWaters_Data\StreamingAssets\epicmod.
 
-6 - Após todo esse processo, abra o menu de configurações dentro do jogo; na seleção de idioma deve aparecer uma terceira linha com o nome 'Português Brasileiro'. Caso não apareça, releia este documento e faça novamente os passos a partir do [passo 2](#tente-novamente).
+6 - Após todo esse processo, abra o menu de configurações dentro do jogo; na seleção de idioma deve aparecer uma terceira linha com o nome 'Português Brasileiro'. Caso não apareça, releia este documento e faça novamente os passos a partir do [passo 2](#em-caso-de-erro-tente-novamente-a-partir-daqui).
 
 Se ainda assim o jogo não estiver em português algum erro desconhecido ocorreu e até o momento eu (Jhown) não sei o que fazer.
 ## Nota
