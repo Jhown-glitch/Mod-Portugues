@@ -1,4 +1,4 @@
 [Unit Reference]
 AircraftName=QH-50
 AircraftDescriptiveName=QH-50 DASH
-History=The Gyrodyne QH-50 DASH (Drone Anti-Submarine Helicopter) is a small drone helicopter built by Gyrodyne Company of America for use as a long-range anti-submarine weapon on ships that would otherwise be too small to operate a full-sized helicopter. It remained in production until 1969.
+History=O Gyrodyne QH-50 DASH (Drone Anti-Submarine Helicopter) é um pequeno helicóptero drone construído pela Gyrodyne Company of America para uso como arma anti-submarina de longo alcance em navios que, de outra forma, seriam pequenos demais para operar um helicóptero de tamanho normal. Permaneceu em produção até 1969. Vários ainda são usados ​​hoje para diversas funções terrestres.\n\nArmamento: 2x Torpedos Mk 44 ou 1x Torpedo Mk 46.
