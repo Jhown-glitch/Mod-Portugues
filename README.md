@@ -24,7 +24,7 @@ Após instalar o jogo e seguir as intruções de instalação do 'Epic Mod'. Voc
 
 1 - Baixe o arquivo [Source code](https://github.com/Jhown-glitch/Mod-Portugues/releases/latest).
 
-## tente novamente
+## Em caso de erro, tente novamente a partir daqui
 2 - Extraia a pasta [language_pt-br](language_pt-br) e o arquivo [language_def.txt](language_def.txt).
 
 3 - Clique com o botão direito no ícone do jogo na sua area de trabalho, em seguida clique em 'Abrir local do arquivo'.
