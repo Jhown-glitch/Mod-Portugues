@@ -1,47 +1,47 @@
 [HELM]
-NavigationWaypointInfo=Set Course HEADING: <BRG>   RANGE: <RANGE> <KILOYARD> / <RANGE_MILES> <MILE>
-NavigationSetCourse=Conn, come <DIRECTION> to <BRG>, helm aye
-NavigationAtCourse=Conn, helm steady course
+NavigationWaypointInfo=Definir curso DIREÇÃO: <BRG>   ALCANCE: <RANGE> <KILOYARD> / <RANGE_MILES> <MILE>
+NavigationSetCourse=Timoneiro, vire para <DIRECTION> para o rumo <BRG>, timoneiro à escuta.
+NavigationAtCourse=Timoneiro, mantenha o curso
 
 =============================================================
 [MOD ADDITION]
 
-EmergencyDeep=Emergency deep!, dive aye
+EmergencyDeep=Imersão de emergência! Mergulhar, sim senhor.
 
-TowedArrayOn=Deploying towed array
-TowedArrayOff=Retracting towed array
-TowedArrayBroken=Towed array inoperable - dock repairs are required
-TowedArrayUnavaliable=Towed array can't be deployed - conditions are unsafe
+TowedArrayOn=Implantando matriz rebocada
+TowedArrayOff=Retraindo matriz rebocada
+TowedArrayBroken=Conjunto rebocado inoperante - são necessários reparos na doca
+TowedArrayUnavaliable=A matriz rebocada não pode ser implantada – as condições são inseguras
 
-AboveMaxRange=Conn, torpedo room: cannot fire <WEAPON> beyond <RANGE> <KILOYARD>
-VLSNotReady=VLS not ready to fire
-FireVLS=Fire missile № <VLS_NUMBER>
+AboveMaxRange=Comando, sala de torpedos: não podemos disparar <WEAPON>  além de <RANGE> <KILOYARD>
+VLSNotReady=VLS não está pronto para disparar.
+FireVLS=Disparar míssil № <VLS_NUMBER>
 
-FireAntiAirMissile=Fire SAM № <LAUNCHPOINT_NUMBER>
-AntiAirMissileReloading=Cant fire SAM- reloading.
-AntiAirMissileReloaded=Conn, SAM ready to fire.
-AntiAirMissileNoAmmo=Cant fire SAM - out of ammo.
-MissileIntercepted=Missile <MISSILENAME>, M-<MISSILEID> is shot down.
-MissileNotIntercepted=Failed to intercept M-<MISSILEID> <MISSILENAME>
-OwnMissileIntercepted=Conn, our missile, <MISSILENAME>, was shot down.
-AirTargetIntercepted=Conn, Air target <TARGET> is shot down.
-AirTargetNotIntercepted=Conn, Air target <TARGET> is still intact.
-ScanAirRaiseRadarMast=Conn, Radar is switched off. Detection of air targets is impossible.
-ScanAirRadarDamaged=Conn, Radar is damaged. Detection of air targets is impossible.
-AutoSAMEnabled=Conn, secondary SAM is ready to fire.
-AutoSAMDisabled=Conn, secondary SAM is offline.
+FireAntiAirMissile=Disparar SAM № <LAUNCHPOINT_NUMBER>
+AntiAirMissileReloading=Não é possível disparar SAM - recarregando.
+AntiAirMissileReloaded=Comando, SAM pronto para disparar.
+AntiAirMissileNoAmmo=Não é possível disparar SAM - sem munição.
+MissileIntercepted=Míssil <MISSILENAME>, M-<MISSILEID> foi abatido.
+MissileNotIntercepted=Falha ao interceptar M-<MISSILEID> <MISSILENAME>
+OwnMissileIntercepted=Comando, nosso míssil, <MISSILENAME>, foi abatido.
+AirTargetIntercepted=Comando, Alvo aéreo <TARGET> foi abatido.
+AirTargetNotIntercepted=Comando, Alvo aéreo <TARGET> está intacto.
+ScanAirRaiseRadarMast=Comando, o radar está desligado. Impossível detectar alvos aéreos.
+ScanAirRadarDamaged=Comando, Radar danificado. Impossível detectar alvos aéreos.
+AutoSAMEnabled=Comando, SAM secundário pronto para disparar.
+AutoSAMDisabled=Comando, SAM secundário está offline.
 
-NoSuitableTorpedo=No torpedoes of that calibre
+NoSuitableTorpedo=Não há torpedos desse calibre
 
-GunsFireAtWill=Guns! Fire at will!
-GunsOnHold=Guns! Hold fire!
-GunsLowSolution=Can not fire - low solution on target.
-GunsNoAmmo=Cant fire - out of ammo.
-GunsBadRange=Unable to fire - target is not within firing range.
+GunsFireAtWill=Canhões! Fogo à vontade.
+GunsOnHold=Canhões! Sessar fogo!
+GunsLowSolution=Não é possível disparar - baixa solução no alvo.
+GunsNoAmmo=Não é possível disparar - Sem munição.
+GunsBadRange=Incapaz de disparar - o alvo não está dentro do alcance de tiro.
 
-RBUFireAtWill=RBU! Fire!
-RBUOnHold=RBU! Hold fire!
-RBUNoAmmo=RBUs are out of ammo.
+RBUFireAtWill=RBU! Fogo!
+RBUOnHold=RBU! Sessar fogo!
+RBUNoAmmo=RBUs estão sem munição.
 
 MissileLaunchDetected=Missile launch detected! Bearing: <BRG> Distance: <RANGE> <KILOYARD>
 MissileType=Missile type: <MISSILENAME>. Target's ID is set to: M-<MISSILEID>
