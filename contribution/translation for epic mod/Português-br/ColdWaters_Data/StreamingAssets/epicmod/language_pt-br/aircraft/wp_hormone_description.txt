@@ -1,4 +1,4 @@
 [Unit Reference]
-AircraftName=Ka-25BSh Hormone
-AircraftDescriptiveName=Kamov Ka-25BSh Hormone A
-History=The Ka-25 naval helicopters are small anti-submarine (Hormone A) and over-the-horizon missile targeting (Hormone B) helicopters introduced in the mid 1960's. They carry either homing torpedoes or depth charges, and a dipping sonar as well as an assortment of sonobouys. They are covert, and can provide surface ships with targeting data, making them very dangerous foes.
+AircraftName=Ka-25BSh (OTAN: Hormone A)
+AircraftDescriptiveName=Kamov Ka-25BSh (OTAN: Hormone A)
+History=Os helicópteros navais Ka-25 são pequenos helicópteros anti-submarinos (Hormone A) e de direcionamento de mísseis além do horizonte (Hormone B), introduzidos pela primeira vez em meados da década de 1960. Eles carregam torpedos teleguiados ou cargas de profundidade e um sonar de mergulho, bem como uma variedade de sonobouys. Eles são secretos e podem fornecer dados de mira aos navios de superfície, tornando-os inimigos muito perigosos. Esta versão original da década de 1960 tem o sonar de imersão 'Elk Tail' original e carrega o torpedo AT-1 mais antigo ou o mais recente AT-2.

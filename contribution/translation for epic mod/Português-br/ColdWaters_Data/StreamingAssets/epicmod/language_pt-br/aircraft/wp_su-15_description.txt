@@ -1,4 +1,4 @@
 [Unit Reference]
-AircraftName=Flagon
-AircraftDescriptiveName=The Sukhoi Su-15 (NATO reporting name: Flagon)
-History=The Sukhoi Su-15 (NATO reporting name: Flagon) is a twinjet supersonic interceptor aircraft developed by the Soviet Union. It entered service in 1965 and remained one of the front-line designs into the 1990s.[1] The Su-15 was designed to replace the Sukhoi Su-11 and Sukhoi Su-9, which were becoming obsolete as NATO introduced newer and more capable strategic bombers.
+AircraftName=Sukhoi Su-15
+AircraftDescriptiveName=Sukhoi Su-15 (OTAN: Flagon)
+History=O Sukhoi Su-15 (russo: Сухой Cy-15; OTAN: Flagon) é um avião interceptador de dois motores desenvolvido pela União Soviética nos anos de 1960 para substituir os Sukhoi Su-9 e Sukhoi Su-11, os quais tornaram-se obsoletos perante à introdução de novos, mais avançados e capazes bombardeios estratégicos pela OTAN.

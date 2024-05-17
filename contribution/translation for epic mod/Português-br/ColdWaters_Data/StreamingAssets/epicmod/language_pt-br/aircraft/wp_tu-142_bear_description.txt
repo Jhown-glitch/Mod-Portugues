@@ -1,4 +1,4 @@
 [Unit Reference]
-AircraftName=TU-142 BEAR-F
-AircraftDescriptiveName=Tupolev TU-142 BEAR-F
-History=The Tu-142M is an ASW and maritime strike derivative of the Tu-95 strategic bomber. While ostensibly performing the same role as the IL-38 MAY, the Tu-142 features much greater range and loiter capability, and carries a much larger payload than the MAY. Their main drawback is their incredibly high noise output, which is loud enough to be tracked on US SOSUS arrays.
+AircraftName=Tupolev TU-142
+AircraftDescriptiveName=Tupolev TU-142 (Designação OTAN: Bear F/J)
+History=O Tupolev Tu-142 surgiu como uma variante do Tu-95 da Força Aérea russa, destinando-se à função de reconhecimento marítimo para a AV-MF. Ambos os modelos, contudo, são conhecidos no Ocidente pela designação Bear (Urso). Acredita-se que os primeiros Bears da aviação da Marinha (AV-MF) tenham sido utilizados para testar o potencial do modelo em reconhecimento marítimo e em tarefas como ASW, ECM/ESM e orientação de mísseis cruseiro. O Bear F é uma versão ASW, com armas ofensivas, vista pela primeira vez em 1970. Sua principal característica é o alto som gerado pelos seus motores que pode ser rastreado pelo SOSUS dos EUA.

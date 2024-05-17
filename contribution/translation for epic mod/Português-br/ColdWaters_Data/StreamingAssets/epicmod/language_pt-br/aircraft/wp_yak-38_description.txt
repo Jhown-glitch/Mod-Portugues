@@ -1,4 +1,4 @@
 [Unit Reference]
-AircraftName=Forger-A
-AircraftDescriptiveName=The Yakovlev Yak-38 (NATO reporting name: "Forger-A")
-History=The Yakovlev Yak-38 (Russian: Яковлев Як-38; NATO reporting name: "Forger") was the Soviet Naval Aviation's only operational VTOL strike fighter aircraft in addition to being its first operational carrier-based fixed-wing aircraft. It was developed specifically for, and served almost exclusively on, the Kiev-class aircraft carriers (heavy aviation cruiser in Russian classification).
+AircraftName=Yakovlev Yak-38
+AircraftDescriptiveName=Yakovlev Yak-38 (OTAN: Forger)
+History=O Yakovlev Yak-38 (russo: Яковлев Як-38; OTAN: Forger) foi o único caça de ataque VTOL operacional da Marinha Soviética, além de ser a primeira aeronave de asa fixa transportada em porta-aviões. Foi desenvolvido especificamente para uso em porta-aviões de Classe Kiev. O Yak-38 foi desenvolvido como caça para uso marítimo específico, possibilitando emprego em porta-aviões sem salto de esqui como forma de propulsão. Sua construção teve a busca por compatibilidade com a marinha soviética do período, porém provou-se péssima capacidade de uso, falta de funcionalidade em climas quentes, raio operacional de 100km, alto consumo de combustível em voo vertical, baixa confiabilidade dos motores (cerca de 22 horas de vida) e ruins controles de superfície.

@@ -1,4 +1,4 @@
 [Unit Reference]
-AircraftName=Ka-27PL Helix
-AircraftDescriptiveName=Kamov Ka-27PL Helix A
-History=The Ka-27 is a follow-on design to the Ka-25 Hormone, and compared to its predecessor it is faster, carries a heavier payload over a greater range, and has better sensors to boot. These helicopters should be regarded as a major threat whereever they are encountered. 
+AircraftName=Ka-27PL (OTAN: Helix A)
+AircraftDescriptiveName=Kamov Ka-27PL (OTAN: Helix A)
+History=A versão anti-submarino Ka-27PL está equipada com um radar e um sonar de imersão ou um detector de anomalia magnética. Também pode transportar até 36 sonobóias, ou um torpedo, ou entre seis e oito cargas de profundidade convencionais, ou uma única nuclear. Os Ka-27PL geralmente operam em pares como equipes de caçadores-assassinos.
