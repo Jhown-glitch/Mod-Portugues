@@ -34,94 +34,94 @@ AutoSAMDisabled=Comando, SAM secundário está offline.
 NoSuitableTorpedo=Não há torpedos desse calibre
 
 GunsFireAtWill=Canhões! Fogo à vontade.
-GunsOnHold=Canhões! Sessar fogo!
+GunsOnHold=Canhões! Cessar fogo!
 GunsLowSolution=Não é possível disparar - baixa solução no alvo.
 GunsNoAmmo=Não é possível disparar - Sem munição.
 GunsBadRange=Incapaz de disparar - o alvo não está dentro do alcance de tiro.
 
 RBUFireAtWill=RBU! Fogo!
-RBUOnHold=RBU! Sessar fogo!
+RBUOnHold=RBU! Cessar fogo!
 RBUNoAmmo=RBUs estão sem munição.
 
-MissileLaunchDetected=Missile launch detected! Bearing: <BRG> Distance: <RANGE> <KILOYARD>
-MissileType=Missile type: <MISSILENAME>. Target's ID is set to: M-<MISSILEID>
-MissileWarning=Incoming missile! Bearing: <BRG> Distance: <RANGE> <KILOYARD> ID: M-<MISSILEID> Type : <MISSILENAME>
-FireSunray=Jamming systems active!
-SunrayReady=Conn, jamming systems ready
-DeployChaff=Chaff deployed!
-ChaffReady=Conn, chaff ready
+MissileLaunchDetected=Lançamento de míssil detectado! Azimute: <BRG> Distância: <RANGE> <KILOYARD>
+MissileType=Missile type: <MISSILENAME>. ID do alvo definido como: M-<MISSILEID>
+MissileWarning=Míssil se aproximando! Azimute: <BRG> Distância: <RANGE> <KILOYARD> ID: M-<MISSILEID> Tipo: <MISSILENAME>
+FireSunray=Sistemas de interferência ativados!
+SunrayReady=Comando, sistemas de interferência estão prontos
+DeployChaff=Chaff lançado!
+ChaffReady=Comando, chaff pronto
 
-PlayerWasDetected=Conn, I think, we've been detected.
+PlayerWasDetected=Comando, Eu acho, que nós fomos detectados.
 
 =============================================================
 [DIVE OFFICER]
-BlowBallast=Emergency surface the ship, dive aye
-1PassingDepth=Passing <DEPTH> <FEET>
-2PassingDepth=Passing <DEPTH> <FEET>
-3PassingDepth=Passing <DEPTH> <FEET>
-TooShallowUnderKeel=Conn, less than <DEPTH> <FEET> below the keel
-IceHazard=Conn, sonar reports ice ahead
-MineHazard=Conn, sonar reports minefield ahead
-KnuckleFormed=Conn, knuckle formed
-BallastRecharged=Conn, high pressure air banks charge complete, ready to dive
-BallastRecharging=Conn, charging high pressure air banks after emergency blow, unable to dive
-NavigationSetDepth=Make depth <WANTEDDEPTH> <FEET>, dive aye
-NavigationAtDepth=Conn, dive at <WANTEDDEPTH> <FEET>
+BlowBallast=Imersão de emergência, dive aye
+1PassingDepth=Passando <DEPTH> <FEET>
+2PassingDepth=Passando <DEPTH> <FEET>
+3PassingDepth=Passando <DEPTH> <FEET>
+TooShallowUnderKeel=Comando, menos de <DEPTH> <FEET> abaixo da quilha.
+IceHazard=Comando, sonar relata gelo à frente
+MineHazard=Comando, sonar relata campo minado à frente
+KnuckleFormed=Comando, curva formada
+BallastRecharged=Comando, ar comprimido totalmente carregado, pronto para submergir.
+BallastRecharging=Comando, carregando ar comprimido após imersão de emergência, incapaz de submergir.
+NavigationSetDepth=Definir profundidade para <WANTEDDEPTH> <FEET>, dive aye
+NavigationAtDepth=Comando, profundidade em <WANTEDDEPTH> <FEET>
 
 [MANEUVERING]
-SetSpeed=Make turns for <SPEED> knots, manoeuvring aye
-AtSpeed=Conn, manoeuvring: making turns for <SPEED> knots
-BackSpeed=Back emergency, manoeuvring aye
+SetSpeed=Definir velocidade para <SPEED> nós, manoeuvring aye
+AtSpeed=Comando, manobrando: definindo velocidade para <SPEED> nós
+BackSpeed=Recuo de emergência, manoeuvring aye
 
 [SONAR]
-NewSonarContact=Conn, sonar: new contact bearing <BRG>, designated <CONTACT>
-LostSonarContact=Conn, sonar: lost contact <CONTACT> last bearing <BRG>, contact faded
-LostSonarContactBaffles=Conn, sonar: lost contact <CONTACT> last bearing <BRG>, contact is in the baffles
-ReEstablishSonarContact=Conn, sonar: contact <CONTACT> bearing <BRG>, contact re-established
-ContactSinking=Conn, sonar: lost contact <CONTACT> last bearing <BRG>, contact breaking up
-ContactIdentified=Conn, sonar: contact <CONTACT> is identified as <CONTACTTYPE>
-ContactClassified=Conn, sonar: contact <CONTACT> is classified as <CONTACTCLASSIFIED>
-TransientKnown=Conn, sonar: launch transient from <CONTACT>
-TransientUnknown=Conn, sonar: launch transient bearing <BRG>
-SonobuoyPing=Conn, sonar: sonobuoy ping, bearing <BRG>
-ActivePing=Conn, sonar: active sonar, bearing <BRG>
-NoisemakerDropped=Conn, sonar: noisemaker, bearing <BRG>
-PlayerCavitating=Conn, sonar: we are cavitating
-PlayerStopCavitating=Conn, sonar: no longer cavitating
-EnemyCavitating=Conn, sonar: contact <CONTACT> is cavitating
-SwitchToActive=Conn, sonar: switching to active sonar
-SwitchToPassive=Conn, sonar: switching to passive sonar
-TorpedoInTheWater=Conn, sonar: torpedo in the water! Torpedo in the water! Bearing <BRG>
+NewSonarContact=Comando, sonar: novo contato, Azimute <BRG>, designado <CONTACT>
+LostSonarContact=Comando, sonar: contato perdido <CONTACT> último azimute <BRG>, contato desaparecido
+LostSonarContactBaffles=Comando, sonar: contato perdido <CONTACT> último azimute <BRG>, contato está no ponto cego
+ReEstablishSonarContact=Comando, sonar: contato <CONTACT> azimute <BRG>, contato re-estabelecido.
+ContactSinking=Comando, sonar: contato perdido <CONTACT> último azimute <BRG>, contato se distanciando
+ContactIdentified=Comando, sonar: contato <CONTACT> foi identificado como <CONTACTTYPE>
+ContactClassified=Comando, sonar: contato <CONTACT> foi classificado como <CONTACTCLASSIFIED>
+TransientKnown=Comando, sonar: iniciando transiente a partir de <CONTACT>
+TransientUnknown=Comando, sonar: iniciar transiente azimute <BRG>
+SonobuoyPing=Comando, sonar: ping de sonobóia, azimute <BRG>
+ActivePing=Comando, sonar: sonar ativo, azimute <BRG>
+NoisemakerDropped=Comando, sonar: noisemaker, azimute <BRG>
+PlayerCavitating=Comando, sonar: nós estamos cavitando
+PlayerStopCavitating=Comando, sonar: não estamos mais cavitando
+EnemyCavitating=Comando, sonar: contato <CONTACT> está cavitando
+SwitchToActive=Comando, sonar: alterando sonar para ativo
+SwitchToPassive=Comando, sonar: alterando sonar para passivo
+TorpedoInTheWater=Comando, sonar: Torpedo na água! Torpedo na água! Azimute <BRG>
 
 [WLR-9]
-Torpedo in the water! Torpedo in the water! Bearing <BRG>
-Torpedo is active! Bearing <BRG>
-Torpedo is at <RANGE> yards and closing
+Torpedo na água! Torpedo na água! Azimute <BRG>
+Torpedo está ativo! Azimute <BRG>
+Torpedo está à <RANGE> jardas e se aproximando
 
 [TORPEDO ROOM]
-LoadWeapon=Conn, torpedo room: load <WEAPON> tube <TUBE>. Torpedo room aye
-TubeDestroyed=Conn, torpedo room: tube <TUBE> inoperable
-TubeJamDestroyed=Conn, torpedo room: tube <TUBE> jammed on launch
-WeaponLoaded=Conn, torpedo room: tube <TUBE> ready
-TooDeep=Conn, torpedo room: cannot fire <WEAPON> below <DEPTH> <FEET>
-VLSTooFast=Conn, torpedo room: cannot fire <VLS> weapon above <SPEED> <KNOT>
-VLSTooDeep=Conn, torpedo room: cannot <VLS> weapon below <DEPTH> <FEET>
-//CannotLoadWireInTube=Conn, torpedo room: cannot reload <TUBE>, active wire in <TUBE>
-NoReloadsAvailable=No reloads available
-NoVLSReloadsAvailable=No weapons remain in <VLS>
-BelowMinRange=Conn, torpedo room: cannot fire <WEAPON> below <RANGE> <KILOYARD>
-RecoverTowedDecoy=Conn, torpedo room: recovering towed decoy
-TowedDecoyLong=Conn, torpedo room: towed decoy to long stay
-TowedDecoyShort=Conn, torpedo room: towed decoy to short stay
+LoadWeapon=Comando, sala do torpedo: carregado <WEAPON> tubo <TUBE>. Torpedo room aye
+TubeDestroyed=Comando, sala do torpedo: tubo <TUBE> inoperante
+TubeJamDestroyed=Comando, sala do torpedo: tubo <TUBE> bloqueado no lançamento
+WeaponLoaded=Comando, sala do torpedo: tubo <TUBE> pronto
+TooDeep=Comando, sala do torpedo: não é possível disparar <WEAPON> abaixo de <DEPTH> <FEET>
+VLSTooFast=Comando, sala do torpedo: não é possível disparar arma <VLS> velocidade acima de <SPEED> <KNOT>
+VLSTooDeep=Comando, sala do torpedo: não é possível disparar <VLS> profundidade abaixo de <DEPTH> <FEET>
+//CannotLoadWireInTube=Comando, sala do torpedo: não é possível recarregar <TUBE>, fio ativo em <TUBE>
+NoReloadsAvailable=Sem recargas disponíveis
+NoVLSReloadsAvailable=Sem armas restante em <VLS>
+BelowMinRange=Comando, sala do torpedo: não é possível disparar <WEAPON> distância abaixo de <RANGE> <KILOYARD>
+RecoverTowedDecoy=Comando, sala do torpedo: recuperando chamariz rebocado
+TowedDecoyLong=Comando, sala do torpedo: chamariz rebocado para permanência longa
+TowedDecoyShort=Comando, sala do torpedo: chamariz rebocado para permanência curta
 
 [FIRE CONTROL]
-WeaponAcquire=Conn, fire control, weapon acquire
-WeaponDecoy=Conn, fire control, weapon countermeasure homing
-WeaponReattack=Conn, fire control, weapon reattack on
-WireBreak=Conn, fire control, wire break, weapon <WEAPON>
+WeaponAcquire=Comando, controle de fogo, arma adquirida
+WeaponDecoy=Comando, controle de fogo, weapon countermeasure homing
+WeaponReattack=Comando, controle de fogo, weapon reattack on
+WireBreak=Comando, controle de fogo, wire break, weapon <WEAPON>
 WaypointSet=BEARING: <BRG>   RANGE: <RANGE> <KILOYARD>
 WaypointInfo=BEARING: <BRG>   RANGE: <RANGE> <KILOYARD> + <ACTIVERANGE> <KILOYARD> <n> <RANGE_MILES> <MILE>
-NotReady=Conn, fire control, <TUBE> not ready to fire
+NotReady=Comando, controle de fogo, <TUBE> not ready to fire
 FireTube=Shoot tube <TUBE>, aye sir
 
 [XO]
@@ -129,12 +129,12 @@ InDeploymentZone=In Spec Ops deployment zone, come to a stop above 100 <FEET> to
 CompartmentStatus=<CONDITION> in the <COMPARTMENT>! Damage control parties, lay to the <COMPARTMENT>!
 MasterContact=Contact <ORIGINAL> upgraded to <CONTACT>
 CommandoDeployed=Spec Ops team is away
-LandStrikeHoming=Conn, weapon <LANDTARGETSTATUS> attacking land target
-LandStrikeComplete=Conn, all land attack weapons are away, land strike complete
+LandStrikeHoming=Comando, weapon <LANDTARGETSTATUS> attacking land target
+LandStrikeComplete=Comando, all land attack weapons are away, land strike complete
 
-SubsystemDamaged=Conn, <SUBSYSTEM> damaged, time to repair <TIMETOREPAIR> minutes
-SubsystemDestroyed=Conn, <SUBSYSTEM> offline, requires repair at port
-SubsystemRepaired=Conn, <SUBSYSTEM> repaired
+SubsystemDamaged=Comando, <SUBSYSTEM> damaged, time to repair <TIMETOREPAIR> minutes
+SubsystemDestroyed=Comando, <SUBSYSTEM> offline, requires repair at port
+SubsystemRepaired=Comando, <SUBSYSTEM> repaired
 
 FloodingInCompartment=Flooding in the <COMPARTMENT>!
 DCPartyToCompartment=Damage control parties, lay to the <COMPARTMENT>!
@@ -156,30 +156,30 @@ ReEstablishESMContact=Contact <CONTACT>, bearing <BRG>, contact re-established
 CannotUseMasts=Cannot raise masts under <THRESHOLD> <FEET>
 RaiseMast0=Up scope
 LowerMast0=Down scope
-StowMast0=Conn, the periscope is stowed and rigged for dive
+StowMast0=Comando, the periscope is stowed and rigged for dive
 
 RaiseMast1=Raise the ESM mast
 LowerMast1=Lower the ESM mast
-StowMast1=Conn, radio, the ESM mast is stowed and rigged for dive
+StowMast1=Comando, radio, the ESM mast is stowed and rigged for dive
 
 RaiseMast2=Raise the RADAR mast
 LowerMast2=Lower the RADAR mast
-StowMast2=Conn, radio, the RADAR mast is stowed and rigged for dive
+StowMast2=Comando, radio, the RADAR mast is stowed and rigged for dive
 
 [FLYCO]
-LaunchPlayerAircraft=Conn, Flyco, Launching Aircraft.
-LaunchPlayerAircraftComplete=Conn, Flyco, Launching Aircraft Complete.
-LaunchPlayerAircraftNoTransitionSpots=Conn, Flyco, Unable to Launch Aircraft due Traffic.
-TransitPlayerAircraft=Conn, Flyco, Aircraft Transiting to Point.
-DropWeaponPlayerAircraft=Conn, Flyco, Aircraft Dropping Weapon.
-OrbitPlayerAircraft=Conn, Flyco, Aircraft Orbiting Waypoint.
-ReturnPlayerAircraft=Conn, Flyco, Aircraft Returning to Base.
-DestroyedPlayerAircraft=Conn, Flyco, Aircraft Destroyed.
-LandPlayerAircraft=Conn, Flyco, Aircraft Landing.
-LandPlayerAircraftNoDeckSpots=Conn, Flyco, Aircraft Unable to Land Aircraft due Traffic.
-RecoveredPlayerAircraft=Conn, Flyco, Aircraft Recovered.
-InactivePlayerAircraft=Conn, Flyco, Aircraft Stowed.
-ReadyPlayerAircraft=Conn, Flyco, Aircraft Ready to Launch.
+LaunchPlayerAircraft=Comando, Flyco, Launching Aircraft.
+LaunchPlayerAircraftComplete=Comando, Flyco, Launching Aircraft Complete.
+LaunchPlayerAircraftNoTransitionSpots=Comando, Flyco, Unable to Launch Aircraft due Traffic.
+TransitPlayerAircraft=Comando, Flyco, Aircraft Transiting to Point.
+DropWeaponPlayerAircraft=Comando, Flyco, Aircraft Dropping Weapon.
+OrbitPlayerAircraft=Comando, Flyco, Aircraft Orbiting Waypoint.
+ReturnPlayerAircraft=Comando, Flyco, Aircraft Returning to Base.
+DestroyedPlayerAircraft=Comando, Flyco, Aircraft Destroyed.
+LandPlayerAircraft=Comando, Flyco, Aircraft Landing.
+LandPlayerAircraftNoDeckSpots=Comando, Flyco, Aircraft Unable to Land Aircraft due Traffic.
+RecoveredPlayerAircraft=Comando, Flyco, Aircraft Recovered.
+InactivePlayerAircraft=Comando, Flyco, Aircraft Stowed.
+ReadyPlayerAircraft=Comando, Flyco, Aircraft Ready to Launch.
 
 
 [AUDIO]
@@ -587,10 +587,10 @@ NoVLSReloadsAvailable=audio/voices/torpedo room/VLS_empty.wav|8|FALSE
 //TowedDecoyShort=audio/voices/torpedo room/TowedDecoyShort.wav
 //TowedDecoyLong=audio/voices/torpedo room/TowedDecoyLong.wav
 
-//TooDeep=Conn, torpedo room: cannot fire <WEAPON> below <DEPTH> <FEET>
-//VLSTooFast=Conn, torpedo room: cannot fire <VLS> weapon above <SPEED> <KNOT>
-//VLSTooDeep=Conn, torpedo room: cannot <VLS> weapon below <DEPTH> <FEET>
-//CannotLoadWireInTube=Conn, torpedo room: cannot reload <TUBE>, active wire in <TUBE>
+//TooDeep=Comando, torpedo room: cannot fire <WEAPON> below <DEPTH> <FEET>
+//VLSTooFast=Comando, torpedo room: cannot fire <VLS> weapon above <SPEED> <KNOT>
+//VLSTooDeep=Comando, torpedo room: cannot <VLS> weapon below <DEPTH> <FEET>
+//CannotLoadWireInTube=Comando, torpedo room: cannot reload <TUBE>, active wire in <TUBE>
 
 //Watch Officer
 RaiseMast0=audio/voices/watch officer/Up_scope.wav|5|FALSE

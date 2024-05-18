@@ -230,7 +230,7 @@ WARSHIP=navio de guerra
 [HEADINGS]
 TrainingMissionHeader=TREINAMENTO
 SingleMissionHeader=MISSÃO ÚNICA
-UnitReferenceHeader=REFERÊNCIA DA UNIDAE
+UnitReferenceHeader=REFERÊNCIA DA UNIDADE
 SelectVesselHeader=SELECIONAR EMBARCAÇÃO
 BriefingHeader=RESUMO
 OrdersHeader=PEDIDOS
