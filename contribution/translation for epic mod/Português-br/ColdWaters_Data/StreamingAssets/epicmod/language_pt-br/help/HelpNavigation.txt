@@ -1,5 +1,5 @@
 ImageBackground=campaign/images/nato submarine 2
-ImagePosition=15,-782
+ImagePosition=15,-792
 ImageHeight=260
 Image=language/help_images/helm_panel.png
 ImagePosition=15,-2092
@@ -9,47 +9,45 @@ ImagePosition=15,-3370
 ImageHeight=260
 Image=language/help_images/navigation_status.png
 [/Image]
-<size=24><color=maroon><b>NAVIGATION</b></color></size>
+<size=24><color=maroon><b>NAVEGAÇÃO</b></color></size>
 
-<b>CONTROLLING YOUR SUBMARINE</b>
-Submarines act much like slow underwater aircraft, and they are controlled mainly with dynamic forces, using the rudder and the planes. There is also trim control and a hover system for low-speed maneuvering.
-In Cold Waters, you can control your submarine in the traditional way by ordering your helmsman or dive officer to come to the desired course or depth, but you may also at any time assume direct control of the submarine in which case the submarine is 'flown' much like an underwater flight sim.
+<b>CONTROLANDO SEU SUBMARINO</b>
+Os submarinos agem como aeronaves subaquáticas lentas e são controlados principalmente com forças dinâmicas, usando o leme e os profundores. Há também controle de compensação e sistema de flutuação para manobras em baixa velocidade.
+Em Cold Waters, você pode controlar seu submarino da maneira tradicional, ordenando ao seu timoneiro ou oficial de mergulho que chegue ao curso ou profundidade desejada, mas você também pode, a qualquer momento, assumir o controle direto do submarino, caso em que o submarino é 'pilotado' muito parecido com um simulador de voo subaquático.
 
-<b>OWNSHIP DATA</b>
-Above the mini-map is a data panel which contains 3 columns of data (left to right).
-1) Ownship data
-2) Contact Data
-3) Weapon data (torpedo on a wire)
+<b>DADOS PRÓPRIO</b>
+Acima do minimapa há um painel de dados que contém 3 colunas de dados (da esquerda para a direita).
+1) Dados próprio (sua embarcação)
+2) Dados de contato
+3) Dados da arma (torpedo em fio)
 
-The first column displays your current;
-<b>CSE</b> Course
-<b>SPD</b> Speed
-<b>DEP</b> Depth
-<b>RUD</b> Rudder
-<b>PLN</b> Planes
-<b>BAL</b> Ballast
+A primeira coluna exibe o seu atual;
+<b>CRS</b> Curso
+<b>VLC</b> Velocidade
+<b>PRO</b> Profundidade
+<b>LEM</b> Leme
+<b>PRF</b> Profundores
+<b>BAL</b> Lastro
 
-As you adjust your submarine's rudder, planes and ballast, their current settings will be displayed here as will your current course, speed and depth.
+À medida que você ajusta o leme, os profundores e o lastro do seu submarino, suas configurações atuais serão exibidas aqui, assim como seu curso, velocidade e profundidade atuais.
 
-<b>SHIP CONTROL PANELS</b>
-Above the Data Panel sits three tabs which access various parts of the control interface. From top to bottom, they are:
-Masts
-Dive
-Helm
-Clicking on either will open up the respective panel. Clicking the triangular button in the corner hides it.
+<b>PAINEIS DE CONTROLE DO NAVIO</b>
+Acima do Painel de Dados estão três guias que acessam várias partes da interface de controle. De cima para baixo, eles são:
+Mastros
+Mergulho
+Leme
+Clicar em qualquer um deles abrirá o respectivo painel. Clicar no botão triangular no canto o oculta.
 
-<size=24><color=maroon><b>SPEED</b></color></size>
-Use <KEY:Increase Power> and <KEY:Decrease Power> to adjust speed.
-Your submarine's speed can be adjusted in the following increments:
-- Back Emergency
-- All Stop
-- Ahead 1/3
-- Ahead 2/3
-- Ahead Standard
-- Ahead Full
-- Ahead Flank
-
-
+<size=24><color=maroon><b>VELOCIDADE</b></color></size>
+Use <KEY:Increase Power> e <KEY:Decrease Power> para ajustar a velocidade.
+A velocidade do seu submarino pode ser ajustada nos seguintes incrementos:
+- Recuo de emergência
+- Parada total
+- À frente 1/3
+- À frente 2/3
+- Padrão Adiante
+- À frente completo
+- Flanco à frente
 
 
 
@@ -65,26 +63,28 @@ Your submarine's speed can be adjusted in the following increments:
 
 
 
-The helm control panel offers two additional ways of controlling speed:
-The graphical telegraph, which directly mirrors the functionality of the hotkeys.
-Ordered speed, which allows you to specify the precise speed you want. This allows you to optimize your speed to go as fast as possible without cavitating at a given depth.
 
-Changes in speed require some time to take effect, accelerating from stationary to flank speed may take several minutes. Travelling at Flank speed and cutting your speed to All Stop will allow your submarine to coast along for quite a long distance. While travelling fast and setting speed to Back Emergency will rapidly decelerate your submarine. You may use coasting to your advantage in sprint and drift tactics by silently gliding across thermoclines to better listen without alerting nearby enemies.
 
-<b>CAVITATION</b>
-Cavitation is the formation of bubbles by a fast turning propeller. These bubbles make significant amounts of noise that can give away your position. At deeper depths, higher water pressure decreases this effect, allowing you to go faster without cavitating. Note that cavitation is based on engine speed, not your submarine's speed, such that quickly reducing your speed setting can stop cavitation soon after it begins.
+O painel de controle do leme oferece duas formas adicionais de controlar a velocidade:
+O telégrafo gráfico, que reflete diretamente a funcionalidade das teclas de atalho.
+Velocidade ordenada, que permite especificar a velocidade precisa desejada. Isso permite otimizar sua velocidade para ir o mais rápido possível sem cavitar em uma determinada profundidade.
 
-Your sonar operator will notify you via voice and the message log if you are cavitating and a cavitating status icon will appear in the upper right.
+As mudanças na velocidade requerem algum tempo para entrar em vigor; a aceleração da velocidade estacionária para a velocidade de flanco pode levar vários minutos. Viajar na velocidade de flanco e reduzir sua velocidade para Parada Total permitirá que seu submarino navegue por uma longa distância. Ao viajar rápido e definir a velocidade para Recuo de Emergência, seu submarino desacelerará rapidamente. Você pode usar a desaceleração a seu favor em táticas de corrida e deriva, deslizando silenciosamente pelas termoclinas para ouvir melhor sem alertar os inimigos próximos.
 
-<b>FLOW NOISE</b>
-Higher speed increases the amount of noise your submarine generates, due to both machinery as well as flow of water around the hull. This flow of water, termed flow noise, can greatly interfere with sonar sensitivity, eventually drowning it out at higher speeds, resulting the loss of faint contacts. Towed arrays are extremely sensitive to flow noise and are drowned out at about 10 knots.
+<b>CAVITAÇÃO</b>
+Cavitação é a formação de bolhas por uma hélice que gira rapidamente. Essas bolhas emitem uma quantidade significativa de ruído que pode revelar sua posição. Em profundidades mais profundas, a maior pressão da água diminui esse efeito, permitindo que você vá mais rápido sem cavitar. Observe que a cavitação é baseada na velocidade do motor, não na velocidade do seu submarino, de modo que reduzir rapidamente a configuração de velocidade pode interromper a cavitação logo após seu início.
 
-As flow noise decreases the signal to noise ratio when listening to contacts, it makes signature analysis more difficult. Flow noise also increases the ability of enemy sonar to detect you submarine.
+Seu operador de sonar irá notificá-lo por voz e pelo registro de mensagens se você estiver cavitando e um ícone de status de cavitação aparecerá no canto superior direito.
 
-The ability to balance getting into position, maintaining clear contact with the enemy and managing cavitation while not being detected by enemy sonar will make you a successful submarine commander.
+<b>RUÍDO DE FLUXO</b>
+Uma velocidade mais alta aumenta a quantidade de ruído que seu submarino gera, tanto devido ao maquinário quanto ao fluxo de água ao redor do casco. Este fluxo de água, denominado ruído de fluxo, pode interferir bastante na sensibilidade do sonar, eventualmente abafando-o em velocidades mais altas, resultando na perda de contatos fracos. Os conjuntos rebocados são extremamente sensíveis ao ruído do fluxo e são abafados a cerca de 10 nós.
 
-<b>EFFECTS OF DAMAGE</b>
-Upon damage to your submarine's propulsion, speed is limited to "Ahead 2/3". If your submarine's reactor is damaged, speed is limited to "All stop". Once these systems are repaired, maximum speed is restored to Flank.
+Como o ruído do fluxo diminui a relação sinal-ruído ao ouvir os contatos, torna a análise da assinatura mais difícil. O ruído de fluxo também aumenta a capacidade do sonar inimigo de detectar seu submarino.
+
+A capacidade de equilibrar a posição, manter contato claro com o inimigo e gerenciar a cavitação sem ser detectado pelo sonar inimigo fará de você um comandante de submarino de sucesso.
+
+<b>EFEITOS DOS DANOS</b>
+Após danos à propulsão do seu submarino, a velocidade é limitada a "À frente 2/3". Se o reator do seu submarino estiver danificado, a velocidade será limitada a "Parada total". Assim que esses sistemas forem reparados, a velocidade máxima será restaurada ao Flanco.
 
 
 <size=24><color=maroon><b>STEERING</b></color></size>
