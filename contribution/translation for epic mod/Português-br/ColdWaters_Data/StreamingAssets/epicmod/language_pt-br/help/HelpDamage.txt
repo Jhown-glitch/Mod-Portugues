@@ -6,7 +6,7 @@ ImagePosition=15,-2476
 ImageHeight=256
 Image=language/help_images/damage_status.png
 [/Image]
-<size=24><color=maroon><b>DAMAGE CONTROL</b></color></size>
+<size=24><color=maroon><b>CONTROLE DE DANOS</b></color></size>
 
 
 
@@ -24,97 +24,94 @@ Image=language/help_images/damage_status.png
 
 
 
-Click the Damage Control tab or use <KEY:Damage Report> to open the Damage Control panel.
-This panel can also be accessed from the briefing screen prior to any mission or when in port (campaign only) by selecting <DICTIONARY:VesselStatus> or using <KEY:Damage Report>.
+Clique na guia Controle de Danos ou use <KEY:Damage Report> para abrir o painel Controle de Danos.
+Este painel também pode ser acessado a partir da tela de briefing antes de qualquer missão ou quando estiver no porto (somente campanha) selecionando <DICTIONARY:VesselStatus> ou usando <KEY:Damage Report>.
 
-The Damage Control panel shows a cut-out view of your vessel which is divided into 5 major watertight compartments. Various subsystems are also shown, many of which are associated with a given compartment, although some such as Periscope and Masts are not linked to a compartment as they are in the sail. The currently selected subsystem is in bold.
+O painel de controle de danos mostra uma vista recortada de sua embarcação, dividida em 5 compartimentos estanques principais. Vários subsistemas também são mostrados, muitos dos quais estão associados a um determinado compartimento, embora alguns como o Periscópio e os Mastros não estejam ligados a um compartimento como estão na vela. O subsistema atualmente selecionado está em negrito.
 
-In addition, the overall hull integrity of your submarine is shown at the bottom centre. If hull integrity is reduced to 0%, your submarine will be destroyed and sink.
-
-
-<size=24><color=maroon><b>DAMAGE CONTROL PARTY</b></color></size>
-The current highlighted subsystem is the focus of your damage control party and the compartment they are within is shown by wrench/spanner icon. This subsystem (and only this subsystem) will be repaired at twice the normal rate. In addition, the compartment containing the damage control party, receives a bonus to pumping out water as they work to shore up bulkheads, but this pumping bonus requires the Pumps subsystem to be operational.
-
-It is possible to assign your damage control party to an undamaged subsystem in order to assist with controlling flooding in that compartment.
+Além disso, a integridade geral do casco do seu submarino é mostrada na parte inferior central. Se a integridade do casco for reduzida a 0%, seu submarino será destruído e afundará.
 
 
-<size=24><color=maroon><b>SUBSYSTEMS</b></color></size>
-Each compartment may contain one or more subsystems. Select the name of a subsystem or use <KEY:Context Menu Previous> and <KEY:Context Menu Next> to move through and highlight a subsystem. 
+<size=24><color=maroon><b>EQUIPE DE CONTROLE DE DANOS</b></color></size>
+O subsistema atualmente destacado é o foco do seu grupo de controle de danos e o compartimento em que eles estão é mostrado pelo ícone de chave inglesa. Este subsistema (e apenas este subsistema) será reparado ao dobro da taxa normal. Além disso, o compartimento que contém o grupo de controle de danos recebe um bônus por bombear água enquanto eles trabalham para escorar anteparas, mas esse bônus de bombeamento exige que o subsistema Bombas esteja operacional.
 
-Subsystems have 3 conditions:
-1) Operational (Blue)
-2) Damaged (Red)
-3) Critical (Black)
+É possível atribuir a sua parte de controle de danos a um subsistema não danificado para ajudar no controle de inundações naquele compartimento.
 
-An operational subsystem works normally while a damaged or critical subsystem is no longer functional and either cannot be used or incurs a penalty to performance. Damaged systems are filled with a red bar which represents about 5 minutes total repair time.
 
-Damaged subsystems will automatically be repaired by your crew over time and can be restored to operational status during combat. In addition, damage control party can halve the repair time of one subsystem. However critical subsystems are permanently out of action while at sea and cannot be repaired or restored.
+<size=24><color=maroon><b>SUBSISTEMAS</b></color></size>
+Cada compartimento pode conter um ou mais subsistemas. Selecione o nome de um subsistema ou use <KEY:Context Menu Previous> e <KEY:Context Menu Next> para percorrer e destacar um subsistema. 
 
-<b>CAMPAIGN: PORT REPAIRS</b>
-When playing a campaign, critical subsystems require returning to port for repair. Once back in port, click on the name or use <KEY:Context Menu Previous> and <KEY:Context Menu Next> to select a critical subsystem. The time required to repair it is displayed in the upper right of the damage control panel. To repair it either;
-Click the name of an already highlighted critical subsystem.
-Click on the time to repair.
+Os subsistemas têm 3 condições:
+1) Operacional (Azul)
+2) Danificado (Vermelho)
+3) Crítico (Preto)
+
+Um subsistema operacional funciona normalmente enquanto um subsistema danificado ou crítico não funciona mais e não pode ser usado ou incorre em penalidade de desempenho. Os sistemas danificados são preenchidos com uma barra vermelha que representa cerca de 5 minutos de tempo total de reparo.
+
+Os subsistemas danificados serão reparados automaticamente pela sua tripulação ao longo do tempo e poderão ser restaurados ao status operacional durante o combate. Além disso, a parte de controle de danos pode reduzir pela metade o tempo de reparo de um subsistema. No entanto, os subsistemas críticos ficam permanentemente fora de serviço enquanto estão no mar e não podem ser reparados ou restaurados.
+
+<b>CAMPANHA: REPAROS PORTUÁRIOS</b>
+Ao jogar uma campanha, subsistemas críticos exigem o retorno ao porto para reparos. De volta ao porto, clique no nome ou use <KEY:Context Menu Previous> e <KEY:Context Menu Next> para selecionar um subsistema crítico. O tempo necessário para repará-lo é exibido no canto superior direito do painel de controle de danos. Para repará-lo também;
+Clique no nome de um subsistema crítico já destacado.
+Clique na hora de reparar.
 Use <KEY:Context Menu Set>.
 
-Any damage to hull integrity is automatically repaired at port but incurs a time penalty based on the severity of damage to repair.
+Qualquer dano à integridade do casco é reparado automaticamente no porto, mas incorre em uma penalidade de tempo com base na gravidade do dano a ser reparado.
 
 
-<size=24><color=maroon><b>EFFECTS OF NON-OPERATIONAL SUBSYSTEMS</b></color></size>
-<b>SENSORS</b>
-<b>Bow Sonar</b> - Your passive and active sonar sensitivity are greatly diminished, effectively rendering you nearly blind underwater
-<b>Towed Array</b> - No longer functions.
-<b>Periscope</b> - Periscope mast can no longer be raised and can no longer be used.
-<b>ESM Mast</b> - This mast can no longer be raised and no longer provides ESM data.
-<b>Radar Mast</b> - This mast can no longer be raised and no longer provides radar data.
+<size=24><color=maroon><b>EFEITOS DE SUBSISTEMAS NÃO OPERACIONAIS</b></color></size>
+<b>SENSORES</b>
+<b>Sonar de Proa</b> - A sensibilidade passiva e ativa do seu sonar é bastante diminuída, deixando você praticamente cego debaixo d’água
+<b>Towed Array</b> - Não funciona mais.
+<b>Periscópio</b> - O mastro do periscópio não pode mais ser elevado e não pode mais ser usado.
+<b>Mastro ESM</b> - Este mastro não pode mais ser elevado e não fornece mais dados ESM.
+<b>Mastro de Radar</b> - Este mastro não pode mais ser elevado e não fornece mais dados de radar.
 
-<b>WEAPONS</b>
-<b>Tubes</b> - Individual torpedo tubes can be rendered unusable and cannot be repaired at sea. A torpedo tube will have the wire cut (if one exists) or the weapon within it lost (if one is loaded) upon being knocked out. Some submarines have angled tubes in their sides behind the bow. Attempting to fire an angled tube at higher speeds (20+ knots) has a chance to jam the torpedo, rendering the tube disabled as well as loss of the weapon jammed in the tube.
-<b>Fire Control</b> - Loss of your fire control computer immediately halts all TMA (target motion analysis) of contacts and clears all contacts you were tracking.
+<b> ARMAS</b>
+<b>Tubos</b> - Tubos de torpedo individuais podem ficar inutilizáveis ​​e não podem ser reparados no mar. Um tubo de torpedo terá o fio cortado (se existir) ou a arma dentro dele perdida (se estiver carregada) ao ser nocauteado. Alguns submarinos têm tubos angulares nas laterais, atrás da proa. A tentativa de disparar um tubo em ângulo em velocidades mais altas (mais de 20 nós) tem a chance de emperrar o torpedo, desativando o tubo e também causando a perda da arma presa no tubo.
+<b>Controle de fogo</b> - A perda do seu computador de controle de fogo interrompe imediatamente todo o TMA (análise de movimento do alvo) dos contatos e limpa todos os contatos que você estava rastreando.
 
-<b>MACHINERY</b>
-<b>Pumps</b> - Pumps automatically decrease the rate of flooding across all compartments. Once knocked out, flooding of compartments is no longer offset by pumping of water. In addition, the bonus to pumping in the compartment containing the damage control party is lost.
-<b>Propulsion</b> - Propulsion consists of engines, propeller shafts and the propellers themselves. Damage to propulsion decreases maximum speed of your vessel, limiting maximum telegraph setting to 2/3 Ahead.
-<b>Rudder</b> - When steering, reduces the turn rate of your vessel by half.
-<b>Planes</b> - When using planes to change depth, reduces the surface and dive rate of your vessel by half.
-<b>Ballast</b> - When using ballast to change depth, reduces the surface and dive rate of your vessel by half. Emergency blow ballast cannot be used.
-<b>Reactor</b> - If damaged or if your crew is forced to SCRAM the reactor, power is lost to the engines. This limits maximum telegraph setting to All Stop, effectively rendering your vessel dead in the water.
-
-
-<size=24><color=maroon><b>FLOODING</b></color></size>
-There are 5 major water-tight compartments within your submarine. Damage to them can cause flooding, which is indicated by a blue water level indicator. The higher the level of blue, the worse the flooding. If flooding is too excessive or becomes uncontrolled, your vessel will lose buoyancy and ultimately sink.
-
-Rate of flooding is increased by:
-- deeper depth, due to increased water pressure
-- increased damage to the compartment
-- loss of pumps subsystem
-- additional compartments taking on water
-
-Rate of flooding is decreased by:
-- shallow depth or surfacing
-- an operational pumps subsystem, which pumps water out across all compartments
-- damage control party, which doubles the effect or pumps within the compartment they occupy
-
-If you are having difficulty controlling flooding:
-- use ballast to offset any negative buoyancy
-- be sure your pumps subsystem is operational, or the priority for repairs
-- assign damage control party to the flooded compartment (only effective if pumps are operational)
-- decrease your depth or surface as quickly as possible
-- blow emergency ballast
-
-<b>UNCONTROLLED FLOODING</b>
-Once multiple compartments begin taking on water your submarine is in dire straits. You should take immediate action to get to shallow depth quickly. Keep in mind that reactor/propulsion or ballast getting knocked out while your submarine is deep and taking on water could prevent surfacing and be fatal.
-
-<b>REPAIRING FLOODING</b>
-Getting to shallow depth or surfacing will greatly assist your pumps and damage control party in getting ahead of flooding. Once surfaced, damage control party should be able to pump all water out by moving them between the flooded compartments. However if you are unable to surface, even after blowing emergency ballast, it may be time to consider your crew and abandon ship.
-
-While surfacing will allow all flooded compartments to be cleared of water, damage to the hull remains. Submerging will once again put the hull under stress and will likely result in flooding resuming, especially in the most damaged compartments first.
+<b>MÁQUINAS</b>
+<b>Bombas</b> - As bombas diminuem automaticamente a taxa de inundação em todos os compartimentos. Uma vez desativado, o alagamento dos compartimentos não é mais compensado pelo bombeamento de água. Além disso, o bônus de bombeamento no compartimento que contém o grupo de controle de danos é perdido.
+<b>Propulsão</b> - A propulsão consiste em motores, eixos de hélice e nas próprias hélices. Danos à propulsão diminuem a velocidade máxima da sua embarcação, limitando a configuração máxima do telégrafo a 2/3 à frente.
+<b>Leme</b> - Ao dirigir, reduz a taxa de giro da sua embarcação pela metade.
+<b>Profundores</b> - Ao usar profundores para alterar a profundidade, reduz a superfície e a taxa de mergulho da sua embarcação pela metade.
+<b>Lastro</b> - Ao usar lastro para alterar a profundidade, reduz a superfície e a taxa de mergulho da sua embarcação pela metade. O reator de emergência não pode ser usado.
+<b>Reator</b> - Se danificado ou se sua tripulação for forçada a SCRAM o reator, a energia dos motores será perdida. Isso limita a configuração máxima do telégrafo para All Stop, efetivamente deixando sua embarcação morta na água.
 
 
-<size=24><color=maroon><b>DAMAGE CONTROL ICONS</b></color></size>
-Status icons are displayed in the upper right to notify you of damage requiring repair, flooding or the detection of an imminent attack.
+<size=24><color=maroon><b>INUNDANDO</b></color></size>
+Existem 5 compartimentos principais à prova d'água em seu submarino. Danos a eles podem causar inundações, o que é indicado por um indicador azul do nível da água. Quanto maior o nível de azul, pior será a inundação. Se a inundação for demasiado excessiva ou se tornar descontrolada, a sua embarcação perderá a flutuabilidade e acabará por afundar.
+
+A taxa de inundação aumenta em:
+- maior profundidade, devido ao aumento da pressão da água
+- aumento de danos ao compartimento
+- perda do subsistema de bombas
+- compartimentos adicionais que recebem água
+
+A taxa de inundação diminui em:
+- profundidade rasa ou superfície
+- um subsistema de bombas operacionais, que bombeia água para todos os compartimentos
+- grupo de controle de danos, que duplica o efeito ou bombeia dentro do compartimento que ocupam
+
+Se você estiver tendo dificuldade em controlar inundações:
+- use lastro para compensar qualquer flutuabilidade negativa
+- certifique-se de que seu subsistema de bombas esteja operacional ou a prioridade para reparos
+- atribuir uma equipe de controle de danos ao compartimento inundado (apenas eficaz se as bombas estiverem operacionais)
+- diminua sua profundidade ou vá para a superfície o mais rápido possível
+- explodir lastro de emergência
+
+<b>INUNDAÇÕES DESCONTROLADAS</b>
+Assim que vários compartimentos começarem a entrar na água, seu submarino estará em apuros. Você deve tomar medidas imediatas para chegar rapidamente a uma profundidade rasa. Tenha em mente que o reator/propulsão ou o lastro sendo nocauteados enquanto o seu submarino está profundo e entrando na água pode impedir a superfície e ser fatal.
+
+<b>REPARAR INUNDAÇÕES</b>
+Chegar a uma profundidade rasa ou à superfície ajudará muito as bombas e a equipe de controle de danos a se anteciparem às inundações. Uma vez à superfície, a equipe de controlo de danos deverá ser capaz de bombear toda a água, movendo-a entre os compartimentos inundados. No entanto, se você não conseguir emergir, mesmo depois de explodir o lastro de emergência, talvez seja hora de considerar sua tripulação e abandonar o navio.
+
+Embora a superfície permita que todos os compartimentos inundados sejam limpos de água, os danos ao casco permanecem. A submersão colocará mais uma vez o casco sob tensão e provavelmente resultará na retomada das inundações, especialmente primeiro nos compartimentos mais danificados.
 
 
-
+<size=24><color=maroon><b>ÍCONES DE CONTROLE DE DANOS</b></color></size>
+Ícones de status são exibidos no canto superior direito para notificá-lo sobre danos que exigem reparos, inundações ou detecção de um ataque iminente.
 
 
 
@@ -128,31 +125,34 @@ Status icons are displayed in the upper right to notify you of damage requiring 
 
 
 
-<b>DAMAGE CONTROL ICONS DESCRIPTIONS</b>
-<b>Reactor SCRAM:</b> You submarine's reactor is offline.
-
-<b>Damage:</b> A subsystem on board your submarine is damaged and in need of repair.
-
-<b>Flooding:</b> A compartment of your submarine is over 10% flooded, or the total flooding is greater than 5%.
-
-<b>Incoming Torpedo:</b> Active intercept has detected an incoming active torpedo or the sonar operator has detected a passive torpedo, homing in on your submarine.
-
-<b>Ranging Sonar:</b> An enemy vessel is pinging with its fire control sonar in an attempt to determine your exact position. An attack is likely imminent.
 
 
-<size=24><color=maroon><b>LOSS OF YOUR SUBMARINE</b></color></size>
-Your submarine will be destroyed if;
-- crush depth is exceeded, resulting in implosion
-- hull integrity is reduced to 0%
 
-It is important to remember that as hull integrity decreases, crush depth becomes more shallow and could result in up to a 50% reduction in crush depth. Depths that would otherwise be safe will now destroy your submarine.
+<b>DESCRIÇÕES DOS ÍCONES DE CONTROLE DE DANOS</b>
+<b>Reator SCRAM:</b> O reator do seu submarino está offline.
 
-Once destroyed, the HUD is disabled.
-Use <KEY:Cancel or Quit> to enter the mission menu and end the mission.
+<b>Dano:</b> Um subsistema a bordo do seu submarino está danificado e precisa de reparos.
 
-In the mission menu you may:
-1) <DICTIONARY:AbandonShip>. If your sub is still intact (has not imploded) and above escape depth you and your crew may survive yet by abandoning ship, otherwise nothing happens when selecting this option.
-2) <DICTIONARY:Quit> to end this mission.
+<b>Inundação:</b> Um compartimento do seu submarino está mais de 10% inundado ou a inundação total é superior a 5%.
 
-Either of these options will take you to the After Action Report.
-When finished viewing the After Action Report, click <DICTIONARY:Continue> or use <KEY:Continue>.
+<b>Torpedo de entrada:</b> A interceptação ativa detectou um torpedo ativo se aproximando ou o operador do sonar detectou um torpedo passivo, direcionando-se para seu submarino.
+
+<b>Sonar de alcance:</b> Uma embarcação inimiga está fazendo ping com seu sonar de controle de fogo na tentativa de determinar sua posição exata. Um ataque é provavelmente iminente.
+
+
+<size=24><color=maroon><b>PERDA DO SEU SUBMARINO</b></color></size>
+Seu submarino será destruído se;
+- a profundidade de esmagamento é excedida, resultando em implosão
+- a integridade do casco é reduzida para 0%
+
+É importante lembrar que à medida que a integridade do casco diminui, a profundidade de esmagamento torna-se mais rasa e pode resultar numa redução de até 50% na profundidade de esmagamento. Profundidades que de outra forma seriam seguras irão agora destruir o seu submarino.
+
+Uma vez destruído, o HUD é desativado.
+Use <KEY:Cancel or Quit> para entrar no menu da missão e encerrar a missão.
+
+No menu de missão você pode:
+1) <DICTIONARY:AbandonShip>. Se o seu submarino ainda estiver intacto (não implodiu) e acima da profundidade de escape, você e sua tripulação ainda poderão sobreviver abandonando o navio, caso contrário, nada acontecerá ao selecionar esta opção.
+2) <DICTIONARY:Quit> para encerrar esta missão.
+
+Qualquer uma dessas opções o levará ao Relatório Pós-Ação.
+Ao terminar de visualizar o Relatório Pós-Ação, clique em <DICTIONARY:Continue> ou use <KEY:Continue>.
