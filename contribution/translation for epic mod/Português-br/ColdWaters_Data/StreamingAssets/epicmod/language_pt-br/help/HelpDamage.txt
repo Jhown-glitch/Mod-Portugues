@@ -2,7 +2,7 @@ ImageBackground=campaign/images/sea rescue 1
 ImagePosition=0,-30
 ImageHeight=260
 Image=language/help_images/damage_control.png
-ImagePosition=15,-2476
+ImagePosition=15,-2626
 ImageHeight=256
 Image=language/help_images/damage_status.png
 [/Image]

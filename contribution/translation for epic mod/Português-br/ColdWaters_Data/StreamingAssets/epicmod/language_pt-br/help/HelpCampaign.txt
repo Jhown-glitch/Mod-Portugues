@@ -1,8 +1,8 @@
 ImageBackground=campaign/images/sea rescue 2
-ImagePosition=160,-676
+ImagePosition=160,-740
 ImageHeight=450
 Image=language/help_images/port.png
-ImagePosition=15,-1425
+ImagePosition=15,-1475
 ImageHeight=260
 Image=language/help_images/stratmap.png
 [/Image]
@@ -48,8 +48,8 @@ Sai do porto, levando você ao Mapa Estratégico para
 navegação.
 
 <DICTIONARY:RearmRepair>
-Abre os painéis de armazenamento e controle de danos para recarga
-de armas e realizando reparos.
+Abre os painéis de armazenamento e controle de danos para
+recarga de armas e realizando reparos.
 <KEY:Stores> e <KEY:Damage Report> também podem ser usados.
 
 <DICTIONARY:ReviewOrders>
@@ -73,7 +73,10 @@ Abrir o Briefing nas proximidades de um porto amigo entrará nesse porto. Um íc
 
 
 <size=24><color=maroon><b>MAPA ESTRATÉGICO</b></color></size>
-O mapa estratégico é usado para navegar nos oceanos e fornece uma visão geral do teatro de guerra. O mapa estratégico consiste em uma barra de ferramentas no canto superior esquerdo, um mapa marítimo do teatro de operações junto com vários ícones. Com exceção das barreiras do porto e do SOSUS, os ícones são coloridos de acordo com o lado pelo qual lutam.
+O mapa estratégico é usado para navegar nos oceanos e fornece uma visão geral do mapa de guerra. O mapa estratégico contém uma barra de ferramentas no canto superior esquerdo, um mapa marítimo de operações junto com vários ícones. Com exceção das barreiras do porto e do SOSUS, os ícones são coloridos de acordo com o lado pelo qual lutam.
+
+
+
 
 
 
