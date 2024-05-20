@@ -1,29 +1,29 @@
 ImageBackground=campaign/images/nato submarine 2
-ImagePosition=15,-338
+ImagePosition=15,-358
 ImageHeight=260
 Image=language/help_images/tacmap_icons.png
-ImagePosition=15,-2528
+ImagePosition=15,-2628
 ImageHeight=260
 Image=language/help_images/signature.png
-ImagePosition=15,-3292
+ImagePosition=15,-3432
 ImageHeight=260
 Image=language/help_images/recognition_manual.png
 [/Image]
-<size=24><color=maroon><b>TACTICAL MAP</b></color></size>
-The Tactical Map, and associated Mini-Map, provides an overview of the battle based on your submarine's sensor data. This data is crucial to maintain situational awareness and stay in control of a battle as it unfolds. In addition, the Tactical Map is linked to your submarine's weapon systems to provide targeting information.
+<size=24><color=maroon><b>MAPA TÁTICO</b></color></size>
+O Mapa Tático, e o Mini-Mapa associado, fornecem uma visão geral da batalha com base nos dados dos sensores do seu submarino. Esses dados são cruciais para manter a consciência situacional e controlar uma batalha à medida que ela se desenrola. Além disso, o Mapa Tático está vinculado aos sistemas de armas do seu submarino para fornecer informações de direcionamento.
 
-<b>USING THE MAP</b>
-Note that when using the mini-map, mouse pointer must be over it in order to use pan and zoom.
-<b>Pan Map:</b> <LEFTCLICK> and drag the mouse.
-<b>Zoom Map:</b> <MOUSEWHEEL> or <KEY:Zoom In> and <KEY:Zoom Out>.
-<b>Centre Map:</b> <KEY:Centre Map> will place your submarine in the center of the map.
-<b>Auto-Centre Map:</b> <KEY:Auto Centre Map> locks the map to your submarine.
-<b>Maximise Map:</b> <KEY:Tactical Map> toggles between mini-map and full screen map. Auto hides mini-map when switching to full screen.
-<b>Hide Mini-Map:</b> <LEFTCLICK> in upper portion of the mini-map hides/restores it. If you lose your submarine from mini-map, maximize map, drag your submarine to the center, then minimize map.
+<b>USANDO O MAPA</b>
+Note que ao usar o mini-mapa, o ponteiro do mouse deve estar sobre ele para usar pan e zoom.
+<b>Panorâmica do Mapa:</b> <LEFTCLICK> e arraste o mouse.
+<b>Zoom do Mapa:</b> <MOUSEWHEEL> ou <KEY:Zoom In> e <KEY:Zoom Out>.
+<b>Centralizar Mapa:</b> <KEY:Centre Map> colocará seu submarino no centro do mapa.
+<b>Auto-Centralizar Mapa:</b> <KEY:Auto Centre Map> bloqueia o mapa no seu submarino.
+<b>Maximizar Mapa:</b> <KEY:Tactical Map> alterna entre mini-mapa e mapa em tela cheia. Esconde automaticamente o mini-mapa ao alternar para tela cheia.
+<b>Esconder Mini-Mapa:</b> <LEFTCLICK> na parte superior do mini-mapa para esconder/mostrar. Se perder seu submarino no mini-mapa, maximize o mapa, arraste seu submarino para o centro, depois minimize o mapa.
 
-The grid scale of the tactical map is shown in the upper right when in full screen mode.
+A escala da grade do mapa tático é exibida no canto superior direito quando em modo de tela cheia.
 
-Icons displayed on the map are as follows and are described in further detail below:
+Os ícones exibidos no mapa são os seguintes e são descritos em mais detalhes abaixo:
 
 
 
@@ -40,87 +40,87 @@ Icons displayed on the map are as follows and are described in further detail be
 
 
 
-<b>VESSEL POSITIONS</b>
-The map displays your submarine position and trail which is always 100% accurate. <LEFTCLICK> on your submarine will move the camera to it.
+<b>POSIÇÕES DE NAVIOS</b>
+O mapa exibe a posição e trilha do seu submarino, que são sempre 100% precisas. <LEFTCLICK> no seu submarino moverá a câmera para ele.
 
-Contacts are displayed based on their current target solution, namely how accurately their speed, course and range have been determined. The better the solution, (closer to 100%) the more accurate will be the displayed position of that contact. Once course is known, the icon will change so as to display that course and once the solution is at a high enough level of confidence, that contact will be updated more frequently on the map as well as have a trail showing where it has travelled. The process of building up information about a contact is termed Target Motion Analysis and is explained in more detail below.
+Os contatos são exibidos com base na solução de alvo atual, ou seja, quão precisamente sua velocidade, curso e alcance foram determinados. Quanto melhor a solução (mais próxima de 100%), mais precisa será a posição exibida desse contato. Uma vez que o curso é conhecido, o ícone mudará para exibir esse curso e, uma vez que a solução atinge um nível de confiança alto o suficiente, o contato será atualizado mais frequentemente no mapa, assim como terá uma trilha mostrando por onde viajou. O processo de acumular informações sobre um contato é denominado Análise de Movimento do Alvo e é explicado em mais detalhes abaixo.
 
-<LEFTCLICK> on a contact will either;
-1) select that contact.
-2) if already selected, move camera to that contact.
+<LEFTCLICK> em um contato irá:
+1) selecionar esse contato.
+2) se já estiver selecionado, mover a câmera para esse contato.
 
-<b>TORPEDOES</b>
-If your sensors can detect a torpedo, it will be displayed on the map along with its trail. Player fired torpedoes on a wire or straight running torpedoes are always displayed since their position does not require detection by your sensors.
+<b>TORPEDOS</b>
+Se seus sensores puderem detectar um torpedo, ele será exibido no mapa junto com sua trilha. Torpedos disparados pelo jogador em um fio ou torpedos de curso reto são sempre exibidos, pois sua posição não requer detecção por seus sensores.
 
-<LEFTCLICK> on a torpedo will either;
-1) select that torpedo for weapon guidance (if friendly and on a wire).
-2) move camera to that torpedo.
+<LEFTCLICK> em um torpedo irá:
+1) selecionar esse torpedo para orientação de armas (se for amigável e estiver em um fio).
+2) mover a câmera para esse torpedo.
 
-<b>WEAPON WAYPOINTS</b>
-When firing a weapon, a waypoint must be set. Simply <RIGHTCLICK> to place the waypoint at the current mouse position over the map. To edit a waypoint, <LEFTCLICK> to pick it up and <RIGHTCLICK> to place it at the current mouse position. Only weapons on an active wire may have their waypoint edited if they have not yet reached their waypoint and become activated.
+<b>PONTOS DE REFERÊNCIA DE ARMAS</b>
+Ao disparar uma arma, um ponto de referência deve ser definido. Simplesmente <RIGHTCLICK> para colocar o ponto de referência na posição atual do mouse sobre o mapa. Para editar um ponto de referência, <LEFTCLICK> para pegá-lo e <RIGHTCLICK> para colocá-lo na posição atual do mouse. Somente armas em um fio ativo podem ter seu ponto de referência editado, se ainda não atingiram seu ponto de referência e se ativaram.
 
-<b>WEAPON LEAD INDICATOR</b>
-When firing torpedoes, a lead indicator appears in front of the target to show the intercept point for that weapon. This can be used to assist with setting your waypoint. Lead indicator is only shown if the target solution is at maximum.
+<b>INDICADOR DE PONTO DE INTERCEPTAÇÃO DE ARMAS</b>
+Ao disparar torpedos, um indicador de ponto de interceptação aparece à frente do alvo para mostrar o ponto de interceptação para essa arma. Isso pode ser usado para auxiliar na definição do seu ponto de referência. O indicador de ponto de interceptação é mostrado apenas se a solução de alvo estiver no máximo.
 
-<b>NOISEMAKERS AND KNUCKLES</b>
-Countermeasures dropped by vessels or disturbances in the water induced by putting the rudder hard to one side at high speeds (a knuckle) are also indicated on the Tactical Map. These interfere with torpedo homing.
+<b>ISCAS ACÚSTICAS E TURBILHÕES</b>
+Contramedidas lançadas por navios ou perturbações na água induzidas ao colocar o leme totalmente para um lado em altas velocidades (um turbilhão) também são indicadas no Mapa Tático. Estes interferem na homing do torpedo.
 
-<b>DIRECTIONAL INDICATORS</b>
-Active sonar pings that your submarine can hear are displayed as a line from your submarine in the direction the ping was heard from. Such pings from other vessels or active sonobuoys dropped by aircraft and are displayed in yellow. Pings from terminal homing active torpedoes (friendly or enemy) are displayed in red. Whenever your ESM mast is extended, radar emissions from vessels or aircraft are displayed in a similar way to indicate the direction of the emitting source. These indicators are shown in purple.
+<b>INDICADORES DIRECIONAIS</b>
+Pings de sonar ativo que seu submarino pode ouvir são exibidos como uma linha do seu submarino na direção de onde o ping foi ouvido. Esses pings de outros navios ou sonoboias ativas lançadas por aeronaves são exibidos em amarelo. Pings de torpedos ativos em homing terminal (amigáveis ou inimigos) são exibidos em vermelho. Sempre que seu mastro ESM estiver estendido, emissões de radar de navios ou aeronaves são exibidas de maneira semelhante para indicar a direção da fonte emissora. Esses indicadores são mostrados em roxo.
 
-<b>AIRCRAFT AND MISSILES</b>
-Airborne objects are not shown on the Tactical Map.
+<b>AERONAVES E MÍSSEIS</b>
+Objetos aéreos não são mostrados no Mapa Tático.
 
-<b>ICE and MINES</b>
-As ice and mines are detected by your high frequency navigation sonar, they are mapped onto the tactical map. Ice may also be mapped by marking it with the periscope, see Sensors, Periscope section for more information.
+<b>GELO E MINAS</b>
+À medida que o gelo e as minas são detectados pelo seu sonar de navegação de alta frequência, eles são mapeados no mapa tático. O gelo também pode ser mapeado marcando-o com o periscópio, veja a seção Sensores, Periscópio para mais informações.
 
-<b>PORT</b>
-Shows the location of ports.
+<b>PORTO</b>
+Mostra a localização dos portos.
 
-<b>DEPLOYMENT ZONE</b>
-Circular area used for Insertion missions to deploy special forces or in Land Strike missions to fire land attack missiles into.
+<b>ZONA DE LANÇAMENTO</b>
+Área circular usada para missões de inserção de forças especiais ou em missões de ataque terrestre para lançar mísseis de ataque terrestre.
 
-<b>MAP BOUNDARY</b>
-Near the outside of the map is a red shaded boundary which demarcate the limit of the combat zone. While it is possible for other vessels, aircraft or weapons to move into this region, navigating your submarine here immediately ends combat. Ending combat in this manner does not require breaking contact with the enemy.
+<b>LIMITES DO MAPA</b>
+Perto da borda do mapa há uma área sombreada em vermelho que demarca o limite da zona de combate. Embora seja possível que outros navios, aeronaves ou armas se movam para esta região, navegar seu submarino para cá termina o combate imediatamente. Terminar o combate dessa maneira não exige quebrar o contato com o inimigo.
 
 
-<size=24><color=maroon><b>CONTACTS</b></color></size>
-Contacts are sound sources, usually vessels, detected by your sensors. The second data column above the mini-map displays information about the current contact.
-<b>CONTACT NAME</b> The name or designation of the contact
-<b>BRG</b> Bearing - direction from your submarine to the contact
-<b>CSE</b> Contact's course
-<b>SPD</b> Contact's speed
-<b>RNG</b> Range to contact
-<b>SOL</b> Target Solution quality, namely how accurate information about the contact is
+<size=24><color=maroon><b>CONTATOS</b></color></size>
+Os contatos são fontes sonoras, geralmente navios, detectadas pelos seus sensores. A segunda coluna de dados acima do mini-mapa exibe informações sobre o contato atual.
+<b>NOME DO CONTATO</b> O nome ou designação do contato
+<b>AZ</b> Rumo - direção do seu submarino para o contato
+<b>CRS</b> Curso do contato
+<b>VLC</b> Velocidade do contato
+<b>ALC</b> Alcance ao contato
+<b>SOL</b> Qualidade da solução de alvo, ou seja, quão precisas são as informações sobre o contato
 
-For a given contact, the position and amount of detail plotted on the tactical map is based on the target solution confidence.
+Para um determinado contato, a posição e a quantidade de detalhes colocados no mapa tático são baseados na confiança da solução de alvo.
 
 
-<size=24><color=maroon><b>TARGET MOTION ANALYSIS (TMA)</b></color></size>
-TMA is the observation of a contact over time to build up information about its course, speed and range. This accumulated data is called the target solution and as mentioned above, calculating an accurate target solution accurately plots a contact's position and movement on the Tactical Map. With an accurate target solution you have a much better chance to hit with weapons and knowing when you might be risking detection by straying into enemy sensor range.
+<size=24><color=maroon><b>ANÁLISE DE MOVIMENTO DO ALVO (TMA)</b></color></size>
+TMA é a observação de um contato ao longo do tempo para acumular informações sobre seu curso, velocidade e alcance. Esses dados acumulados são chamados de solução de alvo e, como mencionado acima, calcular uma solução de alvo precisa define com precisão a posição e o movimento de um contato no Mapa Tático. Com uma solução de alvo precisa, você tem uma chance muito maior de acertar com armas e saber quando pode estar arriscando detecção ao entrar no alcance dos sensores inimigos.
 
-Rate of Target Solution Accuracy Increases with:
-- Selecting a contact as your current contact
-- Stronger signal detected from the contact.
-- Knowing the type of contact you are tracking, see Signature Analysis.
-- High rate of bearing change over time to contact.
-- Accurately ranging the contact using active sonar, laser (marking the target with periscope) or radar.
+A precisão da solução de alvo aumenta com:
+- Selecionar um contato como seu contato atual.
+- Sinal mais forte detectado do contato.
+- Conhecer o tipo de contato que você está rastreando, veja Análise de Assinatura.
+- Alta taxa de mudança de rumo ao longo do tempo para o contato.
+- Determinar com precisão o alcance do contato usando sonar ativo, laser (marcando o alvo com o periscópio) ou radar.
 
-Rate of Target Solution Accuracy Decreases with:
-- Weaker signal coming from the contact.
-- An unclassified or incorrectly classified contact.
-- Changes in contact course or speed.
-- Losing contact with the target.
-- Low rate of bearing change over time to contact.
-- Contact firing a decoy torpedo.
+A precisão da solução de alvo diminui com:
+- Sinal mais fraco vindo do contato.
+- Um contato não classificado ou incorretamente classificado.
+- Mudanças no curso ou velocidade do contato.
+- Perder o contato com o alvo.
+- Baixa taxa de mudança de rumo ao longo do tempo para o contato.
+- Contato disparando um torpedo decoy.
 
-TMA is automatically performed by your crew as long as the contact is maintained. Losing a contact results in decay of the target solution over time as the data becomes less relevant to where that contact might actually be now.
+O TMA é realizado automaticamente pela sua tripulação enquanto o contato é mantido. Perder um contato resulta na deterioração da solução de alvo ao longo do tempo, à medida que os dados se tornam menos relevantes para onde esse contato pode estar agora.
 
-Detection and analysis of a contact is based on your submarine's sensors which are described in detail in the Sensors section.
+A detecção e análise de um contato são baseadas nos sensores do seu submarino, que são descritos em detalhes na seção Sensores.
 
 
-<size=24><color=maroon><b>SIGNATURE ANALYSIS</b></color></size>
-Passive sonar signals from a contact can be compared to known sound profiles of various vessels in order to identify the class of ship you are tracking, a process termed signature analysis. Over time, your crew will automatically perform this task however a skilled commander can speed up the process. The sooner a contact has been correctly classified, less time TMA will take and the quicker you can identify threats and prioritise targets. Note that a contact may also be classified by raising the periscope, establishing visual contact and marking that target (see Sensors, Periscope section for more information).
+<size=24><color=maroon><b>ANÁLISE DE ASSINATURA</b></color></size>
+Sinais de sonar passivo de um contato podem ser comparados a perfis sonoros conhecidos de vários navios para identificar a classe do navio que você está rastreando, um processo denominado análise de assinatura. Com o tempo, sua tripulação realizará essa tarefa automaticamente, no entanto, um comandante habilidoso pode acelerar o processo. Quanto mais cedo um contato for classificado corretamente, menos tempo levará o TMA e mais rápido você poderá identificar ameaças e priorizar alvos. Observe que um contato também pode ser classificado levantando o periscópio, estabelecendo contato visual e marcando esse alvo (consulte Sensores, seção Periscópio para obter mais informações).
 
 
 
@@ -137,23 +137,23 @@ Passive sonar signals from a contact can be compared to known sound profiles of 
 
 
 
-Use <KEY:Signature> or click on the Signature tab in the bottom right to open the Signature Panel and view the current contact's sound profile (lower panel). The upper panel contains a database of known vessel profiles for comparison. Following the vessel name is the designation for that type of vessel, see Reference section for a list of ship designations.
+Use <KEY:Signature> ou clique na aba de Assinatura no canto inferior direito para abrir o Painel de Assinatura e visualizar o perfil sonoro do contato atual (painel inferior). O painel superior contém um banco de dados de perfis conhecidos de navios para comparação. Após o nome do navio está a designação para esse tipo de navio, veja a seção de Referência para uma lista de designações de navios.
 
-Use <KEY:Context Menu Next> and <KEY:Context Menu Previous> to cycle through the various profile signatures until the lines (sound frequency peaks) between the two profiles correspond.  Finally use <KEY:Context Menu Set> to classify the contact as the class you've identified when confident the profiles are a match. Alternatively you may <LEFTCLICK> the arrows or checkbox.
+Use <KEY:Context Menu Next> e <KEY:Context Menu Previous> para percorrer os vários perfis até que as linhas (picos de frequência sonora) entre os dois perfis correspondam. Finalmente, use <KEY:Context Menu Set> para classificar o contato como a classe que você identificou quando tiver certeza de que os perfis são correspondentes. Alternativamente, você pode <LEFTCLICK> nas setas ou na caixa de seleção.
 
-If the classification is correct, TMA rate will increase, however if incorrect it will suffer a penalty. Your crew will eventually remedy an incorrectly classified contact, but valuable time will have been lost or you might be attacking the wrong target.
+Se a classificação estiver correta, a taxa de TMA aumentará, no entanto, se estiver incorreta, sofrerá uma penalidade. Sua tripulação eventualmente corrigirá um contato classificado incorretamente, mas tempo valioso terá sido perdido ou você pode estar atacando o alvo errado.
 
-Sound profile for the contact is susceptible to flow noise, such that increasing speed increases background noise, making it more difficult to resolve the finer details of the profile and determine a correct match.
+O perfil sonoro do contato é suscetível ao ruído de fluxo, de modo que aumentar a velocidade aumenta o ruído de fundo, tornando mais difícil resolver os detalhes mais finos do perfil e determinar uma correspondência correta.
 
-The Signature Analysis panel also contains additional information about your ownship and contact sensors.
-"SIG STR OWNSHIP" is the signal strength of your ownship's various sensors. It lists the intensity of the sound detected in decibels for your active, passive and towed array (if applicable) sonar.
+O painel de Análise de Assinatura também contém informações adicionais sobre seus próprios sensores e os sensores do contato.
+"SINAL PRÓPRIO" é a intensidade do sinal dos diversos sensores do seu submarino. Lista a intensidade do som detectado em decibéis para seu sonar ativo, passivo e de matriz rebocada (se aplicável).
 
-Likewise "SNS COMP" (sensor comparison) is comparison of the contact's various sensors. Again it lists active, passive and towed array (if applicable) intensity. This information can be crucial to determine how close you might be to being detected by the enemy. However if the contact has yet to be classified, this information is not available. Worse still, if the contact is incorrectly classified you might be looking at the wrong vessel's sensor data.
+Da mesma forma, "COMP SNS" (comparação de sensores) é a comparação dos vários sensores do contato. Novamente, lista a intensidade do sonar ativo, passivo e de matriz rebocada (se aplicável). Essas informações podem ser cruciais para determinar quão perto você pode estar de ser detectado pelo inimigo. No entanto, se o contato ainda não tiver sido classificado, essas informações não estarão disponíveis. Pior ainda, se o contato for classificado incorretamente, você pode estar olhando para os dados do sensor do navio errado.
 
-Negative values are theoretical calculations based on current noise levels and range for the current ocean conditions.
+Valores negativos são cálculos teóricos baseados nos níveis de ruído atuais e no alcance para as condições oceânicas atuais.
 
 
-<size=24><color=maroon><b>RECOGNITION MANUAL</b></color></size>
+<size=24><color=maroon><b>MANUAL DE RECONHECIMENTO</b></color></size>
 
 
 
@@ -170,4 +170,4 @@ Negative values are theoretical calculations based on current noise levels and r
 
 
 
-When attempting to classify a contact or while visually spotting with the periscope, the recognition manual offers in-depth information about the capabilities of the various units in the game. You open it by using M or by clicking the ship icon in the upper right portion of the screen. It is cross-linked with the Signature Analysis window so that cycling through profiles in one also updates the other. Clicking on the weapons and sensors in red opens a text window with more in-depth information about them. Use this information to establish whether or not the selected contact is a threat to you.
+Ao tentar classificar um contato ou ao avistar visualmente com o periscópio, o manual de reconhecimento oferece informações detalhadas sobre as capacidades das várias unidades no jogo. Você pode abri-lo usando M ou clicando no ícone do navio na parte superior direita da tela. Ele está interligado com a janela de Análise de Assinatura, de modo que percorrer os perfis em um também atualiza o outro. Clicar nas armas e sensores em vermelho abre uma janela de texto com mais informações detalhadas sobre eles. Use essas informações para determinar se o contato selecionado é uma ameaça para você.
