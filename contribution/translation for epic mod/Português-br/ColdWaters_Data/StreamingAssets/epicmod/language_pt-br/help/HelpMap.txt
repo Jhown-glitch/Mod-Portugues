@@ -1,11 +1,11 @@
 ImageBackground=campaign/images/nato submarine 2
-ImagePosition=15,-338
+ImagePosition=15,-358
 ImageHeight=260
 Image=language/help_images/tacmap_icons.png
-ImagePosition=15,-2528
+ImagePosition=15,-2628
 ImageHeight=260
 Image=language/help_images/signature.png
-ImagePosition=15,-3292
+ImagePosition=15,-3432
 ImageHeight=260
 Image=language/help_images/recognition_manual.png
 [/Image]
@@ -24,6 +24,21 @@ Note que ao usar o mini-mapa, o ponteiro do mouse deve estar sobre ele para usar
 A escala da grade do mapa tático é exibida no canto superior direito quando em modo de tela cheia.
 
 Os ícones exibidos no mapa são os seguintes e são descritos em mais detalhes abaixo:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <b>POSIÇÕES DE NAVIOS</b>
 O mapa exibe a posição e trilha do seu submarino, que são sempre 100% precisas. <LEFTCLICK> no seu submarino moverá a câmera para ele.
@@ -62,34 +77,36 @@ Objetos aéreos não são mostrados no Mapa Tático.
 <b>PORTO</b>
 Mostra a localização dos portos.
 
-<b>ZONA DE DESDOBRAMENTO</b>
-Área circular usada para missões de inserção para desdobrar forças especiais ou em missões de ataque terrestre para lançar mísseis de ataque terrestre.
+<b>ZONA DE LANÇAMENTO</b>
+Área circular usada para missões de inserção de forças especiais ou em missões de ataque terrestre para lançar mísseis de ataque terrestre.
 
 <b>LIMITES DO MAPA</b>
 Perto da borda do mapa há uma área sombreada em vermelho que demarca o limite da zona de combate. Embora seja possível que outros navios, aeronaves ou armas se movam para esta região, navegar seu submarino para cá termina o combate imediatamente. Terminar o combate dessa maneira não exige quebrar o contato com o inimigo.
 
+
 <size=24><color=maroon><b>CONTATOS</b></color></size>
 Os contatos são fontes sonoras, geralmente navios, detectadas pelos seus sensores. A segunda coluna de dados acima do mini-mapa exibe informações sobre o contato atual.
 <b>NOME DO CONTATO</b> O nome ou designação do contato
-<b>BRG</b> Rumo - direção do seu submarino para o contato
-<b>CSE</b> Curso do contato
-<b>SPD</b> Velocidade do contato
-<b>RNG</b> Alcance ao contato
+<b>AZ</b> Rumo - direção do seu submarino para o contato
+<b>CRS</b> Curso do contato
+<b>VLC</b> Velocidade do contato
+<b>ALC</b> Alcance ao contato
 <b>SOL</b> Qualidade da solução de alvo, ou seja, quão precisas são as informações sobre o contato
 
-Para um determinado contato, a posição e a quantidade de detalhes plotados no mapa tático são baseados na confiança da solução de alvo.
+Para um determinado contato, a posição e a quantidade de detalhes colocados no mapa tático são baseados na confiança da solução de alvo.
+
 
 <size=24><color=maroon><b>ANÁLISE DE MOVIMENTO DO ALVO (TMA)</b></color></size>
-TMA é a observação de um contato ao longo do tempo para acumular informações sobre seu curso, velocidade e alcance. Esses dados acumulados são chamados de solução de alvo e, como mencionado acima, calcular uma solução de alvo precisa plota com precisão a posição e o movimento de um contato no Mapa Tático. Com uma solução de alvo precisa, você tem uma chance muito maior de acertar com armas e saber quando pode estar arriscando detecção ao entrar no alcance dos sensores inimigos.
+TMA é a observação de um contato ao longo do tempo para acumular informações sobre seu curso, velocidade e alcance. Esses dados acumulados são chamados de solução de alvo e, como mencionado acima, calcular uma solução de alvo precisa define com precisão a posição e o movimento de um contato no Mapa Tático. Com uma solução de alvo precisa, você tem uma chance muito maior de acertar com armas e saber quando pode estar arriscando detecção ao entrar no alcance dos sensores inimigos.
 
-A taxa de aumento da precisão da solução de alvo aumenta com:
-- Selecionar um contato como seu contato atual
+A precisão da solução de alvo aumenta com:
+- Selecionar um contato como seu contato atual.
 - Sinal mais forte detectado do contato.
 - Conhecer o tipo de contato que você está rastreando, veja Análise de Assinatura.
 - Alta taxa de mudança de rumo ao longo do tempo para o contato.
 - Determinar com precisão o alcance do contato usando sonar ativo, laser (marcando o alvo com o periscópio) ou radar.
 
-A taxa de aumento da precisão da solução de alvo diminui com:
+A precisão da solução de alvo diminui com:
 - Sinal mais fraco vindo do contato.
 - Um contato não classificado ou incorretamente classificado.
 - Mudanças no curso ou velocidade do contato.
@@ -101,10 +118,24 @@ O TMA é realizado automaticamente pela sua tripulação enquanto o contato é m
 
 A detecção e análise de um contato são baseadas nos sensores do seu submarino, que são descritos em detalhes na seção Sensores.
 
-<size=24><color=maroon><b>ANÁLISE DE ASSINATURA</b></color></size>
-Sinais de sonar passivo de um contato podem ser comparados a perfis sonoros conhecidos de vários navios para identificar a classe do navio que você está rastreando, um processo denominado análise de assinatura. Com o tempo, sua tripulação realizará essa tarefa automaticamente, no entanto, um comandante habilidoso pode acelerar o processo. Quanto mais cedo um contato for corretamente classificado, menos tempo o TMA levará e mais rápido você poderá identificar ameaças e priorizar alvos. Observe que um contato também pode ser classificado levant
 
-ando o periscópio, estabelecendo contato visual e marcando esse alvo (veja a seção Sensores, Periscópio para mais informações).
+<size=24><color=maroon><b>ANÁLISE DE ASSINATURA</b></color></size>
+Sinais de sonar passivo de um contato podem ser comparados a perfis sonoros conhecidos de vários navios para identificar a classe do navio que você está rastreando, um processo denominado análise de assinatura. Com o tempo, sua tripulação realizará essa tarefa automaticamente, no entanto, um comandante habilidoso pode acelerar o processo. Quanto mais cedo um contato for classificado corretamente, menos tempo levará o TMA e mais rápido você poderá identificar ameaças e priorizar alvos. Observe que um contato também pode ser classificado levantando o periscópio, estabelecendo contato visual e marcando esse alvo (consulte Sensores, seção Periscópio para obter mais informações).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Use <KEY:Signature> ou clique na aba de Assinatura no canto inferior direito para abrir o Painel de Assinatura e visualizar o perfil sonoro do contato atual (painel inferior). O painel superior contém um banco de dados de perfis conhecidos de navios para comparação. Após o nome do navio está a designação para esse tipo de navio, veja a seção de Referência para uma lista de designações de navios.
 
@@ -121,6 +152,22 @@ Da mesma forma, "COMP SNS" (comparação de sensores) é a comparação dos vár
 
 Valores negativos são cálculos teóricos baseados nos níveis de ruído atuais e no alcance para as condições oceânicas atuais.
 
+
 <size=24><color=maroon><b>MANUAL DE RECONHECIMENTO</b></color></size>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ao tentar classificar um contato ou ao avistar visualmente com o periscópio, o manual de reconhecimento oferece informações detalhadas sobre as capacidades das várias unidades no jogo. Você pode abri-lo usando M ou clicando no ícone do navio na parte superior direita da tela. Ele está interligado com a janela de Análise de Assinatura, de modo que percorrer os perfis em um também atualiza o outro. Clicar nas armas e sensores em vermelho abre uma janela de texto com mais informações detalhadas sobre eles. Use essas informações para determinar se o contato selecionado é uma ameaça para você.
