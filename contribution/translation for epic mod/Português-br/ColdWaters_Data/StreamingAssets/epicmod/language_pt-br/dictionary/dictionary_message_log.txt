@@ -132,56 +132,56 @@ CommandoDeployed=Equipe de Operações Especiais está a caminho
 LandStrikeHoming=Comando, arma <LANDTARGETSTATUS> atacando alvo terrestre
 LandStrikeComplete=Comando, todas as armas de ataque terrestre foram lançadas, ataque terrestre conclúido
 
-SubsystemDamaged=Comando, <SUBSYSTEM> damaged, time to repair <TIMETOREPAIR> minutes
-SubsystemDestroyed=Comando, <SUBSYSTEM> offline, requires repair at port
-SubsystemRepaired=Comando, <SUBSYSTEM> repaired
+SubsystemDamaged=Comando, <SUBSYSTEM> danificado, tempo para reparar <TIMETOREPAIR> minutos
+SubsystemDestroyed=Comando, <SUBSYSTEM> offline, requer reparo no porto
+SubsystemRepaired=Comando, <SUBSYSTEM> reparado
 
-FloodingInCompartment=Flooding in the <COMPARTMENT>!
-DCPartyToCompartment=Damage control parties, lay to the <COMPARTMENT>!
+FloodingInCompartment=<COMPARTMENT> está inundando!
+DCPartyToCompartment=Equipe de controle de danos, vão para <COMPARTMENT>!
 
 [WATCH OFFICER]
-RunSilentOn=Rig ship for ultra quiet
-RunSilentOff=Releasing ship from ultra quiet
+RunSilentOn=Prepare o navio para silêncio total
+RunSilentOff=Liberando navio do silêncio total
 
-NewVisualContact=New visual contact bearing <BRG>, designate <CONTACT>
-NewRADARContact=New RADAR contact bearing <BRG>, designate <CONTACT>
-NewESMContact=New ESM contact bearing <BRG>, designate <CONTACT>
-LostVisualContact=Contact <CONTACT> visual contact lost, bearing <BRG>
-LostRADARContact=Contact <CONTACT> RADAR contact lost, bearing <BRG>
-LostESMContact=Contact <CONTACT> ESM contact lost, bearing <BRG>
-ReEstablishVisualContact=Contact <CONTACT>, bearing <BRG>, contact re-established
-ReEstablishRADARContact=Contact <CONTACT>, bearing <BRG>, contact re-established
-ReEstablishESMContact=Contact <CONTACT>, bearing <BRG>, contact re-established
+NewVisualContact=Novo contato visual Azimute:<BRG>, designado <CONTACT>
+NewRADARContact=Novo contato no radar Azimute:<BRG>, designado <CONTACT>
+NewESMContact=Novo contato ESM Azimute:<BRG>, designado <CONTACT>
+LostVisualContact=Contato <CONTACT> contato visual perdido, azimute:<BRG>
+LostRADARContact=Contato <CONTACT> contato no radar perdido, azimute:<BRG>
+LostESMContact=Contato <CONTACT> contato ESM perdido, azimute:<BRG>
+ReEstablishVisualContact=Contato <CONTACT>, azimute:<BRG>, contato visual re-estabelecido
+ReEstablishRADARContact=Contato <CONTACT>, azimute:<BRG>, contato no radar re-estabelecido
+ReEstablishESMContact=Contato <CONTACT>, azimute:<BRG>, contato ESM re-estabelecido
 
-CannotUseMasts=Cannot raise masts under <THRESHOLD> <FEET>
-RaiseMast0=Up scope
-LowerMast0=Down scope
-StowMast0=Comando, the periscope is stowed and rigged for dive
+CannotUseMasts=Impossível liberar mastros abaixo de <THRESHOLD><FEET>
+RaiseMast0=Subir periscópio
+LowerMast0=Abaixar periscópio
+StowMast0=Comando, o periscópio está guardado e pronto para submersão
 
-RaiseMast1=Raise the ESM mast
-LowerMast1=Lower the ESM mast
-StowMast1=Comando, radio, the ESM mast is stowed and rigged for dive
+RaiseMast1=Levantar mastro ESM
+LowerMast1=Abaixar mastro ESM
+StowMast1=Comando, rádio, o mastro ESM está guardado e pronto para submersão
 
-RaiseMast2=Raise the RADAR mast
-LowerMast2=Lower the RADAR mast
-StowMast2=Comando, radio, the RADAR mast is stowed and rigged for dive
+RaiseMast2=Levantar mastro do radar
+LowerMast2=Abaixar mastro do radar
+StowMast2=Comando, rádio, o radar está guardado e pronto para submersão
 
 [FLYCO]
-LaunchPlayerAircraft=Comando, Flyco, Launching Aircraft.
-LaunchPlayerAircraftComplete=Comando, Flyco, Launching Aircraft Complete.
-LaunchPlayerAircraftNoTransitionSpots=Comando, Flyco, Unable to Launch Aircraft due Traffic.
-TransitPlayerAircraft=Comando, Flyco, Aircraft Transiting to Point.
-DropWeaponPlayerAircraft=Comando, Flyco, Aircraft Dropping Weapon.
-OrbitPlayerAircraft=Comando, Flyco, Aircraft Orbiting Waypoint.
-ReturnPlayerAircraft=Comando, Flyco, Aircraft Returning to Base.
-DestroyedPlayerAircraft=Comando, Flyco, Aircraft Destroyed.
-LandPlayerAircraft=Comando, Flyco, Aircraft Landing.
-LandPlayerAircraftNoDeckSpots=Comando, Flyco, Aircraft Unable to Land Aircraft due Traffic.
-RecoveredPlayerAircraft=Comando, Flyco, Aircraft Recovered.
-InactivePlayerAircraft=Comando, Flyco, Aircraft Stowed.
-ReadyPlayerAircraft=Comando, Flyco, Aircraft Ready to Launch.
+LaunchPlayerAircraft=Comando, Flyco, Lançando aeronave.
+LaunchPlayerAircraftComplete=Comando, Flyco, Lançamento de aeronave concluído.
+LaunchPlayerAircraftNoTransitionSpots=Comando, Flyco, Impossível lançar aeronave há tráfego na pista.
+TransitPlayerAircraft=Comando, Flyco, Aeronave em trânsito para o ponto.
+DropWeaponPlayerAircraft=Comando, Flyco, Aeronave largando arma.
+OrbitPlayerAircraft=Comando, Flyco, Aeronave está orbitando o ponto.
+ReturnPlayerAircraft=Comando, Flyco, Aeronave retornando para a base.
+DestroyedPlayerAircraft=Comando, Flyco, Aeronave destruída.
+LandPlayerAircraft=Comando, Flyco, Aeronave pousando.
+LandPlayerAircraftNoDeckSpots=Comando, Flyco, tráfego na pista impossível pousar.
+RecoveredPlayerAircraft=Comando, Flyco, Aeronave recuperada.
+InactivePlayerAircraft=Comando, Flyco, Aeronave guardada.
+ReadyPlayerAircraft=Comando, Flyco, Aeronave pronta para lançamento.
 
-
+//sessão abaixo não deve ser editada, edite apenas em caso de tradução dos aúdios
 [AUDIO]
 =============================================================
 [MOD ADDITION]
