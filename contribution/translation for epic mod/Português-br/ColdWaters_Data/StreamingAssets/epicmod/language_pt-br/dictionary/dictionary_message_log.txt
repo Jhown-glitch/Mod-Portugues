@@ -1,19 +1,19 @@
 [HELM]
-NavigationWaypointInfo=Definir curso DIREÇÃO: <BRG>   ALCANCE: <RANGE> <KILOYARD> / <RANGE_MILES> <MILE>
+NavigationWaypointInfo=Definir curso DIREÇÃO:<BRG>   ALCANCE:<RANGE><KILOYARD>/<RANGE_MILES><MILE>
 NavigationSetCourse=Timoneiro, vire para <DIRECTION> para o rumo <BRG>, timoneiro à escuta.
-NavigationAtCourse=Timoneiro, mantenha o curso
+NavigationAtCourse=Timoneiro, mantenha o rumo.
 
 =============================================================
 [MOD ADDITION]
 
 EmergencyDeep=Imersão de emergência! Mergulhar, sim senhor.
 
-TowedArrayOn=Implantando matriz rebocada
-TowedArrayOff=Retraindo matriz rebocada
-TowedArrayBroken=Conjunto rebocado inoperante - são necessários reparos na doca
-TowedArrayUnavaliable=A matriz rebocada não pode ser implantada – as condições são inseguras
+TowedArrayOn=Implantando matriz rebocada.
+TowedArrayOff=Retraindo matriz rebocada.
+TowedArrayBroken=Conjunto rebocado inoperante - são necessários reparos na doca.
+TowedArrayUnavaliable=A matriz rebocada não pode ser implantada – as condições são inseguras.
 
-AboveMaxRange=Comando, sala de torpedos: não podemos disparar <WEAPON>  além de <RANGE> <KILOYARD>
+AboveMaxRange=Comando, sala de torpedos: não podemos disparar <WEAPON>  além de <RANGE><KILOYARD>
 VLSNotReady=VLS não está pronto para disparar.
 FireVLS=Disparar míssil № <VLS_NUMBER>
 
@@ -22,7 +22,7 @@ AntiAirMissileReloading=Não é possível disparar SAM - recarregando.
 AntiAirMissileReloaded=Comando, SAM pronto para disparar.
 AntiAirMissileNoAmmo=Não é possível disparar SAM - sem munição.
 MissileIntercepted=Míssil <MISSILENAME>, M-<MISSILEID> foi abatido.
-MissileNotIntercepted=Falha ao interceptar M-<MISSILEID> <MISSILENAME>
+MissileNotIntercepted=Falha ao interceptar M-<MISSILEID><MISSILENAME>
 OwnMissileIntercepted=Comando, nosso míssil, <MISSILENAME>, foi abatido.
 AirTargetIntercepted=Comando, Alvo aéreo <TARGET> foi abatido.
 AirTargetNotIntercepted=Comando, Alvo aéreo <TARGET> está intacto.
@@ -43,9 +43,9 @@ RBUFireAtWill=RBU! Fogo!
 RBUOnHold=RBU! Cessar fogo!
 RBUNoAmmo=RBUs estão sem munição.
 
-MissileLaunchDetected=Lançamento de míssil detectado! Azimute: <BRG> Distância: <RANGE> <KILOYARD>
-MissileType=Missile type: <MISSILENAME>. ID do alvo definido como: M-<MISSILEID>
-MissileWarning=Míssil se aproximando! Azimute: <BRG> Distância: <RANGE> <KILOYARD> ID: M-<MISSILEID> Tipo: <MISSILENAME>
+MissileLaunchDetected=Lançamento de míssil detectado! Azimute:<BRG>, Distância:<RANGE><KILOYARD>
+MissileType=Tipo de míssil: <MISSILENAME>. ID do alvo definido como: M-<MISSILEID>
+MissileWarning=Míssil se aproximando! Azimute:<BRG>, Distância:<RANGE><KILOYARD> ID:M-<MISSILEID> Tipo:<MISSILENAME>
 FireSunray=Sistemas de interferência ativados!
 SunrayReady=Comando, sistemas de interferência estão prontos
 DeployChaff=Chaff lançado!
@@ -56,17 +56,17 @@ PlayerWasDetected=Comando, Eu acho, que nós fomos detectados.
 =============================================================
 [DIVE OFFICER]
 BlowBallast=Imersão de emergência, dive aye
-1PassingDepth=Passando <DEPTH> <FEET>
-2PassingDepth=Passando <DEPTH> <FEET>
-3PassingDepth=Passando <DEPTH> <FEET>
-TooShallowUnderKeel=Comando, menos de <DEPTH> <FEET> abaixo da quilha.
+1PassingDepth=Passando <DEPTH><FEET>
+2PassingDepth=Passando <DEPTH><FEET>
+3PassingDepth=Passando <DEPTH><FEET>
+TooShallowUnderKeel=Comando, menos de <DEPTH><FEET> abaixo da quilha.
 IceHazard=Comando, sonar relata gelo à frente
 MineHazard=Comando, sonar relata campo minado à frente
 KnuckleFormed=Comando, curva formada
 BallastRecharged=Comando, ar comprimido totalmente carregado, pronto para submergir.
 BallastRecharging=Comando, carregando ar comprimido após imersão de emergência, incapaz de submergir.
-NavigationSetDepth=Definir profundidade para <WANTEDDEPTH> <FEET>, dive aye
-NavigationAtDepth=Comando, profundidade em <WANTEDDEPTH> <FEET>
+NavigationSetDepth=Definir profundidade para <WANTEDDEPTH><FEET>, dive aye
+NavigationAtDepth=Comando, profundidade em <WANTEDDEPTH><FEET>
 
 [MANEUVERING]
 SetSpeed=Definir velocidade para <SPEED> nós, manoeuvring aye
@@ -74,7 +74,7 @@ AtSpeed=Comando, manobrando: definindo velocidade para <SPEED> nós
 BackSpeed=Recuo de emergência, manoeuvring aye
 
 [SONAR]
-NewSonarContact=Comando, sonar: novo contato, Azimute <BRG>, designado <CONTACT>
+NewSonarContact=Comando, sonar: novo contato, Azimute:<BRG>, designado <CONTACT>
 LostSonarContact=Comando, sonar: contato perdido <CONTACT> último azimute <BRG>, contato desaparecido
 LostSonarContactBaffles=Comando, sonar: contato perdido <CONTACT> último azimute <BRG>, contato está no ponto cego
 ReEstablishSonarContact=Comando, sonar: contato <CONTACT> azimute <BRG>, contato re-estabelecido.
@@ -91,46 +91,46 @@ PlayerStopCavitating=Comando, sonar: não estamos mais cavitando
 EnemyCavitating=Comando, sonar: contato <CONTACT> está cavitando
 SwitchToActive=Comando, sonar: alterando sonar para ativo
 SwitchToPassive=Comando, sonar: alterando sonar para passivo
-TorpedoInTheWater=Comando, sonar: Torpedo na água! Torpedo na água! Azimute <BRG>
+TorpedoInTheWater=Comando, sonar: Torpedo na água! Torpedo na água! Azimute:<BRG>
 
 [WLR-9]
-Torpedo na água! Torpedo na água! Azimute <BRG>
-Torpedo está ativo! Azimute <BRG>
+Torpedo na água! Torpedo na água! Azimute:<BRG>
+Torpedo está ativo! Azimute:<BRG>
 Torpedo está à <RANGE> jardas e se aproximando
 
 [TORPEDO ROOM]
-LoadWeapon=Comando, sala do torpedo: carregado <WEAPON> tubo <TUBE>. Torpedo room aye
-TubeDestroyed=Comando, sala do torpedo: tubo <TUBE> inoperante
-TubeJamDestroyed=Comando, sala do torpedo: tubo <TUBE> bloqueado no lançamento
-WeaponLoaded=Comando, sala do torpedo: tubo <TUBE> pronto
-TooDeep=Comando, sala do torpedo: não é possível disparar <WEAPON> abaixo de <DEPTH> <FEET>
-VLSTooFast=Comando, sala do torpedo: não é possível disparar arma <VLS> velocidade acima de <SPEED> <KNOT>
-VLSTooDeep=Comando, sala do torpedo: não é possível disparar <VLS> profundidade abaixo de <DEPTH> <FEET>
-//CannotLoadWireInTube=Comando, sala do torpedo: não é possível recarregar <TUBE>, fio ativo em <TUBE>
+LoadWeapon=Comando, sala do torpedo: carregado <WEAPON> tubo<TUBE>. Torpedo room aye
+TubeDestroyed=Comando, sala do torpedo: tubo<TUBE> inoperante
+TubeJamDestroyed=Comando, sala do torpedo: tubo<TUBE> bloqueado no lançamento
+WeaponLoaded=Comando, sala do torpedo: tubo<TUBE> pronto
+TooDeep=Comando, sala do torpedo: não é possível disparar <WEAPON> abaixo de <DEPTH><FEET>
+VLSTooFast=Comando, sala do torpedo: não é possível disparar arma <VLS> velocidade acima de <SPEED><KNOT>
+VLSTooDeep=Comando, sala do torpedo: não é possível disparar <VLS> profundidade abaixo de <DEPTH><FEET>
+//CannotLoadWireInTube=Comando, sala do torpedo: não é possível recarregar<TUBE>, fio ativo em <TUBE>
 NoReloadsAvailable=Sem recargas disponíveis
 NoVLSReloadsAvailable=Sem armas restante em <VLS>
-BelowMinRange=Comando, sala do torpedo: não é possível disparar <WEAPON> distância abaixo de <RANGE> <KILOYARD>
+BelowMinRange=Comando, sala do torpedo: não é possível disparar <WEAPON> distância abaixo de <RANGE><KILOYARD>
 RecoverTowedDecoy=Comando, sala do torpedo: recuperando chamariz rebocado
 TowedDecoyLong=Comando, sala do torpedo: chamariz rebocado para permanência longa
 TowedDecoyShort=Comando, sala do torpedo: chamariz rebocado para permanência curta
 
 [FIRE CONTROL]
 WeaponAcquire=Comando, controle de fogo, arma adquirida
-WeaponDecoy=Comando, controle de fogo, weapon countermeasure homing
-WeaponReattack=Comando, controle de fogo, weapon reattack on
-WireBreak=Comando, controle de fogo, wire break, weapon <WEAPON>
-WaypointSet=BEARING: <BRG>   RANGE: <RANGE> <KILOYARD>
-WaypointInfo=BEARING: <BRG>   RANGE: <RANGE> <KILOYARD> + <ACTIVERANGE> <KILOYARD> <n> <RANGE_MILES> <MILE>
-NotReady=Comando, controle de fogo, <TUBE> not ready to fire
-FireTube=Shoot tube <TUBE>, aye sir
+WeaponDecoy=Comando, controle de fogo, contra medida de arma teleguiada
+WeaponReattack=Comando, controle de fogo, reataque de arma em
+WireBreak=Comando, controle de fogo, fio quebrado, arma<WEAPON>
+WaypointSet=AZIMUTE:<BRG>   ALCANCE:<RANGE><KILOYARD>
+WaypointInfo=AZIMUTE:<BRG>   ALCANCE:<RANGE><KILOYARD> + <ACTIVERANGE> <KILOYARD> <n> <RANGE_MILES> <MILE>
+NotReady=Comando, controle de fogo, tubo<TUBE> não está pronto para disparar 
+FireTube=Disparar tubo<TUBE>, aye sir
 
 [XO]
-InDeploymentZone=In Spec Ops deployment zone, come to a stop above 100 <FEET> to deploy
-CompartmentStatus=<CONDITION> in the <COMPARTMENT>! Damage control parties, lay to the <COMPARTMENT>!
-MasterContact=Contact <ORIGINAL> upgraded to <CONTACT>
-CommandoDeployed=Spec Ops team is away
-LandStrikeHoming=Comando, weapon <LANDTARGETSTATUS> attacking land target
-LandStrikeComplete=Comando, all land attack weapons are away, land strike complete
+InDeploymentZone=Na zona de lançamento das Operações Especiais, pare acima de 100<FEET> para lanaçar.
+CompartmentStatus=<CONDITION> no <COMPARTMENT>! Equipe de controle de danos, vão para <COMPARTMENT>!
+MasterContact=Contato <ORIGINAL> atualizado para <CONTACT>
+CommandoDeployed=Equipe de Operações Especiais está a caminho
+LandStrikeHoming=Comando, arma <LANDTARGETSTATUS> atacando alvo terrestre
+LandStrikeComplete=Comando, todas as armas de ataque terrestre foram lançadas, ataque terrestre conclúido
 
 SubsystemDamaged=Comando, <SUBSYSTEM> damaged, time to repair <TIMETOREPAIR> minutes
 SubsystemDestroyed=Comando, <SUBSYSTEM> offline, requires repair at port
