@@ -1,8 +1,8 @@
 ImageBackground=campaign/images/nato naval 1
-ImagePosition=160,-1026
+ImagePosition=165,-1066
 ImageHeight=450
 Image=language/help_images/briefing.png
-ImagePosition=160,-1642
+ImagePosition=165,-1682
 ImageHeight=450
 Image=language/help_images/leave_combat.png
 [/Image]
@@ -56,12 +56,12 @@ Após receber uma mensagem atribuindo-lhe o comando de uma embarcação, <DICTIO
 <b>BRIEFING DA MISSÃO</b>
 Antes de qualquer combate, você é apresentado a um briefing 
 da situação atual. Detalhes sobre o estado atual do seu
- submarino e as condições locais são exibidos.
+submarino e as condições locais são exibidos.
 
 Use <DICTIONARY:VesselStatus> para examinar suas armas, 
-mudar a carga de armas e ver o relatório de danos 
-antes de entrar em combate. Ou use <KEY:Stores> e <KEY:Damage Report> para abrir o painel de lojas 
-ou de controle de danos, respectivamente. Esses painéis 
+mudar a carga de armas e ver o relatório de danos antes
+de entrar em combate. Ou use <KEY:Stores> e <KEY:Damage Report> para abrir o painel de
+lojas ou de controle de danos, respectivamente. Esses painéis 
 são explicados durante a série de tutoriais ou 
 consulte as seções <DICTIONARY:HelpWeapons> e <DICTIONARY:HelpDamage> para mais informações.
 
@@ -70,14 +70,15 @@ Use <DICTIONARY:Battlestations> para iniciar o combate.
 OU
 
 Selecione <DICTIONARY:AttemptClosure> para iniciar o combate. 
-Em combate real (não em missões de treinamento), isso pode ser 
-usado para se aproximar e iniciar o combate à distância 
-indicada. <LEFTCLICK> no valor da distância 
-para alterá-lo.
+Em combate real (não em missões de treinamento), isso
+pode ser usado para se aproximar e iniciar o combate à
+distância indicada. <LEFTCLICK> no valor da 
+distância para alterá-lo.
 
-No entanto, a aproximação nem sempre é bem-sucedida, pois sua 
-distância inicial pode já estar abaixo da distância 
-especificada ou você pode ser detectado enquanto se aproxima.
+No entanto, a aproximação nem sempre é bem-sucedida,
+pois sua distância inicial pode já estar abaixo
+da distância especificada ou você pode ser
+detectado enquanto se aproxima.
 
 Dependendo das circunstâncias, você pode querer 
 iniciar o combate à longa distância para ataques com mísseis 
@@ -88,18 +89,19 @@ e à curta distância para ataques com torpedos.
 O combate o coloca no mundo do jogo em 3D, onde você assume o comando do seu submarino. Durante as missões tutoriais, siga os prompts na tela (<KEY:Help>) para aprender mais sobre como comandar seu submarino em Cold Waters.
 
 <b>ENCERRANDO O COMBATE</b>
-Para encerrar o combate, use <KEY:Cancel or Quit> para entrar no menu da missão.
-Alternativamente, navegar até os limites do mapa (fronteira vermelha)
-abrirá imediatamente o menu da missão, onde sua única
-opção será sair da área de combate.
+Para encerrar o combate, use <KEY:Cancel or Quit> para entrar no menu
+da missão. Alternativamente, navegar até os limites do mapa
+(fronteira vermelha) abrirá imediatamente o menu da missão,
+onde sua única opção será sair da área de combate.
 
 Entrar no menu da missão pausa o combate.
 
-Uma vez aqui, você pode selecionar uma das seguintes opções:
+Uma vez aqui, você pode selecionar uma das
+seguintes opções:
 1) <DICTIONARY:AbandonShip>
 Pode ser tentado se o seu submarino ainda estiver intacto e
-estiver acima da profundidade de escape. Se estiver abaixo da profundidade
-de escape, esta opção não estará disponível.
+estiver acima da profundidade de escape. Se estiver abaixo
+da profundidade de escape, esta opção não estará disponível.
 
 2) <DICTIONARY:OptionsHeader>
 Abra as opções do jogo para editar as configurações do jogo.
@@ -108,13 +110,13 @@ Abra as opções do jogo para editar as configurações do jogo.
 Encerre o combate e vá para o Relatório Pós-Ação.
 Esta opção está disponível ao alcançar o limite do mapa ou
 se os seguintes critérios forem atendidos:
-- Nenhum navio inimigo pode detectá-lo e você não tem contatos
-- Nenhum torpedo ou míssil está a menos de 15.000 jardas
-- Nenhuma aeronave inimiga está a menos de 15.000 jardas
-- Seu submarino não tem inundações significativas
+- Nenhum navio inimigo pode detectá-lo e
+  você não tem contatos.
+- Nenhum torpedo ou míssil está a menos de 15.000 jardas.
+- Nenhuma aeronave inimiga está a menos de 15.000 jardas.
+- Seu submarino não tem inundações significativas.
 
-O briefing indica quais desses critérios podem estar
-impedindo você de sair do combate.
+O briefing indica quais desses critérios podem estar impedindo você de sair do combate.
 
 4) <DICTIONARY:Back>
 Voltar ao combate
