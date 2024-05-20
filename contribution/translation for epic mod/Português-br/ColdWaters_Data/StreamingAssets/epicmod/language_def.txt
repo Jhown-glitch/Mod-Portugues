@@ -6,6 +6,6 @@ LongName = English
 ShortName = _ru
 LongName = Русский
 
-[Português]
+[Portugues]
 ShortName = _pt-br
 LongName = Português Brasileiro
