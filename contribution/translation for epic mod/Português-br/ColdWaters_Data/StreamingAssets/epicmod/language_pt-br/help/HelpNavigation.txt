@@ -1,11 +1,11 @@
 ImageBackground=campaign/images/nato submarine 2
-ImagePosition=15,-792
+ImagePosition=15,-802
 ImageHeight=260
 Image=language/help_images/helm_panel.png
-ImagePosition=15,-2092
+ImagePosition=15,-2162
 ImageHeight=260
 Image=language/help_images/dive_panel.png
-ImagePosition=15,-3370
+ImagePosition=15,-3547
 ImageHeight=260
 Image=language/help_images/navigation_status.png
 [/Image]
@@ -87,74 +87,23 @@ A capacidade de equilibrar a posição, manter contato claro com o inimigo e ger
 Após danos à propulsão do seu submarino, a velocidade é limitada a "À frente 2/3". Se o reator do seu submarino estiver danificado, a velocidade será limitada a "Parada total". Assim que esses sistemas forem reparados, a velocidade máxima será restaurada ao Flanco.
 
 
-<size=24><color=maroon><b>STEERING</b></color></size>
-Use <KEY:Rudder Left> and <KEY:Rudder Right> to steer your vessel.
-Rudder is set in 5 degree increments to a minimum of -30 degrees (left) and +30 degrees (right).
-Current rudder setting is shown in the bottom left panel.
+<size=24><color=maroon><b>DIREÇÃO</b></color></size>
+Use <KEY:Rudder Left> e <KEY:Rudder Right> para dirigir sua embarcação.
+O leme é ajustado em incrementos de 5 graus até um mínimo de -30 graus (esquerda) e +30 graus (direita).
+A configuração atual do leme é mostrada no painel inferior esquerdo.
 
-You may also plot a desired heading on the tactical map by using the <KEY:Set Course> key or pressing the plot course button on the helm panel.
-Your turn rate will improve the faster you go, but turning induces drag which slows down the submarine, which means that during sustained turns turn performance will deteriorate. This is important to remember when trying to dodge torpedoes, which are much less susceptible to induced drag than your submarine.
-<b>EFFECTS OF DAMAGE</b>
-Damage to your submarine's rudder significantly increases your turn radius until repaired.
-
-
-<size=24><color=maroon><b>DEPTH CONTROL</b></color></size>
-Dive Planes: Use <KEY:Planes Down> and <KEY:Planes Up> to change depth using dive planes.
-Planes are set in 5 degree increments to a minimum of -30 degrees (down) and 30 degrees (up) and require some forward movement in order to work.
-
-Ballast: Use <KEY:Ballast Down> and <KEY:Ballast Up> change depth using ballast.
-Ballast is set in 5 unit increments to a minimum of -30 (down) and +30 (up) and does not require any forward movement in order to work.
+Você também pode traçar um rumo desejado no mapa tático usando a tecla <KEY:Set Course> ou pressionando o botão traçar curso no painel do leme.
+Sua taxa de curva melhorará quanto mais rápido você for, mas a curva induz arrasto que desacelera o submarino, o que significa que durante curvas sustentadas o desempenho da curva irá deteriorar-se. É importante lembrar disso ao tentar se esquivar de torpedos, que são muito menos suscetíveis ao arrasto induzido do que o seu submarino.
+<b>EFEITOS DOS DANOS</b>
+Danos ao leme do seu submarino aumentam significativamente o raio de giro até serem reparados.
 
 
+<size=24><color=maroon><b>CONTROLES DE PROFUNDIDADE</b></color></size>
+Profundores: Use <KEY:Planes Down> e <KEY:Planes Up> para alterar a profundidade usando os profundores.
+Os profundores são ajustados em incrementos de 5 graus até um mínimo de -30 graus (para baixo) e 30 graus (para cima) e requerem algum movimento para frente para funcionar.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-You may also set the desired depth in 50ft increments using the dive panel. The dive panel also features buttons for:
-Periscope Depth: Using <KEY:Periscope Depth> orders your sub to periscope depth.
-Emergency Deep: Using <KEY:Emergency Deep> orders flank speed ahead and full down planes. Useful if you get ambushed close to the surface. Do remember to pull out of the dive or suffer the interesting effects of depth implosion.
-Emergency Blow: Use <KEY:Blow Ballast> to immediately blow emergency ballast which sets ballast to +60 and prevents further changes to ballast until your submarine has surfaced. Once surfaced, compressed air must be replenished before you can dive again. The ballast readout will slowly count back to 0 and once reached you will be able to dive your submarine again.
-
-<b>TEST & CRUSH DEPTHS</b>
-Hulls of submarines are constructed to withstand the immense water pressure at the depths they operate. For each 33 ft (10 m) of depth close to 1 atmosphere of pressure is added.
-
-Test depth is the safe depth at which a submarine can operate; during sea trials it has actually been reached. Crush depth is the actual depth causing the hull to structurally fail and implode, on average about 1.5 to 1.75 times that of test depth.
-
-As you change depth, the helmsman will notify you via the message log as you pass 100 ft increments. If you are below test depth, any deeper 100 ft increments will be displayed in red.
-
-<b>EFFECTS OF DAMAGE</b>
-Damage to your submarine's planes or ballast decreases their effectiveness by 50% making surfacing and diving significantly slower and less efficient. Damage to your submarine's ballast also prevents the use of Emergency Blow, making the ballast system a very high priority to repair as quickly as possible. These effects are removed once the system is repaired.
-
-As a submarine takes damage, hull integrity is decreased which impacts its ability to withstand water pressure. A heavily damaged hull may have its crush depth reduced by 50%, causing it to implode at more shallow and otherwise safe depths. Loss of hull integrity cannot be repaired while at sea.
-
-Loss of hull integrity may also result in flooding. The severity of flooding increases with depth, due once again to the increase in water pressure.
-See the Damage Section from more details.
-
-
-<size=24><color=maroon><b>STRAIGHT & LEVEL</b></color></size>
-Use <KEY:Level Submarine> to set rudder, planes and ballast (if no Emergency Blow) immediately to 0.
-
-
-<size=24><color=maroon><b>COLLISIONS</b></color></size>
-Striking ice or land with your submarine immediately results in a rapid loss of speed. The speed at which the collision occurs determines how much damage (if any) may be incurred. Travelling at less than 5 knots usually results in no or minimal damage, while high speeds can cripple or destroy your submarine due to extensive hull damage, flooding and knocked out subsystems.
-
-When operating in shallow waters or near the sea floor your helmsman will notify you if there is less than 50 ft of water under your keel. In addition, high frequency navigation sonar will detect ice or mines within about 4,000 yards in front of your submarine. Time compression will be disabled and status icons appear in the upper right to notify you of any ongoing navigational hazards.
-
-Any collision will immediately disable time compression, if enabled, and time compression cannot be re-enabled until your submarine is clear of the hazard. In addition, Back Emergency can be used to pull your submarine away from ice or the sea floor if your submarine becomes stationary during a collision. Ballast can also be used to "float up" from the sea floor after a collision.
-
-
-<size=24><color=maroon><b>NAVIGATION ICONS</b></color></size>
-As you navigate your submarine the following status icons are displayed in the upper right under certain conditions to warn you of navigation hazards or alert you to certain conditions.
+Lastro: Use <KEY:Ballast Down> e <KEY:Ballast Up> para alterar a profundidade usando lastro.
+O lastro é ajustado em incrementos de 5 unidades para um mínimo de -30 (para baixo) e +30 (para cima) e não requer nenhum movimento para frente para funcionar.
 
 
 
@@ -171,17 +120,68 @@ As you navigate your submarine the following status icons are displayed in the u
 
 
 
-<b>NAVIGATION ICON DESCRIPTIONS</b>
-<b>Time Compression:</b> Time compression can be enabled and disabled with <KEY:Time Compression> to speed up game play when transiting longer distances. When enabled, this status icon is displayed. Time Compression will automatically be cancelled whenever a navigation hazard is encountered or if your submarine takes any damage.
+Você também pode definir a profundidade desejada em incrementos de 50 pés usando o painel de mergulho. O painel de mergulho também possui botões para:
+Profundidade do Periscópio: Usar <KEY:Periscope Depth> ordena seu sub para a profundidade do periscópio.
+Mergulho de Emergência: Usar <KEY:Emergency Deep> ordena a velocidade de flanco à frente e profundores totalmente para baixo. Útil se você for emboscado perto da superfície. Lembre-se de sair do mergulho ou sofrerá os efeitos interessantes da implosão.
+Golpe de Emergência: Use <KEY:Blow Ballast> para explodir imediatamente o lastro de emergência, o que define o lastro para +60 e evita novas alterações no lastro até que seu submarino suba à superfície. Uma vez na superfície, o ar comprimido deve ser reabastecido antes que você possa mergulhar novamente. A leitura do lastro contará lentamente até 0 e, uma vez alcançado, você poderá mergulhar novamente em seu submarino.
 
-<b>Event Camera:</b> If enabled, the event camera will automatically focus on events of interest as they happen such as weapon launches and impacts, aerial drops or anti-missile guns firing. Use <KEY:Event Camera> to toggle the event camera on or off.
+<b>PROFUNDIDADES DE TESTE E ESMAGAMENTO</b>
+Os cascos dos submarinos são construídos para suportar a imensa pressão da água nas profundidades em que operam. Para cada 33 pés (10 m) de profundidade é adicionada cerca de 1 atmosfera de pressão.
 
-<b>Cavitating:</b> You submarine is currently cavitating, causing the propeller to make additional noise. Decrease speed or dive deeper to prevent cavitation.
+A profundidade de teste é a profundidade segura na qual um submarino pode operar; durante os testes no mar, ele foi realmente alcançado. A profundidade de esmagamento é a profundidade real que faz com que o casco falhe estruturalmente e imploda, em média cerca de 1,5 a 1,75 vezes a profundidade do teste.
 
-<b>Running Silent:</b> Shown when your submarine is rigged for silent running. Silent running decreases noise made by your submarine, but also decreases your maximum allowed speed and stops all repairs, pumping of water and reloading of weapons. Silent running is toggled on and off using <KEY:Silent Running> and increasing speed, assigning damage control actions or loading a weapon will cancel silent running.
+À medida que você altera a profundidade, o timoneiro irá notificá-lo através do registro de mensagens conforme você passa em incrementos de 100 pés. Se você estiver abaixo da profundidade do teste, quaisquer incrementos mais profundos de 100 pés serão exibidos em vermelho.
 
-<b>Shallow Depth:</b> Displayed when the depth under the keel of your submarine is less than 50 ft.
+<b>EFEITOS DOS DANOS</b>
+Danos aos profundores ou lastro do seu submarino diminuem sua eficácia em 50%, tornando a subida à superfície e o mergulho significativamente mais lentos e menos eficientes. Danos ao lastro do seu submarino também impedem o uso do Golpe de Emergência, tornando o sistema de lastro uma prioridade muito alta para reparo o mais rápido possível. Esses efeitos são removidos quando o sistema é reparado.
 
-<b>Ice Hazard:</b> High frequency under ice sonar has detected ice ahead of your submarine. Navigation sonar is limited to about 4,000 yards and can only detect hazards directly ahead of your submarine. Once detected, ice positions will be mapped onto your tactical map display.
+À medida que um submarino sofre danos, a integridade do casco diminui, o que afeta a sua capacidade de suportar a pressão da água. Um casco fortemente danificado pode ter sua profundidade de esmagamento reduzida em 50%, fazendo com que ele imploda em profundidades mais rasas e seguras. A perda de integridade do casco não pode ser reparada no mar.
 
-<b>Mine Hazard:</b> High frequency mine avoidance sonar has detected mines ahead of your submarine. This sonar is limited to about 4,000 yards and can only detect hazards directly ahead of your submarine. Once detected, mines will be mapped onto your tactical map display.
+A perda da integridade do casco também pode resultar em inundações. A gravidade das inundações aumenta com a profundidade, devido mais uma vez ao aumento da pressão da água.
+Consulte a seção de danos para obter mais detalhes.
+
+
+<size=24><color=maroon><b>RETO E NIVELADO</b></color></size>
+Use <KEY:Level Submarine> para definir leme, profundores e lastro (se não houver golpe de emergência) imediatamente para 0.
+
+
+<size=24><color=maroon><b>COLISÕES</b></color></size>
+Atingir o gelo ou pousar com seu submarino resulta imediatamente em uma rápida perda de velocidade. A velocidade (se houver) com que a colisão ocorre determina quanto dano pode ocorrer. Viajar a menos de 5 nós geralmente resulta em nenhum ou mínimo dano, enquanto altas velocidades podem paralisar ou destruir seu submarino devido a extensos danos no casco, inundações e subsistemas destruídos.
+
+Ao operar em águas rasas ou perto do fundo do mar, seu timoneiro irá notificá-lo se houver menos de 15 metros de água sob sua quilha. Além disso, o sonar de navegação de alta frequência detectará gelo ou minas a cerca de 4.000 metros à frente do seu submarino. A compactação de tempo será desativada e ícones de status aparecerão no canto superior direito para notificá-lo sobre quaisquer perigos de navegação contínuos.
+
+Qualquer colisão desativará imediatamente a compactação de tempo, se ativada, e a compactação de tempo não poderá ser reativada até que seu submarino esteja livre do perigo. Além disso, o Recuo de Emergência pode ser usado para afastar o seu submarino do gelo ou do fundo do mar se o seu submarino ficar parado durante uma colisão. O lastro também pode ser usado para "flutuar" no fundo do mar após uma colisão.
+
+
+<size=24><color=maroon><b>ÍCONES DE NAVEGAÇÃO</b></color></size>
+À medida que você navega em seu submarino, os seguintes ícones de status são exibidos no canto superior direito sob certas condições para avisá-lo sobre perigos de navegação ou alertá-lo sobre certas condições.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<b>DESCRIÇÕES DOS ÍCONES DE NAVEGAÇÃO</b>
+<b>Compressão de Tempo:</b> A compressão de tempo pode ser ativada e desativada com <KEY:Time Compression> para acelerar o jogo ao percorrer distâncias maiores. Quando ativado, este ícone de status é exibido. A compressão de tempo será automaticamente cancelada sempre que um perigo de navegação for encontrado ou se o seu submarino sofrer algum dano.
+
+<b>Câmera de Evento:</b> Se ativada, a câmera de evento focará automaticamente em eventos de interesse conforme eles acontecem, como lançamentos e impactos de armas, lançamentos aéreos ou disparos de armas antimísseis. Use <KEY:Event Camera> para ativar ou desativar a câmera do evento.
+
+<b>Cavitação:</b> Seu submarino está cavitando, fazendo com que a hélice emita ruído adicional. Diminua a velocidade ou mergulhe mais fundo para evitar cavitação.
+
+<b>Running Silent:</b> Mostrado quando seu submarino está equipado para funcionar silenciosamente. A navegação silenciosa diminui o ruído produzido pelo seu submarino, mas também diminui a velocidade máxima permitida e interrompe todos os reparos, bombeamento de água e recarga de armas. A navegação silenciosa é ativada e desativada usando <KEY:Silent Running> e aumentar a velocidade, atribuir ações de controle de danos ou carregar uma arma cancelará a navegação silenciosa.
+
+<b>Profundidade Rasa:</b> Exibido quando a profundidade sob a quilha do seu submarino é inferior a 50 pés.
+
+<b>Perigo de gelo:</b> O sonar de alta frequência sob gelo detectou gelo à frente do seu submarino. O sonar de navegação é limitado a cerca de 4.000 jardas e só pode detectar perigos diretamente à frente do seu submarino. Uma vez detectadas, as posições do gelo serão mapeadas na exibição do mapa tático.
+
+<b>Perigo de minas:</b> O sonar de alta frequência para evitar minas detectou minas à frente do seu submarino. Este sonar é limitado a cerca de 4.000 jardas e só pode detectar perigos diretamente à frente do seu submarino. Uma vez detectadas, as minas serão mapeadas no seu mapa tático.
