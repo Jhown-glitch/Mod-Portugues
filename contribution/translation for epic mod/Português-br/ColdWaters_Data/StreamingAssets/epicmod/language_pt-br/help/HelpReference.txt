@@ -18,26 +18,26 @@ ImagePosition=15,-2515
 ImageHeight=260
 Image=language/help_images/damage_status.png
 [/Image]
-<size=24><color=maroon><b>CONTROLS</b></color></size>
-All controls may be re-mapped in <DICTIONARY:Options>.
+<size=24><color=maroon><b>CONTROLES</b></color></size>
+Todos os controles podem ser remapeados em <DICTIONARY:Options>.
 
-<b>General</b>||<b>Navigation</b>|
+<b>Geral</b>||<b>Navegação</b>|
 <DICTIONARY:Help>|<KEY:Help>|<DICTIONARY:Increase Power>|<KEY:Increase Power>
 <DICTIONARY:Cancel or Quit>|<KEY:Cancel or Quit>|<DICTIONARY:Decrease Power>|<KEY:Decrease Power>
 <DICTIONARY:Continue>|<KEY:Continue>|<DICTIONARY:Rudder Left>|<KEY:Rudder Left>
 <DICTIONARY:Time Compression>|<KEY:Time Compression>|<DICTIONARY:Rudder Right>|<KEY:Rudder Right>
 <DICTIONARY:Hide HUD>|<KEY:Hide HUD>|<DICTIONARY:Planes Up>|<KEY:Planes Up>
 ||<DICTIONARY:Planes Down>|<KEY:Planes Down>
-<b>Unit Reference and Vessel Selection</b>||<DICTIONARY:Ballast Up>|<KEY:Ballast Up>
+<b>Referência da Unidade </b>||<DICTIONARY:Ballast Up>|<KEY:Ballast Up>
 <DICTIONARY:Museum Next>|<KEY:Museum Next>|<DICTIONARY:Ballast Down>|<KEY:Ballast Down>
 <DICTIONARY:Museum Previous>|<KEY:Museum Previous>|<DICTIONARY:Blow Ballast>|<KEY:Blow Ballast>
 ||<DICTIONARY:Level Submarine>|<KEY:Level Submarine>
-<b>Control Panel</b>||<DICTIONARY:Set Course>|<KEY:Set Course>
+<b>Painel de Controle</b>||<DICTIONARY:Set Course>|<KEY:Set Course>
 <DICTIONARY:Helm Controls>|<KEY:Helm Controls>|<DICTIONARY:Periscope Depth>|<KEY:Periscope Depth>
 <DICTIONARY:Dive Controls>|<KEY:Dive Controls>|<DICTIONARY:Emergency Deep>|<KEY:Emergency Deep>
 <DICTIONARY:Sensor Controls>|<KEY:Sensor Controls>||
 
-<b>Camera Controls</b>||<b>Sensors, Map and Mast</b>|
+<b>Controles de Câmera</b>||<b>Sensores, Mapa e Mastro</b>|
 <DICTIONARY:Camera Left>|<KEY:Camera Left>|<DICTIONARY:Tactical Map>|<KEY:Tactical Map>
 <DICTIONARY:Camera Right>|<KEY:Camera Right>|<DICTIONARY:Centre Map>|<KEY:Centre Map>
 <DICTIONARY:Camera Up>|<KEY:Camera Up>|<DICTIONARY:Auto Centre Map>|<KEY:Auto Centre Map>
@@ -51,26 +51,26 @@ All controls may be re-mapped in <DICTIONARY:Options>.
 <DICTIONARY:Camera To Weapon>|<KEY:Camera To Weapon>|<DICTIONARY:RADAR Mast>|<KEY:RADAR Mast>
 <DICTIONARY:Camera To Aircraft>|<KEY:Camera To Aircraft>|
 <DICTIONARY:Camera To Scenery>|<KEY:Camera To Scenery>||
-<DICTIONARY:Event Camera>|<KEY:Event Camera>|<b>Tab Panels</b>|
+<DICTIONARY:Event Camera>|<KEY:Event Camera>|<b>Painéis</b>|
 ||<DICTIONARY:Conditions>|<KEY:Conditions>
-<b>Weapons</b>||<DICTIONARY:Signature>|<KEY:Signature>
+<b>Armas</b>||<DICTIONARY:Signature>|<KEY:Signature>
 <DICTIONARY:Fire Tube>|<KEY:Fire Tube>|<DICTIONARY:Stores>|<KEY:Stores>
 <DICTIONARY:Set Waypoint>|<KEY:Set Waypoint>|<DICTIONARY:Damage Report>|<KEY:Damage Report>
 <DICTIONARY:Edit Waypoint>|<KEY:Edit Waypoint>|<DICTIONARY:Context Menu Previous>|<KEY:Context Menu Previous>
 <DICTIONARY:Next Tube>|<KEY:Next Tube>|<DICTIONARY:Context Menu Next>|<KEY:Context Menu Next>
 <DICTIONARY:Load Tube>|<KEY:Load Tube>|<DICTIONARY:Context Menu Set>|<KEY:Context Menu Set>
 <DICTIONARY:Weapon Homing>|<KEY:Weapon Homing>||
-<DICTIONARY:Weapon Attack>|<KEY:Weapon Attack>|<b>Tactical</b>|
+<DICTIONARY:Weapon Attack>|<KEY:Weapon Attack>|<b>Tática</b>|
 <DICTIONARY:Weapon Depth>|<KEY:Weapon Depth>|<DICTIONARY:Silent Running>|<KEY:Silent Running>
 <DICTIONARY:Activate Torpedo>|<KEY:Activate Torpedo>|<DICTIONARY:Noisemaker>|<KEY:Noisemaker>
 <DICTIONARY:Cut Wire>|<KEY:Cut Wire>||
-<DICTIONARY:Steer Torpedo Left>|<KEY:Steer Torpedo Left>|<b>Strategic Map</b>|
+<DICTIONARY:Steer Torpedo Left>|<KEY:Steer Torpedo Left>|<b>Mapa Estratégico</b>|
 <DICTIONARY:Steer Torpedo Right>|<KEY:Steer Torpedo Right>|<DICTIONARY:Patrol Speed>|<KEY:Patrol Speed>
 <DICTIONARY:Steer Torpedo Shallow>|<KEY:Steer Torpedo Shallow>|<DICTIONARY:Flank Speed>|<KEY:Flank Speed>
 <DICTIONARY:Steer Torpedo Deep>|<KEY:Steer Torpedo Deep>|<DICTIONARY:Briefing>|<KEY:Briefing>
 
 
-<size=24><color=maroon><b>TUBE SETTINGS</b></color></size>
+<size=24><color=maroon><b>CONFIGURAÇÕES DO TUBO</b></color></size>
 
 
 
@@ -87,7 +87,7 @@ All controls may be re-mapped in <DICTIONARY:Options>.
 
 
 
-<size=24><color=maroon><b>MAP ICONS</b></color></size>
+<size=24><color=maroon><b>ICONES DE MAPA</b></color></size>
 
 
 
@@ -104,7 +104,7 @@ All controls may be re-mapped in <DICTIONARY:Options>.
 
 
 
-<size=24><color=maroon><b>STRATEGIC MAP ICONS</b></color></size>
+<size=24><color=maroon><b>ICONES DO MAPA ESTRATÉGICO</b></color></size>
 
 
 
@@ -122,8 +122,8 @@ All controls may be re-mapped in <DICTIONARY:Options>.
 
 
 
-<size=24><color=maroon><b>STATUS ICONS</b></color></size>
-<b>NAVIGATION</b>
+<size=24><color=maroon><b>ICONES DE STATUS</b></color></size>
+<b>NAVEGAÇÃO</b>
 
 
 
@@ -157,7 +157,7 @@ All controls may be re-mapped in <DICTIONARY:Options>.
 
 
 
-<b>DAMAGE & WARNINGS</b>
+<b>DANO E AVISOS</b>
 
 
 
@@ -175,26 +175,25 @@ All controls may be re-mapped in <DICTIONARY:Options>.
 
 
 
-<size=24><color=maroon><b>SHIP DESIGNATIONS</b></color></size>
-LST			Landing ship Tank
-AS			Submarine Tender
-AOR		Replenishment Oiler
-AE			Ammunition Ship
-AP			Transport
-FF			Frigate
-FFG			Guided Missile Frigate
-DD			Destroyer
-DDG		Guided Missile Destroyer
-CL			Light Cruiser
-CG			Guided Missile Cruiser
-CGN		Nuclear-powered Guided Missile Cruiser
-CGH		Guided Missile Helicopter Carrier
-CVGH		Guided Missile Helicopter Fixed-wing Carrier
-SS			Submarine
-SSK			Hunter Killer Submarine
-SSG			Cruise Missile Submarine
-SSN			Nuclear Submarine
-SSGN		Nuclear Cruise Missile Submarine
-SSBN		Nuclear Ballistic Missile Submarine
-
-BIO			Biologic
+<size=24><color=maroon><b>DESIGNAÇÕES DE NAVIO</b></color></size>
+LST			Navio de Desembarque de Tanques
+AS			Navio de Apoio a Submarinos
+AOR		Navio de Reabastecimento
+AE			Navio de Munição
+AP			Transporte
+FF			Fragata
+FFG			Fragata com Mísseis Guiados
+DD			Destróier
+DDG		Destróier com Mísseis Guiados
+CL			Cruzador Leve
+CG			Cruzador com Mísseis Guiados
+CGN		Cruzador com Mísseis Guiados e Propulsão Nuclear
+CGH		Porta-helicópteros com Mísseis Guiados
+CVGH		Porta-aviões com Mísseis Guiados Helicópteros e Aeronaves de asa fixa
+SS			Submarino
+SSK			Submarino de Caça e Ataque
+SSG			Submarino com Míssil de Cruzeiro
+SSN			Submarino Nuclear
+SSGN		Submarino Nuclear com Míssil de Cruzeiro
+SSBN		Submarino Nuclear com Míssil Balístico 
+BIO			Biológico
