@@ -24,46 +24,46 @@ ImagePosition=15,-5543
 ImageHeight=256
 Image=language/help_images/sensor_status.png
 [/Image]
-<size=24><color=maroon><b>SENSORS</b></color></size>
-Sensors play a key role in modern naval warfare. They detect the enemy, determine where it is as well as where it is going and ultimately facilitate hitting it with weapons. Passive sensors listen for evidence of the enemy without revealing the presence of the listening vessel. Active sensors emit a signal then listen for any that returns. This emission of signals can give away your presence, but active sensors can quickly provide more accurate and detailed data about the enemy. Your submarine, and enemy naval vessels, possess the following sensors:
+<size=24><color=maroon><b>SENSORES</b></color></size>
+Os sensores desempenham um papel fundamental na guerra naval moderna. Eles detectam o inimigo, determinam onde ele está e para onde está indo e, em última análise, facilitam atingi-lo com armas. Sensores passivos escutam evidências do inimigo sem revelar a presença da embarcação ouvinte. Sensores ativos emitem um sinal e então ouvem qualquer sinal que retorne. Essa emissão de sinais pode revelar sua presença, mas sensores ativos podem fornecer rapidamente dados mais precisos e detalhados sobre o inimigo. Seu submarino e embarcações inimigas possuem os seguintes sensores:
 
-<b>PASSIVE SONAR</b>
-Unless your bow sonar is damaged, passive sonar is always on, continuously listening for sounds emitted by enemy vessels or weapons. Passive sonar gives an accurate bearing to the contact which can be used over time to build up a target solution. It can also reveal a profile of sound emitted from the contact allowing the classification of that vessel type.
+<b>SONAR PASSIVO</b>
+A menos que seu sonar de proa esteja danificado, o sonar passivo está sempre ligado, ouvindo continuamente os sons emitidos por embarcações ou armas inimigas. O sonar passivo fornece uma orientação precisa do contato que pode ser usada ao longo do tempo para construir uma solução alvo. Também pode revelar um perfil de som emitido pelo contato permitindo a classificação daquele tipo de embarcação.
 
-<b>ACTIVE SONAR</b>
-Active sonar must be enabled with <KEY:Sonar Mode>. Once enabled, active sonar will continue to emit pings until it is disabled by toggling off with <KEY:Sonar Mode>. Although active sonar gives away your position and has a significantly shorter range than passive sonar, it provides rapid and accurate bearing and range data.
+<b>SONAR ATIVO</b>
+O sonar ativo deve ser ativado com <KEY:Sonar Mode>. Uma vez ativado, o sonar ativo continuará a emitir pings até ser desativado, desligando-o com <KEY:Sonar Mode>. Embora o sonar ativo revele sua posição e tenha um alcance significativamente menor que o sonar passivo, ele fornece dados de rumo e alcance rápidos e precisos.
 
-<b>TOWED ARRAY</b>
-This long cable trailing behind your submarine contains listening devices which greatly improve the sensitivity of your sonar. It works most effectively at about 5 knots as any slower, the cable sinks, while at faster speeds flow noise begins to drown out the signal being received.
+<b>MATRIZ REBOCADA</b>
+Este longo cabo atrás do seu submarino contém dispositivos de escuta que melhoram muito a sensibilidade do seu sonar. Ele funciona de forma mais eficaz a cerca de 5 nós, pois mais devagar, o cabo afunda, enquanto em velocidades mais rápidas o ruído do fluxo começa a abafar o sinal recebido.
 
 <b>RADAR</b>
-Radar is an active sensor that emits radio waves (or microwaves) and receives reflected waves for analysis. It can rapidly determine bearing, range as well as relative movement of detected objects. As an active sensor, it gives away the position of the unit using Radar. Radar detection range is affected by rain and the size of the object being detected.
+Radar é um sensor ativo que emite ondas de rádio (ou microondas) e recebe ondas refletidas para análise. Ele pode determinar rapidamente o rumo, o alcance e o movimento relativo dos objetos detectados. Como sensor ativo, informa a posição da unidade por meio do Radar. O alcance de detecção do radar é afetado pela chuva e pelo tamanho do objeto que está sendo detectado.
 
-<b>ESM (ELECTRONIC SUPPORT MEASURES)</b>
-ESM is a passive Radar receiver that detects Radar emissions from other sources. Since emissions are detected on striking the ESM receiver, it is much more sensitive than the emitting Radar, which has to rely on the signal to travel to and from the contact.
+<b>ESM (MEDIDAS DE SUPORTE ELETRÔNICO)</b>
+ESM é um receptor de radar passivo que detecta emissões de radar de outras fontes. Como as emissões são detectadas ao atingir o receptor ESM, ele é muito mais sensível do que o radar emissor, que depende do sinal para viajar do contato para você e de você para o contato.
 
 <b>VISUAL</b>
-Visual contact with the enemy is usually made with the periscope or if your submarine is surfaced. Using the periscope, laser range finding can be conducted to accurately determine the enemy's range and relative movement, without revealing your position (unlike RADAR).
+O contato visual com o inimigo geralmente é feito com o periscópio ou se o seu submarino estiver à superfície. Usando o periscópio, o telêmetro a laser pode ser conduzido para determinar com precisão o alcance e o movimento relativo do inimigo, sem revelar sua posição (ao contrário do RADAR).
 
-Note that radar, ESM and visual (periscope) require raising your masts above the water. Masts can be detected by enemy radar, revealing your position; furthermore your radar also broadcasts your position to the enemy!
+Observe que o radar, o ESM e o visual (periscópio) exigem a elevação dos mastros acima da água. Os mastros podem ser detectados pelo radar inimigo, revelando a sua posição; além disso, o seu radar também transmite a sua posição ao inimigo!
 
-Enemy aircraft possess radar, ESM and visual as well as:
-<b>Dipping Sonar:</b> a passive or active sonar listening device lowered from a stationary helicopter.
-<b>Sonobuoy:</b> passive or active sonobuoys dropped by helicopters and aircraft.
-<b>MAD:</b> Magnetic Anomaly Detector using Earth's magnetic field to detect submerged submarines. However it has a very limited range of 2,500 yards and is not effective at submarine depths below 500 ft.
+As aeronaves inimigas possuem radar, ESM e visual, bem como:
+<b>Sonar de imersão:</b> um dispositivo de escuta de sonar passivo ou ativo baixado de um helicóptero estacionário.
+<b>Sonobóia:</b> sonobóias passivas ou ativas lançadas por helicópteros e aeronaves.
+<b>MAD:</b> Detector de anomalias magnéticas que usa o campo magnético da Terra para detectar submarinos submersos. No entanto, tem um alcance muito limitado de 2.500 jardas e não é eficaz em profundidades submarinas abaixo de 500 pés.
 
-<b>DETECTING CONTACTS</b>
-Any vessel detected by your sensors is termed a Contact and is prefixed with a letter/name based on the sensor type initially detecting it;
-(S) Sierra - detected by sonar
-(R) Romeo - detected by RADAR
-(E) Echo - detected by ESM
-(V) Victor - detected by visual observation (periscope or bridge)
-(M) Master - upgraded to this if detected by more than one sensor type
+<b>DETECÇÃO DE CONTATOS</b>
+Qualquer embarcação detectada pelos seus sensores é denominada Contato e é prefixada com uma letra/nome com base no tipo de sensor que a detectou inicialmente;
+(S) Sierra - detectada por sonar
+(R) Romeu - detectado por RADAR
+(E) Eco - detectado pelo ESM
+(V) Victor - detectado por observação visual (periscópio ou ponte)
+(M) Master - atualizado para isto se detectado por mais de um tipo de sensor
 
-Once classified, the contact designation is replaced by the class of the vessel.
+Uma vez classificado, a designação do contato é substituída pela classe da embarcação.
 
 <size=24><color=maroon><b>SONAR</b></color></size>
-When submerged, passive sonar will primarily be used by your submarine to detect, classify and track contacts. Active sonar is also extremely useful and can greatly increase TMA against a contact, but has several limitations.
+Quando submerso, o sonar passivo será usado principalmente pelo seu submarino para detectar, classificar e rastrear contatos. O sonar ativo também é extremamente útil e pode aumentar bastante o TMA contra um contato, mas tem diversas limitações.
 
 
 
@@ -80,15 +80,15 @@ When submerged, passive sonar will primarily be used by your submarine to detect
 
 
 
-When using active sonar, the listening vessel (US Sub) emits a loud "ping" and listens for reflection of this noise from nearby objects (Enemy Sub A). Sound has to travel to and from the object, making active sonar range usually less than that of passive sonar. In addition, sound reaching Enemy Sub B that is too far to return to the listening vessel reveals the US Sub to Enemy Sub B, fails to detect Enemy Sub B, but reveals presence of the US Sub. Since active sonar relies on the reflection of sound from the contact such that a contact broadside to the listener reflects much more sound than one that is face on.
+Ao usar o sonar ativo, a embarcação ouvinte (US Sub) emite um "ping" alto e escuta o reflexo desse ruído em objetos próximos (Enemy Sub A). O som tem que viajar de um objeto e para o objeto, fazendo com que o alcance do sonar ativo seja geralmente menor do que o do sonar passivo. Além disso, o som que atinge o Sub B Inimigo que está muito longe para retornar ao navio de escuta revela o Sub dos EUA para o Sub B Inimigo, não consegue detectar o Sub B Inimigo, mas revela a presença do Sub dos EUA. Como o sonar ativo depende da reflexão do som do contato, de modo que um contato lateral para o ouvinte reflete muito mais som do que aquele que está de frente.
 
-Enemy vessel active sonar pings are displayed as yellow directional indicators on the Tactical Map. Enemy torpedo active sonar pings are displayed as red directional indicators on the Tactical Map.
+Os sinais de sonar ativos da embarcação inimiga são exibidos como indicadores direcionais amarelos no Mapa Tático. Os sinais de sonar ativo do torpedo inimigo são exibidos como indicadores direcionais vermelhos no Mapa Tático.
 
-<b>FLOW NOISE</b>
-As a vessel moves, the flow of water around the hull generates flow noise. The faster the vessel moves, the louder the flow noise generated. This noise makes it harder to hear signals with your sonar, thus decreasing their sensitivity.
+<b>RUÍDO DE FLUXO</b>
+À medida que uma embarcação se move, o fluxo de água ao redor do casco gera ruído de fluxo. Quanto mais rápido o navio se move, mais alto é o ruído do fluxo gerado. Este ruído torna mais difícil ouvir os sinais do seu sonar, diminuindo assim a sua sensibilidade.
 
 <b>BAFFLES</b>
-Hull mounted sonar is shielded from behind so that noise generated by the vessel itself does not interfere with their sensitivity. In addition, turbulence from the propellers and hull disrupt the flow of sound behind the vessel. This results in a blind area directly to the rear, usually about 60 degrees wide.
+O sonar montado no casco é protegido por trás para que o ruído gerado pela própria embarcação não interfira na sua sensibilidade. Além disso, a turbulência das hélices e do casco interrompe o fluxo de som atrás da embarcação. Isso resulta em uma área cega diretamente atrás, geralmente com cerca de 60 graus de largura.
 
 
 
@@ -105,12 +105,12 @@ Hull mounted sonar is shielded from behind so that noise generated by the vessel
 
 
 
-A towed array is not affected by the rear baffles as the listening device is towed far behind the vessel. However the towed array has a narrow blind spot forward as the noise from the submarine ahead masks incoming sound.
+Um conjunto rebocado não é afetado pelos defletores traseiros, pois o dispositivo de escuta é rebocado bem atrás da embarcação. No entanto, o conjunto rebocado tem um ponto cego estreito à frente, pois o ruído do submarino à frente mascara o som de entrada.
 
-Finally all submarine sonar have a vertical limitation to detection such that they cannot hear sound sources directly above or below them. In Cold Waters this is represented by a +/- 45 degree listening arc.
+Finalmente, todos os sonares submarinos têm uma limitação vertical de detecção, de modo que não podem ouvir fontes sonoras diretamente acima ou abaixo deles. Em Cold Waters isso é representado por um arco de escuta de +/- 45 graus.
 
-<b>SONAR LISTENING</b>
-While you will use sonar to detect enemy vessels when submerged, they will also be using sonar to detect you!
+<b>ESCUTA DO SONAR</b>
+Embora você use o sonar para detectar embarcações inimigas quando submersas, eles também usarão o sonar para detectar você!
 
 
 
@@ -127,29 +127,29 @@ While you will use sonar to detect enemy vessels when submerged, they will also 
 
 
 
-The diagram above illustrates the general listening capabilities of your sonar. Enemy surface warships tend to be noisy, making them readily detectable by your sonar at longer ranges. Submarines are usually quieter, although the constant running reactor of nuclear submarines makes them somewhat more noisy than their diesel-electric counterparts. In fact, diesel-electric submarines will usually be the most quiet and difficult of contacts to detect. Finally enemy helicopters (and aircraft) are practically impossible to detect by sonar. Your only warning of their presence will be active pings from their dipping sonar or active sonobuoys dropped nearby.
+O diagrama acima ilustra as capacidades gerais de escuta do seu sonar. Os navios de guerra de superfície inimigos tendem a ser barulhentos, tornando-os facilmente detectáveis ​​pelo seu sonar a distâncias mais longas. Os submarinos são geralmente mais silenciosos, embora o reator em funcionamento constante dos submarinos nucleares os torne um pouco mais barulhentos do que seus equivalentes diesel-elétricos. Na verdade, os submarinos diesel-elétricos geralmente serão os contatos mais silenciosos e difíceis de detectar. Finalmente, helicópteros (e aeronaves) inimigos são praticamente impossíveis de detectar por sonar. Seu único aviso da presença deles serão pings ativos de seu sonar de imersão ou sonobóias ativas lançadas nas proximidades.
 
 
-<size=24><color=maroon><b>UNDERWATER ACOUSTICS</b></color></size>
-Sonar uses sound waves travelling through water and environmental factors impact its sensitivity, decreasing or even enhancing it.
+<size=24><color=maroon><b>ACÚSTICA SUBAQUÁTICA</b></color></size>
+O Sonar utiliza ondas sonoras que viajam pela água e fatores ambientais impactam sua sensibilidade, diminuindo ou até mesmo aumentando-a.
 
-<b>AMBIENT NOISE</b>
-This is the background noise of the ocean itself, the louder this is, the more difficult it becomes to hear other sound sources with sonar. Increased sea state (wind and how large waves are) as well as rain, snow and sea ice all increase ambient noise while pack ice dramatically reduces ambient noise.
+<b>RUÍDO AMBIENTE</b>
+Este é o ruído de fundo do próprio oceano; quanto mais alto, mais difícil se torna ouvir outras fontes sonoras com o sonar. O aumento do estado do mar (vento e o tamanho das ondas), bem como a chuva, a neve e o gelo marinho, aumentam o ruído ambiente, enquanto o gelo compactado reduz drasticamente o ruído ambiente.
 
-<b>WATER DEPTH</b>
-Very shallow waters may result in scattering of sound waves as they strike the bottom and also have more biological activity, resulting in decreased sonar sensitivity. Water depth is also a major factor involved in increasing the propagation of sound in water by several phenomena as outlined below.
+<b>PROFUNDIDADE DA ÁGUA</b>
+Águas muito rasas podem resultar na dispersão das ondas sonoras à medida que atingem o fundo e também têm mais atividade biológica, resultando na diminuição da sensibilidade do sonar. A profundidade da água é também um fator importante envolvido no aumento da propagação do som na água através de vários fenómenos, conforme descrito abaixo.
 
-<b>MOVEMENT OF SOUND IN WATER</b>
-The propagation of sound in water bends, due to changes in temperature and pressure. As water cools, it bends sound waves downward, while warming water bends them upward. In addition, increasing water pressure also bends sound waves upwards. Therefore sound waves travelling deep into the ocean will initially bend downward due to the temperature gradient near the surface, then bend back upward due to the increasing pressure gradient. This results in the sound waves travelling in a deep arc back to the surface.
+<b>MOVIMENTO DO SOM NA ÁGUA</b>
+A propagação do som na água se curva devido às mudanças de temperatura e pressão. À medida que a água esfria, ela curva as ondas sonoras para baixo, enquanto a água quente as curva para cima. Além disso, o aumento da pressão da água também curva as ondas sonoras para cima. Portanto, as ondas sonoras que viajam profundamente no oceano irão inicialmente curvar-se para baixo devido ao gradiente de temperatura perto da superfície, depois curvar-se novamente para cima devido ao aumento do gradiente de pressão. Isso faz com que as ondas sonoras viajem em um arco profundo de volta à superfície.
 
-<b>CONVERGENCE ZONE</b>
-As mentioned above, sound is bent back upwards by water pressure such that if the water is deep enough (~10,000 ft in the Norwegian Sea) it will ultimately return to the surface. The zone in which these sound waves return to the surface is called a Convergence Zone and can be 40,000-50,000 yards away. A ship listening with sonar in this zone could detect the emitter, even though the range is far beyond the distance the sound could travel along the surface.
+<b>ZONA DE CONVERGÊNCIA</b>
+Como mencionado acima, o som é curvado para cima pela pressão da água, de modo que, se a água for suficientemente profunda (~10.000 pés no Mar da Noruega), acabará por regressar à superfície. A zona em que essas ondas sonoras retornam à superfície é chamada de Zona de Convergência e pode estar a 40.000-50.000 metros de distância. Um navio que escutasse com sonar nesta zona poderia detectar o emissor, mesmo que o alcance fosse muito além da distância que o som poderia percorrer ao longo da superfície.
 
-<b>BOTTOM BOUNCE</b>
-In moderately deep waters (~2000 ft) a phenomenon called Bottom Bounce may occur. Sound waves strike the ocean floor and can be reflected back up to the surface, increasing their propagation. Bottom bounce requires a relatively flat and uniform ocean floor to reflect sound waves.
+<b>SALTO INFERIOR</b>
+Em águas moderadamente profundas (~2.000 pés), um fenômeno chamado Bottom Bounce pode ocorrer. As ondas sonoras atingem o fundo do oceano e podem ser refletidas de volta à superfície, aumentando a sua propagação. O salto inferior requer um fundo oceânico relativamente plano e uniforme para refletir as ondas sonoras.
 
-<b>LAYERS AND DUCTS</b>
-As mentioned previously, cooling water bends sound waves downward while warming water and increased water pressure bends them upward. In general, water is warmest near the surface, cooling gradually with depth. Around 100-300 ft deep there is a sudden drop in water temperature, called the thermocline or thermal layer. Past the thermal layer, water temperature gradually decreases to about 4 degrees Celsius at 3000 ft and below.
+<b>Camadas e dutos</b>
+Como mencionado anteriormente, o resfriamento da água curva as ondas sonoras para baixo, enquanto o aquecimento da água e o aumento da pressão da água as curvam para cima. Em geral, a água é mais quente perto da superfície, esfriando gradualmente com a profundidade. Cerca de 100-300 pés de profundidade há uma queda repentina na temperatura da água, chamada termoclina ou camada térmica. Após a camada térmica, a temperatura da água diminui gradualmente para cerca de 4 graus Celsius a 3.000 pés e abaixo.
 
 
 
@@ -166,19 +166,19 @@ As mentioned previously, cooling water bends sound waves downward while warming 
 
 
 
-<b>THERMAL LAYER</b>
-As mentioned above, the sudden drop of water temperature results in a thermal layer. Heavy seas mix the water near the surface which can weaken the strength of the thermal layer. In regions where the surface water is too heavily mixed, the water is too shallow or the temperature is too consistent, a thermal layer will not form at all.
+<b>CAMADA TÉRMICA</b>
+Conforme mencionado acima, a queda repentina da temperatura da água resulta em uma camada térmica. Mares agitados misturam a água perto da superfície, o que pode enfraquecer a resistência da camada térmica. Em regiões onde as águas superficiais estão muito misturadas, a água é muito rasa ou a temperatura é muito consistente, não se formará nenhuma camada térmica.
 
-<b>SURFACE DUCT</b>
-Above the thermal layer, sound waves tend to bend upwards. Upon striking the ocean surface, some are reflected back downward where once again they gradually bent back upwards. This continuous reflection of sound waves between the ocean surface and thermal layer is called a Surface Duct and can greatly increase propagation of sound. Heavy seas tend to decrease the strength of a surface duct due to scattering of sound by the disrupted ocean surface.
+<b>DUTO DE SUPERFÍCIE</b>
+Acima da camada térmica, as ondas sonoras tendem a se curvar para cima. Ao atingir a superfície do oceano, alguns são refletidos de volta para baixo, onde mais uma vez se curvam gradualmente para cima. Esta reflexão contínua das ondas sonoras entre a superfície do oceano e a camada térmica é chamada de Duto de Superfície e pode aumentar significativamente a propagação do som. Mares agitados tendem a diminuir a resistência de um duto de superfície devido à dispersão do som pela superfície perturbada do oceano.
 
-<b>SHADOW ZONE</b>
-Directly below the thermal layer, a region known as the shadow zone may form. Sound waves are either trapped in the surface duct, or penetrate the thermal layer only to be bent downwards as the water cools. The bending of sound waves away from this area results in a shadow zone, a region of dramatically decreased sound propagation. A submarine in the shadow zone will find it difficult to detect vessels outside of the zone and vice versa.
+<b>ZONA DE SOMBRA</b>
+Diretamente abaixo da camada térmica, pode se formar uma região conhecida como zona de sombra. As ondas sonoras ficam presas no duto de superfície ou penetram na camada térmica apenas para serem curvadas para baixo à medida que a água esfria. A desviação das ondas sonoras para longe desta área resulta em uma zona de sombra, uma região de propagação sonora drasticamente reduzida. Um submarino na zona de sombra terá dificuldade em detectar embarcações fora da zona e vice-versa.
 
-Note that the effectiveness of a shadow zone is dependent on range between the vessels. As they get closer, sound waves travel more steeply between them, eventually penetrating the thermal layer as the submarine leaves the shadow zone.
+Observe que a eficácia de uma zona de sombra depende do alcance entre as embarcações. À medida que se aproximam, as ondas sonoras viajam de forma mais acentuada entre eles, acabando por penetrar na camada térmica à medida que o submarino sai da zona de sombra.
 
-<size=24><color=maroon><b>CONDITIONS</b></color></size>
-Prior to combat, the local ocean conditions and presence of a layer and or duct are presented in the briefing. Once in combat use <KEY:Conditions> or click on the Conditions tab to open the Conditions Panel.
+<size=24><color=maroon><b>CONDÇÕES</b></color></size>
+Antes do combate, as condições oceânicas locais e a presença de uma camada e/ou duto são apresentadas no briefing. Uma vez em combate, use <KEY:Conditions> ou clique na aba Condições para abrir o Painel de Condições.
 
 
 
@@ -195,18 +195,18 @@ Prior to combat, the local ocean conditions and presence of a layer and or duct 
 
 
 
-The Conditions display lists the current ocean ambient noise level, the depth and strength of a layer (if one exists), the strength of a surface duct (if one exists) as well as the depth to the ocean floor. In addition, your submarine's depth is plotted (if above 1000 ft) and if your current contact's solution is high enough, that contact's depth is also shown.
+A exibição Condições lista o nível atual de ruído ambiente do oceano, a profundidade e a resistência de uma camada (se existir), a resistência de um duto de superfície (se existir), bem como a profundidade do fundo do oceano. Além disso, a profundidade do seu submarino é plotada (se estiver acima de 1000 pés) e se a solução do seu contato atual for alta o suficiente, a profundidade desse contato também será mostrada.
 
-The depth of the currently selected torpedo on a wire will also be displayed on the conditions panel.
+A profundidade do torpedo atualmente selecionado em um fio também será exibida no painel de condições.
 
-The ability of a layer to mask sound or a duct to propagate sound is dependent on their strength. Stronger layers and ducts have a much more dramatic effect on sound propagation than do weak ones.
+A capacidade de uma camada de mascarar o som ou de um duto de propagar o som depende de sua resistência. Camadas e dutos mais fortes têm um efeito muito mais dramático na propagação do som do que os mais fracos.
 
 
-<size=24><color=maroon><b>PERISCOPE & MASTS</b></color></size>
-Your submarine's other sensors, periscope, ESM and radar are mounted on masts that must be raised above the surface in order to function. Masts usually require less than about 50 ft of depth in order to be raised and used. The message log will notify you if your submarine is too deep to raise and use masts.
+<size=24><color=maroon><b>PERISCÓPIO & MASTROS</b></color></size>
+Os outros sensores, periscópio, ESM e radar do seu submarino são montados em mastros que devem ser elevados acima da superfície para funcionar. Os mastros geralmente requerem menos de 50 pés de profundidade para serem elevados e usados. O registro de mensagens irá notificá-lo se o seu submarino estiver muito profundo para levantar e usar mastros.
 
-Masts are relatively fragile such that the flow of water at faster speeds, or water pressure from excessive depth can damage them. Running submerged at over 10 knots with a mast raised will damage and eventually destroy that mast.
-To access your masts, open the masts panel by clicking the tab on the left. This panel also features buttons for active sonar and launching noisemakers.
+Os mastros são relativamente frágeis, de modo que o fluxo de água em velocidades mais rápidas ou a pressão da água proveniente de profundidade excessiva podem danificá-los. Correr submerso a mais de 10 nós com um mastro levantado danificará e eventualmente destruirá esse mastro.
+Para acessar seus mastros, abra o painel de mastros clicando na guia à esquerda. Este painel também possui botões para sonar ativo e lançamento de ruídos.
 
 
 
@@ -223,8 +223,8 @@ To access your masts, open the masts panel by clicking the tab on the left. This
 
 
 
-<b>PERISCOPE</b>
-Use <KEY:Periscope> to raise your periscope when your submarine is at appropriate depth. Once fully raised, Once fully raised, click the eyepiece button in the upper left corner, or use <KEY:Periscope View> to enter and leave the periscope view. When in periscope view, <MOUSEWHEEL> or <KEY:Zoom In> and <KEY:Zoom Out> can be used to change magnification of the view. The periscope view can by panned with <RIGHTCLICK> and dragging or using <KEY:Camera Left> and <KEY:Camera Right>.
+<b>PERISCÓPIO</b>
+Use <KEY:Periscope> para elevar seu periscópio quando seu submarino estiver na profundidade apropriada. Uma vez totalmente elevado, clique no botão da ocular no canto superior esquerdo ou use <KEY:Periscope View> para entrar e sair da visualização do periscópio. Quando estiver na visualização do periscópio, <MOUSEWHEEL> ou <KEY:Zoom In> e <KEY:Zoom Out> podem ser usados ​​para alterar a ampliação da visualização. A visualização do periscópio pode ser panorâmica com <RIGHTCLICK> e arrastando ou usando <KEY:Camera Left> e <KEY:Camera Right>.
 
 
 
@@ -242,20 +242,20 @@ Use <KEY:Periscope> to raise your periscope when your submarine is at appropriat
 
 
 
-Low light vision can be toggled on/off with <KEY:Night Vision>. Placing a target in crosshair and using <KEY:Mark Target> will use laser ranging to accurately determine the range, providing a massive target solution boost and automatically classifying that target. This is termed "marking" a contact. Laser rangefinding can also be used to map nearby ice which will be plotted on your tactical map. You may also use the buttons under the ESM meter to mark or use LLTV.
+A visão na penumbra pode ser ativada/desativada com <KEY:Night Vision>. Colocar um alvo na mira e usar <KEY:Mark Target> usará o alcance do laser para determinar com precisão o alcance, fornecendo um grande impulso na solução do alvo e classificando automaticamente esse alvo. Isso é denominado "marcar" um contato. O telêmetro a laser também pode ser usada para mapear gelo próximo, que será plotado em seu mapa tático. Você também pode usar os botões abaixo do medidor ESM para marcar ou usar LLTV.
 
-The periscope mast also contains an ESM receiver which detects the strength (but not direction) of enemy radar transmissions. This sensor's purpose is to alert you to enemy radar signals that might detect your raised periscope mast. If you see strong ESM readings while using the periscope, best lower it as soon as possible to avoid detection. Use <KEY:Periscope> to lower your periscope.
+O mastro do periscópio também contém um receptor ESM que detecta a força (mas não a direção) das transmissões do radar inimigo. A finalidade deste sensor é alertá-lo sobre sinais de radar inimigo que possam detectar o mastro do periscópio elevado. Se você observar leituras ESM fortes ao usar o periscópio, é melhor abaixá-lo o mais rápido possível para evitar a detecção. Use <KEY:Periscope> para abaixar seu periscópio.
 
-<b>ESM MAST</b>
-Use <KEY:ESM Mast> to raise your ESM mast. This passive sensor detects radar signals, providing a measure of both their strength and originating bearing (shown as purple lines on the map). Detecting a contact by ESM provides a small boost to target solution. Use <KEY:ESM Mast> to lower your ESM mast.
+<b>MASTRO ESM</b>
+Use <KEY:ESM Mast> para levantar seu mastro ESM. Este sensor passivo detecta sinais de radar, fornecendo uma medida de sua força e direção de origem (mostradas como linhas roxas no mapa). A detecção de um contato pelo ESM fornece um pequeno impulso para a solução desejada. Use <KEY:ESM Mast> para abaixar seu mastro ESM.
 
-<b>RADAR MAST</b>
-Use <KEY:RADAR Mast> to raise the radar mast.
-Radar uses radio transmissions to accurately and continuously range contacts which provide a massive boost the target solution. However your outgoing radar signals travel long distances and are readily detected by enemy ESM. Use <KEY:RADAR Mast> to lower your radar mast.
+<b>MASTRO DE RADAR</b>
+Use <KEY:RADAR Mast> para levantar o mastro do radar.
+O radar usa transmissões de rádio para alcançar contatos de forma precisa e contínua, o que fornece um grande impulso à solução do alvo. No entanto, os sinais de radar de saída viajam longas distâncias e são prontamente detectados pelo ESM inimigo. Use <KEY:RADAR Mast> para abaixar seu mastro de radar.
 
 
-<size=24><color=maroon><b>SENSORS ICONS</b></color></size>
-As you use the various sensors of your submarine, status icons are displayed in the upper right to notify you of which sensors are being used.
+<size=24><color=maroon><b>ICONES DE SENSORES</b></color></size>
+À medida que você usa os vários sensores do seu submarino, ícones de status são exibidos no canto superior direito para notificá-lo sobre quais sensores estão sendo usados.
 
 
 
@@ -272,13 +272,13 @@ As you use the various sensors of your submarine, status icons are displayed in 
 
 
 
-<b>SENSOR ICON DESCRIPTIONS</b>
-<b>Active Sonar:</b> Your submarine is currently using Active Sonar.
+<b>DESCRIÇÕES DOS ÍCONES DO SENSOR</b>
+<b>Sonar Ativo:</b> Seu submarino está usando o Sonar Ativo.
 
-<b>Radar Mast:</b> Your submarine's radar mast is currently raised.
+<b>Mastro de Radar:</b> O mastro de radar do seu submarino está levantado.
 
-<b>ESM Mast:</b> Your submarine's ESM mast is currently raised.
+<b>Mastro ESM:</b> O mastro ESM do seu submarino está atualmente elevado.
 
-<b>Periscope:</b> Your submarine's periscope is currently raised.
+<b>Periscópio:</b> O periscópio do seu submarino está elevado.
 
-Remember: using active sonar generates loud pings of sound and raising your radar mast broadcasts radio transmissions, both of which can quickly give away your position. In addition, masts which are raised about the water surface can be detected by enemy radar.
+Lembre-se: usar o sonar ativo gera sinais sonoros altos e levantar o mastro do radar transmite transmissões de rádio, sendo que ambos podem revelar rapidamente sua posição. Além disso, mastros elevados sobre a superfície da água podem ser detectados pelo radar inimigo.
