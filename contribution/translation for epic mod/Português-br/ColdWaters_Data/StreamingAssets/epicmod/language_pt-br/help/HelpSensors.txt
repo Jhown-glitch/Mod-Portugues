@@ -1,23 +1,23 @@
 ImageBackground=campaign/images/pact wolfpack 3
-ImagePosition=15,-1070
+ImagePosition=15,-1105
 ImageHeight=256
 Image=language/help_images/active_sonar.png
-ImagePosition=15,-1647
+ImagePosition=15,-1717
 ImageHeight=256
 Image=language/help_images/baffles.png
-ImagePosition=15,-2066
+ImagePosition=15,-2156
 ImageHeight=256
 Image=language/help_images/sonar_listening.png
-ImagePosition=15,-3129
+ImagePosition=15,-3265
 ImageHeight=256
 Image=language/help_images/sound_propagation.png
-ImagePosition=15,-3826
+ImagePosition=15,-4000
 ImageHeight=256
 Image=language/help_images/conditions.png
-ImagePosition=15,-4450
+ImagePosition=15,-4660
 ImageHeight=256
 Image=language/help_images/mast_panel.png
-ImagePosition=15,-4825
+ImagePosition=15,-5035
 ImageHeight=256
 Image=language/help_images/esm_meter.png
 ImagePosition=15,-5543
@@ -251,7 +251,6 @@ Use <KEY:ESM Mast> para levantar seu mastro ESM. Este sensor passivo detecta sin
 
 <b>MASTRO DE RADAR</b>
 Use <KEY:RADAR Mast> para levantar o mastro do radar.
-O radar usa transmissões de rádio para alcançar contatos de forma precisa e contínua, o que fornece um grande impulso à solução do alvo. No entanto, os sinais de radar de saída viajam longas distâncias e são prontamente detectados pelo ESM inimigo. Use <KEY:RADAR Mast> para abaixar seu mastro de radar.
 
 
 <size=24><color=maroon><b>ICONES DE SENSORES</b></color></size>
@@ -274,11 +273,8 @@ O radar usa transmissões de rádio para alcançar contatos de forma precisa e c
 
 <b>DESCRIÇÕES DOS ÍCONES DO SENSOR</b>
 <b>Sonar Ativo:</b> Seu submarino está usando o Sonar Ativo.
-
 <b>Mastro de Radar:</b> O mastro de radar do seu submarino está levantado.
-
 <b>Mastro ESM:</b> O mastro ESM do seu submarino está atualmente elevado.
-
 <b>Periscópio:</b> O periscópio do seu submarino está elevado.
 
 Lembre-se: usar o sonar ativo gera sinais sonoros altos e levantar o mastro do radar transmite transmissões de rádio, sendo que ambos podem revelar rapidamente sua posição. Além disso, mastros elevados sobre a superfície da água podem ser detectados pelo radar inimigo.
